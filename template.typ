@@ -54,10 +54,25 @@
     )
   )
 
+  // Chapter headings.
   set heading(outlined: true)
-
-  // Headings are Level 1 (unnumbered), Chapters are Level 2 (numbered 1, 2, 3...)
-  show heading.where(level: 2): set heading(numbering: (..args) => numbering("1.", ..args.pos().slice(1)))
+  show heading.where(level: 2): set heading(
+    // Headings are Level 1 (unnumbered), Chapters are Level 2 (numbered 1, 2, 3...)
+    // Auto-number each chapter starting from 1. Avoids "1.1", etc.
+    numbering: (..args) => numbering("1.", ..args.pos().slice(1)),
+    supplement: [Chapter],
+  )
+  show heading.where(level: 2): set align(center)
+  show heading.where(level: 2): set block(
+    below: 1.2em,
+  )
+  show heading.where(level: 2): set text(
+    size: 20pt,
+    hyphenate: false, // It looks better in headings to not hyphenate words.
+  )
+  show heading.where(level: 2): set par(
+    justify: false, // Heading text doesn't need to occupy the full column.
+  )
 
   // Renditions of common Pali words.
   show "shamatha": [samatha] // Standardize on the Pali, not the Sanskrit.
