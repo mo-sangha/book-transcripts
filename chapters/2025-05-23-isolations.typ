@@ -26,7 +26,7 @@ When you engage with introspection, it's kind of like you're using a microscope 
 
 Well, just like that, let your thoughts do what they do. If they're evil thoughts, destructive thoughts, let them come and go. It's when we give them extra momentum, extra energy, that's when those thoughts can be a problem. And you may even follow through on what these thoughts are saying instead of just letting them come and go. See why psychic unbinding, why that cognitive diffusion is so beneficial for us?
 
-And people say, you know, all the time, "why introduce Dzogchen like this without any ngöndro preliminaries and without strong Dharma backgrounds sometimes and things like that?" Well, they introduce cognitive therapy to you, which is the same thing. Increased visibility will never be a risk, okay?
+And people say, you know, all the time, "why introduce Dzogchen like this without any ngondro preliminaries and without strong Dharma backgrounds sometimes and things like that?" Well, they introduce cognitive therapy to you, which is the same thing. Increased visibility will never be a risk, okay?
 
 Don't take this for anything more than it is. You're just increasing the visibility of your mind, and breaking out of isolations. There's nothing harmful about that.
 

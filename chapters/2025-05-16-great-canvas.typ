@@ -6,11 +6,11 @@ Dawai: …the ownership. They say, oh you can't assume the position of God as th
 
 So you have always been a part of this whole thing. If there is a God or an infinite consciousness or a oneness, then you drew your mind on that canvas. So just like a blank canvas, we drew a circle. Yeshé drew a circle, that's his mind. I drew a circle, that's my mind, and we're both part of the same canvas, just like that. Both of our minds are part of the same pure cognizance, that pure cognizant field, and the basis of our mind is pure cognizance—that's why it's beyond singularity or multiplicity, as well.
 
-So let's say these little circles were ego, Yeshe’s constructed self and my constructed self, and we really think we're separate from the canvas. So you see? We initiated dependent origination; we initiated duality and stress, because we think we're separate from this canvas. 
+So let's say these little circles were ego, Yeshe's constructed self and my constructed self, and we really think we're separate from the canvas. So you see? We initiated dependent origination; we initiated duality and stress, because we think we're separate from this canvas. 
 
 And so now we're moving around, we're even talking to each other and Yeshé tells me, hey, we're all part of this canvas, this canvas is all we are, it's the whole thing. 
 
-And I say, oh!! And the circle breaks open, Yeshé’s circle breaks open. You see? And then now there's a holistic, just abiding in a great evenness that way.
+And I say, oh!! And the circle breaks open, Yeshe's circle breaks open. You see? And then now there's a holistic, just abiding in a great evenness that way.
 
 But our minds are never separate, so we're not really two little circles like that. Our minds are concentric, like Indra's net but on the same canvas. So there is a divinity, there is something that's... You know, you have your own mind paradoxically, and I know this is sounding like theory, but we need some of this theory in order to complement our realization sometimes. So you have your own mind, even if it's non-dual and even if it's on the part of the great canvas, right, part of this great cognizance.
 
@@ -58,11 +58,11 @@ Sangha 3: In that video, yeah, they told you that some yogis are lying down for 
 
 And I have a follow-up question. The follow-up question is, the samadhi state is way deeper than deep sleep, right? Deep sleep.
 
-Dawai: Maybe we can think of it like clouds. Like we have very very dense clouds, and we have very very light clouds. And so when you're in a deep, deep sleep, you're in a state. It's possible to be in a kind of thick cloud in deep state, or a deep samadhi. But in deep samadhi, there's no karma being made, so you're staying there in an almost deliberate way, this Sūtrayāna shamatha. You're staying there in an almost deliberate way, so there's no karma. 
+Dawai: Maybe we can think of it like clouds. Like we have very very dense clouds, and we have very very light clouds. And so when you're in a deep, deep sleep, you're in a state. It's possible to be in a kind of thick cloud in deep state, or a deep samadhi. But in deep samadhi, there's no karma being made, so you're staying there in an almost deliberate way, this sutrayana samatha. You're staying there in an almost deliberate way, so there's no karma. 
 
 But with Dzogchen, you don't have to stay in a deep meditative state to avoid karma. You just recognize the nature of the whole thing and abide in the nature of mind, and then karma will not be a problem for you. So that's the difference, you see?
 
-Sangha 3: Another follow-up question would be: Yeshé once told me when I was having difficulty, he was telling me how to have a good sleep without sleeping. So he taught me Yoga Nidra and I came to know that Yoga Nidra is nothing but resting in awareness. You are just opening, you can close your eyes, you can keep your eyes open, doesn't matter. You are just staying in awareness and you are not in thinking mind. You are not losing your glucose, sucrose, you are in a rest state, you are getting rest, even more rest than you get when you are sleeping, and today named it deep sleep. So what I understood is, anybody who knows this practice, who knows how to stay in awareness, can be a master of Yoga Nidra from what I understood that day. Now the follow-up question is: Can we say that samadhi state is just a higher level of Yoga Nidra, more or less?
+Sangha 3: Another follow-up question would be: Yeshé once told me when I was having difficulty, he was telling me how to have a good sleep without sleeping. So he taught me Yoga nidra and I came to know that Yoga Nidra is nothing but resting in awareness. You are just opening, you can close your eyes, you can keep your eyes open, doesn't matter. You are just staying in awareness and you are not in thinking mind. You are not losing your glucose, sucrose, you are in a rest state, you are getting rest, even more rest than you get when you are sleeping, and today named it deep sleep. So what I understood is, anybody who knows this practice, who knows how to stay in awareness, can be a master of Yoga Nidra from what I understood that day. Now the follow-up question is: Can we say that samadhi state is just a higher level of Yoga Nidra, more or less?
   
 Dawai: Probably. Maybe somebody else wants to jump in; I don't know too much about Yoga Nidra.
 

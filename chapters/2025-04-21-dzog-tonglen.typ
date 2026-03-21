@@ -3,7 +3,7 @@
 == Dzogchen Tonglen
 
 
-Dawai: And so for you all in the dear Sangha here today, this will be a repeat of what I just said. So this is a different type of Tonglen. The typical Tonglen involves this Kyerim visualization, and it’s also very powerful, the Tantric Tonglen. And so if I’m not mistaken, this is derived from Atisha's Mind Slogans. I haven’t looked into that in a while, so please correct me if I’m wrong, but I believe it’s 52 mind slogans of Atisha. And the Tonglen is deriving from that, and that is also derivative of the Sutras, Mahayana Sutras. The exact name of the primary sources escapes me right now, it’s a little vague in the historicity, but it’s okay. We have Tonglen, it’s a very popular practice that's taught by many, many Tibetan masters and various Dharma teachers.  
+Dawai: And so for you all in the dear Sangha here today, this will be a repeat of what I just said. So this is a different type of Tonglen. The typical Tonglen involves this kyerim visualization, and it’s also very powerful, the Tantric Tonglen. And so if I’m not mistaken, this is derived from Atisha's Mind Slogans. I haven’t looked into that in a while, so please correct me if I’m wrong, but I believe it’s 52 mind slogans of Atisha. And the Tonglen is deriving from that, and that is also derivative of the Sutras, Mahayana Sutras. The exact name of the primary sources escapes me right now, it’s a little vague in the historicity, but it’s okay. We have Tonglen, it’s a very popular practice that's taught by many, many Tibetan masters and various Dharma teachers.
 
 And for example, I did a graphic of this using 3D Studio Max and Photoshop for Lama Tsultrim Allione. I don’t know, maybe some of you know her? She’s the author of a book called Feeding Your Demons, and she has her own little sangha. The sangha is called Tara Mandala or something like that. And so anyway, me and her teamed up for one Tonglen practice, and basically, this is the same one I’ll share with you. This is the Tantric Tonglen practice, it’s different from the Dzogchen Tonglen that I’m going to share with you.
 
@@ -37,7 +37,7 @@ But those are the three phases, in my opinion, in my experience, of Tonglen prac
 
 Any questions on those three inquiries?
 
-Q&A    
+Q&A
 
 Sangha: I have one. You said earlier that when we do this practice, it’s healing ourselves. When I visualize the person that I have a trouble with or a problem with, I find myself no longer having a problem with them while I do this practice, or after a bit of doing this practice. Is that what you meant?
 

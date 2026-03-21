@@ -5,7 +5,7 @@
 == The Key Points of Trekchö #text(fill: gray)[(Cmt)]
  
 
-Dawai: So yeah, this is precious text that comes by way of Adam Pearcy, 2018, introducing Clear Light Awareness, the pure aspect of pure presence, and the nature of mind essentially. Mipham Rinpoche is very well known as a polymath and outstanding scholar and yogi. Passed away in the early 1900s. So also contemporary, relatively contemporary, about 100 years ago. We’ll take what we can get, right, when it comes to Trekchö and Tögal.
+Dawai: So yeah, this is precious text that comes by way of Adam Pearcey, 2018, introducing Clear Light Awareness, the pure aspect of pure presence, and the nature of mind essentially. Mipham Rinpoche is very well known as a polymath and outstanding scholar and yogi. Passed away in the early 1900s. So also contemporary, relatively contemporary, about 100 years ago. We’ll take what we can get, right, when it comes to Trekchö and Tögal.
 
 So please relax and go over this text here. We can keep the eyes open without focusing on anything. And this text is all about recognizing awareness. We call it awareness, but it's your Buddha nature. It’s home. You are home. Everything we think, say, and feel is home. Okay, let's get into this text.
 

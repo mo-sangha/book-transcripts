@@ -10,7 +10,7 @@ Before we talked about the layers of the mind or dimensions of the mind, so I us
 
 Now there's a part of my mind that's saying, talking about Little Bear and the cat, but there's another cognitive holding that says you need to whisper for some random reason. Usually, we have a reason to whisper, right? So, there's some thought that's holding a batch of thoughts.
 
-So in this way, there's an echo of cognition. That's why we hinge on awareness practice—because the awareness practice embraces all that cognition. It's the base cognition, _tshi_ or _kun tshi_ in the Bön tradition, and sometimes also in the Nyingma tradition. So layers of thoughts holding each other, creating subjectivity.
+So in this way, there's an echo of cognition. That's why we hinge on awareness practice—because the awareness practice embraces all that cognition. It's the base cognition, _shi_ or _kun shi_ in the Bön tradition, and sometimes also in the Nyingma tradition. So layers of thoughts holding each other, creating subjectivity.
 
 I'm whispering because I need to be quiet, and now you start talking about the cat. You see these different layers?
 

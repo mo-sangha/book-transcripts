@@ -58,15 +58,15 @@ And that's what it means by releasing, just leaving it within your awareness and
 
 So then the four chokshyaks, right, we get that from Manjusrimitra, right? The Mila Mitra, maybe actually. To leaving it be, again. So notice how every single one of these Dzogchen Mahamudra instructions are about just leaving it be, the same as cognitive behavioral therapy.
 
-So the four chokshags, your view, which is awareness, let it be like a mountain.
+So the four chokshyaks, your view, which is awareness, let it be like a mountain.
 
 Your experiences are going to be like an ocean within space, ebbing and flowing, but they have a suchness there, so let that be like an ocean.
 
-Your actions, your conduct, are going to be within awareness, uncontrived. Hopefully the pilot, the baby pilot that thinks they need to navigate this whole thing, is starting to step back, so now you can leave your action, your conduct, leave it be, the third chokshag.
+Your actions, your conduct, are going to be within awareness, uncontrived. Hopefully the pilot, the baby pilot that thinks they need to navigate this whole thing, is starting to step back, so now you can leave your action, your conduct, leave it be, the third chokshyak.
 
 The fourth one is any fruition. This is very important. I feel like many practitioners can get hung up here because things start to get magical and a little trippy, and so we kind of pull in the reins when we say, “Whoa, whoa, whoa, what the heck was that? Time to write a book; I'm going to write a book about that,” or even awareness practice. “Oh, I recognize the awareness, that deserves three volumes of books,” you know, so amazing. And it is; I don't blame anybody.
 
-And the first time you see bindus and vajra chains and things like that, yeah, you're probably impressed, but my thing is, if you let it be, like the four chokshags say, then you can continue past that threshold. That's the important part, right? Don't just look at the daylight and go back into the cave and write a book. And many have declared themselves teachers prematurely, not knowing that there's more.
+And the first time you see bindus and vajra chains and things like that, yeah, you're probably impressed, but my thing is, if you let it be, like the four chokshyaks say, then you can continue past that threshold. That's the important part, right? Don't just look at the daylight and go back into the cave and write a book. And many have declared themselves teachers prematurely, not knowing that there's more.
 
 So I hope you're seeing the basic premise to this presentation, that all these authentic instructions that we see everywhere are about leaving our experience alone. And that's what's difficult when you're so used to doing, so used to being active and applying remedies and antidotes and assuming that there's something that needs fixing, or assuming there's something that's unenlightened.
 
@@ -110,7 +110,7 @@ Dawai: Ah, very pithy, very pithy indeed.
 
 Yeah, so I hope you're starting to catch on to what the essential key point is to all of these. And although the path has been over-complicated, there are no beliefs, there are no philosophical tenets to adopt. There's no problem to solve, to figure out. This is all about learning to let it be without altering that deliberately.
 
-Okay yeah so is that it? Let's see. Yeah, and we have a Dzogchen kind of overview too for the group. And I include the chokshags and the three modes of liberation in there, and Garab Dorje's three statements. And this can relate to the Satipatthana Sutta*and many emptiness practices, staring at walls and things like that, it can relate, yeah.
+Okay yeah so is that it? Let's see. Yeah, and we have a Dzogchen kind of overview too for the group. And I include the chokshyaks and the three modes of liberation in there, and Garab Dorje's three statements. And this can relate to the Satipatthana Sutta and many emptiness practices, staring at walls and things like that, it can relate, yeah.
 
 
 #archive_minimal("September 21, 2024", "Dzogchen Overview...", "https://www.youtube.com/watch?v=nXi9PjdOcws")
