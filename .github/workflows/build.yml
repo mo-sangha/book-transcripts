@@ -1,0 +1,83 @@
+# Compiles the Typst document, producing a PDF artifact.
+name: Build
+
+on:
+  # Compile when the "main" branch is updated.
+  push:
+    branches: [ "main" ]
+
+  # Or if the workflow is executed manually from the Actions tab.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Check-out this repository to $GITHUB_WORKSPACE.
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Install the Typst compiler.
+      - name: Install
+        uses: typst-community/setup-typst@v4
+        with:
+          typst-version: 0.14.2
+          allow-prereleases: false
+
+      # Compile the source files, producing "transcripts.pdf".
+      - name: Compile PDF
+        run: typst compile main.typ transcripts.pdf --features html --font-path ./fonts
+
+      # Compile the source files, producing "transcripts.html".
+      #- name: Compile HTML
+      #  run: typst compile main.typ transcripts.html --features html --font-path ./fonts
+
+      # Transform the HTML output into EPUB, for readers on small phones who can't use PDFs.
+      #- name: Compile EPUB
+      #  uses: docker://pandoc/core:3.8
+      #  with:
+      #    args: --from html --to epub --output transcripts.epub transcripts.html
+
+      # Upload the artifact for use by the "publish" job.
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcripts.preview
+          path: |
+            transcripts.pdf
+
+  publish:
+    needs: build
+
+    # Grant GITHUB_TOKEN permissions necessary for deployment to GitHub Pages
+    permissions:
+      contents: read
+      pages: write     # To deploy to Pages.
+      id-token: write  # To verify the deployment originates from an appropriate source.
+
+    # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+    # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+    concurrency:
+      group: "pages"
+      cancel-in-progress: false
+
+    runs-on: ubuntu-latest
+    steps:
+      # Download the "transcripts.pdf" file uploaded by the build job.
+      - name: Download Artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: transcripts.preview
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Bundles the current directory as an artifact for GitHub Pages.
+      - name: Upload Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
