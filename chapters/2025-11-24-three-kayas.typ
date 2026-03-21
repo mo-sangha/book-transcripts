@@ -1,5 +1,4 @@
-
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Guided Meditation on the Three Kayas  
 

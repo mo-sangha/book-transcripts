@@ -1,7 +1,6 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Dzogchen Tonglen
-
 
 Dawai: And so for you all in the dear Sangha here today, this will be a repeat of what I just said. So this is a different type of Tonglen. The typical Tonglen involves this kyerim visualization, and it’s also very powerful, the Tantric Tonglen. And so if I’m not mistaken, this is derived from Atisha's Mind Slogans. I haven’t looked into that in a while, so please correct me if I’m wrong, but I believe it’s 52 mind slogans of Atisha. And the Tonglen is deriving from that, and that is also derivative of the Sutras, Mahayana Sutras. The exact name of the primary sources escapes me right now, it’s a little vague in the historicity, but it’s okay. We have Tonglen, it’s a very popular practice that's taught by many, many Tibetan masters and various Dharma teachers.
 

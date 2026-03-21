@@ -1,4 +1,5 @@
-#import "/base.typ": *
+#import "/template.typ": *
+
 // STATUS: is there a better version of five-elem-lights.png? 
 // --------------------------------------------------
 == The Five Elements and the Five Lights 

@@ -1,4 +1,4 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Invoking-the-conditioned-self technique  
 

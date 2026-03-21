@@ -1,7 +1,6 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Familiarizing with spaciousness through provisional meditation techniques 
-
 
 Dawai: After you've recognized the nature of mind, it may be just fine to use effort, to use your conditioned mind, to get used to spaciousness, to get used to this nice fresh awareness. And so we have all types of probably hundreds of techniques that you can use to get used to your real sort of nature—what they call the natural state.
 

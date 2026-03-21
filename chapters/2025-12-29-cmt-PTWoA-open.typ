@@ -1,4 +1,5 @@
-#import "/base.typ": *
+#import "/template.typ": *
+
 // STATUS: (cmt) (md) - Needs migration from Markdown
 // --------------------------------------------------
 

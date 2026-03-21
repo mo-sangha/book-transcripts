@@ -1,4 +1,4 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == The Five Hindrances and the Dzogchen Antidote
 

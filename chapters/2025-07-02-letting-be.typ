@@ -1,7 +1,6 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Letting be whatever is, a Dzogchen talk on self-liberation  
-
 
 Dawai: I feel if we have a lot of talk about Dzogchen and texts and biographies and things like that, but no talk about the actual practice or the approach—well, we're not wholly complete. So anyway, just a few words to help you maybe understand this profound approach that happens to have a lot of common ground with cognitive science and cognitive therapy.
 

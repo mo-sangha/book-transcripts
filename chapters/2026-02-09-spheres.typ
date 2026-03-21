@@ -1,7 +1,6 @@
+#import "/template.typ": *
 
-#import "/base.typ": *
 == Dharma talk: Spheres of Conception
-
 
 Dawai: I did want to continue on with this fourth foundation of mindfulness and basically how we begin to verify and access. And for context, for people who are interested, this is a Dzogchen context so it's a little bit different than what you might see in mindfulness, meditation, placement or object-based meditations, body scanning, Brahma Vihara type stuff, Tonglen even. Here there's nothing to do; there's no effort.
 

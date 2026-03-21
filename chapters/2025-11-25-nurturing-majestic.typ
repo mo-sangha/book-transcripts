@@ -1,8 +1,6 @@
-
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Dzogchen meditation on the nurturing, majestic mind   
-
 
 Dawai: Let's do another 10 minutes of non-meditation. Okay? So we're really interested in this place of our mind. At first, we're interested in recognizing, well, where are the thoughts coming from? Where are they abiding? And returning? And all the sounds right now, notice the mind that's holding all the sounds. There's an awareness there–It's very, very close to you.
 

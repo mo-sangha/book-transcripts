@@ -1,9 +1,8 @@
-#import "/base.typ": *
+#import "/template.typ": *
+
 // STATUS: (cmt) (md) - Needs migration from Markdown
 // --------------------------------------------------
 == Commentary on Root Verses of: The Precious Treasury of the Way of Abiding #text(fill: gray)[(Cmt)]
-
-
 
 Nov 07, 2024  / p. 3  
 

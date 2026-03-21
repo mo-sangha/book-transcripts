@@ -1,7 +1,6 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Wake up, you're having a rough dream!  
-
 
 Dawai: Yes, so this is a talk on meditation and just another summary and a reminder of the praxis involved with Dzogchen, Mahamudra, and what I would say many authentic high-level approaches. They all end up with, they should anyway, empty cognizance. 
 

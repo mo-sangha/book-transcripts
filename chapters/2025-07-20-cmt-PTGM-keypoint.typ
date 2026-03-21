@@ -1,4 +1,5 @@
-#import "/base.typ": *
+#import "/template.typ": *
+
 // STATUS: (cmt) (md) - Needs migration from Markdown
 // --------------------------------------------------
 == The Key Point of Self-Liberation is Extremely Crucial #text(fill: gray)[[Cmt]]

@@ -1,5 +1,5 @@
+#import "/template.typ": *
 
-#import "/base.typ": *
 == Meditation and Self-Liberation
 
 Dawai: So in case anybody's interested, I'm just going to go into a little talk about meditation and self-liberation. Since it's all quiet for now, utilize this time. For those of you who are keeping up with this kind of stuff and accessing this kind of stuff. So the big part about this awareness practice is increased visibility. And of course, I've probably said that a lot, but nothing wrong with re-emphasizing that we turn the lights on within our minds, within our lives, in this reality, however you want to call that.

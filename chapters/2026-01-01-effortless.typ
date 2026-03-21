@@ -1,4 +1,4 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Talk on Dzogchen Effortless Abiding
 

@@ -1,8 +1,6 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == On the Topic of Sensitivity
-
-
 
 Dawai: The topic of sensitivity — and guess what the topic is going to be? Sensitivity. Yes, I feel like sensitivity is an interesting topic, something that goes a little bit mysterious in our world. People often ask themselves and each other, _Am I too sensitive? Are you too sensitive?_ Right? I think we've all heard that. Everybody agreeing, or no? We've kind of heard that narrative, right?
 

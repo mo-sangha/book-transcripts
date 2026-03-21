@@ -1,5 +1,5 @@
+#import "/template.typ": *
 
-#import "/base.typ": *
 // STATUS: (cmt) (md) - Needs migration from Markdown
 // --------------------------------------------------
 == Way of Abiding: Everything arises, manifest, and are freed within awareness #text(fill: gray)[(Cmt)] 

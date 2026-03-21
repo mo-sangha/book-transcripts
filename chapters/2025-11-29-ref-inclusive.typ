@@ -1,4 +1,5 @@
-#import "/base.typ": *
+#import "/template.typ": *
+
 // STATUS: (ref) (md) - Needs from markdown to typ
 // --------------------------------------------------
 == Awareness all inclusive #text(fill: gray)[[Ref]]

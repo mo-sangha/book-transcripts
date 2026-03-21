@@ -1,4 +1,4 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == The many layers of psychic contraction, and how to let go of them   
 

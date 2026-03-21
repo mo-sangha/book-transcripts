@@ -1,5 +1,5 @@
+#import "/template.typ": *
 
-#import "/base.typ": *
 // STATUS: (cmt) (md) - Needs migration from Markdown
 // --------------------------------------------------
 == The Four Reliances #text(fill: gray)[[Cmt]]

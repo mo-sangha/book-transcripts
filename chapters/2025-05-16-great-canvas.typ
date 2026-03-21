@@ -1,4 +1,4 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == The great canvas of all minds
 

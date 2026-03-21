@@ -1,4 +1,4 @@
-#import "/base.typ": *
+#import "/template.typ": *
 
 == Stuck in thoughts no more, a talk on the Dzogchen way out of this age old sickness
     

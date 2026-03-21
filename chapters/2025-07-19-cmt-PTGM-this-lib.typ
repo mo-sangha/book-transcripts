@@ -1,9 +1,7 @@
-#import "/base.typ": *
+#import "/template.typ": *
 // STATUS: (cmt) (md) - Needs migration from Markdown
 // --------------------------------------------------
 == This liberation occurs upon itself #text(fill: gray)[(Cmt)]
-
-
 
 _The Precious Treasury of the Genuine Meaning_ #8 
 Notes: Dawai's commentary on Root Verses and Auto-commentary 

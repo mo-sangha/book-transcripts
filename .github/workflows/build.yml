@@ -29,14 +29,14 @@ jobs:
         run: typst compile main.typ transcripts.pdf --features html --font-path ./fonts
 
       # Compile the source files, producing "transcripts.html".
-      #- name: Compile HTML
-      #  run: typst compile main.typ transcripts.html --features html --font-path ./fonts
+      - name: Compile HTML
+        run: typst compile main.typ transcripts.html --features html --font-path ./fonts
 
       # Transform the HTML output into EPUB, for readers on small phones who can't use PDFs.
-      #- name: Compile EPUB
-      #  uses: docker://pandoc/core:3.8
-      #  with:
-      #    args: --from html --to epub --output transcripts.epub transcripts.html
+      - name: Compile EPUB
+        uses: docker://pandoc/core:3.8
+        with:
+          args: --from html --to epub --output transcripts.epub transcripts.html
 
       # Upload the artifact for use by the "publish" job.
       - name: Upload Artifact
@@ -45,6 +45,8 @@ jobs:
           name: transcripts.preview
           path: |
             transcripts.pdf
+            transcripts.epub
+            transcripts.html
 
   publish:
     needs: build

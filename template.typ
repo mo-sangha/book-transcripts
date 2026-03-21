@@ -1,26 +1,15 @@
-/* --- base.typ | updated 2026-03-17 --- */
+// This file contains all functions and variables used in common between the main file and various chapters.
 
-/* ===========================================
-==============================================
-*/
+/////////////////////////////////////////////////////////////////////////////////
+// Common Variables
+/////////////////////////////////////////////////////////////////////////////////
 
-// ==========================================
-// -- COMMON VARIABLES ---
-// ==========================================
 #let book_title = "Why are you still thinking?"
 #let book_author = "Lama Dawai Gocha"
 
-// ==========================================
-// --- HELPER FUNCTIONS ---
-// ==========================================
-#let todo(words) = { text(fill: blue, [#words]) }
-#let approval(words) = { text(fill: purple, [#words]) }
-#let no_outline(it) = { set heading(numbering: none, outlined: false); it }
-
-
-// ==========================================
-// -- LINKS AFTER CHAPTERS ---
-// ==========================================
+/////////////////////////////////////////////////////////////////////////////////
+// Links after Chapters
+/////////////////////////////////////////////////////////////////////////////////
 
 // Minimalist Archive Link - Subtle horizontal rule with integrated URL and recording metadata
 #let archive_minimal(date, title, url) = {
@@ -35,30 +24,48 @@
   ]
 }
 
-// ==========================================
-// --- STYLE and LAYOUT ---
-// ==========================================
-#let conf(doc) = {
-  set document(title: book_title, author: book_author)
-  set text(font: ("EB Garamond", "Jomolhari"), size: 11.5pt, lang: "en", fill: black, hyphenate: auto)
-  
+/////////////////////////////////////////////////////////////////////////////////
+// Style and Layout
+/////////////////////////////////////////////////////////////////////////////////
+#let template(doc) = context {
+  set document(
+    title: book_title,
+    author: book_author,
+    description: none,
+    keywords: (),
+    date: auto,
+  )
 
-// ==========================================
-// ---HEADING AND TRANSCRIPTION SETTINGS ---
-// ==========================================
-// 
-  // Headings are Level 1 (unnumbered), Chapters are Level 2 (numbered 1, 2, 3...)
+  set text(
+    lang: "en",
+    font: ("EB Garamond", "Jomolhari"), // Fall back to Jomolhari for Tibetan glyphs.
+    hyphenate: auto,
+    size: 11.5pt,
+    fill: black,
+  )
+
+  set par(
+    justify: true,
+    justification-limits: (
+      // How much can the width of spaces between words be adjusted?
+      "spacing": ("min": 90% - 0.01em, "max": 100% + 0.02em),
+      // How much can the spacing between letters be adjusted?
+      "tracking": ("min": -0.01em, "max": 0.02em),
+    )
+  )
+
   set heading(outlined: true)
- show heading.where(level: 2): set heading(numbering: (..args) => numbering("1.", ..args.pos().slice(1)))
-  set par(justify: true, leading: 0.6em, spacing: 1.2em)
 
- // Renditions of common Pali words.
+  // Headings are Level 1 (unnumbered), Chapters are Level 2 (numbered 1, 2, 3...)
+  show heading.where(level: 2): set heading(numbering: (..args) => numbering("1.", ..args.pos().slice(1)))
+
+  // Renditions of common Pali words.
   show "shamatha": [samatha] // Standardize on the Pali, not the Sanskrit.
   show "Shamatha": [Samatha] // Standardize on the Pali, not the Sanskrit.
   show "vipassana": [vipassanā]
   show "Vipassana": [Vipassanā]
 
- // Renditions of common Sanskrit words.
+  // Renditions of common Sanskrit words.
   show "dakini": [ḍākinī]
   show "Dakini": [Ḍākinī]
   show "dharmakaya": [dharmakāya]
@@ -104,7 +111,7 @@
   show "yana": [yāna]
   show "Yana": [Yāna]
 
- // Renditions of common Tibetan words.
+  // Renditions of common Tibetan words.
   show "trekcho": [trekchö]
   show "Trekcho": [Trekchö]
   show "togal": [tögal]
@@ -114,17 +121,20 @@
   show "ngondro": [ngöndro]
   show "Ngondro": [Ngöndro]
 
-// ==========================================
-// --- The Page Configuration ---
-// ========================================== 
- set page(
-    paper: "uk-book-b", 
+  // The page configuration below is only valid for paged targets.
+  //
+  // For reasons that elude me, the "set" below cannot be made conditional
+  // except by means of this early return.
+  if target() != "paged" {
+    doc
+    return
+  }
+
+   set page(
+    paper: "uk-book-b", // 129mm x 198mm (~5" x 7.8")
+    numbering: "1",
     margin: 1.25cm,
 
-// ==========================================
-// --- HEADER AND FOOTER SETTINGS ---
-// ==========================================
-    // HEADER SETTINGS ARE HERE (Chapter title at the top)
     header: context {
       if here().page-numbering() == "1" {
         let before = query(heading.where(level: 2).before(here()))
@@ -141,7 +151,6 @@
       }
     },
 
-    // <--- FOOTER SETTINGS ARE HERE (Page numbers at the bottom)
     footer: context {
       let style = here().page-numbering()
       if here().page() > 2 and style != none {
