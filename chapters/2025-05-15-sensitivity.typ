@@ -2,7 +2,7 @@
 
 == On the Topic of Sensitivity
 
-Dawai: The topic of sensitivity — and guess what the topic is going to be? Sensitivity. Yes, I feel like sensitivity is an interesting topic, something that goes a little bit mysterious in our world. People often ask themselves and each other, _Am I too sensitive? Are you too sensitive?_ Right? I think we've all heard that. Everybody agreeing, or no? We've kind of heard that narrative, right?
+The topic of sensitivity—and guess what the topic is going to be? Sensitivity. Yes, I feel like sensitivity is an interesting topic, something that goes a little bit mysterious in our world. People often ask themselves and each other, _Am I too sensitive? Are you too sensitive?_ Right? I think we've all heard that. Everybody agreeing, or no? We've kind of heard that narrative, right?
 
 And so here's an interesting notion that I invite you to entertain: we're all the same amount of sensitive, just like all the fishies in the sea. All the animals are the same sensitivity to the environment, right? Everything, the flowers, even though they grow different and look different, they are all the same sensitivity to the environment.
 
@@ -36,19 +36,23 @@ And so as we continue to exit out of our 50,000 words-a-day narrative that has�
 
 Okay, everybody, that's my little sharing today on sensitivity and how it relates to pure cognizance and omniscience. I hope that makes sense, and you can look into the six super cognitions and enlightened omniscience and things like that for more on this, okay? Are there any comments, questions?
 
-Q&A
 
-Sangha 1: Okay. This morning, I noticed in the session this morning, I noticed a response that you had to a question that one of us posed. And it reminded me of my response to the same question. Okay, someone was asking, _What is the view?_ And he asked that a couple mornings ago when you were there. And as soon as he asked that, it helped me to access my experience of what the view is for me, which is something that I can't, you know, I can't put into words something...
+#speaker("Sangha 1", [ 
+  Okay. This morning, I noticed in the session this morning, I noticed a response that you had to a question that one of us posed. And it reminded me of my response to the same question. Okay, someone was asking, _What is the view?_ And he asked that a couple mornings ago when you were there. And as soon as he asked that, it helped me to access my experience of what the view is for me, which is something that I can't, you know, I can't put into words something...
+])
 
-Dawai: Ineffable?
+#speaker("Dawai", [Ineffable?])
 
-Sangha 1: Right, yeah, yeah, okay. And then people started to respond, and all the responses were very beautiful and very heartfelt from each person. And they were sharing what, to them, is the view. But in my mind, somehow, I got into my mind thinking, no, those are not the view. I was thinking the view is, like I said, something inexpressible. And what we're talking about mostly is the liberation that comes when we are in the view.
+#speaker("Sangha 1", [
+Right, yeah, yeah, okay. And then people started to respond, and all the responses were very beautiful and very heartfelt from each person. And they were sharing what, to them, is the view. But in my mind, somehow, I got into my mind thinking, no, those are not the view. I was thinking the view is, like I said, something inexpressible. And what we're talking about mostly is the liberation that comes when we are in the view.
 
 We're talking about, _Oh, the view is if I don't have to react the way I used to react,_ or something like that. So in my mind, I was not perceiving something that you perceived this morning in the session when he asked the same question, and he said, _Am I getting it?_ And you said, _Yes, I can tell from the way you're speaking that you are getting it._ And I was not sensitive enough. I was not connected enough to what he was saying to perceive that, what you perceived.
 
 So anyway, I was so glad that I hadn't said anything, because I wouldn't have left room for him to have confidence in what he was experiencing right then. And you gave him kind of room to understand something different as time goes on. So yeah. So thank you.
+])
 
-Dawai: Yeah that's a nice point, yeah. It took more than one sentence to prove, to verify that he was dealing with the view. It is really in the way that people describe self-liberation. And if you skip from recognition to full enlightenment, then you're just sitting here saying, _It's all pure consciousness, I'm good, I'm enlightened._ But there's an in-between phase there that, at least for me, if you're traveling along the path with me, then we need to verify that you've been through that, that you know what self-liberation is.
+#speaker("Dawai", [
+Yeah that's a nice point, yeah. It took more than one sentence to prove, to verify that he was dealing with the view. It is really in the way that people describe self-liberation. And if you skip from recognition to full enlightenment, then you're just sitting here saying, _It's all pure consciousness, I'm good, I'm enlightened._ But there's an in-between phase there that, at least for me, if you're traveling along the path with me, then we need to verify that you've been through that, that you know what self-liberation is.
 
 Self-liberation is probably one of the key ways that we can verify the view. Because self-liberation could not happen without open awareness.
 
@@ -69,27 +73,40 @@ And so this is the same. We have space in our mind, and so we can see more dimen
 If we were to see all the sentient beings around us, for example, and I know, again, I'm getting off the spectrum a little bit here of our material world, but there are many beings, and for our safety, we cannot see them. And we ignore the fact that we can feel them, and hear them, and things like that. It's safe to do.
 
 Okay, very good. So that's my little, just sharing. And thank you so much for some discussion. Is there any more discussion on this topic, sensitivity?
+])
 
-Sangha 2: Yes. You talk about the other sentient beings, so my question is actually regarding dharma protectors. Do you think, is there any need that we need to practice the dharma protectors, sadhanas? Because there's a certain saying that atiyoga, even though it's an advanced teaching, it could be risky too. And so dharma protector may help us to release sort of the karmic maturity eruption and accelerate it because of this practice.
+#speaker("Sangha 2", [
+  Yes. You talk about the other sentient beings, so my question is actually regarding dharma protectors. Do you think, is there any need that we need to practice the dharma protectors, sadhanas? Because there's a certain saying that atiyoga, even though it's an advanced teaching, it could be risky too. And so dharma protector may help us to release sort of the karmic maturity eruption and accelerate it because of this practice.
+])
 
-Dawai: Yeah. Yeah, that's a good question. And atiyoga proper, you find out there in the world right now, two different versions of Dzogchen. So that's why I have to use the word _atiyoga proper_ or _Dzogchen proper._ Dzogchen proper for me is when you find the nature of mind. You have a pretty sure that you've seen awareness as the nature of your mind. Then that is your dharma protector, in Dzogchen proper. That is Ekajati, that is Mahakala, that is Vajrakilaya.
+#speaker("Dawai", [
+Yeah. Yeah, that's a good question. And atiyoga proper, you find out there in the world right now, two different versions of Dzogchen. So that's why I have to use the word _atiyoga proper_ or _Dzogchen proper._ Dzogchen proper for me is when you find the nature of mind. You have a pretty sure that you've seen awareness as the nature of your mind. Then that is your dharma protector, in Dzogchen proper. That is Ekajati, that is Mahakala, that is Vajrakilaya.
 
 But in leading up to that, then, yeah, if you're dealing with deity practices, you're dealing with this crazy world, it may be useful, and everybody can follow their teacher's advice on this one, okay? It may be useful to do dharma protector practices. In here, I rely on a few key elements of the view as our protection, because Vajrakilaya, the wrathful personification of Vajrasattva.
 
 What does Vajrasattva mean? Vajrasattva means pure being, essentially. So that's why it's purification. So Vajrakilaya is a Dzogchen protector, and that's the wrathful form of purity and purification. So what is the highest form of purification? It's your awareness practice. So there you have the protection, but you have to be sincere about that, very humble about that view.
 
 And then anybody want to guess what becomes your highest protection? I've said it before. Your awareness. Awareness, yes. But as long as you keep it innocent, transparent, compassionate, these will be your protections. Honesty, compassion. Because within awareness, it's very difficult to be corrupt-minded. To hurt other people is difficult, because it starts to burn on you when you lie, when you steal from people and things like that. It starts to burn on you, which is what the protector does. Protects you. Makes sense?
+])
 
-Sangha 3: Yes. So that's why in Dzogchen, there is this whole system of empowerments and lineage and practice, to make sure that the person is ready for the view. Otherwise, without that, it could be dangerous?
+#speaker("Sangha 3", [
+  Yes. So that's why in Dzogchen, there is this whole system of empowerments and lineage and practice, to make sure that the person is ready for the view. Otherwise, without that, it could be dangerous?
+])
 
-Dawai: Yes that's right. And when we speak of danger, we're really talking about your mind creating fear and confusion for yourself. So technically, in Dzogchen proper, awareness is the protector. But in your relative experience, your teacher and the lineage, the empowerments, and the deity practices are useful. It's all skillful means. It's like scaffolding that you take down when the building is finished. Perfect. Any more questions on sensitivity?
+#speaker("Dawai", [
+  Yes that's right. And when we speak of danger, we're really talking about your mind creating fear and confusion for yourself. So technically, in Dzogchen proper, awareness is the protector. But in your relative experience, your teacher and the lineage, the empowerments, and the deity practices are useful. It's all skillful means. It's like scaffolding that you take down when the building is finished. Perfect. Any more questions on sensitivity?
+])
 
-Sangha 4: So would you say that sensitivity is a prerequisite to Dzogchen practice? If someone has very low sensitivity, would it be difficult for them to see the view?
+#speaker("Sangha 4", [
+  So would you say that sensitivity is a prerequisite to Dzogchen practice? If someone has very low sensitivity, would it be difficult for them to see the view?
+])
 
-Dawai: Would say yes, in a way. Sensitivity, in the sense of being open, being aware, being able to recognize subtle signals in your mind and body—that is useful. But if your mind is contracted, closed, or very rigid, then yes, Dzogchen practice may be difficult. But then the practice itself can increase your sensitivity. So it's not fixed. Sensitivity is not an inherent block. It's dynamic. It can be cultivated, yes, but it must be safe. Safety is critical. We cannot have someone sensitive and unsafe. They will just be overwhelmed.
+#speaker("Dawai", [
+Would say yes, in a way. Sensitivity, in the sense of being open, being aware, being able to recognize subtle signals in your mind and body—that is useful. But if your mind is contracted, closed, or very rigid, then yes, Dzogchen practice may be difficult. But then the practice itself can increase your sensitivity. So it's not fixed. Sensitivity is not an inherent block. It's dynamic. It can be cultivated, yes, but it must be safe. Safety is critical. We cannot have someone sensitive and unsafe. They will just be overwhelmed.
 
 Okay, friends. Thank you so much. I hope this talk on sensitivity gives you some perspective on your own practice. Remember, sensitivity is not a weakness. It is a superpower when paired with awareness, compassion, and spaciousness. 
 
 Thank you for being here.
+])
 
 #archive_minimal("May 15, 2025", "On the topic...", "https://www.youtube.com/watch?v=fYTTDgAD4V8")

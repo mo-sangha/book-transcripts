@@ -24,7 +24,7 @@ And now purposefully proliferate on that. I'll do mine out loud first. I have to
 
 Now you do yours. You don't have to do them out loud, obviously. #btw[The sangha practices the instruction for a few moments].
 
-So everybody not know how to bring the future into the presence and crowd your mind with that? You got it, right? It's pretty easy. Okay. I believe you.
+So anybody not know how to bring the future into the presence and crowd your mind with that? You got it, right? It's pretty easy. Okay. I believe you.
 
 Let's clear the mind back to that very clear open state. No past, no future. Just tune into this for a second. We're not thinking about the past. We're not thinking about the future. But now we're going to analyze what's happening _now_. Am I resting in presence? That's going to be my present-moment analysis. Am I resting in presence or am I getting this wrong? I wonder if my mind is fully in presence and I'm going to proliferate on that. I'm going to analyze whether I'm in presence or not. Okay. So you analyze something too. You could say there's some sounds happening in this presence. What are those sounds? Oh, I have a stomachache right now. Wonder anything that's happening now in this presence, just start to analyze it. #btw[The sangha practices the instruction for a few moments]. Ah, very good.
 

@@ -4,7 +4,7 @@
 // --------------------------------------------------
 == The Five Elements and the Five Lights 
 
-Dawai: Very humbly, I don't claim to be an expert on how the elements are actually mind lights, all I can do is do my best to use a very limited range of concepts and speech to convey this. The only reason why I would want to convey this, I'm going to reiterate, please don't let this be a belief system or an idea that you conform to. This should be like something that, when you're naturally abiding in your own mind, you start to see how the elements are correlating; they're co-emerging, they're related to your mind.
+Very humbly, I don't claim to be an expert on how the elements are actually mind lights, all I can do is do my best to use a very limited range of concepts and speech to convey this. The only reason why I would want to convey this, I'm going to reiterate, please don't let this be a belief system or an idea that you conform to. This should be like something that, when you're naturally abiding in your own mind, you start to see how the elements are correlating; they're co-emerging, they're related to your mind.
 
 So, as you rest and you leave that alone—oftentimes, for example, when we do Tögal and we see this light phenomenon and the light rays, even just seeing orbs and rainbows and things like that. After I was introduced to Tögal, I was able to see rainbow light and light rays that I had not noticed before, for whatever reason.
 

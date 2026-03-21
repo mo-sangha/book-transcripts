@@ -1,10 +1,10 @@
 #import "/template.typ": *
 
-== Invoking-the-conditioned-self technique  
+== Invoking-the-conditioned-self technique
 
-Dzogchen Meditation Techniques; pt.4 of 4  
+// Dzogchen Meditation Techniques; pt.4 of 4
 
-Dawai: So we'll just go into a little bit of a meditation talk. Dorje Lekpa just pointed out a very important nuance, actually, with this practice.
+So we'll just go into a little bit of a meditation talk. Dorje Lekpa just pointed out a very important nuance, actually, with this practice.
 
 So a lot of you know how to isolate a thought. This means that you can have one single thought—watch it come, watch it stay, and watch it go. That alone is so empowering; that puts you on a very high level in terms of mental freedom.
 

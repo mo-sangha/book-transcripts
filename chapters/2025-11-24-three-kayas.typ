@@ -2,11 +2,11 @@
 
 == Guided Meditation on the Three Kayas  
 
-Dawai: And so of course this is Dzogchen Ati Yoga, the highest but the most simple approach to meditation. Just allow the body to relax, keeping the eyes open. Ideally losing your focus, just allowing the eyes to drop in front of you in empty space. Breathing into presence.
+And so of course this is Dzogchen Atiyoga, the highest but the most simple approach to meditation. Just allow the body to relax, keeping the eyes open. Ideally losing your focus, just allowing the eyes to drop in front of you in empty space. Breathing into presence.
 
 So this is a three kayas meditation that we'll do. One thing about this awareness: we become aware of awareness, all right? Nothing else matters. There are no concepts. There's nothing to figure out. Awareness is bare, free of any congestion. It's like space. Just aware of awareness, even outside of the body, okay? If you're feeling yourself trapped in your body, in your head, behind the eyes, come out. Wake up. Come out of the slumber.
 
-Make sure that everything you're seeing and hearing is in your meditation. Otherwise, you're just doing sutrayana. We want to be radically inclusive here—the entire environment and how we're feeling within that environment. It's not for everybody, I know. It can be uncomfortable to open the eyes, to begin to allow your environment into your meditation. This is very stimulating. But for the three kayas meditation, it's necessary.
+Make sure that everything you're seeing and hearing is in your meditation. Otherwise, you're just doing Sutrayana. We want to be radically inclusive here—the entire environment and how we're feeling within that environment. It's not for everybody, I know. It can be uncomfortable to open the eyes, to begin to allow your environment into your meditation. This is very stimulating. But for the three kayas meditation, it's necessary.
 
 Because the first aspect of this practice, this three kayas meditation, is to include the _Nirmanakaya_: everything we see, everything we're hearing and sensing, smelling and tasting—all that in a holistic way. Even thoughts, okay? And emotions—those are visible. So awareness doesn't have to spend any time on each individual thing. We can just rest here and include everything we're seeing into the meditation. Just for a moment, allowing everything in your visual field to be in awareness.
 

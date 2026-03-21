@@ -2,7 +2,7 @@
 
 == The Five Hindrances and the Dzogchen Antidote
 
-Dawai: I hope you'll be able to relate... I hope you'll be able to relate... I hope you'll be able to relate, you know, not just sitting, but all four of these postures: walking, lying down, standing, and sitting. We usually have the five hindrances going on in all our situations throughout the day, actually. So, what are the five hindrances, right? Maybe I should mention that first.
+I hope you'll be able to relate... I hope you'll be able to relate... I hope you'll be able to relate, you know, not just sitting, but all four of these postures: walking, lying down, standing, and sitting. We usually have the five hindrances going on in all our situations throughout the day, actually. So, what are the five hindrances, right? Maybe I should mention that first.
  
 Well, the first one is desire. The second one is ill will, anger, general aversion, I think we can say. The third one would be laziness. The fourth one would be restlessness. And the fifth one is doubt, particularly doubt in one's own capacity to be free.
 
@@ -26,9 +26,9 @@ So the last one is doubt. I think the primary there is doubt that you can even b
 
 You know, the hierarchy that we see—the hierarchy of respect and veneration—has always baffled me. Why wouldn't we venerate each other on the same level, in an egalitarian kind of way? If I say to you, “My mind is the All-Creating Monarch; I'm God,” well, you may immediately think, “Oh, he thinks he's God.”
 
-To that I have a rebuttal: God would not create this mess that I was in, and sometimes I'm still in. [giggle] So, it's more the veneration—just why can't we respect each other like God? You know, like you're a God, I'm a God. Praise—I praise your light, your beauty. See, so things like that where we empower each other. Again, this culture, this environment that we're in, the collective, can be incredibly—it can be incredibly disempowering.
+To that I have a rebuttal: God would not create this mess that I was in, and sometimes I'm still in. #btw[Dawai giggles]. So, it's more the veneration—just why can't we respect each other like God? You know, like you're a God, I'm a God. Praise—I praise your light, your beauty. See, so things like that where we empower each other. Again, this culture, this environment that we're in, the collective, can be incredibly—it can be incredibly disempowering.
 
-(Responding to chat): It can't sound like Christianity, because that would be blasphemy in Christianity, saying that each individual is the God. No, not an image of God. Your mind is the All Creating Monarch, and I feel like there's a lot more evidence of how our mind is creating this reality than—in fact, I would say there's proof not only in modern science, but also in all these Dharma lineages.
+#btw[Dawai reads a chat message]. It can't sound like Christianity, because that would be blasphemy in Christianity, saying that each individual is the God. No, not an image of God. Your mind is the All-Creating Monarch, and I feel like there's a lot more evidence of how our mind is creating this reality than—in fact, I would say there's proof not only in modern science, but also in all these Dharma lineages.
 
 There's proof that our mind is the creator. There's a lot more proof and evidence in regards to that than there is that some external deity or being or force is creating the environment. The more I do my own mind science, the more I see, well, I don't need to conclude anything existentially—but I see that my mind has a huge role in the creation of my reality.
 
@@ -52,53 +52,62 @@ So doubt can be in the path, you know, that this is even possible. That's why Tu
 
 So any comments, questions, sharing on the five hindrances, just a brief kind of summary of those?
 
-We have kind of many antidotes, and I'm going to talk about how to counter these now. We have many antidotes in Shravakayana, Mahayana, in the various approaches. There are antidotes to the five hindrances. We have practices like Chöd, which serve as an antidote to the five poisons. Breath meditation can serve as an antidote to the five hindrances.
+We have many antidotes, and I'm going to talk about how to counter these now. We have many antidotes in Shravakayana, Mahayana, in the various approaches. There are antidotes to the five hindrances. We have practices like Chöd, which serve as an antidote to the five poisons. Breath meditation can serve as an antidote to the five hindrances.
 
 
-Q&A
+#speaker("Sangha", [
+  In Theravada Buddhism, overcoming the five hindrances equals jhana.
+])
 
-Sangha: In Theravada Buddhism, overcoming the five hindrances equals jhana.
+#speaker("Dawai", [
+  Well, I would say that's a generalization, that it's very reductive. You know, you have many jhanas. What does overcoming the five hindrances mean? The five hindrances can still flicker in and out, even if you're able to achieve states of jhana.
 
-Dawai: Well, I would say that's a generalization, that it's very reductive. You know, you have many jhanas. What does overcoming the five hindrances mean? The five hindrances can still flicker in and out, even if you're able to achieve states of jhana.
+  So in Dzogchen, let's talk about this, you just let your five hindrances be, but you need mindfulness, awareness, you need sati, the rigpa, the vidya, so many names for it. You need this in order to let your desire, your anger, your laziness, your restlessness and doubt, to let it be. Otherwise, how are you going to let it be?
 
-So in Dzogchen, let's talk about this, you just let your five hindrances be, but you need mindfulness, awareness, you need sati, the rigpa, the vidya, so many names for it. You need this in order to let your desire, your anger, your laziness, your restlessness and doubt, to let it be. Otherwise, how are you going to let it be?
+  You can't let your laziness be because you're in the laziness. You have nowhere to run. But if you've been introduced to awareness, you have somewhere to go. So you start to more and more access the pure presence.
 
-You can't let your laziness be because you're in the laziness. You have nowhere to run. But if you've been introduced to awareness, you have somewhere to go. So you start to more and more access the pure presence.
+  How can there be restlessness in the pure presence? Until I start creating the future, worries about the future, etc. How can there be desire in the pure presence, unless I get stuck on a thought and I say, “Oh, I need to go eat some pizza,” or whatever.
 
-How can there be restlessness in the pure presence? Until I start creating the future, worries about the future, etc. How can there be desire in the pure presence, unless I get stuck on a thought and I say, “Oh, I need to go eat some pizza,” or whatever.
+  And then I'll start to get anxious and my body will be sore, maybe, if you're sitting. Sometimes people just quit because of desire. So you know, the lower base, the bumpa breathing also helps, by the way, with the hindrances.
 
-And then I'll start to get anxious and my body will be sore, maybe, if you're sitting. Sometimes people just quit because of desire. So you know, the lower base, the bumpa breathing also helps, by the way, with the hindrances.
+  But as far as laxity... laxity, right, kind of laziness? This is also left alone, but a lot of people get sleepy during the meditations. And that's because we follow a thought. We follow a thought, and a lot of people have their eyes closed, so the body's saying, “Oh, sleepy time.” And so we're kind of following that thought with our eyes closed, and next thing you know, goodbye, or good night.
 
-But as far as laxity.. laxity, right, kind of laziness? This is also left alone, but a lot of people get sleepy during the meditations. And that's because we follow a thought. We follow a thought, and a lot of people have their eyes closed, so the body's saying, “Oh, sleepy time.” And so we're kind of following that thought with our eyes closed, and next thing you know, goodbye, or good night.
+  So in the pure presence, wakefulness, there are no thoughts to drag you off into the hypnagogic state the transitory state before sleep, I guess that's a bardo.
 
-So in the pure presence, wakefulness, there are no thoughts to drag you off into the hypnagogic state the transitory state before sleep, I guess that's a bardo.
+  So restlessness, let's say we come here and do the 10-minute sit in the beginning, and we feel very anxious for whatever reason. It could be because somebody yelled at us; it could be because we hurt somebody by accident. You know, it could be anything. So letting that be, giving a little bit of a chance for your nervous system to relax, even the lobes of the brain, everything's starting to release tension—that restlessness released within awareness.
 
-So restlessness, let's say we come here and do the 10-minute sit in the beginning, and we feel very anxious for whatever reason. It could be because somebody yelled at us; it could be because we hurt somebody by accident. You know, it could be anything. So letting that be, giving a little bit of a chance for your nervous system to relax, even the lobes of the brain, everything's starting to release tension—that restlessness released within awareness.
+  Now, doubt is a little bit more of an a priori, kind of logic-related thing that could help many of you to rely on your past proofs that you've had through these meditations, these approaches, and use that as a stepping stone for trust.
 
-Now, doubt is a little bit more of an a priori, kind of logic-related thing that could help many of you to rely on your past proofs that you've had through these meditations, these approaches, and use that as a stepping stone for trust.
+  Never ever blind-trust things, unless you're very confident in somebody as your guide and you trust what they say, then I don't think that's blind, though. I think that's well-informed, because you've gotten to know this person.
 
-Never ever blind trust things, unless you're very confident in somebody as your guide and you trust what they say, then I don't think that's blind, though. I think that's well-informed, because you've gotten to know this person.
+  But it's important, I think, in our culture, these days and these times, to continue to step on the evidences and proofs that you've had previously from meditation or from Dzogchen, so that doubt is cleared away. Because doubt can follow us very far along the path. It can follow us all the way to the tippy-top. It can hold us back from that final release even.
 
-But it's important, I think, in our culture, these days and these times, to continue to step on the evidences and proofs that you've had previously from meditation or from Dzogchen, so that doubt is cleared away. Because doubt can follow us very far along the path. It can follow us all the way to the tippy-top. It can hold us back from that final release even.
+  Okay, so, yeah, it's just a little brief summary of the five hindrances, how they can look in Dzogchen. Any other comments or sharing or questions?
 
-Okay, so, yeah, it's just a little brief summary of the five hindrances, how they can look in Dzogchen. Any other comments or sharing or questions?
+  And by the way, refuge and bodhicitta, doing it silently, is good for the hindrances, too. If you can, at the beginning of the sit, take refuge in your awareness nature, kind of really relax into it. If you can wish all beings to have liberation and rest in that kind of love for all beings, the natural pulse of your energy — it kind of just, you don't pick and choose beings that you love.
 
-And by the way, refuge and bodhicitta, doing it silently, is good for the hindrances, too. If you can, at the beginning of the sit, take refuge in your awareness nature, kind of really relax into =it. If you can wish all beings to have liberation and rest in that kind of love for all beings, the natural pulse of your energy — it kind of just, you don't pick and choose beings that you love.
+  The love is just like the sun radiating heat. You're radiating compassion, and not the kind of love that we deal with sometimes on superficial levels. I'm talking about profound, empathetic, all-encompassing, unconditional love.
 
-The love is just like the sun radiating heat. You're radiating compassion, and not the kind of love that we deal with sometimes on superficial levels. I'm talking about profound, empathetic, all-encompassing, unconditional love.
+  So refuge and bodhicitta are also helpful in terms of the hindrances. As I said, pranayama, breathing exercises, yoga, staying hydrated and rested, of course—things like that can always benefit.
+])
 
-So refuge and bodhicitta are also helpful in terms of the hindrances. As I said, pranayama, breathing exercises, yoga, staying hydrated and rested, of course—things like that can always benefit.
+#speaker("Sangha", [
+  My biggest doubt would be in the effectiveness of online transmissions.
+])
 
-Sangha: My biggest doubt would be in the effectiveness of online transmissions.
+#speaker("Dawai", [
+  That's understandable, but as far as pointing out goes, we've definitely proved that it can work. And then Lama Lena has also verified that. There aren't that many Dzogchen teachers pointing people out right now, but those who have done it online, it seems to be working.
 
-Dawai: That's understandable, but as far as pointing out goes, we've definitely proved that it can work. And then Lama Lena has also verified that. There aren't that many Dzogchen teachers pointing people out right now, but those who have done it online, it seems to be working.
+  I feel like live, if you're live with the person that always is an added benefit, but it can be a toss-up sometimes. I'm surprised that it's worked so often in here, and we've figured out ways to validate that it's worked. It's pretty miraculous, actually.
+])
 
-I feel like live, if you're live with the person that always is an added benefit, but it can be a toss-up sometimes. I'm surprised that it's worked so often in here, and we've figured out ways to validate that it's worked. It's pretty miraculous, actually.
+#speaker("Sangha", [
+  The group where I finally noticed awareness was also online.
+])
 
-Sangha: The group where I finally noticed awareness was also online.
-
-Dawai: Yeah, I don't see why, if your attention isn't too scattered, and you have some authenticity about your intentions, then it should be fine.
-
-Okay, well, thank you so much to the MO Sangha and everybody on YouTube. It's wonderful to be hanging out with you all like this.
+#speaker("Dawai", [
+  Yeah, I don't see why, if your attention isn't too scattered, and you have some authenticity about your intentions, then it should be fine.
+  Okay, well, thank you so much to the MO Sangha and everybody on YouTube. It's wonderful to be hanging out with you all like this.
+])
 
 #archive_minimal("June 13, 2024", "The Five Hindrances...", "https://www.youtube.com/watch?v=tq3Sip1Z5yw")

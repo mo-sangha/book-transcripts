@@ -2,7 +2,7 @@
 
 == The great canvas of all minds
 
-Dawai: …the ownership. They say, oh you can't assume the position of God as the creator or as the all existing thing. All right? But it's not like that. You drew your mind on the great canvas. 
+They say, oh you can't assume the position of God as the creator or as the all-existing thing. All right? But it's not like that. You drew your mind on the great canvas. 
 
 So you have always been a part of this whole thing. If there is a God or an infinite consciousness or a oneness, then you drew your mind on that canvas. So just like a blank canvas, we drew a circle. Yeshé drew a circle, that's his mind. I drew a circle, that's my mind, and we're both part of the same canvas, just like that. Both of our minds are part of the same pure cognizance, that pure cognizant field, and the basis of our mind is pure cognizance—that's why it's beyond singularity or multiplicity, as well.
 
