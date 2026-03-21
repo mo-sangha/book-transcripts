@@ -1,11 +1,10 @@
 #import "/template.typ": *
 
-== Time-displacement practice  
+== Time-displacement practice
 
-Dzogchen Meditation Techniques, pt. 3 of 4  
+// Dzogchen Meditation Techniques, pt. 3 of 4
 
-
-Dawai: Yeah, so let's talk a little bit for 10 minutes, okay? I know we're on the overtime, but I did want to get this time displacement method out there to you in case it benefits. The details, if you want to email me I can get you the details for the meditation online retreat, they are on Discord. So they're not totally out there, but they are out there. Yeah, it's funny that you mentioned that because that's going to be one of our examples today for this time displacement method. So it may sound a little fancy, but basically this is used again for visibility, okay?
+// Dawai: Yeah, so let's talk a little bit for 10 minutes, okay? I know we're on the overtime, but I did want to get this time displacement method out there to you in case it benefits. The details, if you want to email me I can get you the details for the meditation online retreat, they are on Discord. So they're not totally out there, but they are out there. Yeah, it's funny that you mentioned that because that's going to be one of our examples today for this time displacement method. So it may sound a little fancy, but basically this is used again for visibility, okay?
 
 So please relax and we're going to do a short meditation-type practice. Release the mind from any kind of thoughts and things like that. And see if you can just come into pure presence without thoughts, clear like the sky. 'Cause we're gonna bring stuff into our canvas, so we need a blank canvas here.
 
@@ -37,7 +36,7 @@ Okay, so any comments or questions about that?
 
 I know we're at the end of our live session and you're probably a little wore out, but I appreciate you joining in on that. It's the first time I ever tried anything like this. And I just kind of made it up the other day. It just kind of came to me and I'm sure it'll get more polished and things, but I don't even know how that landed on you, so please feel free to give me feedback.
 
-Q&A  
+Q&A
 
 Sangha 1: Is there a difference between the present moment and presence?
 

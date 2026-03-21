@@ -45,7 +45,10 @@
   )
 
   set par(
-    first-line-indent: 1em, // Indent the first line like in a book.
+    first-line-indent: ( // Indent the first line like in a book.
+      amount: 1em,
+      all: true, // Even the first paragraph (elsewhere in the world, it's non-indented).
+    ),
     spacing: 0.65em, // Decrease the spacing between paragraphs so it flows like a book.
     justify: true,
     justification-limits: (
