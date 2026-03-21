@@ -47,13 +47,6 @@
 #set page(numbering: "i")
 #counter(page).update(1)
 
-#include "about.typ"
-#pagebreak(weak: true)
-#include "gratitude.typ"
-#pagebreak(weak: true)
-#include "foreword.typ"
-#pagebreak()
-
 // ==========================================
 // --- TABLE OF CONTENTS --- 
 // ==========================================
