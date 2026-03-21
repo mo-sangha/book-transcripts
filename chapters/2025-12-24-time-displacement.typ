@@ -8,7 +8,7 @@
 
 So please relax and we're going to do a short meditation-type practice. Release the mind from any kind of thoughts and things like that. And see if you can just come into pure presence without thoughts, clear like the sky. 'Cause we're gonna bring stuff into our canvas, so we need a blank canvas here.
 
-And so now, now I got a blank canvas, I can't remember, what was I gonna use? [laughing] I had a few options for bringing up the past. We're gonna drag the past into our purely present canvas here. Well, what was it?
+And so now, now I got a blank canvas, I can't remember, what was I gonna use? #btw[Dawai laughs]. I had a few options for bringing up the past. We're gonna drag the past into our purely present canvas here. Well, what was it?
 
 I had some dog poop on my boots. That's right, we'll use that one. Okay. So that's mine. You bring something innocent up from last week, last month, yesterday, something a little innocent. Like for me, I had some dog poop on my boot. So I'm thinking about that now.
 
@@ -36,40 +36,57 @@ Okay, so any comments or questions about that?
 
 I know we're at the end of our live session and you're probably a little wore out, but I appreciate you joining in on that. It's the first time I ever tried anything like this. And I just kind of made it up the other day. It just kind of came to me and I'm sure it'll get more polished and things, but I don't even know how that landed on you, so please feel free to give me feedback.
 
-Q&A
+#speaker("Sangha 1", [
+  Is there a difference between the present moment and presence?
+])
 
-Sangha 1: Is there a difference between the present moment and presence?
+#speaker("Dawai", [
+  Yeah, exactly. And you just saw the difference, right? You just saw that. I consider it. Why is my computer so loud right now? Why is the fan so loud? And I can think about it. Think about it, and that's the present moment. I'm technically in the present moment, right? Thinking about the fan that's happening right now.
 
-Dawai: Yeah, exactly. And you just saw the difference, right? You just saw that. I consider it. Why is my computer so loud right now? Why is the fan so loud? And I can think about it. Think about it, and that's the present moment. I'm technically in the present moment, right? Thinking about the fan that's happening right now.
-
-But presence, my mind isn't being pulled towards anything. It's fully present. And I can still say, yup, the fan is loud. But I'm not in that, right? So you're not in the three times.
-
-Sangha 1: So presence is without thinking?
-
-Dawai: Without the grasping. You can still have the thought. That's why I said you can still think that, yeah, fan's pretty loud right now. But you're not sitting here like distracting away from presence into how I wonder what's wrong with that fan, starting to piss me off. I'm not sure why. It always has to be like that. So there's a texture change there. Okay?
-
-Sangha 2: Yeah. Hello everyone, morning everyone. What I was going to say basically was made out in the comment section. That it's a nice exercise I found because I am now getting used to noticing and stopping proliferation and doing the exercise where you're actually trying to spin it up, I think it's quite interesting to see that, see the kind of mechanism there. And you would just want to do the silly stuff because as N says, actually, you know, for the first four and a half decades of my life. You know, it’s automatic and involuntary and you're waking up at three in the morning in a panic about something you said to a girl in primary seven, you know, it's just that you're doing whatever it is about the brain that fires these things up. So yeah, doing it and that kind of nice, lightweight, playful way, kind of shows you, in a way, in a nice way for me, you can assure us how far I've come, you know, but it's good training for noticing the proliferation, you know, bubbling away under the surface when you're going about your day. So yeah, I think it's a thumbs up from me, definitely.
-
-Dawai: I'm very happy to hear and read these comments too, that people were able to engage with this. That's awesome. Very cool. And yeah, you yogis now, this is true sovereignty.
-
-You can actually pick and choose which thoughts are occupying your mind, and you can contextualize those thoughts and weigh them, so to speak, and see how much you're grasping into them. Very, very powerful.
-
-Sangha 3: I just wanted to mention, I really appreciate kind of like the non-seriousness because a lot of times when people address these kinds of topics, it's so about getting into presence that it actually like reifies it, and then while reifying the past, while trying to diminish it, while like, so you, there's just like a lot of clumping where for this, where it's just like, okay, just like open that door and now open that door and now open the door. Okay, and now presence was there the whole time and is here still. So thank you for the, yeah, the simplicity is my thought.
-
-Dawai: Yeah, I hadn't thought about that, that there's a lightness factor. Thanks for bringing that up. That's what seems to be really compatible. What seems to be working for you all is the lightness of it. I hadn't even considered that.
-
-Sangha 4: I agree with everything everyone said. Just a quick add-on. I found it especially helpful as well to distinguish the present moment from like presence, like being in the still in the three times, but in this moment, it's like being here, but analyzing it, telling a story about it, interpreting it. Versus actual presence, actual fourth time is really just even without that, you know. So yeah, I found that really quite helpful as well.
-
-Dawai: Yay! Yeah, when we're being innovative, we never know, right? So that's great. I think we can polish a little bit and continue to utilize this technique. And thankfully, Yeshé got it out there to share with everybody. So I kind of prioritize some of these other techniques before we do isolation of the conditioned self.
-
-And we'll go back to isolating a thought. But here we’re doing this cognitive diffusion before we go into isolating the conditioned self. So even though when you isolate thoughts, usually the conditioned self is mixed in there, but maybe not as explicitly.
-
-Anyway, thank you everybody so much for joining and giving these techniques a try. And we just kind of, you know, get more freedom in our mind, in our life, in our world. And get some of the congestion out and use these different mind sciences, right? These are just tools, mind science tools that are very effective apparently, and they're based on our own introspection. So that makes them very powerful.
-
-So yeah, big appreciation and we'll just end here then with this moment of silence for the dedication. And deep bow to you, my friends.
-
-Please take care out there. Thank you.
+  But presence, my mind isn't being pulled towards anything. It's fully present. And I can still say, yup, the fan is loud. But I'm not in that, right? So you're not in the three times.
+])
 
 
+#speaker("Sangha 1", [
+  So presence is without thinking?
+])
+
+#speaker("Dawai", [
+  Without the grasping. You can still have the thought. That's why I said you can still think that, yeah, fan's pretty loud right now. But you're not sitting here like distracting away from presence into how I wonder what's wrong with that fan, starting to piss me off. I'm not sure why. It always has to be like that. So there's a texture change there. Okay?
+])
+
+#speaker("Sangha 2", [
+  Yeah. Hello everyone, morning everyone. What I was going to say basically was made out in the comment section. That it's a nice exercise I found because I am now getting used to noticing and stopping proliferation and doing the exercise where you're actually trying to spin it up, I think it's quite interesting to see that, see the kind of mechanism there. And you would just want to do the silly stuff because as N says, actually, you know, for the first four and a half decades of my life. You know, it’s automatic and involuntary and you're waking up at three in the morning in a panic about something you said to a girl in primary seven, you know, it's just that you're doing whatever it is about the brain that fires these things up. So yeah, doing it and that kind of nice, lightweight, playful way, kind of shows you, in a way, in a nice way for me, you can assure us how far I've come, you know, but it's good training for noticing the proliferation, you know, bubbling away under the surface when you're going about your day. So yeah, I think it's a thumbs up from me, definitely.
+])
+
+#speaker("Dawai", [
+  I'm very happy to hear and read these comments too, that people were able to engage with this. That's awesome. Very cool. And yeah, you yogis now, this is true sovereignty.
+
+  You can actually pick and choose which thoughts are occupying your mind, and you can contextualize those thoughts and weigh them, so to speak, and see how much you're grasping into them. Very, very powerful.
+])
+
+#speaker("Sangha 3", [
+  I just wanted to mention, I really appreciate kind of like the non-seriousness because a lot of times when people address these kinds of topics, it's so about getting into presence that it actually like reifies it, and then while reifying the past, while trying to diminish it, while like, so you, there's just like a lot of clumping where for this, where it's just like, okay, just like open that door and now open that door and now open the door. Okay, and now presence was there the whole time and is here still. So thank you for the, yeah, the simplicity is my thought.
+])
+
+#speaker("Dawai", [
+  Yeah, I hadn't thought about that, that there's a lightness factor. Thanks for bringing that up. That's what seems to be really compatible. What seems to be working for you all is the lightness of it. I hadn't even considered that.
+])
+
+#speaker("Sangha 4", [
+  I agree with everything everyone said. Just a quick add-on. I found it especially helpful as well to distinguish the present moment from like presence, like being in the still in the three times, but in this moment, it's like being here, but analyzing it, telling a story about it, interpreting it. Versus actual presence, actual fourth time is really just even without that, you know. So yeah, I found that really quite helpful as well.
+])
+
+#speaker("Dawai", [
+  Yay! Yeah, when we're being innovative, we never know, right? So that's great. I think we can polish a little bit and continue to utilize this technique. And thankfully, Yeshé got it out there to share with everybody. So I kind of prioritize some of these other techniques before we do isolation of the conditioned self.
+
+  And we'll go back to isolating a thought. But here we’re doing this cognitive diffusion before we go into isolating the conditioned self. So even though when you isolate thoughts, usually the conditioned self is mixed in there, but maybe not as explicitly.
+
+  Anyway, thank you everybody so much for joining and giving these techniques a try. And we just kind of, you know, get more freedom in our mind, in our life, in our world. And get some of the congestion out and use these different mind sciences, right? These are just tools, mind science tools that are very effective apparently, and they're based on our own introspection. So that makes them very powerful.
+
+  So yeah, big appreciation and we'll just end here then with this moment of silence for the dedication. And deep bow to you, my friends.
+
+  Please take care out there. Thank you.
+])
 
 #archive_minimal("December 24, 2025", "Time-displacement practice...", "https://www.youtube.com/watch?v=pUnWCO-RBnA")

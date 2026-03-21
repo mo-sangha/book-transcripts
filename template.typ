@@ -27,6 +27,32 @@
 /////////////////////////////////////////////////////////////////////////////////
 // Style and Layout
 /////////////////////////////////////////////////////////////////////////////////
+
+// Wraps the lines spoken by a particular speaker.
+// This is useful during Q&A sections to denote when the speaker changes.
+#let speaker(speaker, doc) = {
+  set block(spacing: 0.65em * 2) // Create extra whitespace around this block.
+
+  set par( // Instead of indenting the first paragraph, we'll show the speaker name.
+    first-line-indent: (
+      amount: 1em,
+      all: false, // Indent every paragraph but the first in this block.
+    ),
+  )
+
+  block[
+    #smallcaps(speaker):
+    #doc
+  ]
+}
+
+// Wraps incidental behavioral descriptions of what's happening, like laughing, fidgeting, etc.
+// The content should be its own sentence, including a period, for example: `#btw[Dawai laughs].`
+#let btw(content) = {
+  set text(style: "italic")
+  [(#content)]
+}
+
 #let template(doc) = context {
   set document(
     title: book_title,
