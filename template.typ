@@ -149,6 +149,8 @@
   show "Shakyamuni": [Śākyamuni]
   show "sadhana": [sādhanā]
   show "Sadhana": [Sādhanā]
+  show "samapatti": [samāpatti]
+  show "Samapatti": [Samāpatti]
   show "svabhava": [svabhāva]
   show "Svabhava": [Svabhāva]
   show "Mahasandhi": [Mahāsaṅdhi]
