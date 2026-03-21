@@ -28,7 +28,7 @@ Yeah, I think you see. [laughing] If you see, you can laugh, it's okay. It's gre
 
 And all of us here are able to access this on some level. You can say, "Well, I'm in my thoughts quite a lot," but sometimes I know that. So there you're kind of fluctuating from thought cocoon to witness. You're not even close to dissolving the witness, if I'm going to be honest with you at that point. Now, you may have, of course, you're going to have moments like everybody of no witness, that's the conditioned self, that witness. Many meditation paths stop there. If you haven't noticed, they stop there. They're okay with just teaching you how to be the witness, and many books are written about just that. 
 
-But Buddha Dharma takes it one step further with the not-self teachings. I want to be careful saying "no-self," because that does lean people into nihilism. We're talking about not-self specifically. We talk about the aggregates being not-self; conditioned consciousness is in there. That consciousness that's in the five aggregates of the Buddha Dharma is the witness. That's the conditioned self. That witness has perceptions, feelings, thought formations, and a body. 
+But Buddhadharma takes it one step further with the not-self teachings. I want to be careful saying "no-self," because that does lean people into nihilism. We're talking about not-self specifically. We talk about the aggregates being not-self; conditioned consciousness is in there. That consciousness that's in the five aggregates of the Buddhadharma is the witness. That's the conditioned self. That witness has perceptions, feelings, thought formations, and a body. 
 
 Reading chat: The sense of self is a sense. 
 
