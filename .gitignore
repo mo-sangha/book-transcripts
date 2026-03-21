@@ -1,0 +1,10 @@
+# Output files.
+*.pdf
+*.html
+*.epub
+
+# Temporary files.
+*.bak
+*.new
+*.prepl
+.DS_Store
