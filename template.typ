@@ -45,6 +45,8 @@
   )
 
   set par(
+    first-line-indent: 1em, // Indent the first line like in a book.
+    spacing: 0.65em, // Decrease the spacing between paragraphs so it flows like a book.
     justify: true,
     justification-limits: (
       // How much can the width of spaces between words be adjusted?
