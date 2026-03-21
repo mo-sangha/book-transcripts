@@ -56,7 +56,7 @@ No need to bring the past in. If you're thinking about the past, release it. If 
 
 And that's what it means by releasing, just leaving it within your awareness and then allowing it to pass and liberate. So he also mentions, don't examine what's going on right now, right? And don't imagine, like fantasize. And I would say, if you're imagining fantasizing, it must be cyclic usually, and it's a habit of that, so leave that within awareness, which is the last of those six nails, relax and let it be.
 
-So then the four chokshags, right, we get that from Manjushri Mitra, right? The Mila Mitra, maybe actually. To leaving it be, again. So notice how every single one of these Dzogchen Mahamudra instructions are about just leaving it be, the same as cognitive behavioral therapy.
+So then the four chokshyaks, right, we get that from Manjusrimitra, right? The Mila Mitra, maybe actually. To leaving it be, again. So notice how every single one of these Dzogchen Mahamudra instructions are about just leaving it be, the same as cognitive behavioral therapy.
 
 So the four chokshags, your view, which is awareness, let it be like a mountain.
 

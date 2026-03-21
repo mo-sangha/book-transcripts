@@ -64,7 +64,7 @@ But if you're taking it—really, that's kind of placebo/nocebo, right? If you'r
 
 And I'm not an expert, everybody, okay? So, you explore it with me; and whatever realizations you have, I invite you to share them as a kind of science—new grounds here that we're exploring, okay?
 
-So that's my short explanation of the elements and the colors, and the five Buddha families, and how they relate. By the way, those numbers you see there are the eight consciousnesses. You have the five sense consciousnesses, the sixth emotional-thinking consciousness, the seventh ego consciousness, and the eighth is the Alaya seeded with karma.
+So that's my short explanation of the elements and the colors, and the five Buddha families, and how they relate. By the way, those numbers you see there are the eight consciousnesses. You have the five sense consciousnesses, the sixth emotional-thinking consciousness, the seventh ego consciousness, and the eighth is the alaya seeded with karma.
 
 So that was all from memory too, so I'm sure I was missing something I probably would have wanted to mention. Anyway, I hope that benefits. And what seems to be a trend, the person who asked the question is gone so hopefully they will benefit from that, and maybe some of you also.
 

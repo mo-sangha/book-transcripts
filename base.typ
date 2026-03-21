@@ -85,6 +85,7 @@
   show "Manas-vijnana": [Mānas-vijñāna]
   show "Dignaga": [Dignāga]
   show "Mahayana": [Mahāyāna]
+  show "Manjusrimitra": [Mañjuśrīmitra]
   show "vidya": [vidyā]
   show "Vidya": [Vidyā]
   show "jhana": [jhāna]
