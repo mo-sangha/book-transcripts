@@ -16,7 +16,7 @@ Dawai: So an awareness practitioner has the ability to stay here in awareness.
 
 Responding to chat: I would say, [Sangha 1], it's like [Sangha 2] was saying—the thing attaching to the narrator. Almost like you could have narration without that. And Manasvijnana, as it's known in Sanskrit, has this habit of apprehension. So wonderful even now that you're able to identify it in one of its aspects. Of course, it has different behaviors and different weights and different tonalities. It's on a spectrum. We can't expect that the habit of conditioned self only behaves one way.
 
-But thanks to the synthesis of the Buddhist teaching with Yogachara, we have the eight aspects of mind. And so the conditioned self is one of the things that's here.
+But thanks to the synthesis of the Buddhist teaching with Yogacara, we have the eight aspects of mind. And so the conditioned self is one of the things that's here.
 
 Let's say we're talking about a giant screen right now. What's on the screen? We have conditioned self, we have thoughts—thoughts are visible in awareness. Especially if you're stabilized a little bit in awareness, then you know what kind of thoughts you're having. Whether they're heavy, whether they're light, which topic they're relevant to, all of that, as in your visibility. Yes or no?
 

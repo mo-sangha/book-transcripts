@@ -15,11 +15,11 @@ Okay, very nice. And so the degree of your distraction there is measurable, righ
 
 #heading(level: 3, outlined: false, [Body Scan in Śūnyatā])
 
-And so now we'll do what's typically called Vipaśyanā as a body scan in Śūnyatā, okay? So body scan is just starting from the crown of your head and just slowly working your way through, going down inside the brain, the forehead, the eyes, the nose, the lips, bringing them in awareness. Then the neck and the shoulders, allowing that tension to release, the arms down to the forearms and the hands, the chest and the stomach, back.
+And so now we'll do what's typically called Vipassana as a body scan in Śūnyatā, okay? So body scan is just starting from the crown of your head and just slowly working your way through, going down inside the brain, the forehead, the eyes, the nose, the lips, bringing them in awareness. Then the neck and the shoulders, allowing that tension to release, the arms down to the forearms and the hands, the chest and the stomach, back.
 
 We're just getting in touch, right, with these aspects of our experience, saying, come into the house of awareness. You may leave it at the stomach for a second, bringing the very intricate nervous system down there, lots of organs coming into awareness, and down to the pelvis area, the sitting muscles, the private area, the thighs, down to the legs and the feet. Whole body now in awareness.
 
-And if you zoom out a little bit, your whole energy, the subtle energy body. So that's a little Śūnyatā, Śamatha, Vipaśyanā, the stability and insight practices.
+And if you zoom out a little bit, your whole energy, the subtle energy body. So that's a little Śūnyatā, Śamatha, Vipassana, the stability and insight practices.
 
 #heading(level: 3, outlined: false, [Isolating a Thought])
 
@@ -223,7 +223,7 @@ So are there any questions about this stuff going on? Yes, hello.
 #speaker("Dawai", [
   Probably not. I keep it mostly on Dzogchen in these gatherings. But you can request anything, remember that. You can request a teaching in our live gathering. I have been doing yoga since I was a kid, even before a teenager. We can do anything, from Prāṇāyāma to advanced yoga, Tummo, inner heat practices. All kinds of things.
 
-  Request those, because it's practitioner-dependent here, always. Except Dzogchen, you'll get Dzogchen daily. Everything from ninth Yāna down is basically request-based. Nine-round breathing, advanced Kurukulle cycles. We don't do Semdzins or Khordé Rushen unless requested. Thankfully, we have access to all that. I've done Ngöndro and all these things, so I can share.
+  Request those, because it's practitioner-dependent here, always. Except Dzogchen, you'll get Dzogchen daily. Everything from ninth Yāna down is basically request-based. Nine-round breathing, advanced Kurukulle cycles. We don't do semdzins or Khordé Rushen unless requested. Thankfully, we have access to all that. I've done Ngondro and all these things, so I can share.
 
   Glad you're getting back into that comfortably.
 ])

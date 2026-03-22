@@ -22,4 +22,4 @@ So any questions about recognizing the nature of mind? Awareness, mindfulness, a
 
 
 
-#archive_minimal("November 25, 2025", "Dzogchen meditatin on...", "https://www.youtube.com/watch?v=-7cr5CWSO_w")
+#archive_minimal("November 25, 2025", "Dzogchen meditation on...", "https://www.youtube.com/watch?v=-7cr5CWSO_w")
