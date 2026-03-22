@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== Let yourself be loved  
+== Let yourself be loved
 
 I just wanted to share some things. And please, nobody get judgmental and things like that, but growing up, basically, it was me, my mom, my sister, and my mom was pretty young, and so she had to do a lot for us to survive. What that meant was that we didn't get a lot of parental love. We didn't have a family; we didn't have grandparents around and things like that.
 

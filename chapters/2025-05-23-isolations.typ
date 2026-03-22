@@ -1,10 +1,10 @@
 #import "/template.typ": *
 
-== The four cyclical isolations, and why  
+== The four cyclical isolations, and why
 
 When you first go into a short session, you're leaving your eyes open, and what is here for you? Well, typically we're conditioned to be in thoughts.
 
-So if I was to give an example I would say: What is happening with this meditation? What am I even doing with these people? But really, you're just having thoughts, right? I wonder what I'm gonna do today? Probably go meet up with my mom. I wonder if I'm nervous about that. I don't know, maybe. So I'm in these thoughts, right? And that's kind of where I'm psychically located. 
+So if I was to give an example I would say: What is happening with this meditation? What am I even doing with these people? But really, you're just having thoughts, right? I wonder what I'm gonna do today? Probably go meet up with my mom. I wonder if I'm nervous about that. I don't know, maybe. So I'm in these thoughts, right? And that's kind of where I'm psychically located.
 
 But you can have awareness of thoughts.
 
@@ -16,7 +16,7 @@ So, look at the ants. No offense to the ants, I love the ants so much, actually,
 
 So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_.
 
-Everybody understanding that, right? How we can psychically isolate ourselves, and that becomes emotive to the intense feelings associated. 
+Everybody understanding that, right? How we can psychically isolate ourselves, and that becomes emotive to the intense feelings associated.
 
 "Get out of my way, I'm on a mission!" And the ant is like, "Get out of my way, I'm gonna crawl over you, I don't care." Steps on the other ant with like ten legs, ten feet, in their face. How many legs do ants have? I think, yeah, six, right? Six feet—that's more than two. You know, so when an ant gets stepped on, it's six times over.
 
@@ -54,7 +54,7 @@ And if you yourself don't want to believe me, then you can verify, you can test,
 
 So that brings us to the second thing. That when you're in the short session, where you could be, maybe I'm in a mood. Maybe I feel sick, or maybe I feel nervous, or something like that. So I'm in a kind of mood now, and somebody says: "Hey Dawai, why don't you pay attention to your breath? Take a deep breath." "I can't right now, I'm nervous". Short breaths, stressful breaths, right?
 
-So okay, Dawai, "just be here with it for ten minutes." Okay, so I'm here, I'm crunched up, my shoulders are crunched, my neck is crunched, I have tension throughout my body, and I'm not doing anything about that. 
+So okay, Dawai, "just be here with it for ten minutes." Okay, so I'm here, I'm crunched up, my shoulders are crunched, my neck is crunched, I have tension throughout my body, and I'm not doing anything about that.
 
 But I'm again isolated, right? Now instead of vivid thoughts, I'm isolated in a mood. It's a little bit more vague, it's a little bit more subtle where my isolation is, but it's still cognizance. It's still cognition, just like the thoughts. I'm stuck in cognition, I'm stuck in cognition either way. So I'm stuck in this nervousness, this anxiety—and then I just let it be. It has to go away, it cannot last forever.
 
@@ -86,7 +86,7 @@ I'm incorporating the five aggregates a little bit here. So let's say you've bee
 
 So it's a kind of, not many thoughts there, not much mood there, but it's a perspective. You understand? You could go to the complete opposite of that and say, I don't believe in enlightenment. That is a bunch of crap. And you kind of, you're not very having any thoughts, but you're kind of having the skeptical disposition, this perspective. And then maybe someone says to you, hey, you can really enlighten the mind, you know. And you're holding this perspective like, yeah, okay, I believe you. Sure.
 
-You know, it's just a perspective. It's not really deeper than that, a lot of times. And we can hold these perspectives for long, long times. 
+You know, it's just a perspective. It's not really deeper than that, a lot of times. And we can hold these perspectives for long, long times.
 
 Nationalism is a great example. You can be very proud of your country. That's a kind of perspective that you're holding. You can see people marching at restaurants together, all holding the same perspectives. Religious hierarchy, racial hierarchy is a perspective. You know, it's very subtle. I think Israel is a great example of that. They have this disposition. And if you're from Israel, if you're watching and you like Israel, I'm sorry, but I cannot agree with that country at all. It's in their Constitution to hate others who are not, you know, of their country. It's written in black and white. I mean, we can ignore that. I'm not trying to ruffle any feathers. But that's a hierarchical disposition based on nationalism.
 
@@ -98,7 +98,7 @@ I know that's a sensitive topic, but these are perspectives that we take up. And
 
 You don't have to do anything about it. If there's oppression in this world and you can't do anything about it, visibility is enough, okay? Just knowing, and just us speaking about it like this openly is enough.
 
-If these kinds of discussions give you stress, that's probably your empathy, your compassion, which is great, better than apathy and destruction. But at the same time, we should be able to discuss these things without our emotions conquering us, and just put a flag in the ground: This is wrong, right? And you don't even have to hold a perspective that I'm against extreme nationalism or extreme religious fanaticism. You just can objectively state, like a scientist, religious fanaticism is probably destructive for the mind. Very easy like that. Extreme nationalism, those kinds of perspectives are very destructive for the mind, just knowing that.  
+If these kinds of discussions give you stress, that's probably your empathy, your compassion, which is great, better than apathy and destruction. But at the same time, we should be able to discuss these things without our emotions conquering us, and just put a flag in the ground: This is wrong, right? And you don't even have to hold a perspective that I'm against extreme nationalism or extreme religious fanaticism. You just can objectively state, like a scientist, religious fanaticism is probably destructive for the mind. Very easy like that. Extreme nationalism, those kinds of perspectives are very destructive for the mind, just knowing that.
 
 Responding to chat: Oh that's an interesting comparing, comparing nationalism to a collective ego. Very interesting, yeah. And I want to say there's some kind of healthy nationalism, to be, you know, happy about your country, your culture, and things like that. Yeah, so I don't want to completely say that. Yeah, maybe that's more patriotism, isn't it?
 

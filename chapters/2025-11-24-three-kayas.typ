@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== Guided Meditation on the Three Kayas  
+== Guided Meditation on the Three Kayas
 
 And so of course this is Dzogchen Atiyoga, the highest but the most simple approach to meditation. Just allow the body to relax, keeping the eyes open. Ideally losing your focus, just allowing the eyes to drop in front of you in empty space. Breathing into presence.
 
@@ -12,13 +12,13 @@ Because the first aspect of this practice, this three kayas meditation, is to in
 
 Now we'll go into the _Sambhogakaya_ aspect, which is the clarity, awareness itself. Within your visual field, notice that awareness is there. Now notice that there's some space. All these appearances and awareness itself is within a space. That's the _Dharmakaya_.
 
-So you see, we can abide in the union of the three kayas, because the body itself is also just a Nirmanakaya appearance infused with clarity—awareness within open space. And it's like water into water. Allow your whole body, everything, the thoughts, even if you're distracted—allow the distraction to be here. 
+So you see, we can abide in the union of the three kayas, because the body itself is also just a Nirmanakaya appearance infused with clarity—awareness within open space. And it's like water into water. Allow your whole body, everything, the thoughts, even if you're distracted—allow the distraction to be here.
 
 Not that our mind is unconfined from subjectivity, ideally. Now that we're coming out of the body, out of locating inside of a reference point, we can truly be like water being poured into water because now our body, our emotions, our thoughts have a place to be. And so true effortless abiding can take place. You don't need to do anything to rest your body in awareness. And it's very nourishing too. And after about five minutes of effortless abiding, you'll notice the lifting off of stress or contraction and things like that—tension to naturally come off of you.
 
-Okay my friends, that's it. So we'll just do a short 10-minute session of effortless abiding. 
+Okay my friends, that's it. So we'll just do a short 10-minute session of effortless abiding.
 
-Okay. Go for another few minutes. And if you shifted out just now when I said "okay," that means you were holding something. Now stay where you're at, relax. We have another five minutes or so. 
+Okay. Go for another few minutes. And if you shifted out just now when I said "okay," that means you were holding something. Now stay where you're at, relax. We have another five minutes or so.
 
 Alright, now it's really over. I got you guys.
 

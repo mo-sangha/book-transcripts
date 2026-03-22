@@ -78,7 +78,7 @@ This can be very nice, leaving the third chokshyak as they would call it, leavin
 
 Apparently the old paṇḍits and yogis were basically like TikTokers. They were dancing and singing all the time, doing short dohas, little songs of realization. Who knows, they might have had an ancient TikTok. Today Mahāmudrā dance is trending, and then everybody got it.
 
-The fourth chokshyak is the fruition. This is not just awareness, but when insubstantiality, what they have called emptiness for a long time, starts to show its face, to blossom out, referentiality starts to settle in its own place. When the egoic apprehending consciousness is able to free in its own place, then you have the fruition, which is easy to apprehend. 
+The fourth chokshyak is the fruition. This is not just awareness, but when insubstantiality, what they have called emptiness for a long time, starts to show its face, to blossom out, referentiality starts to settle in its own place. When the egoic apprehending consciousness is able to free in its own place, then you have the fruition, which is easy to apprehend.
 
 "Oh my goodness, I feel blissful and one with everything." Oh dang, I just ruined it because I said that I just apprehended it.
 
@@ -92,11 +92,11 @@ The fourth chokshyak, which probably comes from _The Tantra without Syllables_,
 
 If you get hung up on one little insight and write a book about it and become a guru about it, then you are shortchanging yourself.
 
-Those are the four chokshyaks. They correspond perfectly with the second phase we have here in the group, where you go into effortlessness. That is the key point. 
+Those are the four chokshyaks. They correspond perfectly with the second phase we have here in the group, where you go into effortlessness. That is the key point.
 
 The major implication of the four chokshyaks, the four ways of letting be, is effortlessness, even within action, until pure view starts to blossom on its own. It is a huge trust issue to come into the luminous mind, the free mind, because we are cozy in our proliferations, distractions, and sense indulgences. The great thing, if you have had an authentic recognition, is that awareness will keep triumphing over your attraction to sense objects. Even in the midst of engagement with sense indulgences, awareness will be there, winning.
 
-Learn to do nothing, everybody. You do not even learn to do nothing. Get used to doing nothing, even while you are doing something. The mind tricks you so easily. When I say 'do nothing,' it is like, 'oh, you cannot do nothing.' No, no, no, do not let it play that game. 
+Learn to do nothing, everybody. You do not even learn to do nothing. Get used to doing nothing, even while you are doing something. The mind tricks you so easily. When I say 'do nothing,' it is like, 'oh, you cannot do nothing.' No, no, no, do not let it play that game.
 
 I am obviously doing something right now, telling you to do nothing. But I am doing nothing as I sit here talking to you.
 

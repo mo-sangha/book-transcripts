@@ -3,7 +3,7 @@
 == The Five Hindrances and the Dzogchen Antidote
 
 I hope you'll be able to relate... I hope you'll be able to relate... I hope you'll be able to relate, you know, not just sitting, but all four of these postures: walking, lying down, standing, and sitting. We usually have the five hindrances going on in all our situations throughout the day, actually. So, what are the five hindrances, right? Maybe I should mention that first.
- 
+
 Well, the first one is desire. The second one is ill will, anger, general aversion, I think we can say. The third one would be laziness. The fourth one would be restlessness. And the fifth one is doubt, particularly doubt in one's own capacity to be free.
 
 If I was to briefly summarize each one, I guess I would say desire keeps you off the cushion most of all. It's chasing shiny things and vivid sense pleasures that distract us into cycles of stress and disease. This could also be on subtle levels, where we desire a different state of consciousness—we want to feel different than we feel right now. It could be applied to all four foundations of mindfulness, actually. You don't want these thoughts, you don't want these feelings, you don't want this body stuff going on, whatever it may be. We don't want this environment, or something about this environment.

@@ -1,7 +1,7 @@
 #import "/template.typ": *
 
 == Stuck in thoughts no more, a talk on the Dzogchen way out of this age old sickness
-    
+
 So here are some basic kind of stages that we can be at as meditators, right? They could even be considered phases because if you're progressing along some type of path, then you could consider them to be like phases. So these aren't to be reached for or achieved necessarily, but this is kind of what happens during meditation.
 
 The average person is stuck in their thoughts. This is the age-old kind of issue. Even in the Torah, you know, even in Adam and Eve and Genesis, they talk about the thoughts—the thinking mind—being evil, right? Now, I'm not saying it's evil, and maybe that was a lack of words there that they had to kind of articulate this point. It's not that they're evil; in my opinion, I think it's an immaturity when we're stuck in our thoughts. It's a kind of womb, it's a phase that we're in, like we can maybe have a kid phase and teenage phase, young adult phase. Well, spiritually or psychologically speaking, we have a phase where we're stuck in our thoughts.
@@ -18,7 +18,7 @@ We have the witness of the thoughts. Or, if you're going all the way with the Dh
 
 How can the witness dissolve? Now the thoughts can… the thought karma, the momentum, the patterns, the plasticity, however you want to call that—that patterning can exhaust itself within the witness. But where does the witness exhaust itself? Anybody want to take a guess at that one? Real hard questions today, I know.
 
-Reading chat: Witness-less mind. Primordial state and awareness, and to nowhere. 
+Reading chat: Witness-less mind. Primordial state and awareness, and to nowhere.
 
 Dawai: But there's... even if we sit here witnessing the thoughts—let's say we're thinking of broccoli again, because we just can't stop—and we're witnessing ourselves, but don't you know that you're witnessing yourself thinking of broccoli? There's a feeling of me sitting here thinking of broccoli. I'm aware of that. Yeah, this is very nuanced mind.
 
@@ -26,11 +26,11 @@ So that knowingness, that awareness permeates the witness, permeates thoughts an
 
 Yeah, I think you see. [laughing] If you see, you can laugh, it's okay. It's great because the very taproot of samsara, of all your troubles, is the witness—or it's being in the thoughts and the witness is then dragged around by the thoughts and the emotions. So you see, the witness starts out subservient, then becomes a silent observer, then becomes the master. Just like the nine stages of Samatha, where the monkey's kind of following this elephant, and then at the end riding that elephant. This making sense? Yep, okay.
 
-And all of us here are able to access this on some level. You can say, "Well, I'm in my thoughts quite a lot," but sometimes I know that. So there you're kind of fluctuating from thought cocoon to witness. You're not even close to dissolving the witness, if I'm going to be honest with you at that point. Now, you may have, of course, you're going to have moments like everybody of no witness, that's the conditioned self, that witness. Many meditation paths stop there. If you haven't noticed, they stop there. They're okay with just teaching you how to be the witness, and many books are written about just that. 
+And all of us here are able to access this on some level. You can say, "Well, I'm in my thoughts quite a lot," but sometimes I know that. So there you're kind of fluctuating from thought cocoon to witness. You're not even close to dissolving the witness, if I'm going to be honest with you at that point. Now, you may have, of course, you're going to have moments like everybody of no witness, that's the conditioned self, that witness. Many meditation paths stop there. If you haven't noticed, they stop there. They're okay with just teaching you how to be the witness, and many books are written about just that.
 
-But Buddhadharma takes it one step further with the not-self teachings. I want to be careful saying "no-self," because that does lean people into nihilism. We're talking about not-self specifically. We talk about the aggregates being not-self; conditioned consciousness is in there. That consciousness that's in the five aggregates of the Buddhadharma is the witness. That's the conditioned self. That witness has perceptions, feelings, thought formations, and a body. 
+But Buddhadharma takes it one step further with the not-self teachings. I want to be careful saying "no-self," because that does lean people into nihilism. We're talking about not-self specifically. We talk about the aggregates being not-self; conditioned consciousness is in there. That consciousness that's in the five aggregates of the Buddhadharma is the witness. That's the conditioned self. That witness has perceptions, feelings, thought formations, and a body.
 
-Reading chat: The sense of self is a sense. 
+Reading chat: The sense of self is a sense.
 
 Dawai: Oh, very nice. Yeah, a little bit tricky to articulate that, you know? What does that feel like? What does that look like? What is the weight of that witness?
 
@@ -42,7 +42,7 @@ So then, if you're brave enough, if you have the opportunity and the fortune pro
 
 And the horrible part, really, is when at first you're here and you see the thoughts and they still grab you. And now you see that they're grabbing you. That's in the beginning, and that's torturous—it can be torturous. Or maybe if you're a long-time meditator, you're out here and it's still, _shooom_! It still grabs you somehow, right? Remember, all thoughts trigger emotional appeal. That's very subtle to notice, but whatever emotions we're in, whatever states of consciousness we're in, is triggered, upheld, maintained, and ended by thought or lack thereof. Okay?
 
-So this is real. When these patterns—when they don't have the strength anymore, even after a long, long time—they don't have the strength to captivate the witness. Perhaps you're in Dzogchen and the witness is now fading into infinite space and the thoughts are just here within infinite space like, trying, trying to grab... where are you? No witness to grab. That's where the inquiry schools, they utilize that technique. If they're doing it right, then that witness will be gone and these cycles will no longer have a basis. They won't have anyone to grab. 
+So this is real. When these patterns—when they don't have the strength anymore, even after a long, long time—they don't have the strength to captivate the witness. Perhaps you're in Dzogchen and the witness is now fading into infinite space and the thoughts are just here within infinite space like, trying, trying to grab... where are you? No witness to grab. That's where the inquiry schools, they utilize that technique. If they're doing it right, then that witness will be gone and these cycles will no longer have a basis. They won't have anyone to grab.
 
 And Dzogchen kind of does that too. It kind of pulls the rug out from the cycles of thoughts and emotions by pulling that conditioned self out and leaving spacious ineffable mind there, no-mind. Now there's nothing for the thoughts to grab. So it's like a thief entering an empty house, like we've heard in the three modes of liberation.
 

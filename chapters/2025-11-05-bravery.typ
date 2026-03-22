@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The bravery of integrating experience into the view   
+== The bravery of integrating experience into the view
 
 Dawai: The topic being what he was from a conventional standpoint calling patience, but from a Dzogchen point of view I wouldn't say this is patience—it's more bravery than anything. And that's beginning to allow karmic habituations.
 
@@ -30,7 +30,7 @@ One's just a little heavier than the other. One has more stories than the other.
 
 So any questions, comments so far? Is this making sense—how slowly, throughout the day and night, we're incorporating all experiences? Sometimes they term it integration—integrating experience into the view. It's skipped over a lot of times because, particularly in non-dual approaches—and I mean this with kindness and no disrespect, but—they just tell you everything's perfect right now, and that's it. And then the karmic cycles return, and you're like, "Oh, doesn't feel like this non-dual perfection anymore."
 
-And so this path actually deals with those cycles, you see, by integration. Integration, self-liberation––things freeing in their own place. It's not really out there. But that is the remedy, paradoxically speaking. 
+And so this path actually deals with those cycles, you see, by integration. Integration, self-liberation––things freeing in their own place. It's not really out there. But that is the remedy, paradoxically speaking.
 
 Any questions, comments? You got it? Pretty straightforward, right? Especially if you've seen awareness, you've seen this space-like, very subtle aspect of your mind that can hold every aspect of experience. You need that, otherwise everything I just said, out of context.
 
@@ -44,11 +44,11 @@ But why can't we stick together? Because we're fighting about beliefs. All the n
 
 But you know, under compassion, under relentless insistence on peace. And if all the people united under that, they'd be safer, they'd be better off, the world would be better off. Instead we play all these games with all these countries and force all these laws onto people, and all these things. And all the propaganda getting shoved into people's minds is the basis. This is psychological warfare.
 
-Well, in my little fantasy, know, there has been and will be a time again where beings are just beings without the labels, you know? There's no reason to fight each other at all. There's no reason to hurt animals at all. And that's radical, isn't it? Just like we gotta let ourselves be loved, we gotta let ourselves be enlightened, we gotta allow ourselves to be enlightened, we gotta allow world peace. We gotta allow that great peace. Never know what could happen. 
+Well, in my little fantasy, know, there has been and will be a time again where beings are just beings without the labels, you know? There's no reason to fight each other at all. There's no reason to hurt animals at all. And that's radical, isn't it? Just like we gotta let ourselves be loved, we gotta let ourselves be enlightened, we gotta allow ourselves to be enlightened, we gotta allow world peace. We gotta allow that great peace. Never know what could happen.
 
 So beginning to see the entire reality just like you see your inside––allowing it to self-liberate, be freed in its own place. When beings, even in small groups like this, wake up, it's so powerful, then what's uniting us? Awareness, naked awareness, you can't mess with that. There's no belief that could fight that or turn against, get people to turn against awareness.
 
-Well anyway, maybe I've gone a little idealistic here, or at least it sounds that way. The main point is to allow oneself to have that freedom throughout the day. And may be, you know, you need to take it slow, slowly integrate experiences and reality into the view. Okay? 
+Well anyway, maybe I've gone a little idealistic here, or at least it sounds that way. The main point is to allow oneself to have that freedom throughout the day. And may be, you know, you need to take it slow, slowly integrate experiences and reality into the view. Okay?
 
 So I think that's all I have to say on that topic. Are there any question, comments? Think we can all relate to that, how beliefs can possess us, ideas can possess us, and get us doing the cruddiest things. Justifying abuse, only to feel terrible about it.
 

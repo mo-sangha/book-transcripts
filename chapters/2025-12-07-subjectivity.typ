@@ -1,16 +1,16 @@
 #import "/template.typ": *
 
-== Subjectivity, the habit of apprehending  
+== Subjectivity, the habit of apprehending
 
 Dawai: I wanted to come back around to subjectivity. We all finished a ten-minute effortless abiding session just now, and it doesn't really end, does it? But what happens is after the bell rings, even though we don't have a bell, after the session ends, we start doing again. We start piling on the doings.
 
 It's electromagnetic. You can literally imagine that contrast when we're thinking a lot and when we're not. And the irony is, you can have all those thoughts at your disposal from spaciousness, without the electromagnetism.
 
-By the way, I just posted on Discord. Discord is fine—it's Dharma-filled, it's beautiful, so I don't mind mentioning it. I just posted this study, relatively recent, where they're talking about how light can affect matter. 
+By the way, I just posted on Discord. Discord is fine—it's Dharma-filled, it's beautiful, so I don't mind mentioning it. I just posted this study, relatively recent, where they're talking about how light can affect matter.
 
 For us, this is great because we basically posit, or the yogis are saying this is what they're seeing, and you can see it every time you go to sleep that your mind can create physicality. It can reify. It can smell things, see things, hear things, and feel things in a dream. That means those properties have to be parallel to the waking state. There's no way those would be isolated, light mingling with light, right?  And the reification of that magnetism can start to ease up.
 
-I know I'm getting a little bit brain-bending here with you, but it's still fascinating stuff anyway. My point is that we don't even need to have a conceptual idea of what's happening here. Viscerally, somatically, we can tune in when we're stuck on something. That's a smaller dimension of consciousness. 
+I know I'm getting a little bit brain-bending here with you, but it's still fascinating stuff anyway. My point is that we don't even need to have a conceptual idea of what's happening here. Viscerally, somatically, we can tune in when we're stuck on something. That's a smaller dimension of consciousness.
 
 We may be stuck in a habit—people get stuck with a point of view for years. Look at politics, how those thoughts and beliefs and ideas can just captivate people for years. Believe it or not, you can still join a political party without sacrificing your entire freedom and spaciousness. It's wonderful, actually, you can be a participant rather than a servant of this energy in the world.
 

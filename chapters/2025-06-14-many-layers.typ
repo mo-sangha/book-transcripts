@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The many layers of psychic contraction, and how to let go of them   
+== The many layers of psychic contraction, and how to let go of them
 
 Dawai: Okay, Little Bear is going to give the teaching … so pay close attention. He's showing you how to be a loving dog, if you ever get curious. Love you too, buddy. Go sit, go sit. Your harassment is on camera.
 
@@ -52,7 +52,7 @@ So this is exactly what's happening to us, except the appearance of death is so 
 
 Responding to chat: Oh yes, the Torito. I think Tuas was another one, Torito Tuas.
 
-Yeshé has the information, be happy to share that with you:  
+Yeshé has the information, be happy to share that with you:
 “The Turritopsis dohrnii, also known as the immortal jellyfish, is a species of small, biologically immortal jellyfish found worldwide in temperate to tropic waters and is one of the few known cases of animals capable of completely reverting to a sexually immature colonial stage after having reached sexual maturity as a solitary individual.”
 
 Dawai: So it goes back to childhood like Benjamin Button style. [laughing]
@@ -86,8 +86,8 @@ So anyway, that narration that goes on all day, pretty much for a lot of people,
 So taking a vow of silence to begin to silence that voice is part of that echoing. Then you'll see there's another one, another voice that was dictating that voice. And you'll continue to allow those to just liberate out, just let the air out of those.
 
 All right, so any comments, questions so far on any of this stuff?
- 
-Q&A 
+
+Q&A
 
 Reading chat: Dawai teaches Dzogchen speed reading.
 

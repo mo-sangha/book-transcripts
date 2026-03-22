@@ -1,8 +1,8 @@
 #import "/template.typ": *
 
-// STATUS: is there a better version of five-elem-lights.png? 
+// STATUS: is there a better version of five-elem-lights.png?
 // --------------------------------------------------
-== The Five Elements and the Five Lights 
+== The Five Elements and the Five Lights
 
 Very humbly, I don't claim to be an expert on how the elements are actually mind lights, all I can do is do my best to use a very limited range of concepts and speech to convey this. The only reason why I would want to convey this, I'm going to reiterate, please don't let this be a belief system or an idea that you conform to. This should be like something that, when you're naturally abiding in your own mind, you start to see how the elements are correlating; they're co-emerging, they're related to your mind.
 
@@ -32,10 +32,9 @@ So you have in sacred geometry, I do believe you have that masculine-feminine un
 
 And you also see the Flower of Life all over ancient temples, and they use the number 9 a lot. For example, the mala beads—there are 108 beads: 1+0+8 is what? 9. If you cut that in half, it's 54: 5+4 is 9. Cut that in half, 27: 2+7 is 9. Cut that in half, 13.5: 1+3+5 is 9. It keeps going infinitely, and they used to build their temples on this kind of infinite pattern. Nine has many more patterns in it, of course, right?
 
-So, I know there are some comments there, and they’re long and tiny, and they've disappeared—so I hope I don't miss anything—but I'm just going to return to the chart here; I'm just setting the basis for this, okay?   
+So, I know there are some comments there, and they’re long and tiny, and they've disappeared—so I hope I don't miss anything—but I'm just going to return to the chart here; I'm just setting the basis for this, okay?
 
-  
-  #align(center)[
+#align(center)[
   #v(1em)
   #image("/images/five-elem-lights.png", width: 90%)
   #v(1em)
@@ -51,7 +50,7 @@ So you have, well how can we get a little more scientific with anger? For exampl
 
 And by the way, all these colors are proven to have deep psychological effects in modern science; just look in modern psychology, which makes it even more perverted that corporations, like McDonald's, use yellow and red. Yeah, because not only do they have to do with desire and pride, but they also have to do with inflammation and disease, where blues are more healing and things like that.
 
-So really, these corporations that take advantage of these psychological advantages of colors—or the psychological aspects of colors—this is a deep, deep perversion, because you cannot do that unless the people know. Alright? They need to consent to the stuff. 
+So really, these corporations that take advantage of these psychological advantages of colors—or the psychological aspects of colors—this is a deep, deep perversion, because you cannot do that unless the people know. Alright? They need to consent to the stuff.
 
 So, anytime a company, corporation, person, teacher, school, religious leader—anytime they're using some psychological technique that you don't know that they're using—this is unfair. This is abuse; a deep kind of abuse—a divine abuse, a cosmic law you're violating. So, if you see my YouTube video—stop it [laughing]—McDonald's CEOs that are watching Dzogchen videos, you guys, stop it [laughing].
 

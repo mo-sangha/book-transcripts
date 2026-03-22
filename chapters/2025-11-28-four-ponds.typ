@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The four ponds  
+== The four ponds
 
 Dawai: I just say again, warm welcome to everyone here in the live session. Your presence is amazing. To be in the view with you is amazing. Thank you for that. Even Nitty cannot resist anymore. [kitty] So I did want to just briefly talk about this—well, maybe we can call it the four ponds. That's right, I'm making stuff up now. So you could be in one of these four ponds; in fact, you are in one of these four ponds.
 
