@@ -18,25 +18,32 @@ We have the witness of the thoughts. Or, if you're going all the way with the Dh
 
 How can the witness dissolve? Now the thoughts can… the thought karma, the momentum, the patterns, the plasticity, however you want to call that—that patterning can exhaust itself within the witness. But where does the witness exhaust itself? Anybody want to take a guess at that one? Real hard questions today, I know.
 
-Reading chat: Witness-less mind. Primordial state and awareness, and to nowhere.
+#speaker("Sangha 1 (chat)", [
+  Witness-less mind. Primordial state and awareness, and to nowhere.
+])
 
-Dawai: But there's... even if we sit here witnessing the thoughts—let's say we're thinking of broccoli again, because we just can't stop—and we're witnessing ourselves, but don't you know that you're witnessing yourself thinking of broccoli? There's a feeling of me sitting here thinking of broccoli. I'm aware of that. Yeah, this is very nuanced mind.
+#speaker("Dawai", [
+But there's... even if we sit here witnessing the thoughts—let's say we're thinking of broccoli again, because we just can't stop—and we're witnessing ourselves, but don't you know that you're witnessing yourself thinking of broccoli? There's a feeling of me sitting here thinking of broccoli. I'm aware of that. Yeah, this is very nuanced mind.
 
 So that knowingness, that awareness permeates the witness, permeates thoughts and emotions, permeates the body and all appearances. So the four foundations of mindfulness. The nature of mind, what we call awareness for the sake of access, permeates not just the thoughts. So we're sitting here aware of our thoughts, that means that cognizance, awareness, is permeating our thoughts as we're witnessing them. But then the witness is also sitting within cognizance, you see.
 
-Yeah, I think you see. [laughing] If you see, you can laugh, it's okay. It's great because the very taproot of samsara, of all your troubles, is the witness—or it's being in the thoughts and the witness is then dragged around by the thoughts and the emotions. So you see, the witness starts out subservient, then becomes a silent observer, then becomes the master. Just like the nine stages of Samatha, where the monkey's kind of following this elephant, and then at the end riding that elephant. This making sense? Yep, okay.
+Yeah, I think you see. #btw[Dawai laughs]. If you see, you can laugh, it's okay. It's great because the very taproot of samsara, of all your troubles, is the witness—or it's being in the thoughts and the witness is then dragged around by the thoughts and the emotions. So you see, the witness starts out subservient, then becomes a silent observer, then becomes the master. Just like the nine stages of Samatha, where the monkey's kind of following this elephant, and then at the end riding that elephant. This making sense? Yep, okay.
 
 And all of us here are able to access this on some level. You can say, "Well, I'm in my thoughts quite a lot," but sometimes I know that. So there you're kind of fluctuating from thought cocoon to witness. You're not even close to dissolving the witness, if I'm going to be honest with you at that point. Now, you may have, of course, you're going to have moments like everybody of no witness, that's the conditioned self, that witness. Many meditation paths stop there. If you haven't noticed, they stop there. They're okay with just teaching you how to be the witness, and many books are written about just that.
 
 But Buddhadharma takes it one step further with the not-self teachings. I want to be careful saying "no-self," because that does lean people into nihilism. We're talking about not-self specifically. We talk about the aggregates being not-self; conditioned consciousness is in there. That consciousness that's in the five aggregates of the Buddhadharma is the witness. That's the conditioned self. That witness has perceptions, feelings, thought formations, and a body.
+])
 
-Reading chat: The sense of self is a sense.
+#speaker("Sangha 2 (chat)", [
+  The sense of self is a sense.
+])
 
-Dawai: Oh, very nice. Yeah, a little bit tricky to articulate that, you know? What does that feel like? What does that look like? What is the weight of that witness?
+#speaker("Dawai", [
+Oh, very nice. Yeah, a little bit tricky to articulate that, you know? What does that feel like? What does that look like? What is the weight of that witness?
 
 So your mind has layers and layers upon deception that insist on you being stuck in thoughts, triggering emotional upheaval, and all kinds of other obscurations. This little ego combined with its thoughts, its thought power... because remember, the witness, the ego, is subservient to thoughts at first. That's why they hack into our minds, right? That's why they use symbols and all this language. And now, I mean, culture is so obsessed with material—at least they're trying to continue to push materialism. You know, to push being rich and having fancy cars and, you know, really all this stuff, mansions... and even spirituality gets mixed with this. So everybody's kind of feeling like, "Well, if I'm not very rich, then I must be lacking somehow." It's gotten to that point where you hold yourself up to that bar that my value is dependent on how much I'm making.
 
-It is a very interesting culture we're living in, combined with the kind of brainwashing of the digital world like TikTok and Facebook, they really have these deep algorithms that are psychologically targeting people. So for that I say, when your thoughts have that witness on lockdown, "We need to go get that money," right? [laughing] "But we need to have a this or that, you know, bigger house. Come on, man, 16 rooms ain't enough for the two of us?"
+It is a very interesting culture we're living in, combined with the kind of brainwashing of the digital world like TikTok and Facebook, they really have these deep algorithms that are psychologically targeting people. So for that I say, when your thoughts have that witness on lockdown, "We need to go get that money," right? #btw[Dawai laughs]. "But we need to have a this or that, you know, bigger house. Come on, man, 16 rooms ain't enough for the two of us?"
 
 So then, if you're brave enough, if you have the opportunity and the fortune probably that comes from being a decent person, you meet with the teachings somehow. You meet with something that brings you here. And now you can see the dots. "Stop that. Not going out tonight." Right?
 
@@ -54,10 +61,11 @@ What does your mind look like when it's free from hoping for gain and loss? Or w
 
 You are Buddha now. Buddha doesn't look like this statue, this perfect person who says and does the perfectest things. There's a long list—even Buddha Shakyamuni made sorts of mistakes, you know. And I was even shocked when the first time I saw one of my teachers profess that they're human, and I remember very vividly because I was very idealistic too. We were eating at Tulku Dawa's house in Canada and he was eating meat. And one of the students says, "Tulku Dawa, you're a Tulku and you're a realized master, why are you eating meat?" And he said, "Well, this is my fault. This is a weakness of mine." And everybody was kind of like, "Huh?" He's not in infallible?
 
-So really, that humanity though gave everybody access to him. He was able to teach us the Dharma, human to human. You know? So I really think we can be overly idealistic when it comes to ourselves and what that Buddhahood truly looks like. So here, looks like Yeshé shared the eight worldly concerns. They're known by many different names, apparently, like the "Eight Winds," and taught for a very long time. Kind of one of these timeless teachings: hope for pleasure, fear of pain; hope for gain, fear of loss; hope for praise, fear of criticism; hope for good reputation and fear of bad reputation. And they added one recently: this hope for upvotes and fear of downvotes.[laughing]
+So really, that humanity though gave everybody access to him. He was able to teach us the Dharma, human to human. You know? So I really think we can be overly idealistic when it comes to ourselves and what that Buddhahood truly looks like. So here, looks like Yeshé shared the eight worldly concerns. They're known by many different names, apparently, like the "Eight Winds," and taught for a very long time. Kind of one of these timeless teachings: hope for pleasure, fear of pain; hope for gain, fear of loss; hope for praise, fear of criticism; hope for good reputation and fear of bad reputation. And they added one recently: this hope for upvotes and fear of downvotes. #btw[Dawai laughs].
 
 Okay well, I think I was able to really vocalize these somewhat abstract stages of meditation. I wanted to break them down into those main three: being stuck in thoughts, being the witness of thoughts, and then the dissipation of all of those—or at least the softening of the witness, that conditioned ego. Now remember I said within the witness, thoughts and emotions start to soften, your patterning, your conditioning starts to soften; but within awareness, your witness starts to soften. Okay? All right.
 
 Well, thank you so much for listening and I hope it benefits.
+])
 
 #archive_minimal("Nov 2, 2024", "Stuck on thoughts...", "https://www.youtube.com/watch?v=G_RUgDW40Zg")
