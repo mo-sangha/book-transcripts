@@ -2,11 +2,11 @@
 
 == Wake up, you're having a rough dream!
 
-Dawai: Yes, so this is a talk on meditation and just another summary and a reminder of the praxis involved with Dzogchen, Mahamudra, and what I would say many authentic high-level approaches. They all end up with, they should anyway, empty cognizance.
+Yes, so this is a talk on meditation and just another summary and a reminder of the praxis involved with Dzogchen, Mahamudra, and what I would say many authentic high-level approaches. They all end up with, they should anyway, empty cognizance.
 
 And so empty cognizance means that there's a field of cognizance that's been holding your experience and permeating your experience. And that field has to be empty of any kind of substantiality. If it existed in any reference point, then of course it would not be able to hold your experiences in their entirety.
 
-So I think it's safe to say that's the Dharmadhatu. What do you think, Dorje Lekpa—you agree? The space that's holding everything, and inseparable from everything? Dorje Lekpa's giving the exploration on _The Basic Space of Phenomena_ right now.
+So I think it's safe to say that's the Dharmadhatu. What do you think, Dorje Lekpa—you agree? #btw[Dorje nods]. The space that's holding everything and inseparable from everything. Dorje Lekpa's giving the exploration on _The Basic Space of Phenomena_ right now.
 
 There's a chönyi, dharmata I think is also sometimes called. I like the womb analogy, because the baby in the womb cannot be separate from the mom, and is dependent on it if it wants to grow and exist, and cease to exist; it all happens within the womb. Although in this case, this would be, a lot of times they call suchness or emptiness. They associate with a sphere; sometimes some of you yogis can tune into the atmosphere itself, you can be aware of it; it feels like a sphere. Next time you're outside, you can try that maybe, and just rest without any focus, noticing that sphere-like encompassing presence, just there naturally.
 
@@ -20,7 +20,7 @@ We begin to impregnate the infinite with boundary constraints and build great wa
 
 But isn't it true, on a psychosomatic level, that we sort of feel boxed in, don't we? When we're in a car, we feel like we're in a car, we don't feel like space, wide open space, just because we're not used to it. So you see, this is truly like an eggshell, isn't it? An eggshell of constructs, patterned, moving mind that creates walls. Electromagnetically, this is not anti-scientific.
 
-So by recognizing the nature of mind, we say, oh, we start where we're in our turtle shell: thoughts. The thoughts, they're like a turtle shell, OM MANI PADME OM, I absolutely love turtles. I'm not dissing on turtles, but let's just take it as an example, okay? When we're in our thoughts, we just cannot see the shell; the shell is invisible.
+So by recognizing the nature of mind, we say, oh, we start where we're in our turtle shell: thoughts. The thoughts, they're like a turtle shell, OM MANI PADME HUNG, I absolutely love turtles. I'm not dissing on turtles, but let's just take it as an example, okay? When we're in our thoughts, we just cannot see the shell; the shell is invisible.
 
 So isn't it preoccupying your mind? This is how we get fanaticism, like people ending their lives, people killing others, and doing all types of extreme things. Because we're believing the thoughts, we're believing in them, and we're saying, "Yes, I've elected you to be my president, I've elected you to be my dictator," actually, not a president, maybe you didn't even elect that guy.
 
@@ -30,7 +30,7 @@ So you see, when we're not partnered up with this consultant, then wisdom can be
 
 So awareness is there, if you're feeling, "Oh, I'm so depressed, I feel so sad, how will I ever get out of this?" Again, awareness is there, just holding it. You could be in that emotion or in the awareness. And at first, when we're hooking into awareness, we don't really see its entirety. That's why you cannot really have authentic emptiness, in my opinion, you cannot be as sure as you could be with awareness practice. With awareness practice, you're sure you're thawing out the conditioned self; you're sure that's starting to dissolve.
 
-So we start in the turtle shell: emotions, thoughts. We verify, yes, they're permeated by awareness. The body, oh, yeah, that too. When I have a pain in my toe or something like that, yeah, hey, “Tank, Tank, wake up, you're having a rough dream, wake up!” [Dawai speaking to his dog, and then the sangha].
+So we start in the turtle shell: emotions, thoughts. We verify, yes, they're permeated by awareness. The body, oh, yeah, that too. When I have a pain in my toe or something like that, yeah, hey, “Tank, Tank, wake up, you're having a rough dream, wake up!” #btw[Dawai speaks to his dog Tank].
 
 Okay, so then, typically, we get isolated into that subjectivity; that starts to soften out, especially through the Mahayana-type approaches that focus on compassion to access true emptiness. They get you out of self-absorption and into compassion, to where all day it's no problem; you think of people so much, you think of animals, the environment so much, and it's easy, it's light, it's not work. You don't mind serving the animals, you don't mind serving the people. And then you get served in return immensely from that.
 
@@ -62,7 +62,7 @@ So thankfully these gatherings are so wonderful, each one of you activating and 
 
 So I think that's about it. I don't know what I just said, yeah I think I was just talking about awareness as pretty much permeating the four foundations of mindfulness, right? And really hinging on that to reach the spaciousness of your own mind, and the flow and the harmony of your own mind. And rediscover your own kindness. It'll be familiar to you, I said that a long time ago, right Yeshé? Enlightenment is familiar to us. It's like these qualities from childhood start to come back, and wisdom from childhood, and innocence, and lots of cool stuff returns that was always there as you. This is your mind, it's revealing itself to you.
 
-So I think it's really beautiful, and I totally venerate those of you who are on this path in an authentic way––embracing the awareness practice. To me that's pioneering, we have a very thorough understanding of this awareness practice, Dzogchen, and you're utilizing that. I couldn't have imagined the depth of it, you know, there are many people that just practice mindfulness or dharma, and they don't go as deep as you're going, so I really do venerate that.
+So I think it's really beautiful, and I totally venerate those of you who are on this path in an authentic way---embracing the awareness practice. To me that's pioneering, we have a very thorough understanding of this awareness practice, Dzogchen, and you're utilizing that. I couldn't have imagined the depth of it, you know, there are many people that just practice mindfulness or dharma, and they don't go as deep as you're going, so I really do venerate that.
 
 When I saw Rolpa's video, oh my god, I was so proud and happy, like, he's just so on point, you know, and thank you Yeshé and everybody in the gatherings for making that happen too, I was just so rejoicing for all of you. And when I see Dorje Lekpa's videos too, right, I'm like, wow, we're doing this, we're really, really doing it. And this is what I knew all my life that we're going to do, and that's why I feel so good to see you all being empowered, because this is real, you know, and it truly, you know, I was just outside, just so elated because of you all, and it's still here, really it is.
 

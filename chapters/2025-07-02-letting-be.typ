@@ -2,7 +2,7 @@
 
 == Letting be whatever is, a Dzogchen talk on self-liberation
 
-Dawai: I feel if we have a lot of talk about Dzogchen and texts and biographies and things like that, but no talk about the actual practice or the approach—well, we're not wholly complete. So anyway, just a few words to help you maybe understand this profound approach that happens to have a lot of common ground with cognitive science and cognitive therapy.
+I feel if we have a lot of talk about Dzogchen and texts and biographies and things like that, but no talk about the actual practice or the approach—well, we're not wholly complete. So anyway, just a few words to help you maybe understand this profound approach that happens to have a lot of common ground with cognitive science and cognitive therapy.
 
 In this approach we're just letting be with our eyes open, senses all open, without rejecting anything or going inwards or focusing on anything externally. So if I'm sitting here speaking right now, my eyes are open, yet they're not focusing on anything. And I don't need to be in a continuous thought proliferation to be speaking to you right now. See, I don't need to be aboard a train. I can let thoughts come and go.
 
@@ -38,13 +38,13 @@ So just by letting be, I think that makes sense logically, right? Rationally. Th
 
 I've seen people brand new, fresh to the path, with a good heart—just open heart. All our hearts are good; open heart, "give it to me, what do you want me to do? What do I not do?"—and having a great liberation, having great freedom because of that trust.
 
-Now that’s difficult, so if you don’t trust, it’s okay. I get that. It’s hard to trust people, spirituality, science, meditation, the world. I get it. So that’s why it seems incremental — it seems like there’s gradation.
+Now that’s difficult, so if you don’t trust, it’s okay. I get that. It’s hard to trust people, spirituality, science, meditation, the world. I get it. So that’s why it seems incremental—it seems like there’s gradation.
 
 Just like if I have tension in my hand and my hand hurts because I'm squeezing my fist, the more I trust that if I let go, I'll be relieved. Okay, I got some relief. I don't really trust. Man, this hurts. Last time I was letting go, I felt better. Okay, it feels pretty good, feels pretty good. And then you have a habit. Oh, there it goes again. All right, now just let it be, let it be, it's gonna open up again. Eventually, you're free of these various boundary constraints.
 
 So letting be is the remedy. Again, I'll cite Herbert Barry, who has incredibly high statistics—95% success rate with curing panic attacks. Just by letting be, they last 10 minutes. Otherwise, they would last an hour or longer, just by letting be. And that's an incredible success rate.
 
-And he's not the only one; Jon Kabat-Zinn has been pioneering that for a while now, with the quitting smoking programs and things like that. We don't quit smoking, just keep on smoking, but now you bring awareness into it. Now, that's not an endorsement, for those of you who go into that thinking—It's not an endorsement to, "hey, go, everybody go smoke, go do whatever." No, we're dealing with what's already here, not trying to create new stuff. Big difference, Dzogchen, and in my opinion, probably Zen too—they're dealing with what's already here and not creating anything new. So I hope that makes sense.
+And he's not the only one; Jon Kabat-Zinn has been pioneering that for a while now, with the quitting smoking programs and things like that. We don't quit smoking, just keep on smoking, but now you bring awareness into it. Now, that's not an endorsement, for those of you who go into that thinking—It's not an endorsement to, "Hey, go, everybody go smoke, go do whatever." No, we're dealing with what's already here, not trying to create new stuff. Big difference, Dzogchen, and in my opinion, probably Zen too—they're dealing with what's already here and not creating anything new. So I hope that makes sense.
 
 
 #archive_minimal("July 2, 2025", "Letting be whatever...", "https://www.youtube.com/watch?v=Mw8KXaBHUKY")
