@@ -22,7 +22,7 @@ And then, of course, restlessness on the cushion is going to make you uncomforta
 
 Those of you who are sitting longer, that will be an issue. So, the content of your thoughts is very important. And remember, this applies to all the postures when we're out there in the world. Restlessness—just having restlessness—can end up being a factor in your communication, in your going to sleep at night, and in your eating all kinds of stuff. The five hindrances are all kind of distractions, in a way.
 
-So the last one is doubt. I think the primary there is doubt that you can even be free, that you can even have peace. Sometimes it takes a guide or a friend to remind us of that—that everything's going to be okay, that you are worthy of veneration.
+So the last one is doubt. I think the primary aspect is doubt that you can even be free, that you can even have peace. Sometimes it takes a guide or a friend to remind us of that—that everything's going to be okay, that you are worthy of veneration.
 
 You know, the hierarchy that we see—the hierarchy of respect and veneration—has always baffled me. Why wouldn't we venerate each other on the same level, in an egalitarian kind of way? If I say to you, “My mind is the All-Creating Monarch; I'm God,” well, you may immediately think, “Oh, he thinks he's God.”
 
