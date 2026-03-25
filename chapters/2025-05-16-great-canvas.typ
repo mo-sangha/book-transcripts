@@ -49,7 +49,7 @@ Making sense, right?  Want to jump in there?
 ])
 
 #speaker("Dawai", [
-  Well that's what we do, we take.. If this is all cognizance, a pure base of infinite cognition, and let's say you're just resting in that, purely happy. Then somebody offers you an apple #btw[Dawai laughs], that's a reference to Adam and Eve, you have to be super corny to get that one, but um, so really…
+  Well that's what we do, we take... If this is all cognizance, a pure base of infinite cognition, and let's say you're just resting in that, purely happy. Then somebody offers you an apple #btw[Dawai laughs], that's a reference to Adam and Eve, you have to be super corny to get that one, but um, so really…
 
   So you're here resting in this pure cognition. Inseparable. Perfect. I imagine there's still play, there's still compassion; but it's something beyond imagination. Let's say this is if you're a total pure consciousness merged with pure consciousness, okay?
 

@@ -216,7 +216,7 @@ And so, mental formations can be constructs, but they can also be just little fl
 #speaker("Sangha 4", [Thank you, yes, that makes sense.])
 
 #speaker("Dawai", [
-And I'd say at the base. Look at Kristoff Koch and maybe others, like a lot of physicists that deal with consciousness, I suppose Donald Hoffman and some of the ones I would name are a little bit kind of popular. There are many scientists out there that are interesting, so don't let me sway you into any direction. But when you start the.. I think Kristoff Koch was one of the ones talking about how single-cell organisms are living intelligence. That's consciousness there. So, how does a mental formation initiate? And it's a very first stage I would say it's very much like a single-cell organism.
+And I'd say at the base. Look at Kristoff Koch and maybe others, like a lot of physicists that deal with consciousness, I suppose Donald Hoffman and some of the ones I would name are a little bit kind of popular. There are many scientists out there that are interesting, so don't let me sway you into any direction. But when you start the... I think Kristoff Koch was one of the ones talking about how single-cell organisms are living intelligence. That's consciousness there. So, how does a mental formation initiate? And it's a very first stage I would say it's very much like a single-cell organism.
 ])
 
 #speaker("Sangha 4", [

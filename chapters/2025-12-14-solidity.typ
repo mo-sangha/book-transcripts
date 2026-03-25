@@ -67,7 +67,7 @@ Okay, so any questions about this stuff? Comments, anything? Yes, join on in the
 ])
 
 #speaker("Sangha 2", [
-  So I'm just thinking about this in terms of if we're... so we're lucid enough in a dream to be able to be aware that the colors and the textures that are  appearing in the dream are just kind of manifestations of the mind. It's all coming from the mind, and we have these colors. So is.. one, Is that kind of a worthwhile place to dwell in that lucidity in the dream of just to kind of really reinforce how the appearances are coming from the mind.? But does that... also as a kind of separate question, does that also make it like a tögal practice as well?
+  So I'm just thinking about this in terms of if we're... so we're lucid enough in a dream to be able to be aware that the colors and the textures that are  appearing in the dream are just kind of manifestations of the mind. It's all coming from the mind, and we have these colors. So is... one, is that kind of a worthwhile place to dwell in that lucidity in the dream of just to kind of really reinforce how the appearances are coming from the mind? But does that... also as a kind of separate question, does that also make it like a tögal practice as well?
 ])
 
 #speaker("Dawai", [
