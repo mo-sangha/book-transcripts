@@ -2,7 +2,7 @@
 
 == The phasing of this practice
 
-Dawai: When you get pointing out, you have seen the fact that your mind—let's use a metaphor—is like a window. Okay? For a second there, you've seen this clear window, but there's a lot of stuff on your window, grime covering it. And so the issue is that at first you see your enlightened mind, but because of that grime, which is the momentum of karma, mental-emotional tendencies grab that right away. "Oh, Dawai just showed me awareness. This is awesome. I need to go party." Whatever you end up thinking—you're apprehending that.
+When you get pointing out, you have seen the fact that your mind—let's use a metaphor—is like a window. Okay? For a second there, you've seen this clear window, but there's a lot of stuff on your window, grime covering it. And so the issue is that at first you see your enlightened mind, but because of that grime, which is the momentum of karma, mental-emotional tendencies grab that right away. "Oh, Dawai just showed me awareness. This is awesome. I need to go party." Whatever you end up thinking—you're apprehending that.
 
 Now, somebody with hundreds of thousands of prostrations, maybe even some life changing event or something, now, when they get pointed to it, they may just sit here and really marinate. Ah, and sit in enlightenment. And then it comes back: "What is happening to me?" Or some like apprehension of "me" there. "Am I enlightened?" And so that comes into the presence then, and it sort of distorts the presence of its clear canvas, okay?
 
@@ -26,17 +26,20 @@ Or maybe when you're talking to somebody, you have to figure out that maybe I sh
 
 And that's what they compared to in Three Modes of Liberation as a thief entering an empty house. Now things cannot steal you away, not even tragedies. Very good.
 
-When you have an increased visibility, it goes kind of like this. Let's say I'm eating the donut. And the donut is a metaphor for sex, masturbation, anger, rage, overeating, you name it. So here's the donut of desire. It starts off like that. [Dawai making eating motions and sounds] Then somebody says, "Hey, look at awareness." [munching..] You know, you're still eating. You may slow down a little bit, but you're kind of like, "Well, my mouth is pretty full right now, I don't know if I need to jam another donut in there. This is a little uncomfortable. I'm getting donuts all over me," right? So you start to see increased visibility.
+When you have an increased visibility, it goes kind of like this. Let's say I'm eating the donut. And the donut is a metaphor for sex, masturbation, anger, rage, overeating, you name it. So here's the donut of desire. It starts off like that. #btw[Dawai makes eating motions and sounds] Then somebody says, "Hey, look at awareness." #btw[Dawai munches]. You know, you're still eating. You may slow down a little bit, but you're kind of like, "Well, my mouth is pretty full right now, I don't know if I need to jam another donut in there. This is a little uncomfortable. I'm getting donuts all over me," right? So you start to see increased visibility.
 
 That's why I always say you just bring awareness into your current situation, your current life. And that visibility will cause a natural harmony, a natural resolution. All of a sudden you're just like, "Man, this is getting redundant. Too many donuts," right? Way too many donuts. And you're getting to see the whole production cycle, everything, full visibility. And then one day you're just like, "Not today. Just not gonna eat it today."
 
-And then, next thing you know, now you're clear. "I used to be a donut-aholic." [laughing] You tell people, you know, "Hey, I used to be really hooked on these donuts, but now I'm free." And then somebody comes to you and they say, "Want a donut?" [laughing] And maybe everybody's eating donuts. When in Rome, sure, I will eat a donut. [Dawai, munch munch munch] Right? Now you're free. You can eat the donut or not eat the donut. Making sense, right?
+And then, next thing you know, now you're clear. "I used to be a donut-aholic." #btw[Dawai laughs]. You tell people, you know, "Hey, I used to be really hooked on these donuts, but now I'm free." And then somebody comes to you and they say, "Want a donut?" #btw[Dawai laughs]. And maybe everybody's eating donuts. When in Rome, sure, I will eat a donut. #btw[Dawai goes munch munch munch]. Right? Now you're free. You can eat the donut or not eat the donut. Making sense, right?
 
 This is asymmetrical logic. There are thresholds and paradoxes, so it's a little bit difficult to verbalize it. But that's what's so exceptional about our group, which is so awesome, is that we're actually venturing into this previously mysterious territory to many teachers, many paths, many approaches. This is mysterious territory. What happens after recognition? How does self-liberation work? How does actual freedom work? Right? How does conditioning coming undone? How does that look? Okay, very good. So any comments or questions about that? This just kind of phasing through the path.
 
-Sangha: Yes I have one question. The process of self-liberation, I've heard the phrase be said that we gain confidence in self-liberation. I'm just wondering what that means and maybe if knowing how the mechanism of self-liberation works, maybe if that helps to gain confidence in it to abide in awareness as things liberate or something like that.
+#speaker("Sangha 1", [
+  Yes I have one question. The process of self-liberation, I've heard the phrase be said that we gain confidence in self-liberation. I'm just wondering what that means and maybe if knowing how the mechanism of self-liberation works, maybe if that helps to gain confidence in it to abide in awareness as things liberate or something like that.
+])
 
-Dawai: Exactly. I love when you guys answer your own questions with your own wisdom. Exactly. You see self-liberation. "Wow, my headache just went away. That means all this other tension can go away."
+#speaker("Dawai", [
+Exactly. I love when you guys answer your own questions with your own wisdom. Exactly. You see self-liberation. "Wow, my headache just went away. That means all this other tension can go away."
 
 Oh, wow. "My habit of desire is lessening," right? Or I'm able to have more control during my drinking, my smoking, my eating—things like that. I'm able to have more visibility or, at least, a slight sense of freedom there. Whereas before, you had no other exit. You had no other vantage point.
 
@@ -47,6 +50,7 @@ But it's a little bit harder to see a song liberating out of your head—AKA a h
 And then, once you've got a confidence in self-liberation, you're in phase three. You're basically just... every day you're eating a donut, don't eat the donut; doesn't matter. The conditioned self is softening out with every single interaction, and then it gets quite expedited at that point.
 
 Everything moves a lot faster into your freedom. And you could be sick, you could be injured, you could be dying, you could have a disease—and you will still experience freedom.
+])
 
 
 #archive_minimal("January 14, 2026", "The phasing of...", "https://www.youtube.com/watch?v=avgztKvvKCE&t=1s")
