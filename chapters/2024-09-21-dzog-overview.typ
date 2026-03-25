@@ -2,7 +2,7 @@
 
 == Dharma Talk: Dzogchen Overview
 
-Dawai: Welcome to everybody, MO Sangha is here, and to all the people on YouTube for your kind of support in any way you do that, your practice, showing love to the channel, to the group. It means a lot because I constantly witness Dzogchen being misrepresented. Practice itself becomes out of reach, “you'll get it in 10 years” kind of mentality.
+Welcome to everybody, MO Sangha is here, and to all the people on YouTube for your kind of support in any way you do that, your practice, showing love to the channel, to the group. It means a lot because I constantly witness Dzogchen being misrepresented. Practice itself becomes out of reach, “you'll get it in 10 years” kind of mentality.
 
 So accessing your natural state now, releasing into it, recognizing awareness as the nature of your mind. Learning how to let things be is the secret, please don't forget that.
 
@@ -74,7 +74,7 @@ And these patterns go very deep. You know, we get very philosophical and analyti
 
 Even the four samayas are all about letting it be, which The Way of Abiding by Longchenpa has to be my favorite text, my favorite Dzogchen text, and probably the manual for our group. And I can't believe how misunderstood it is by academics and practitioners alike. Perhaps they never took the time to read it; it's a big book, you know, maybe they're just getting the cliff notes? But that book goes into depth about ineffability, which people translate that in all kinds of weird ways, like “non-existence.” And yes, the book talks about non-existence, but it also clearly defines ineffability.
 
-Tank just let one rip [giggle]. There's nothing like a dog fart when you're meditating, talk about let it be; if you can let that be, then you are getting leveled up there, Buddha level, you know.
+Tank just let one rip. #btw[Dawai laughs]. There's nothing like a dog fart when you're meditating, talk about let it be; if you can let that be, then you are getting leveled up there, Buddha level, you know.
 
 So anyway, various other kind of exotic translations, I'm not going to name the translators, I'm trying to, you know, be respectful here. I don't really want to disrespect anybody or be unkind, you know, but these translations are ridiculous.
 
@@ -92,25 +92,37 @@ But you know, your air, your water, your earth, and your body, you know, feel th
 
 So let's see, I want to get to the comments here too.
 
-Reading chat: People who practice the lower yanas are still looking; when we get to Dzogchen, we have had the good fortune to finally find.
+#speaker("Sangha 1 (chat)", [
+  People who practice the lower yanas are still looking; when we get to Dzogchen, we have had the good fortune to finally find.
+])
 
-Dawai: Indeed true, but also people in lower yanas are oftentimes misled, even down to the academics. I mean, perhaps the academics bear more responsibility to actually practice, put the teachings into practice before they decide to write about them and publish about them. It's kind of disrespectful, isn't it? It's like me just going to some tribe in the rainforest and saying, “I'm going to write about your cultural practices, I hope you don't mind.” You know, just by looking from the outside, maybe I stay there a week and then I'll write a book about them. I know nothing. You got to get in there and dance around a fire.
+#speaker("Dawai", [
+  Indeed true, but also people in lower yanas are oftentimes misled, even down to the academics. I mean, perhaps the academics bear more responsibility to actually practice, put the teachings into practice before they decide to write about them and publish about them. It's kind of disrespectful, isn't it? It's like me just going to some tribe in the rainforest and saying, “I'm going to write about your cultural practices, I hope you don't mind.” You know, just by looking from the outside, maybe I stay there a week and then I'll write a book about them. I know nothing. You got to get in there and dance around a fire.
+])
 
-Reading chat: Tilopa's Six Nails, yeah.
+#speaker("Sangha 2 (chat)", [
+  Tilopa's Six Nails.
+])
 
-Dawai: Don't recall, don't imagine, let go. So it says don't recall, let go of what has passed. Don't imagine.
+#speaker("Dawai", [
+Tilopa's Six Nails, yeah. Don't recall, don't imagine, let go. So it says don't recall, let go of what has passed. Don't imagine.
 
-And remember, I added an extra layer to this, if you are sitting there on the past, just leave it in awareness and it'll self-liberate. You don't need to apply a strict “don't” there and you don't need to apply any effort of letting go; it self-liberates.
+And remember, I added an extra layer to this, if you are sitting there on the past, just leave it in awareness and it'll self-liberate. You don't need to apply a strict “don't” there and you don't need to apply any effort of letting go: it self-liberates.
 
 So I'd say when you're recalling, allow it to self-liberate within awareness. When you're imagining what may come, allow it to liberate within awareness. When you're thinking, allow what you're thinking about now to self-liberate within awareness. When you're examining, when you're trying to figure things out, allow that to liberate into awareness. When you're trying to control the meditation, yeah, that's a great one, let that sense of controlling your spirituality, your meditation, your Dzogchen, whatever it may be, allow that to release; definitely that's a big one. And then rest. Relax. Right now, rest.
+])
 
-Reading chat: In earlier translation circa 1957, wow, Alan Watts, Mr. Alan Watts, and Dr. Alex Wayman rendered Tilopa's six precepts as: no thought, no reflection, no analysis, no cultivation, no intention. Let it settle itself.
+#speaker("Sangha 3 (chat)", [
+  In earlier translation circa 1957, wow, Alan Watts, Mr. Alan Watts, and Dr. Alex Wayman rendered Tilopa's six precepts as: no thought, no reflection, no analysis, no cultivation, no intention. Let it settle itself.
+])
 
-Dawai: Ah, very pithy, very pithy indeed.
+#speaker("Dawai", [
+Ah, very pithy, very pithy indeed.
 
 Yeah, so I hope you're starting to catch on to what the essential key point is to all of these. And although the path has been over-complicated, there are no beliefs, there are no philosophical tenets to adopt. There's no problem to solve, to figure out. This is all about learning to let it be without altering that deliberately.
 
 Okay yeah so is that it? Let's see. Yeah, and we have a Dzogchen kind of overview too for the group. And I include the chokshyaks and the three modes of liberation in there, and Garab Dorje's three statements. And this can relate to the Satipatthana Sutta and many emptiness practices, staring at walls and things like that, it can relate, yeah.
+])
 
 
 #archive_minimal("September 21, 2024", "Dzogchen Overview...", "https://www.youtube.com/watch?v=nXi9PjdOcws")
