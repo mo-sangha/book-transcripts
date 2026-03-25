@@ -10,7 +10,7 @@ So they do have therapies like Internal Family Systems and things that can re-no
 
 Now I'm about to say something really crazy. What else is new, right? It was a three-legged cat that was one of the first to show me—Little Man, that I had for 18 years. I'd never seen an animal love me that much. Never seen a sentient being love me that much. And maybe some of you are like that out there where you only let an animal love you—a dog or a cat—cause it gets like...
 
-#btw[Dawai sees a chat message]. Well, you're reading to the end of my book here, because it wasn't until this Sangha, really, where I learned to let myself be loved. The friendship that you all have given me, yeah.
+#btw[Dawai sees a chat message]. Well, you're reading to the end of my book here, because it wasn't until this sangha, really, where I learned to let myself be loved. The friendship that you all have given me, yeah.
 
 We're really recording this, aren't we? It sure does thaw you out. But I really do appreciate that, I really appreciate that. And if we could ever just continue to give that to each other, then we're gonna be okay.
 
