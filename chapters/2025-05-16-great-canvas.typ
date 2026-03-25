@@ -22,12 +22,12 @@ And how you can end up melting into this grand divinity, and that's what they ca
 
 So it's almost like you immersed yourself into a stream of water and you had mud all over you and the stream is taking it away, taking it away, taking it away—that's self-liberation, but eventually you start flowing, you get taken away to your whole body, it's you [sound of chuumm]. And now you're in the flow, right, now you're in the stream. Easy.
 
-In our creativity when we're taking walks, when we're studying, painting, you know it's wonderful to study subjects that we're actually into because that's what complements the flow.
+In our creativity, when we're taking walks, when we're studying, painting, you know, it's wonderful to study subjects that we're actually into because that's what complements the flow.
 
 Making sense, right?  Want to jump in there?
 
 #speaker("Sangha 1", [
-  Wonderful teaching. Thank you. I heard it, you know, when the gods in Hindu religion, Brahma, and he was also explaining the same thing and a lot of regards freaked out. Anyway, that's not what I want to ask you.
+  Wonderful teaching. Thank you. I heard it, you know, when the gods in Hindu religion, Brahma, and he was also explaining the same thing and a lot of the gods freaked out. Anyway, that's not what I want to ask you.
 
   Can you do a sadhana or puja on Guru Padmasambhava sometimes? And we could record it and put it on YouTube because I listen to you in the the Chenrezig Pūjā. It's very strong and powerful.
 ])
@@ -83,19 +83,19 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 ])
 
 #speaker("Sangha 3", [
-  Another follow-up question would be: Yeshé once told me when I was having difficulty, he was telling me how to have a good sleep without sleeping. So he taught me Yoga nidra and I came to know that Yoga Nidra is nothing but resting in awareness. You are just opening, you can close your eyes, you can keep your eyes open, doesn't matter. You are just staying in awareness and you are not in thinking mind. You are not losing your glucose, sucrose, you are in a rest state, you are getting rest, even more rest than you get when you are sleeping, and today named it deep sleep. So what I understood is, anybody who knows this practice, who knows how to stay in awareness, can be a master of Yoga Nidra from what I understood that day. Now the follow-up question is: Can we say that samadhi state is just a higher level of Yoga Nidra, more or less?
+  Another follow-up question would be: Yeshé once told me when I was having difficulty, he was telling me how to have a good sleep without sleeping. So he taught me yoga nidra and I came to know that yoga nidra is nothing but resting in awareness. You are just opening, you can close your eyes, you can keep your eyes open, doesn't matter. You are just staying in awareness and you are not in thinking mind. You are not losing your glucose, sucrose, you are in a rest state, you are getting rest, even more rest than you get when you are sleeping, and today named it deep sleep. So what I understood is, anybody who knows this practice, who knows how to stay in awareness, can be a master of yoga nidra from what I understood that day. Now the follow-up question is: Can we say that samadhi state is just a higher level of yoga nidra, more or less?
 ])
 
 #speaker("Dawai", [
-  Probably. Maybe somebody else wants to jump in; I don't know too much about Yoga Nidra.
+  Probably. Maybe somebody else wants to jump in; I don't know too much about yoga nidra.
 ])
 
 #speaker("Sangha 4", [
-  Yeah, Yoga Nidra is a preliminary in Hatha yoga practices, and the ones I've been involved in, we do Yoga Nidra at different sections and there's times where you do it multiple times. And it takes you deeper and deeper in each sit. See, what's happening is it's allowing the body to go in deeper, deeper states of relaxation to where you no longer feel your body. You get very expansive from that, then your mind can relax.
+  Yeah, yoga nidra is a preliminary in hatha yoga practices, and the ones I've been involved in, we do yoga nidra at different sections and there's times where you do it multiple times. And it takes you deeper and deeper in each sit. See, what's happening is it's allowing the body to go in deeper, deeper states of relaxation to where you no longer feel your body. You get very expansive from that, then your mind can relax.
 
   When the mind relaxes, there's less need for all this calorie intake. We can look at the studies that they've done in people who play chess, and they burn a lot of calories, and they don't do anything, they barely move. So when the mind and the body become extremely still—stillness, all the other functions can go into like a hibernation type state. This is just my limited understanding, what I've been taught.
 
-  But that Yoga Nidra allows deep, deep amount of relaxation while at the same time you're not going to sleep, but there is a limited quality to Yoga Nidra. Since you're laying down, you still have that falling into sleep or the hypnagogic state. And we're going beyond that by being absorbed back into what we've always been. But the Yoga Nidra allows that deeper, deeper amount of relaxation, but the same with just sitting. When we sit and allow everything to be, include our environment and everything, we're getting absorbed slowly back into all of that.
+  But that yoga nidra allows deep, deep amount of relaxation while at the same time you're not going to sleep, but there is a limited quality to yoga nidra. Since you're laying down, you still have that falling into sleep or the hypnagogic state. And we're going beyond that by being absorbed back into what we've always been. But the yoga nidra allows that deeper, deeper amount of relaxation, but the same with just sitting. When we sit and allow everything to be, include our environment and everything, we're getting absorbed slowly back into all of that.
 ])
 
 #speaker("Dawai", [
@@ -145,7 +145,7 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 ])
 
 #speaker("Sangha 6 (chat)", [
-  Interesting. Yoga Nidra actually sort of got me into Dharma.
+  Interesting. Yoga nidra actually sort of got me into Dharma.
 ])
 
 #speaker("Dawai", [
