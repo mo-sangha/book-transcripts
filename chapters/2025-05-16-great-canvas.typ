@@ -117,7 +117,7 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 
   And you also used that, you said today that your presence is the same as non-referential — that kind of blew my mind.
 
-  Same kind of thing with the holographic film, you know? If you take a picture on holographic film of an apple, right, the apple only as experiences its apple-ness, but maybe there's also a banana and other things in the picture, and the apple might argue like, no, I have this very separate space on the film, here I am, see, I'm so well-defined.
+  Same kind of thing with the holographic film, you know? If you take a picture on holographic film of an apple, right, the apple only experiences its apple-ness, but maybe there's also a banana and other things in the picture, and the apple might argue like, no, I have this very separate space on the film, here I am, see, I'm so well-defined.
 
   But if you know the nature of the film, which is that the banana is completely overlaid over the apple and the whole picture is everywhere in the film, you know, non-referential, like, maybe it would blow the apple's mind, you know?
 ])
@@ -129,9 +129,9 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 
   And truly, if you want to embrace omniscience outside of our limited framework of the words we know and the thoughts that we know, then you can just embrace your natural empathy and compassion.
 
-  You'll see it they're trying to rear its head all the time. You'll have compassion knocking at your door, chances to help people, chances to not think about ourselves, and at the same time paradoxically benefiting ourselves through service to others in a non-dual, kind of uncontrived way.
+  You'll see it there trying to rear its head all the time. You'll have compassion knocking at your door, chances to help people, chances to not think about ourselves, and at the same time paradoxically benefiting ourselves through service to others in a non-dual, kind of uncontrived way.
 
-  This is very easy — just one little bug, or just saying some kind things and listening to a friend, anything like that to get out of the selfing, self self self self self. That's why this group is so great too, we get a chance to do that.
+  This is very easy---just one little bug, or just saying some kind things and listening to a friend, anything like that to get out of the selfing, self self self self self. That's why this group is so great too, we get a chance to do that.
 
   But it's very important to understand that this cognizance, it permeates everything. So that's how the six super cognitions and this Buddha omniscience is even possible. And it's safeguarded because if you're not compassionate, if your ego is getting involved in omniscience, then you're going to get cut off from your omniscience because ego is dividing. But if you keep it compassionate, then you'll have a very easy time. And that's why kind people are considered very intelligent in many cases because of the pliancy of their mind, like that.
 
