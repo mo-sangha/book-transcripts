@@ -70,8 +70,9 @@
 #include "chapters/2024-11-02-stuck-no-more.typ"
 #pagebreak(weak: true)
 
-#include "chapters/2024-11-07--11-24-cmt-PTWoA.typ"
-#pagebreak(weak: true)
+// #include "chapters/2024-11-07--11-24-cmt-PTWoA.typ"
+// #pagebreak(weak: true)
+
 // ==========================================
 // 2025 TEACHINGS
 // ==========================================
@@ -91,8 +92,8 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2025-04-21-four-reliances.typ"
 #pagebreak(weak: true)
 
-#include "chapters/2025-05-14-DCW.typ"
-#pagebreak(weak: true)
+// #include "chapters/2025-05-14-DCW.typ"
+// #pagebreak(weak: true)
 
 #include "chapters/2025-05-15-sensitivity.typ"
 #pagebreak(weak: true)
@@ -100,8 +101,8 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2025-05-16-great-canvas.typ"
 #pagebreak(weak: true)
 
-#include "chapters/2025-05-21-dzog-RBSD.typ"
-#pagebreak(weak: true)
+// #include "chapters/2025-05-21-dzog-RBSD.typ"
+// #pagebreak(weak: true)
 
 #include "chapters/2025-05-23-isolations.typ"
 #pagebreak(weak: true)
@@ -115,11 +116,11 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2025-07-18-wakeup.typ"
 #pagebreak(weak: true)
 
-#include "chapters/2025-07-19-cmt-PTGM-this-lib.typ"
-#pagebreak(weak: true)
+// #include "chapters/2025-07-19-cmt-PTGM-this-lib.typ"
+// #pagebreak(weak: true)
 
-#include "chapters/2025-07-20-cmt-PTGM-keypoint.typ"
-#pagebreak(weak: true)
+// #include "chapters/2025-07-20-cmt-PTGM-keypoint.typ"
+// #pagebreak(weak: true)
 
 #include "chapters/2025-10-10-turn-awa.typ"
 #pagebreak(weak: true)
@@ -142,8 +143,8 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2025-11-28-four-ponds.typ"
 #pagebreak(weak: true)
 
-#include "chapters/2025-11-29-ref-inclusive.typ"
-#pagebreak(weak: true)
+// #include "chapters/2025-11-29-ref-inclusive.typ"
+// #pagebreak(weak: true)
 
 #include "chapters/2025-12-07-subjectivity.typ"
 #pagebreak(weak: true)
@@ -157,8 +158,8 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2025-12-27-invoking.typ"
 #pagebreak(weak: true)
 
-#include "chapters/2025-12-29-cmt-PTWoA-open.typ"
-#pagebreak(weak: true)
+// #include "chapters/2025-12-29-cmt-PTWoA-open.typ"
+// #pagebreak(weak: true)
 
 // ==========================================
 // 2026 TEACHINGS
@@ -178,8 +179,8 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2026-01-14-the-phasing.typ"
 #pagebreak(weak: true)
 
-#include "chapters/2026-02-04-cmt-PTWoA-every.typ"
-#pagebreak(weak: true)
+// #include "chapters/2026-02-04-cmt-PTWoA-every.typ"
+// #pagebreak(weak: true)
 
 #include "chapters/2026-02-06-medi-self-lib.typ"
 #pagebreak(weak: true)

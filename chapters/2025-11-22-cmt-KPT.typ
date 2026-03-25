@@ -4,7 +4,7 @@
 // --------------------------------------------------
 == The Key Points of Trekchö #text(fill: gray)[(Cmt)]
 
-Dawai: So yeah, this is precious text that comes by way of Adam Pearcey, 2018, introducing Clear Light Awareness, the pure aspect of pure presence, and the nature of mind essentially. Mipham Rinpoche is very well known as a polymath and outstanding scholar and yogi. Passed away in the early 1900s. So also contemporary, relatively contemporary, about 100 years ago. We’ll take what we can get, right, when it comes to Trekchö and Tögal.
+So yeah, this is a precious text that comes by way of Adam Pearcey, 2018, introducing Clear Light Awareness, the pure aspect of pure presence, and the nature of mind essentially. Mipham Rinpoche is very well known as a polymath and outstanding scholar and yogi. Passed away in the early 1900s. So also contemporary, relatively contemporary, about 100 years ago. We’ll take what we can get, right, when it comes to Trekchö and Tögal.
 
 So please relax and go over this text here. We can keep the eyes open without focusing on anything. And this text is all about recognizing awareness. We call it awareness, but it's your Buddha nature. It’s home. You are home. Everything we think, say, and feel is home. Okay, let's get into this text.
 
@@ -62,7 +62,8 @@ This arose from the lake-like mind of Mipham Jampal Gyepa during the Water Snake
 
 | Translated by Adam Pearcey, 2018 \
 
-Dawai: And that's the end of our meditation today, everybody. Thank you for joining that and seeing how the view itself, which is the same as the fruition, the first and the fourth, complete each other. The second is your meditation, the ebb and flow of impulses and the appearance of movements throughout the body, the emotions, and the psyche. This is just left as it is. Awareness is the great ocean that holds all the waves of experience.
+#speaker("Dawai", [
+And that's the end of our meditation today, everybody. Thank you for joining that and seeing how the view itself, which is the same as the fruition, the first and the fourth, complete each other. The second is your meditation, the ebb and flow of impulses and the appearance of movements throughout the body, the emotions, and the psyche. This is just left as it is. Awareness is the great ocean that holds all the waves of experience.
 
 So you leave awareness, the subtle clear light awareness, alone like a mountain, like space really is unmoving. You can leave it like space or a mountain. And then within that is your meditation. You leave your meditation like an ocean because it has the ability to hold both calmness and turbulence.
 
@@ -99,6 +100,7 @@ The major implication of the four chokshyaks, the four ways of letting be, is ef
 Learn to do nothing, everybody. You do not even learn to do nothing. Get used to doing nothing, even while you are doing something. The mind tricks you so easily. When I say 'do nothing,' it is like, 'oh, you cannot do nothing.' No, no, no, do not let it play that game.
 
 I am obviously doing something right now, telling you to do nothing. But I am doing nothing as I sit here talking to you.
+])
 
 
 #archive_minimal("November 22, 2025", "Guided Meditation: Key...", "https://www.youtube.com/watch?v=d1wYcbDiXeE")
