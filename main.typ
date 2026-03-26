@@ -188,5 +188,8 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2026-02-09-spheres.typ"
 #pagebreak(weak: true)
 
+#include "chapters/2026-03-01-untainted-wisdom.typ"
+#pagebreak(weak: true)
+
 #include "chapters/2026-03-20-fam-view.typ"
 #pagebreak(weak: true)
