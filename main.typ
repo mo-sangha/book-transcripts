@@ -131,6 +131,9 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #include "chapters/2025-11-05-bravery.typ"
 #pagebreak(weak: true)
 
+// #include "chapters/2025-11-16-tantras-of-atiyoga.typ"
+// #pagebreak(weak: true)
+
 #include "chapters/2025-11-22-cmt-KPT.typ"
 #pagebreak(weak: true)
 
@@ -150,6 +153,9 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 #pagebreak(weak: true)
 
 #include "chapters/2025-12-14-solidity.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2025-12-22-thought-isolation.typ"
 #pagebreak(weak: true)
 
 #include "chapters/2025-12-24-time-displacement.typ"

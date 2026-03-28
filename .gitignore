@@ -8,3 +8,6 @@
 *.new
 *.prepl
 .DS_Store
+
+# Miscellaneous files.
+__MACOSX
