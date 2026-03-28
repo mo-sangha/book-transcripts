@@ -38,7 +38,7 @@ So you have perception in there, mental formations in there. You have also the e
 
 So the sixth mental consciousness is active with thinking about the future or the past or analyzing the present. The seventh egoic consciousness is involved in that—I'm sitting here, I'm here, am I accomplished, am I not accomplished, what do I need to do later, right? So all this is a big old highway, super highway of preoccupation, and that's all eight consciousnesses.
 
-So you have the five senses—the eyes, we leave them open; ears; our awareness holds all the ears. If you have more than two ears, they're holding all the ears. #btw[Dawai laughs]. I meant to say all the sounds, not all the ears. So anyway, but it holds your ears. It holds all the sounds. It holds whatever we're perceiving as the thing making the sound.
+So you have the five senses---the eyes, we leave them open; ears, our awareness holds all the ears. If you have more than two ears, they're holding all the ears. #btw[Dawai laughs]. I meant to say all the sounds, not all the ears. So anyway, but it holds your ears. It holds all the sounds. It holds whatever we're perceiving as the thing making the sound.
 
 So we're resting in the inclusivity of cognition there, rather than subdividing our experience into, oh, what was that sound, I liked that sound, that sound needs to happen again, right? Or no, I don't like that sound, please make it stop. This is all some kind of getting involved in subdividing our experience into a psychic contraction.
 
@@ -59,7 +59,7 @@ So it goes back to childhood like Benjamin Button style. #btw[Dawai laughs].
 
 So to me, that's very interesting, because if you look at the pictures, they got it mapped out, the stages. It looks exactly like cyclic existence, what you would think that our mind is doing, except we're a little bit like the snakes, we shed a skin.
 
-But when you think of atemporally, when you take time out of the equation, you start to see that we're still actually with our bodies, even when our bodies are gone, or when the bodies seem like they die.
+But when you think atemporally, when you take time out of the equation, you start to see that we're still actually with our bodies, even when our bodies are gone, or when the bodies seem like they die.
 
 But this is all for the yogis to see for themselves with their own eyes. I'm just saying that using deductive reasoning, we can assume that, well, if there's deductive reasoning, you can assume that there's a lot out there, like in the 90th percentile that we don't perceive in our proprietary reality.
 
@@ -67,7 +67,7 @@ So just by letting be all the elements—the four foundations of mindfulness: yo
 
 Then you don't have to worry about all these programs that are written into your mind and all these things, because the very circuit board that's holding everything is getting pulled out.
 
-So if you can allow that subjectivity to rest in your awareness—that feeling of a me sitting here, a witness, a watcher, a thinker, a stinker, #btw[Dawai laughs]—whatever the witness is doing, whatever the individual, the agency is doing. And then it's not a complete loss of agency either. That would be like the sun losing its rays it's not like that. So we abide and we allow that.
+So if you can allow that subjectivity to rest in your awareness—that feeling of a me sitting here, a witness, a watcher, a thinker, a stinker #btw[Dawai laughs]—whatever the witness is doing, whatever the individual, the agency is doing. And then it's not a complete loss of agency either. That would be like the sun losing its rays: it's not like that. So we abide and we allow that.
 
 Now if you've been introduced to the nature of mind, then you can do this. You can allow that feeling of an observer, a thinker, a me, that very feeling—you can bathe that naturally in effortless abiding.
 

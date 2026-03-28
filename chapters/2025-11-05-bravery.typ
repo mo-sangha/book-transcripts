@@ -43,7 +43,7 @@ People all gather around a belief. For example, right now in America, I'm gettin
 But why can't we stick together? Because we're fighting about beliefs. All the normal people that aren't white supremacists—we can't get along. We just need to unify just like they did, you know? Under the umbrella of compassion, just—
 
 #speaker("Sangha 1 (chat)", [
-  A banana supremicist.
+  A banana supremacist.
 ])
 
 #speaker("Dawai", [

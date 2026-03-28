@@ -18,7 +18,11 @@ Not that our mind is unconfined from subjectivity, ideally. Now that we're comin
 
 Okay my friends, that's it. So we'll just do a short 10-minute session of effortless abiding.
 
+#btw[The sangha abides for ten minutes].
+
 Okay. Go for another few minutes. And if you shifted out just now when I said "okay," that means you were holding something. Now stay where you're at, relax. We have another five minutes or so.
+
+#btw[The sangha abides for five minutes or so].
 
 Alright, now it's really over. I got you guys.
 

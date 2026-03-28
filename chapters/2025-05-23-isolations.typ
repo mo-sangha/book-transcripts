@@ -158,7 +158,7 @@ And it's gonna come off a little bit different if you've never recognized awaren
 
 All right, so now that I've gone over those, I just want to also include the eight consciousnesses, because we got all this stuff.
 
-We got our mental mind, getting stuck on thoughts, getting stuck on emotions—that's the sixth consciousness. But there's also, you can be isolated into a feeling of a watcher, a thinker. And that's kind of where [name of sangha], I believe, in the beginning was going into. What about emptiness? Well, it's great.
+We got our mental mind, getting stuck on thoughts, getting stuck on emotions—that's the sixth consciousness. But there's also, you can be isolated into a feeling of a watcher, a thinker. And that's kind of where [member's name], I believe, in the beginning was going into. What about emptiness? Well, it's great.
 
 If you're stuck in your thoughts, now you're observing your thoughts: "Wow, I'm having a lot of anxiety about what I'm going to do today." But now, who is the one having that observation of the thoughts? You see, so there's a third layer there. That's the conditioned self—that's the watcher, the thinker, the stinker, whatever you want to call it, the feeler, the one who's offended, the one who's offending, the one who's mad, the one who's sad. This feeling of 'me' sitting right now, listening, hearing words—a reference point, yeah.
 
