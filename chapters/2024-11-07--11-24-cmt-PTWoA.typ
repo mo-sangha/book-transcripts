@@ -27,7 +27,7 @@ the nature of mind is natural great perfection.
 I pay homage to this with nothing to discard or adopt, nothing  
 to come or go.
 
-Dawai: Now there Longchenpa is telling you what Homage to Samantabhadra, that very first opening line means. Samantabhadra, also known as Kuntu  Zangp in Tibetan. Bhutanese is The All Good, it's kind of known as The All Good.
+Dawai: Now there Longchenpa is telling you what Homage to Samantabhadra, that very first opening line means. Samantabhadra, also known as Kuntuzangpo in Tibetan. Bhutanese is The All Good, it's kind of known as The All Good.
 
 And your mind now, the idea is that everything is perfect, which I know that sounds like a leap or sounds very idealistic and perhaps has some other issues with that proclamation, but it's not really a belief. It's something that the yogi begins to see when the conditioned mind of confusion softens and exhausts within the nature of mind. The pure realm is here. Okay, there's no doubt about that.
 
@@ -59,7 +59,7 @@ And in that regard, you can just continue to leave your thoughts and awareness, 
 The ineffable nature of things is that they are empty by virtue  
 of their very essence.
 
-Dawai: Now sometimes people want to translate ineffable as non-existence, and in that particular sentence, maybe they only read the first sentence. In that sentence, it would make sense, the non-existent nature of things is that they are empty by virtue of their very essence, but even that doesn't really make sense. So those translators who are using that, I think, don't work in this context, in Longchenpa’s context. You could use those various translations, but I think Chökyi Nyinma's translations here are pretty good. If you read this treasure, you'll see that defining it or translating it as ineffability is the best. Non-existence just doesn't work.  
+Dawai: Now sometimes people want to translate ineffable as non-existence, and in that particular sentence, maybe they only read the first sentence. In that sentence, it would make sense, the non-existent nature of things is that they are empty by virtue of their very essence, but even that doesn't really make sense. So those translators who are using that, I think, don't work in this context, in Longchenpa’s context. You could use those various translations, but I think Chökyi Nyima's translations here are pretty good. If you read this treasure, you'll see that defining it or translating it as ineffability is the best. Non-existence just doesn't work.  
 
 And that goes for the other three too, or actually I think they do translate a few of these the same. I can't remember which ones because I don't really reference those other translations so much. I'll stick to these ones.
 
@@ -398,7 +398,7 @@ you will never be freed by that which entails deliberate effort.
 
 Dawai: See, we can stay right there. This is exactly why I'm so open about Dzogchen, and I give it so freely, and I leave this space open twice a day. Well, now we're all leaving it open like this, because there's nothing else that's really going to free your mind. Like I said before, whether you're throwing in a thousand-dollar shirt or a ten-dollar shirt into the fire, both are fuel, right? So good things, bad things, all these doings—they're fuel to the karmic fire, and you're never really going to be free as long as you're assuming that you're not perfect, and that you need to be somewhere else to be perfect or to be okay.
 
-So they also call it secret awareness, which gives you an idea of how precious it is. And everybody—Dugum Rinpoche, Neguma, so many people—say awareness is so simple that many intelligent people will not see it, because it's right here: this simple awareness. You're aware of me speaking and reading this text right now. That very awareness, it actually doesn't change. If you start to look, notice, it's always here. If I stand up, open the door, sit back down, talk about broccoli, then it's all going to be within this awareness.
+So they also call it secret awareness, which gives you an idea of how precious it is. And everybody—Dudjom Rinpoche, Niguma, so many people—say awareness is so simple that many intelligent people will not see it, because it's right here: this simple awareness. You're aware of me speaking and reading this text right now. That very awareness, it actually doesn't change. If you start to look, notice, it's always here. If I stand up, open the door, sit back down, talk about broccoli, then it's all going to be within this awareness.
 
 Okay, so now, if you're doing paths that entail effort, be honest with yourself. If you're resonating with Dzogchen, jump into Dzogchen and relieve yourself of those other paths—all that congestion, spiritual or psychological congestion—you can get rid of it, because this path is all about being light and being clear. There are no new beliefs here. Remember, this whole text is about awareness. It's not about, it's not a Bible that's saying you have to believe this or else you're going to go to hell, because otherwise my dogs would be screwed, you know—they cannot believe that stuff; they don't even have the concepts.
 
@@ -435,13 +435,13 @@ phenomena as having identity.
 In the indivisible and wholly positive realm, be decisive in supreme
 and infinite emptiness.
 
-Dawai:  So this awareness doesn't have a reference point; it doesn't have a location. And as you have a little cloud here, and as that cloud frees up, the location frees up, and then you come into true emptiness like that. And remember, that cloud can reference the seventh egoic consciousness—that self-grasping consciousness in the eight-consciousness model, which is the manovijñāna in Sanskrit. And the manovijñāna is the thinking and emotions that grab and reinforce the conditioned self, creating a cloud in the sky of awareness, or pure cognition—empty cognizance.
+Dawai:  So this awareness doesn't have a reference point; it doesn't have a location. And as you have a little cloud here, and as that cloud frees up, the location frees up, and then you come into true emptiness like that. And remember, that cloud can reference the seventh egoic consciousness—that self-grasping consciousness in the eight-consciousness model, which is the Manasvijnana in Sanskrit. And the Manovijñana is the thinking and emotions that grab and reinforce the conditioned self, creating a cloud in the sky of awareness, or pure cognition—empty cognizance.
 
 Now we can transition. We can stop calling it awareness, which is a little reductive, and really see this as empty cognizance: this is pure consciousness, the unconditioned aspect of your mind. So that's why it's so sacred—so simple and so sacred all at the same time.
 
 Sangha: Wholly positive?
 
-Dawai: Yeah, wholly positive to me is synonymous with Kuntu Zangpo. You're probably familiar with Kuntu Zangpo, Samantabhadra, The All Good. So primordial purity, that kadak aspect of mind. And then also, you see in this previous passage that we just read, it's essentially Garab Dorje's three statements. Longchenpa keeps saying: be decisive, because once you decide awareness is going to free you from your congestion, it is going to free you from this conditioned self, then you really have a very good, healthy relationship with awareness now.
+Dawai: Yeah, wholly positive to me is synonymous with Kuntuzangpo. You're probably familiar with Kuntuzangpo, Samantabhadra, The All Good. So primordial purity, that kadak aspect of mind. And then also, you see in this previous passage that we just read, it's essentially Garab Dorje's three statements. Longchenpa keeps saying: be decisive, because once you decide awareness is going to free you from your congestion, it is going to free you from this conditioned self, then you really have a very good, healthy relationship with awareness now.
 
 You know the nature of mind, and you're letting it be through all your experiences. So even if you're self-grasping, prideful, jealous, desirous, angry—all these things are now within your awareness. And just like a colander, whatever doesn't need to be there is going to get sifted out. It's quite miraculous if you can actually step foot into it. And it's very good if you're lazy, because self-liberation—you don't need to do anything except trust this awareness. It's also very good for the times we live in, because if you're caught up in a habit, or if you're caught up in some kind of lifestyle or livelihood that's not working for you, you can bring awareness into that. You don't have to do anything new here. Just bring awareness into whatever you already have going on. So if you're chopping wood and carrying water, bring awareness into chopping wood and carrying water. But you don't need to stop chopping wood and carrying water in Dzogchen. Okay,
 
@@ -566,7 +566,7 @@ timeless awareness leaves no trace.
 Another implication is that everything is of one basic space,
 like waves on water.
 
-Dawai: Yeah, and this is when you get into the inseparability of your thoughts and emotions—they're just kind of expressions, just like sights and sounds, they're expressions of this awareness. So awareness is always here; they call it Shi in Tibetan, or Kunshi sometimes, and it is the basis of your mind, and it has these expressions. So the Tüchi—they actually call it the compassionate responsiveness, or the compassionate display—the energy of your mind that co-emerges.
+Dawai: Yeah, and this is when you get into the inseparability of your thoughts and emotions—they're just kind of expressions, just like sights and sounds, they're expressions of this awareness. So awareness is always here; they call it _gzhi_ in Tibetan, or _kun-gzhi_ sometimes, and it is the basis of your mind, and it has these expressions. So the thuje—they actually call it the compassionate responsiveness, or the compassionate display—the energy of your mind that co-emerges.
 
 So just like in a dream, if I'm walking around taking a hike on a mountain, well, my mind is making that mountain as I'm hiking it. It's co-emerging that reality. There's never really cause and effect; there's only co-emergence at all times in the presence. It's more of a shining, like a shining co-emergence, which, you know, that's probably going a little bit deep there. Keep a lookout for it, okay?
 
@@ -645,7 +645,7 @@ Dawai:  And I often use sand as an analogy because you can make many, many image
 
 So—let's say everything was made out of water, well, as soon as you recognize wetness, you have recognized the nature of everything. Just like that, when we recognize awareness, the knowingness, we're recognizing the nature of everything. And as we come more and more into that nature, everything self-liberates. It's a great colander, it's a sifting self-harmony. Sifting self-harmony, it's almost poetic, or maybe not almost.
 
-So—you can think of your mind as awareness is like a screen that can display anything, any movie, any JPEGs and text files, any TikTok’s, I don't know what you guys are watching on your screens, but awareness is the screen, it's unaffected. So—that's what it means here, that it involves, oh, I think we skipped past that, but that's okay. Basically, it said that the emptiness is not subject to this destruction.
+So—you can think of your mind as awareness is like a screen that can display anything, any movie, any JPEGs and text files, any TikToks, I don't know what you guys are watching on your screens, but awareness is the screen, it's unaffected. So—that's what it means here, that it involves, oh, I think we skipped past that, but that's okay. Basically, it said that the emptiness is not subject to this destruction.
 
 This snow makes the doggies so restless, so please pardon the interruptions. 
 
@@ -669,7 +669,7 @@ And then this is jhanas 1 through 8 if you're paying attention to that. The ve
 
 But those of you in these times that we're living in, it's said that we're ready for Dzogchen. So those of you who are ready for this, you're ready for that larger scope which is like space where nothing needs to be done. You're just learning to let be. So simple. You can go to work now and practice Dzogchen.
 
-Now remember though in this very passage it says— the less fortunate progress upward in stages so you can release the ideas of stages of shamata, ox-herding stages, bhumis, jhanas. All this is, as your samsaric conditioning peels away, what's left over is stages of jhana. You're actually starting from the 11th bhumi, so past the 3rd jhana, or you've already achieved all the jhanas in that sense, which are considered achieved in the 3rd bhumi, if you're paying attention from a Mahayana perspective. And so as we rest here, things are leaving, you find yourself more and more and more coming into the 11th bhumi.
+Now remember though in this very passage it says— the less fortunate progress upward in stages so you can release the ideas of stages of samatha, ox-herding stages, bhumis, jhanas. All this is, as your samsaric conditioning peels away, what's left over is stages of jhana. You're actually starting from the 11th bhumi, so past the 3rd jhana, or you've already achieved all the jhanas in that sense, which are considered achieved in the 3rd bhumi, if you're paying attention from a Mahayana perspective. And so as we rest here, things are leaving, you find yourself more and more and more coming into the 11th bhumi.
 
  One second. You're okay buddy. You're okay. All right, it's doggy action over here, you know, everybody's snowed in, tight space. So it's all part of the fun.
 
@@ -812,7 +812,7 @@ Dawai: Okay, right there, if anybody prioritizes Tögal before Trekchö, or s
 
 So when you talk about Tögal, you talk about light practices, dealing with the five lights and the appearances of this reality. Yeah, and it's wonderful to pull rays and take a Tögal retreat and do these if you get the time, and you find a good source, sure. But as you rest in awareness, there is the complete resolution of phenomena, so there's natural Tögal, which it couldn't be any other way.
 
-You would want the world to liberate with you. You start to see the purity of the world as you start to see the purity in your own mind. And that doesn't negate skillful means. Remember we're in the middle here, the middle way, Madhyamika, the great liminal space. So right here, the very next line, without a doubt proves to you, you might as well be saying that Tögal is resolved in it.  
+You would want the world to liberate with you. You start to see the purity of the world as you start to see the purity in your own mind. And that doesn't negate skillful means. Remember we're in the middle here, the middle way, Madhyamaka, the great liminal space. So right here, the very next line, without a doubt proves to you, you might as well be saying that Tögal is resolved in it.  
 
 >>it moreover, finds its resolution in phenomena.
 Phenomena are resolve in it; it, moreover, finds its resolution
@@ -888,7 +888,7 @@ One comes to the decisive experience of phenomena being completely unnameable:
 this is the way of abiding that is natural great perfection.
 
 
-Dawai: Yes, so ultimately everything in your experience, you can leave it. Now being in that spacious state of mind, you can have a conversation with somebody and use conventional names and designations and even conventional meanings without grasping. But ultimately, you're leaving it unnamable. This is so—it's non-ontological, explicitly non-existential, inconclusive in terms of conceptual imputations. Okay, so it says...  
+Dawai: Yes, so ultimately everything in your experience, you can leave it. Now being in that spacious state of mind, you can have a conversation with somebody and use conventional names and designations and even conventional meanings without grasping. But ultimately, you're leaving it unnameable. This is so—it's non-ontological, explicitly non-existential, inconclusive in terms of conceptual imputations. Okay, so it says...  
 
 >>Thus, concerning the phenomena of the world of appearances
 and possibilities, whether of samsara or nirvana,
@@ -926,7 +926,7 @@ The transmission of atiyoga, the very pinnacle of all spiritual approaches, is l
 The greatest of the great is the spacious mind of Samantabhadra,
 its nature a supreme and uninterrupted evenness.
 
-Dawai: Samantabhadra is the All Good. Remember Kuntu Zangpo, your mind, primordial purity, Kadak and Lhundrub.  
+Dawai: Samantabhadra is the All Good. Remember Kuntuzangpo, your mind, primordial purity, Kadak and Lhundrub.  
 
 >>Since manifest phenomena—the world of appearances
 and possibilities—and non-manifest awakened mind
@@ -1264,7 +1264,7 @@ Thank you. Bye-bye.
 
 Dawai: What's here now is the four samayas of Dzogchen. Maybe we could even say four remembrances. Samaya usually indicates it's a rule or a vow that could be broken. But in the Dzogchen context, that's like suggesting that the heat of the sun is breaking a samaya, you know, when you don't notice the heat of the sun, or the heat of the sun is there, whether you notice it or not, so you can't really break a samaya. But if one of the samayas were, hey, there's heat, and you noticed it, then that's what it's about.
 
-So the four samayas are, of course, ineffability, openness, pure presence, and oneness. And these are just aspects of mind, sort of attributes, but maybe even just pointers, not even necessarily a valid, ultimate designation. It's not really even valid, it's still conceptual. If you call something ineffability, you're dependently imputating that there's conceptual reality, something opposite of ineffability. As soon as you say openness, there's closeness. Everything has these kind of associations.
+So the four samayas are, of course, ineffability, openness, pure presence, and oneness. And these are just aspects of mind, sort of attributes, but maybe even just pointers, not even necessarily a valid, ultimate designation. It's not really even valid, it's still conceptual. If you call something ineffability, you're dependently imputing that there's conceptual reality, something opposite of ineffability. As soon as you say openness, there's closeness. Everything has these kind of associations.
 
 So even these four samayas are only meant to usher in or point to something that's here. And then once you see that, once you associate with what you're calling openness, and spaciousness and suchness, well, those qualities, once you rip that label off of openness, then what Longchenpa and all these yogis are talking about when they say openness is truly beyond our concepts, and beyond our kind of pinning it down and saying, yep, it's that. You'll never be able to do that with awakening yet. Practitioners love to do that. They want to pin it down and say, this is enlightenment. Now what we can do is say, this is conditioned mind. But as far as this is enlightenment, we can't really go there.
 
@@ -1339,9 +1339,9 @@ But there are many bodhisattvas who, who just like want to say one mantra to the
 They are the supreme manifestation of the ground of being—
 empty, yet spontaneously present.
 
-Dawai: And there you have empty, which is dharmakaya, that's the purity, primordial purity, Kadag. And then you have spontaneous presence, which is Lhundrub, which is the, your mind, this awareness is always spawn, that's what presence is.
+Dawai: And there you have empty, which is dharmakaya, that's the purity, primordial purity, Kadak. And then you have spontaneous presence, which is Lhundrub, which is the, your mind, this awareness is always spawn, that's what presence is.
 
-So you can allow your eyes to just be like, like any other muscle, like your arms or your legs, just relax your kyes. See with your mind, come into your whole mind, that holds the eyes, it holds the body and the brain and everything, encompasses all that. So emptiness is the dharmakaya. Spontaneous presence is the sambhogakaya, that's the nature of your mind.
+So you can allow your eyes to just be like, like any other muscle, like your arms or your legs, just relax your eyes. See with your mind, come into your whole mind, that holds the eyes, it holds the body and the brain and everything, encompasses all that. So emptiness is the dharmakaya. Spontaneous presence is the sambhogakaya, that's the nature of your mind.
 
 So when all these Mahayana texts and everything talks about Buddha nature, that's what you get introduced to. That's why I call the pointing out the nature of mind in Dzogchen. We're getting pointed to the Tathagatagarbha, the Buddha nature, it's that amazing. And so when somebody points you to awareness, and you have this aha recognition, that's your Buddha nature, the same one Buddha Shakyamuni recognized. It's amazing in that regard.  
 
@@ -1394,7 +1394,7 @@ Think of when you go to sleep and you dream you have no control of what you're a
 >>The three kayas are spontaneously present in basic space as the
 ground of being.
 
-Dawai: Yep, and that right there, if you look up gzhi, G-Z-H-I, gzhi, the basis or the ground, which your mind basically, Kuntu Zangpo, it has three aspects, it has the essence, which is emptiness, has the nature, which is cognizance, and then it has the display, or the energy of your mind. So it always has those three main aspects, conventionally speaking. Kind of conventionally, yeah, conventionally in the sense that I explained earlier. But these are considered definitive teachings here, keeping up with conventional and ultimate truths. So...
+Dawai: Yep, and that right there, if you look up gzhi, G-Z-H-I, gzhi, the basis or the ground, which your mind basically, Kuntuzangpo, it has three aspects, it has the essence, which is emptiness, has the nature, which is cognizance, and then it has the display, or the energy of your mind. So it always has those three main aspects, conventionally speaking. Kind of conventionally, yeah, conventionally in the sense that I explained earlier. But these are considered definitive teachings here, keeping up with conventional and ultimate truths. So...
 
 >>From that ground, its manifestation arises as apparent phenomena,
 and even as it does there are the three pure kayas,
@@ -1669,7 +1669,7 @@ Dawai: So here we have Longchenpa validating or verifying the outer and inner. 
 
 Dawai: And I think that's very beautiful right there, too. You know, people always pointing up, and I always look up like, where? I don't see anything. Thank God, you know, and then I look up. Where is he? Do you see him? But we don't ever say, thank God, everywhere — God, everywhere. God's always somewhere else, right? We have to reach somewhere else to get to divinity. This is the great trick, the great trick that's been played on us. Divinity is stationary. You don't need to go anywhere to get it. It's beyond time and space, all right? That's why it says unrestricted, all-encompassing. Yeah, so...  
 
->>The infinite expnse has no division into above or below.
+>>The infinite expanse has no division into above or below.
 It is thoroughly indeterminate and completely unrestricted.
 It cannot be characterized as some “thing,” for it is inexpressible
 and beyond imagining.
@@ -1703,7 +1703,7 @@ Just look at when you go to sleep and you dream. You dream of the mountains, and
 >>The origin of all samsara and nirvana is a temporal, with no beginning  
 or end.
 
-Dawai: Oh, we have... yeah, Tulku Urgyen Rinpoche, okay, thank you. Yes, The Rainbow Painting was a book by Topo Urgyen Rinpoche. I think I dug into that one a while ago, but if I remember right, it really goes into that Tögal aspect of this reality being kind of a luminous reification, or if you awakened and enlightened, it doesn't have to be a reification. So...  
+Dawai: Oh, we have... yeah, Tulku Urgyen Rinpoche, okay, thank you. Yes, The Rainbow Painting was a book by Tulku Urgyen Rinpoche. I think I dug into that one a while ago, but if I remember right, it really goes into that Tögal aspect of this reality being kind of a luminous reification, or if you awakened and enlightened, it doesn't have to be a reification. So...  
 
 >>Spontaneous presence, unborn and indeterminate, is the ultimate
 ground of being.
@@ -1737,7 +1737,7 @@ Yeah, just really grateful for you and your presence and being on this journey w
 
 #align(right)[Nov 22, 2024 / \#13 / p 47]  
 
-Dawai: Huh, wow, right as I said that there's the word non-conceptual. So this is a non-conceptual way to connect, in my opinion. We don't have very much speech that's non-conceptual. So if you say, Om Mani Padme Hum, or Om Ah Hum, or even Ah or Om, these mantras are non-conceptual ultimately. And then just for the sake of relative experience, we give meaning. For example, Om Mani Padme Hum: each syllable represents the six realms of samsara. And that's part of that Dzogrem, or Kiram and Dzogrem, the generation and completion stages of Maha Yoga, and probably part of Charya and Anu, of course, too. And in that regard, in Dzogchen, we're not really visualizing anymore, because you are yourself the deity now. And that's what this text is about, of course. These four great samayas: ineffability, openness, pure presence, and oneness. And you might find that ineffability kind of leads to all the rest.
+Dawai: Huh, wow, right as I said that there's the word non-conceptual. So this is a non-conceptual way to connect, in my opinion. We don't have very much speech that's non-conceptual. So if you say, Om Mani Padme Hum, or Om Ah Hum, or even Ah or Om, these mantras are non-conceptual ultimately. And then just for the sake of relative experience, we give meaning. For example, Om Mani Padme Hum: each syllable represents the six realms of samsara. And that's part of that Dzogrim, or Kyerim and Dzogrim, the generation and completion stages of Maha Yoga, and probably part of Charya and Anu, of course, too. And in that regard, in Dzogchen, we're not really visualizing anymore, because you are yourself the deity now. And that's what this text is about, of course. These four great samayas: ineffability, openness, pure presence, and oneness. And you might find that ineffability kind of leads to all the rest.
 
 I think in the last video, by the way, I misspoke there. When I was explaining that I called openness the third samaya for some reason. But yes, of course, pure presence is the third samaya, and then openness is the fourth. Oneness is the fourth samaya.
 
@@ -1871,7 +1871,7 @@ So your mind right now—purely present, which is the third samaya—is one with
 
 I'll say them again in order. I was already talking about pure presence, so that's why the third one came first. Really, that's everything. Pure presence means empty cognizance. Even the first line of the Dhammapada says everything is preceded by mind. So nothing is novel here in Longchenpa's presentation. This is standard dharma; it just goes into a world that many have not seen.
 
-So here we have ineffability. Why? Because when we rest in awareness like this, I'm not thinking, "Oh, the day is like this," or "My life is going badly," or "goodly," or "wholly," or "unwholly." I'm not having all these contrivances and preoccupations. I'm resting here, saying, "I don't know what the day is. I don't know what this very warm thing on my lap is. I don't know what I am. I have some feeling, some energy in my body. I don't know." I catch myself trying to define it—leave it. The thinking mind, the conceptualizing, has led us wrong so often, yet it has become our best friend. Now we just need to get some space from our friend, and that's it. We don't need to get rid of our friend.
+So here we have ineffability. Why? Because when we rest in awareness like this, I'm not thinking, "Oh, the day is like this," or "My life is going badly," or "goodly," or "holy," or "unholy." I'm not having all these contrivances and preoccupations. I'm resting here, saying, "I don't know what the day is. I don't know what this very warm thing on my lap is. I don't know what I am. I have some feeling, some energy in my body. I don't know." I catch myself trying to define it—leave it. The thinking mind, the conceptualizing, has led us wrong so often, yet it has become our best friend. Now we just need to get some space from our friend, and that's it. We don't need to get rid of our friend.
 
 Ineffability is really important because it's almost like we start in the womb of our mom, and then we go into the womb of our thoughts—the womb of conditioned consciousness. When you start to flower out of that, you come into spiritual maturity, I think. Then all these religions and approaches begin to make sense. You begin to understand people no matter where they're at, and all these beings—you can communicate through that intuition. So that's ineffability as we sit here now. We know ineffability.
 
@@ -1944,17 +1944,17 @@ of self-knowing awareness.
 
 Dawai: Now notice that Longchenpa is not straying away, and neither is the translator, Chökyi Nyima, from the word awareness. We're okay with using that word because it's a point of access—we use it for the sake of access.
 
-Yes, you could speculate that within the five aggregate contexts, we're hinging on perspective and the luminosity within cognizance—so tsal, as it's known in Tibetan—but these specifics don't really matter to me; they don't, unless you're interested and having fun with your studies. That's great. But as far as contending with the view or recognition, pointing out instructions, I'm not really that concerned whether it's tsal, the actual nature, or whether it's empty cognizance itself.
+Yes, you could speculate that within the five aggregate contexts, we're hinging on perspective and the luminosity within cognizance—so _tsal_, as it's known in Tibetan—but these specifics don't really matter to me; they don't, unless you're interested and having fun with your studies. That's great. But as far as contending with the view or recognition, pointing out instructions, I'm not really that concerned whether it's _tsal_, the actual nature, or whether it's empty cognizance itself.
 
-Tulku Urgyen Rinpoche made that clear. You catch a glimpse of empty cognizance—there is emptiness there—but it'll be very brief for many people. Now, if you've done Nundro, Khordé Roshan, and a bunch of Tsalong yoga—physical yoga and things—or if you have some religious and some kind of unique background, it can lend itself to Dzogchen. Then, when you see the nature of mind, you rest in it a little bit longer, I would say, for sure. Or you just come home to it. For a lot of people, it's like—it has always been there. So it's like a coming home; it feels very natural. Then your patterns, habituations, obscurations, hindrances, and whatnot start to feel uncomfortable—you start to know when you're in your patterns, and it feels different.
+Tulku Urgyen Rinpoche made that clear. You catch a glimpse of empty cognizance—there is emptiness there—but it'll be very brief for many people. Now, if you've done Ngondro, Khordé Rushen, and a bunch of Tsalung yoga—physical yoga and things—or if you have some religious and some kind of unique background, it can lend itself to Dzogchen. Then, when you see the nature of mind, you rest in it a little bit longer, I would say, for sure. Or you just come home to it. For a lot of people, it's like—it has always been there. So it's like a coming home; it feels very natural. Then your patterns, habituations, obscurations, hindrances, and whatnot start to feel uncomfortable—you start to know when you're in your patterns, and it feels different.
 
-And this is the great part of the path. They call it Discerning Consciousness from Wisdom. I always recommend the Trangu Rinpoche book on Yeshé Dorje. I think the original text was from the Karmapa—or I think it might have been the Third Karmapa, or something like that. That text is pretty ancient, though, but it's a part of everything. You start to discern; you start to see. There's that wisdom of discernment, right—Amitabha. You start to—and by the way, it's associated with the element of fire, and discernment can be like fire; it's very sharp, and it burns up whatever's not supposed to be there. So you can discern: this is my pattern, this is my habituation.
+And this is the great part of the path. They call it Discerning Consciousness from Wisdom. I always recommend the Thrangu Rinpoche book on Yeshé Dorje. I think the original text was from the Karmapa—or I think it might have been the Third Karmapa, or something like that. That text is pretty ancient, though, but it's a part of everything. You start to discern; you start to see. There's that wisdom of discernment, right—Amitabha. You start to—and by the way, it's associated with the element of fire, and discernment can be like fire; it's very sharp, and it burns up whatever's not supposed to be there. So you can discern: this is my pattern, this is my habituation.
 
 And then even thoughts—like maybe you're used to thinking negative stuff about people, even if it's kind of in a funny way. I honestly was like that; I would think of little jokes and stuff about people when I see them sometimes. And I started just noticing in the middle of my sentence—I’d stop it: nope, not gonna do that. Even if they're innocent, it's just not exactly lending itself to open-hearted revelation, is it? So although maybe being a comedian is a wonderful job—I would love to see some Dzogchenpa be a comedian—that would probably complement your comedy. But for me, that's not the case. I cannot go into that field.
 
 So you can catch your mind doing all kinds of stuff—the dog escaped, oh, that mother, you know—and then you just cut the sentence. This is a type of discernment. You're not letting your plasticity, your patterns, continue to reify or solidify. And so a lot of times you're cutting them, and that's, to me, really self-liberation of thoughts that Garab Dorje is talking about. And you know that any thought that comes to your mind, you can cut it, or you can go into it—a big difference. When you cut it, you stay in presence; you stay in pure presence.
 
-So self-knowing awareness. Why is Longchenpa calling it that? Because when we recognize awareness—pointing-out instructions—we say, “oh, yeah, we have a little aha, maybe.” But awareness is just seeing itself: mind is seeing mind there, in that case. So they say it's like the child meeting the mother. As we know, the Kuntu Zangpo, the all-sovereign creating monarch, is the motherly Buddha. And I like to think of the Dharmakaya as the motherly, the feminine aspect, because of that womb quality. It feeds us like a womb, and we have the immaturity of a baby in a womb.
+So self-knowing awareness. Why is Longchenpa calling it that? Because when we recognize awareness—pointing-out instructions—we say, “oh, yeah, we have a little aha, maybe.” But awareness is just seeing itself: mind is seeing mind there, in that case. So they say it's like the child meeting the mother. As we know, the Kuntuzangpo, the all-sovereign creating monarch, is the motherly Buddha. And I like to think of the Dharmakaya as the motherly, the feminine aspect, because of that womb quality. It feeds us like a womb, and we have the immaturity of a baby in a womb.
 
 And there's a surrender to that too, to the feminine aspect, I think. What does that mean—intuition, mystery, lack of control? And the baby might think it knows what's going on and thinks it's controlling everything all the time—but you're in the womb. And it's not like some lady is holding us in her belly—although that wouldn't be that bad—but your mind is the womb.
 
@@ -1989,9 +1989,9 @@ it abides like space beyond deliberate effort.
 
 Dawai: Wow, that little passage right there is jam-packed with everything you need to know. Although the single naturally occurring state creates all samsara and nirvana, without anyone creating awareness. So the awareness has never been created; it's timeless, it's considered the fourth time, which, if you take up that vantage point, science becomes very interesting too, by the way.
 
-So here you have this mind beyond time and space, the fourth time, and it says, which is the source, Kunjed Gyalpo, and there's a text for those who don't know called The Supreme Source. And sometimes that's translated as masculine, which would be really weird to me, but okay. And sometimes feminine, like the Namkhai Norbu/Adrino Clemente edition—they go with masculine in that one, and the Eva Dargyay translation from back in the day goes with feminine. And then there's the androgyny of the whole thing; it's a combination. Because if the babies are in the womb, that means masculine and feminine are united, and the baby is their product.
+So here you have this mind beyond time and space, the fourth time, and it says, which is the source, Kunjed Gyalpo, and there's a text for those who don't know called The Supreme Source. And sometimes that's translated as masculine, which would be really weird to me, but okay. And sometimes feminine, like the Namkhai Norbu/Adriano Clemente edition—they go with masculine in that one, and the Eva Dargyay translation from back in the day goes with feminine. And then there's the androgyny of the whole thing; it's a combination. Because if the babies are in the womb, that means masculine and feminine are united, and the baby is their product.
 
-Okay, so you have all three kayas; they're always united. So we don't need to get all, "Oh, women are great, feminine energy is awesome," you know, there's no need to start to get divisive about this at all. Do exactly what Longchenpa said—this fragmenting, right? We do this fragmenting. There's male and there's female; they have to be separate? No. Usually you see the deities like Kuntu Zangpo and Kuntu Zamo when you see them in union. That's what that means: empty cognizance.
+Okay, so you have all three kayas; they're always united. So we don't need to get all, "Oh, women are great, feminine energy is awesome," you know, there's no need to start to get divisive about this at all. Do exactly what Longchenpa said—this fragmenting, right? We do this fragmenting. There's male and there's female; they have to be separate? No. Usually you see the deities like Kuntuzangpo and Kuntuzangmo when you see them in union. That's what that means: empty cognizance.
 
 A lot of people think it has to do with tantric sex. Usually it doesn't. Even Guru Rinpoche, he just gave a bunch of teachings to his consorts and left. So if you're associating that image, the Yab Yum, as it's known in Tibetan, with sex—yeah, there is tantric sex—but it's actually about the unity of wisdom and compassion; that's what that symbolizes. So if you want to be on a higher level than that kind of immature view, understand that.
 
@@ -2015,7 +2015,7 @@ all phenomena are unceasing, and regardless of the display that arises
 their very essence is the unimaginable and inexpressible expanse.
 This is truly beyond all conventional expression and description.
 
-Dawai: See how the samayas also weave together. We have ineffability weaving in there, and I'd like to think that everything is like that: the Eightfold Path, the Perfections, even the Four Noble Truths, the Bhumis, the Jhanas, all these various—the 84,000 teachings, the three main jhanas of Hinayana, Mahayana, and Vajrayana, or if you want to say Śrāvakayāna instead of Hinayana—how all that weaves together so beautifully that it's almost extraterrestrial, it's almost out of this world, it's alien, you know, the way it's so perfectly weaved together. Un-huh, so...  
+Dawai: See how the samayas also weave together. We have ineffability weaving in there, and I'd like to think that everything is like that: the Eightfold Path, the Perfections, even the Four Noble Truths, the Bhumis, the Jhanas, all these various—the 84,000 teachings, the three main jhanas of Hinayana, Mahayana, and Vajrayana, or if you want to say Shravakayana instead of Hinayana—how all that weaves together so beautifully that it's almost extraterrestrial, it's almost out of this world, it's alien, you know, the way it's so perfectly weaved together. Uh-huh, so...  
 
 >>From the standpoint of enlightenment, the heart essence from which
 everything arises,
@@ -2029,7 +2029,7 @@ So please accept my gratitude, and we'll close here. Thank you so much, everybod
 
 #align(right)[Nov 23, 2024 / \#15 / p 53] 
 
-Dawai: The Longchenpa source verses of The Treasury of the Way of Abiding. MO Sangha’s here offering their presence and going through this text is always such a pleasure. We've gone through the first three samayas: ineffability, openness, pure presence, and now we're on oneness.
+Dawai: The Longchenpa source verses of The Treasury of the Way of Abiding. MO Sangha's here offering their presence and going through this text is always such a pleasure. We've gone through the first three samayas: ineffability, openness, pure presence, and now we're on oneness.
 
 So Longchen Rabjam, Longchenpa, authored this text, and it really does seem like a compilation of many older Dzogchen texts. I mean, you could basically pick the key points and condense the wording of The Kunjed Gyalpo, and I feel like you would find everything that's here in The Kunjed Gyalpo, The Supreme Source, as it's also known. And it's translated by Chökyi Nyima, Richard Barron.
 
@@ -2194,7 +2194,7 @@ unwavering awareness.
 It is fully encompassed as that which is unchanging
 and noncomposite.
 
-Dawai: Yeah, so this… and many teachers have commented on that. I always like to cite Düjün Rinpoche and Neguma. They say… so many say it's so simple: your awareness is right here. Yes, this very simple mind of yours—that is your enlightened mind. And it may not seem like it when you have patterns that take you out of it right away. You can't really explore it… you can't really get to know… is this my enlightened mind really? Because you're constantly going back to the conditioned mind. But, as you can explore and trust more and more by keeping a consistent practice, then you'll see… this is indeed enlightened mind that I have access to.
+Dawai: Yeah, so this… and many teachers have commented on that. I always like to cite Dudjom Rinpoche and Niguma. They say… so many say it's so simple: your awareness is right here. Yes, this very simple mind of yours—that is your enlightened mind. And it may not seem like it when you have patterns that take you out of it right away. You can't really explore it… you can't really get to know… is this my enlightened mind really? Because you're constantly going back to the conditioned mind. But, as you can explore and trust more and more by keeping a consistent practice, then you'll see… this is indeed enlightened mind that I have access to.
 
 >>Within oneness, the decisive experience is that of naturally occurring
 timeless awareness itself.
@@ -2285,7 +2285,7 @@ Oh, yes, you have a question?
 
 Sangha: Okay, yeah, my own self-knowing awareness. Maybe I am leaning towards nihilism, but the way I feel those words, my self-knowing awareness is just the awareness of how it is for me right now. In the next moment, it's going to be different. So I still resist thinking of it as my self-knowing awareness because it's not the same me that it was before, and it's not going to be the same me in another second. Okay. Yeah, that's how I feel about it. Say more about that.
 
-Dawai: Yeah, and I totally respect it—that's how you feel about it—but that's not what Longchampa is saying, right? Because Longchampa, even if we go down two lines with no transition or change throughout the three times, I don't even have to say anything. You're saying that it's changing. No, it's not awareness that's changing. It's not the heart of your mind that's changing. It's the things within the mind that are changing.
+Dawai: Yeah, and I totally respect it—that's how you feel about it—but that's not what Longchenpa is saying, right? Because Longchenpa, even if we go down two lines with no transition or change throughout the three times, I don't even have to say anything. You're saying that it's changing. No, it's not awareness that's changing. It's not the heart of your mind that's changing. It's the things within the mind that are changing.
 
 Sangha: Yeah, okay, yeah, I go for that. I guess it's just my own self is the part that I say, well, yeah, my awareness of whatever there is right now. That's why the other day when we were reading in Spontaneous Presence, I was like, I love this that he says that this is called abiding, but he also says it's moment by moment. And there was another word like that, that I was like, yeah, I can abide in this, but I abide in it moment by moment.
 
@@ -2326,7 +2326,7 @@ of awakened mind.
 
 Dawai: And how does that have to do with recognizing or not recognizing? Because any sense of the one that recognized is that, that smaller reference point, that kind of baby self—and the Dharma, they always say the child meeting the mother. Well, eventually the child has to grow up, right? And becomes one with the mother. And so they say, like, water being poured into water. Or another analogy I like is when the space inside of a pot, when it breaks, meets the space outside of the pot. Right? So these are very nice metaphors we can use to feel it, you know, feel into it, I would say.
 
-And I would say there's no sense of recognition or non-recognition because everything is always just recognition. You could always see it like that too. And it's not like there's a reference point of you recognizing anymore; there's just beingness. And that's also something that many people should and can be skeptical about. And that's why you continue to trust, just abiding, letting it be, you know, like the Four Choktruls, letting all your experience be in the bathwater of empty cognizance, an open mind. And then you'll start to see how things could be timeless, how there could be a mind—our own mind—without an us. You know, it has to be paradoxical, right? Otherwise, it can't be true. It's not a paradox, it can't be true. So it says here...  
+And I would say there's no sense of recognition or non-recognition because everything is always just recognition. You could always see it like that too. And it's not like there's a reference point of you recognizing anymore; there's just beingness. And that's also something that many people should and can be skeptical about. And that's why you continue to trust, just abiding, letting it be, you know, like the Four Chokshyaks, letting all your experience be in the bathwater of empty cognizance, an open mind. And then you'll start to see how things could be timeless, how there could be a mind—our own mind—without an us. You know, it has to be paradoxical, right? Otherwise, it can't be true. It's not a paradox, it can't be true. So it says here...  
 
 >>Within the vast expanse—with no transition or change throughout
 the three times—
@@ -2432,7 +2432,7 @@ From The Precious Treasury of The Way of Abiding, this is the fifth
 topic, reaching the definitive conclusion concerning the types of indi-
 viduals to whom these teachings may be imparted.
 
->>These teachings thus make fully evident the ultimte meaning
+>>These teachings thus make fully evident the ultimate meaning
 of the sublimely secret great perfection, so that it is no longer elusive.
 May they free all beings without exception, effortlessly and naturally,
 within primordial basic space as the ground being.

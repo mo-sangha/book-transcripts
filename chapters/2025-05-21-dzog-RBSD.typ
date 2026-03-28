@@ -4,9 +4,9 @@
 == Refuge-Bodhicitta-Sādhanā-Dedication: From the Dzogchen Point of View
 
 
-Dawai: So refuge and bodhichitta are pretty standard in the Dharma; those are called opening prayers or the opening mūlam, and the closing prayer is the dedication. It's almost like sealing your practice—it has a significance to it. Believe me, I would tell you there’s no need for it to seal your practice if I didn't think there was something to it.
+Dawai: So refuge and bodhicitta are pretty standard in the Dharma; those are called opening prayers or the opening mūlam, and the closing prayer is the dedication. It's almost like sealing your practice—it has a significance to it. Believe me, I would tell you there’s no need for it to seal your practice if I didn't think there was something to it.
 
-But at the end we typically dedicate, and at the beginning we sit in silence. And many times, we do the dedication in silence as well. That is going to be different than what you see out there in Buddhism or Vajrayana, and that's why I want to make it clear why in this group we approach refuge and bodhichitta with silence instead of like:
+But at the end we typically dedicate, and at the beginning we sit in silence. And many times, we do the dedication in silence as well. That is going to be different than what you see out there in Buddhism or Vajrayana, and that's why I want to make it clear why in this group we approach refuge and bodhicitta with silence instead of like:
 
 མདུན་ིགྱ་ནམ་མཁར་ཀུན་ཏུ་བཟང་པོ་ལ༔  
 düngyi namkhar küntuzangpo la  
@@ -73,7 +73,7 @@ So there are outer, inner, and secret forms of refuge that I won't really go int
 
 So when you come here and you're just letting be, you're resting in awareness. You're taking refuge into pure presence, into that Buddhahood.
 
-And then your bodhichitta—bodhi means enlightened or awakened, citta means mind. And so typically that's associated with your compassionate mind; your natural compassionate mind. And so just by resting in awareness, as your contracting starts to relieve, as your various degrees of separating dissolve, you come into a wholeness of abiding. And that's true compassion.
+And then your bodhicitta—bodhi means enlightened or awakened, citta means mind. And so typically that's associated with your compassionate mind; your natural compassionate mind. And so just by resting in awareness, as your contracting starts to relieve, as your various degrees of separating dissolve, you come into a wholeness of abiding. And that's true compassion.
 
 When we abide here, all sentient beings are within our mind, naturally embraced within our mind. And so in that way you don't have to be discriminatory with your compassion. You don't have to say, Oh, I love this person, but I don't love that person. We don't have to do that because we're resting in compassion, and that will really help you resolve your situations.
 
@@ -87,7 +87,7 @@ And you don't ever need to risk your vulnerabilities again by trusting a guru to
 
 You don't need to give your whole self over to somebody else. You need to keep yourself in this practice. This is what brings out our warriorship, our toughness, our wisdom mind, our fearlessness, right? Depending on other people isn't going to get us there. And in these times we're living in we have to come back home. So that's why this awareness is the true Buddha, is the true guru, is the true Lama.
 
-And then just by abiding here in awareness, I start to see, "Wow, my tone of voice may have been kind of harsh with this last person. Next time around, I want to calm my tone of voice." That's vipaśyanā right there. You saw it. No teacher can show you that. You saw your tone of voice. "Oh wow, I had this very desirous thought. It made me feel shameful." You saw that.
+And then just by abiding here in awareness, I start to see, "Wow, my tone of voice may have been kind of harsh with this last person. Next time around, I want to calm my tone of voice." That's Vipassana right there. You saw it. No teacher can show you that. You saw your tone of voice. "Oh wow, I had this very desirous thought. It made me feel shameful." You saw that.
 
 You became the teacher, so that's your Dharma. That's the middle when you say Buddha, Dharma, Sangha. The Dharma is the teachings that are coming from your awareness. You understand?
 
@@ -103,7 +103,7 @@ So that's how the Sangha can be fully embraced. The  maṇḍala can be fully 
 
 Because there are outer maṇḍalas: That’s your family, your friends, well in my case, dogs and cats and mice and ravens. That's what keeps us coming into... And this is going a little into karma and rebirth, you don't need to believe this. You need to see it for yourself—but your maṇḍala is what keeps you in collectives. You keep coming back to this collective because there are beings here that you're connected to, that you're magnetized to. You could very well drift off into another collective quite easily. There are infinite collectives, in my opinion; that would only make sense. But anyway, I don't want to stray from the practical.
 
-So refuge and bodhichitta is truly coming into that awareness nature. You see, that is your refuge, your ultimate refuge.
+So refuge and bodhicitta is truly coming into that awareness nature. You see, that is your refuge, your ultimate refuge.
 
 And that doesn't mean on a relative level you can't take refuge in water, in food, or in guides even a trustworthy guide, but you always have the safety net of your own awareness. That's what saved me.
 
@@ -113,7 +113,7 @@ But one thing I couldn't shake was the awareness practice. I couldn't get rid of
 
 And so in that regard, here I am still. I'm actually able to wear this robe, which I'll admit I've had times where even I want to take this off because of what it sometimes symbolizes, and the various Dharma paraphernalia and everything, right? So awareness is like that—it supersedes religion and spirituality, and it becomes a true source of refuge and divinity.
 
-All right? And then, so that's refuge in bodhichitta. Typically, you open up like that. You do your refuge in bodhichitta, and then you'll do some kind of practice, they're called sādhanas.
+All right? And then, so that's refuge in bodhicitta. Typically, you open up like that. You do your refuge in bodhicitta, and then you'll do some kind of practice, they're called sādhanas.
 
 Here our practice is silent effortless abiding and inquiries and text explorations. Those are our three sādhanas. And they're all there to remind us of the view and hang out together and have fun.
 

@@ -99,7 +99,7 @@ Reading chat: So we have a question.  Asking for a friend: what is the differenc
 
 Dawai: Spacing out is when you’re going into a state of consciousness. Pure presence holds the spacing out. So you can space out as pure presence, actually. So technically, there’s no difference, spacing out is pure presence. But if you want to speak in relative terms—like if you’re doing a 10-minute session, or you’re trying to familiarize with the view—then spacing out means you’re kind of like, "Oh, I wonder what I’m going to do tomorrow." You’re kind of zoning out, and staying present would be here, no thoughts are captivating you so it’s like a thief entering an empty house. Okay? 
 
-Reading chat: "So quanimity versus thoughts?"
+Reading chat: "So equanimity versus thoughts?"
 
 Dawai: Yeah, evenness, equanimity, fourth-time abiding. Yeah, I think you’re on to it.
 
@@ -121,7 +121,7 @@ Dawai: Anybody want to rephrase for Dzogchen context? Yes, awareness. Exactly. A
 
 [p. 160]  And so Longchenpa says: 
 
->The definitive meaning of ati depends on whether blessings—which derive from the seal of the guru’s sacred enlightened intent being applied—are present or not.
+>The definitive meaning of Ati depends on whether blessings—which derive from the seal of the guru’s sacred enlightened intent being applied—are present or not.
 
 Dawai: Now it’s going to go into how this is passed from one person to another. Throughout the past thousands of years of this Dzogchen stuff, they’ve been passing it sometimes only to one or two people. Because there's simply nobody whose mind can say, "Oh," you know—we say "Hey," they cannot say "Oh" and see. And remember, this path is so simple that it needs to be taught. That’s why I show up every day. Because it's too easy. It's too simple. But it needs to be taught.
 
@@ -137,9 +137,9 @@ And remember the four faults of Niguma—or not Niguma, remember the four faults
 
 And so there has to be the two intentions. I suppose it’s conventional. The teacher vows, gives their whole life to free beings, and then the being wants to be free, sincerely wants to be free. So when those two things happen, the teacher and the student come together and freedom is ensured. Along with the four conditions—but I would say four aspects—of right time, right place, right presenter, right recipient. When those things are met, realization is ensured, recognition is ensured.
 
-And then some of these teachers are even so powerful, their intensity of their non-conceptual abiding, that even the bugs are benefiting. The cats and the dogs, every encounter, whether it appears good or bad, is like a reminder. Maybe that’s why it was popular to smack the yogis upside the head to give them a pointing out, or Patrül Rinpoche got dragged by his hair, got hit by a shoe, all kinds of stuff. Nowadays, his teacher would be in prison. So it’s a little bit different. [laughing]
+And then some of these teachers are even so powerful, their intensity of their non-conceptual abiding, that even the bugs are benefiting. The cats and the dogs, every encounter, whether it appears good or bad, is like a reminder. Maybe that’s why it was popular to smack the yogis upside the head to give them a pointing out, or Patrul Rinpoche got dragged by his hair, got hit by a shoe, all kinds of stuff. Nowadays, his teacher would be in prison. So it’s a little bit different. [laughing]
 
-So let’s just continue a little bit here because it’s on a point, an important point. There aren’t many yogis out there that are passing this anymore. And then Vajrayana, the guru situation is out of hand. I can’t even honestly ask people to trust. Why would you trust anybody, any guru? Why? It’s scary. It takes time. Get to know your teachers. If the teacher is displaying realization, then okay. And you see that, you verify that. But it’s okay to verify the teachers, to get to know them, to take your time, to challenge them, to look them up, whatever. It’s fine, in my opinion. In fact, when it comes to teachers, getting to know them, Patrül Rinpoche says, could take even many years. So.. 
+So let’s just continue a little bit here because it’s on a point, an important point. There aren’t many yogis out there that are passing this anymore. And then Vajrayana, the guru situation is out of hand. I can’t even honestly ask people to trust. Why would you trust anybody, any guru? Why? It’s scary. It takes time. Get to know your teachers. If the teacher is displaying realization, then okay. And you see that, you verify that. But it’s okay to verify the teachers, to get to know them, to take your time, to challenge them, to look them up, whatever. It’s fine, in my opinion. In fact, when it comes to teachers, getting to know them, Patrul Rinpoche says, could take even many years. So.. 
 
 [p. 160-161]
 
@@ -162,7 +162,7 @@ Here you have the Kunjed Gyalpo defining itself. It said, "countless eons ago, t
 
 Reading chat: "Is awareness Buddha-nature?" 
 
-Dawai: Yes. In here, we typically call the essence emptiness, Dharmakaya. The nature is awareness, Sambhogakaya, Buddha-nature, Svabhavikakaya, Rangjung. And so if you were all made out of water right now, which you kind of are, and I said—well, let's just stick with the regular examples. Everything that’s water has the nature of wetness, whether you’re talking about a lake, a cup of water, spit, it all has the nature of wetness. All fire has the nature of heat. So you have, whether it’s a lighter, whether it’s a campfire, a stove fire, it all has the nature of heat. Just like that, all reality, all experiences have the nature of awareness. This cognitive aspect, which is how we can reorientate into the pure aspect and allow for self-liberation, that rangdrol, even rangjung. Very good.
+Dawai: Yes. In here, we typically call the essence emptiness, Dharmakaya. The nature is awareness, Sambhogakaya, Buddha-nature, Svabhavikakaya, Rangjung. And so if you were all made out of water right now, which you kind of are, and I said—well, let's just stick with the regular examples. Everything that’s water has the nature of wetness, whether you’re talking about a lake, a cup of water, spit, it all has the nature of wetness. All fire has the nature of heat. So you have, whether it’s a lighter, whether it’s a campfire, a stove fire, it all has the nature of heat. Just like that, all reality, all experiences have the nature of awareness. This cognitive aspect, which is how we can reorientate into the pure aspect and allow for self-liberation, that Rangdrol, even Rangjung. Very good.
 
 >Moreover, the ultimate meaning of utterly lucid enlightened intent— ...
 
@@ -191,7 +191,7 @@ Responding to chat: "42 mantras" I know what that's a reference to. At least you
 
 Dawai: All right. And that's just the simple reminder, everybody, you know—why my job is kind of easy these days is I'm just reminding you of that thing that's always there with you. What is slightly familiar to you because it's always been with you. Just like the picture I shared with the swan that tucks all her babies under a giant wing. Yeah, you've always been held by this. It's quite beautiful. 
 
-And I'd like us to realize the deathless. Like, we're not playing. We just shortchange enlightenment too much. We're not playing around here. I'm inviting you to go all the way. Even if I'm a little bit ahead sometimes and things like that, I'm still—you know, I could say, "You know what? I need to slow it down. Let's talk about some ngöndro. Let's do some provisional practices." But I'm not doing that. No, we're not slowing down.
+And I'd like us to realize the deathless. Like, we're not playing. We just shortchange enlightenment too much. We're not playing around here. I'm inviting you to go all the way. Even if I'm a little bit ahead sometimes and things like that, I'm still—you know, I could say, "You know what? I need to slow it down. Let's talk about some ngondro. Let's do some provisional practices." But I'm not doing that. No, we're not slowing down.
 
 Okay, did you want to join in there?
 

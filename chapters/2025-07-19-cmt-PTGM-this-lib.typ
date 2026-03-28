@@ -8,7 +8,7 @@ July 19, 2025
 The Precious Treasury of the Genuine Meaning #8 
 Notes: Dawai's commentary on Root Verses and Auto-commentary 
 
-Dawai: This is a recent translation, around 2015, by Sangye Khandro and Lama Chönam. And it's another synthesis by Longchempa; he’s really just putting it together in a nice, accessible way, usually accessible, if we have a good translation. So, yeah, I'll just make a little way through this text exploration, and please join in if you have something to comment about, or some questions, and things like that.
+Dawai: This is a recent translation, around 2015, by Sangye Khandro and Lama Chönam. And it's another synthesis by Longchenpa; he’s really just putting it together in a nice, accessible way, usually accessible, if we have a good translation. So, yeah, I'll just make a little way through this text exploration, and please join in if you have something to comment about, or some questions, and things like that.
 
 p 164  [whole paragraph to be read]
 
@@ -24,7 +24,7 @@ p 164  [whole paragraph to be read]
 
 Dawai: Now, remember, we talked about phases. At first, to peel yourself out of the movement of your mind, you could start with being aware of thoughts—just noticing how thoughts are within awareness. That's not a mind that's sustained without view or meditation; you're still kind of in the mix in the movement of your mind, because the egoic pattern is still there, and you haven't zoomed out of that psychic chamber, or psychic dimension.
 
-So you can be in various psychic dimensions. You can be in the basic space of phenomenon, the whole thing—that's the one dimension that holds all. You can be in subjectivity, the mānasavicinnana—the egoic patterning, the habit of the ego. And then the egoic isolation isolates itself even more into thoughts and emotions, which is like the turtle shell there. You have this cognitive construct that isolates you into a smaller dimension of consciousness. When you get further along, when you start to peel yourself out of thoughts and emotional patterns, then awareness is naturally self-sustained, self-knowing, self-liberating. And that's the mind sustained without view or meditation, there's no view to hold, there's no meditation to enact.
+So you can be in various psychic dimensions. You can be in the basic space of phenomenon, the whole thing—that's the one dimension that holds all. You can be in subjectivity, the Manasvijnana—the egoic patterning, the habit of the ego. And then the egoic isolation isolates itself even more into thoughts and emotions, which is like the turtle shell there. You have this cognitive construct that isolates you into a smaller dimension of consciousness. When you get further along, when you start to peel yourself out of thoughts and emotional patterns, then awareness is naturally self-sustained, self-knowing, self-liberating. And that's the mind sustained without view or meditation, there's no view to hold, there's no meditation to enact.
 
 Everybody understanding that, yeah? Okay, very good.
 
@@ -38,7 +38,7 @@ Dawai: Or basis would be a lot better of a word there, because ground implies so
 
 >>Staying in solitude, then the three strengths will occur from within. If present cognition is taken as the companion, then everything will become the sole state of placement.
 
-Dawai: ...then everything will become the sole state of placement.(shamatha)
+Dawai: ...then everything will become the sole state of placement.(Samatha)
 
 So, yeah, solitude—we're going to be talking about this in our previous session, the inner hermitage from the Aro Yeshé Jungné text. Nowadays, you may not be able to find solitude, but I encourage you that if you have the slightest opportunity to break physically free, there's plenty of land around. You can build your own home with solar panels, water catchment, you can even grow your own food. You can live with space. You don't need to be totally in solitude even, but you can have your space. There's plenty of land on this earth, and it's very easy to build a home actually. It may seem complicated, but it's not. And so, where you can buy a little tiny house or something so easy, or a camper, anything, and just be free physically. It does help out in certain cases. 
 
@@ -147,7 +147,7 @@ Sangha: Yeah, I mean in old times they said they like memorized all of the Longc
 
 Dawai: They do it, oh my goodness. You see a Tibetan monk, most likely they have endless scriptures memorized, or none.
 
-Sangha: Yeah, that's very popular in Turkey with memorizing the Qur'an and stuff, but that's like one book, right? In the Dharma there is endless scripture pretty much.
+Sangha: Yeah, that's very popular in Turkey with memorizing the Quran and stuff, but that's like one book, right? In the Dharma there is endless scripture pretty much.
 
 Dawai: Yeah, you know, I noticed that with the Bible too. The hardcore people memorize it, but, you know, having just one book for the source of everything, to me is inherently gonna trip you up a little bit. But they use one book to tell them everything about life, and nothing challenges that book. They can't cross-reference or contrast and…
 

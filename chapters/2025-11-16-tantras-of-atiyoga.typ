@@ -7,23 +7,23 @@ This is, you know the source of Dzogchen, and it has a really fascinating histor
 
 So anyway, you know, even though, like in The Way of Abiding you find the All-Creating Monarch, the more digging I did, they just tend to classify it as Semde, because Manjushri Mitra broke down Garab Dorje's teachings, which are like 6,400,000 teachings, broke them down into these three categories.
 
-Now, the most explanations I've heard of the three categories is that Semde is for lesser capability, Longde is for medium, and Mengagde is for higher capability practitioners; but there are several explanations of these three classes. So even though we see the All-Creating Monarch, the Kunjed Gyalpo (also known as the Kulayaraja in Sanskrit), even though we see it in The Way of Abiding, which specifically says it's sort of encompassing all three classes, they still put it in Semde.
+Now, the most explanations I've heard of the three categories is that Semde is for lesser capability, Longde is for medium, and Menngagde is for higher capability practitioners; but there are several explanations of these three classes. So even though we see the All-Creating Monarch, the Kunjed Gyalpo (also known as the Kulayaraja in Sanskrit), even though we see it in The Way of Abiding, which specifically says it's sort of encompassing all three classes, they still put it in Semde.
 
-So that shows that you can look at it as a Semde tantra with its 84 chapters, according to Namkhai Norbu, you can look at it that way, but you can also look at it like Longchenpa does in The Way of Abiding in The Precious Treasury of Basic Space Phenomena ++EDITOR Dawai says Phononemom++ for example, in that it can be a standalone tantra. Yeah and classifying them almost took that sovereignty away from the tantras themselves as standalone living entities; living breathing scriptures. 
+So that shows that you can look at it as a Semde tantra with its 84 chapters, according to Namkhai Norbu, you can look at it that way, but you can also look at it like Longchenpa does in The Way of Abiding in The Precious Treasury of Basic Space of Phenomena for example, in that it can be a standalone tantra. Yeah and classifying them almost took that sovereignty away from the tantras themselves as standalone living entities; living breathing scriptures. 
 
 So we don't necessarily have to abide by classifications if we reference The Way of Abiding. And so my point here is that, hey, if people are getting along and they're agreeing on something, it's great. And even Longchenpa classifies the Kunjed Gyalpo, the All-Creating Monarch, as a Semde root tantra. Okay? 
 
-So just for clarification, the reason why there was some confusion is because there typically are eighteen Semde tantras, there are a lot more of them, and there are sutras too. So whenever I saw that on Wiki, and I'm pretty sure it's written wrong, but I could be mistaken, but anyway, it says the Kunjed Gyalpo is eighteen tantras — that is not really accurate. There's eighty-four chapters, it could have intertextual citations in there, but I'm pretty sure it's its own Kunjed Gyalpo cycle. And so there are many other Semde tantras. Sem means mind, and de is like class, classification. And Long is space, space classification. Mengagde is the pith instruction, Upadesha.
+So just for clarification, the reason why there was some confusion is because there typically are eighteen Semde tantras, there are a lot more of them, and there are sutras too. So whenever I saw that on Wiki, and I'm pretty sure it's written wrong, but I could be mistaken, but anyway, it says the Kunjed Gyalpo is eighteen tantras — that is not really accurate. There's eighty-four chapters, it could have intertextual citations in there, but I'm pretty sure it's its own Kunjed Gyalpo cycle. And so there are many other Semde tantras. Sem means mind, and de is like class, classification. And Long is space, space classification. Menngagde is the pith instruction, Upadesha.
 
-So anyway, what I'm getting at here is that Longchenpa seems to tie these together in unison, going beyond trekchö and tögal into The Way of Abiding, the kind of pure Dzogchen Shamatha. That's just my take on it. 
+So anyway, what I'm getting at here is that Longchenpa seems to tie these together in unison, going beyond trekchö and tögal into The Way of Abiding, the kind of pure Dzogchen Samatha. That's just my take on it. 
 
 And so here we see: 
 
 p 32
 
-- The Tantras of Aniyoga 
+- The Tantras of Atiyoga 
 > Atiyoga has three divisions of tantras: They are Semde,
-Longde, and Mengagde.
+Longde, and Menngagde.
 (1) In Semde (Sems-sDe) there are Twenty-one Major Tantras which were brought to Tibet by Vimalamitra and Vairocana. According to Longchen Rabjam they are:GD 179a/4
 
 Dawai: See there are a lot more than... and I think like five of them have been translated. 
@@ -36,7 +36,7 @@ Dawai continuing:
 
 Dawai: these were Indian translators. And that's why it's called Vima Nyingtik, right? Because they came from Vimalamitra, who we have a strong lineage connection to, actually.
 
-But before that, Shri Singha is usually cited as dictating it or sharing it with Vimalamitra. Shri Singha, of course, was traveling across India and China and probably has a lineage or two in China, actually. And there's a gap there. So we're talking about the 700s here. And so Vimalamitra comes to Tibet with these texts. and I would say also the Mengagde texts, which scholars say, oh no, those came in the 1100s, 1200s. But in the Nyingma tradition, which I've been kind of following dogmatically all my life, we say that they came from Padmasambhava and Vimalamitra — the eighteen pith instruction tantras.So there's a Nyingma history there, and then there's a modern academic history which have slight differences. 
+But before that, Shri Singha is usually cited as dictating it or sharing it with Vimalamitra. Shri Singha, of course, was traveling across India and China and probably has a lineage or two in China, actually. And there's a gap there. So we're talking about the 700s here. And so Vimalamitra comes to Tibet with these texts. and I would say also the Menngagde texts, which scholars say, oh no, those came in the 1100s, 1200s. But in the Nyingma tradition, which I've been kind of following dogmatically all my life, we say that they came from Padmasambhava and Vimalamitra — the eighteen pith instruction tantras.So there's a Nyingma history there, and then there's a modern academic history which have slight differences. 
 
 p 32
 
@@ -50,7 +50,7 @@ Dawai: that's a typo I think that I have here — but anyway, they're translated
 
 I'm not going to read these, but yeshé could we please show them in the YouTube video? That way you can compare and contrast when you see tantras, and it might be a little difficult when you have Christopher Wilkinson and Richard Baron and everybody choosing unique names for these titles, but when you see these, this could help you out in deciphering.
 
-For example, you have the Six Expanses. Longchenpa tends to cite the 18 root tantras of the Mengagde pith instruction. Right now we're on the mind section. The pith instruction 18 tantras get cited, like the Six Expanses, the Pearl Garland Sutra, the Reverberation of Sound Sutra. Even the All-Creating Monarch is cited in the way of abiding. 
+For example, you have the Six Expanses. Longchenpa tends to cite the 18 root tantras of the Menngagde pith instruction. Right now we're on the mind section. The pith instruction 18 tantras get cited, like the Six Expanses, the Pearl Garland Sutra, the Reverberation of Sound Sutra. Even the All-Creating Monarch is cited in the way of abiding. 
 
 So the good thing is that Longchenpa is constantly feeding us these root scriptures intertextually. So there you have — Yeshé will show you the five earlier translations and the thirteen later translated tantras translated by Vimalamitra and Jñanakumara and Yudra Nyingpo — and Yeshé will show those too.
 
@@ -116,7 +116,7 @@ Sems rDo-rJe A ’od-’Thro)
 
 Dawai: I think the Longchen Rabjam Gyalpo is the root tantra of that. Remember, this was before Longchenpa, so Longchen Rabjam is his name, but this was even before him.
 
-And so I think there are twenty thousand of the Longde. And according to Tolku Tundup Rinpoche ++EDITOR check name [00:08:52.425]++ there are only seven extant texts of the space class, the Longde. And they're collected, of course, in the Nyingma Gyubum, which is an extension of the Tibetan canon.
+And so I think there are twenty thousand of the Longde. And according to Tulku Tundup Rinpoche ++EDITOR check name [00:08:52.425]++ there are only seven extant texts of the space class, the Longde. And they're collected, of course, in the Nyingma Gyubum, which is an extension of the Tibetan canon.
 
 So they have the regular canon that you would see in the Pali canon, the Korean canon, all these different places. That's called the Kangyur and the Tengyur — The Kangyur being the words of the Buddha and the Tengyur being the commentary, abhidharma.
 
@@ -124,7 +124,7 @@ So you have those, but then they have added inner tantra — so Mahā, Anu, and 
 
 And if I'm blowing your brain up right now, I apologize, just hang in there. It's not going to be too much longer.
 
-And so yeah, only seven extant, ++EDITOR: Don't konw if Dawai is speaking there or reading comment++ but are they only seven existing or only seven translated that we know of? Because there are a lot of Tibetan texts — I'm talking about hundreds of thousands that are missing or untranslated. So my guess is that it starts to go into, yeah maybe Garab Dorje did have 6,400,000 teachings. 
+And so yeah, only seven extant, ++EDITOR: Don't know if Dawai is speaking there or reading comment++ but are they only seven existing or only seven translated that we know of? Because there are a lot of Tibetan texts — I'm talking about hundreds of thousands that are missing or untranslated. So my guess is that it starts to go into, yeah maybe Garab Dorje did have 6,400,000 teachings. 
 
 But remember now, I traced this... like I think Shri Singha definitely had lineage in China. Some of that, you know, if you're out there and you're really nerding out like we are, then find connections to Shri Singha. I bet you'll connect a lot of lineage dots there because you can't just skip like 400 years to Garab Dorje. 
 
@@ -136,18 +136,18 @@ So I'm just going to finish out here. Those are the... Yeshé will show you thos
 
 ++EDITOR - is there a list that I missed here?++
 
-And again, these are translated by various names and texts like the Precious Treasuries and intertextual — like just kind of like buffets of texts — like I want to say like the Kunjed Gyalpo, they pick pieces from the eithtyfour  chapters, but it seems like there were also scripture citations into it, so it gets intertextual - intertextual.
+And again, these are translated by various names and texts like the Precious Treasuries and intertextual — like just kind of like buffets of texts — like I want to say like the Kunjed Gyalpo, they pick pieces from the 84 chapters, but it seems like there were also scripture citations into it, so it gets intertextual - intertextual.
 
 (p 34)
 
 Alright, so next we have the last class of Dzogchen tantras, which are:
 
->(3) The tantras of Mengagde (Man-Ngag-sDe) were brought
+>(3) The tantras of Menngagde (Man-Ngag-sDe) were brought
 to Tibet mainly by Pandita Vimalamitra and Guru Padmasambhava.
 
-Dawai: So Vimalatra agqin, and this time Padmanbhava, so Guru Rinpoche. And those are typically called the Khandro Nyingtik, right? The dakini, associated with the feminine for some reason — probably because there's this idea of child and mother and father tantras.
+Dawai: So Vimalatra again, and this time Padmanbhava, so Guru Rinpoche. And those are typically called the Khandro Nyingtik, right? The dakini, associated with the feminine for some reason — probably because there's this idea of child and mother and father tantras.
 
-> Some of the major tantras of Mengagde, which belong to the Yangsang (Yang-gSang) or Nyingthig (sNying-Thig) subdivision, according to Gyurmed Tshewang Chotrub1^ '11245b/5 and Pema Ledreltsal are:1™8a/b
+> Some of the major tantras of Menngagde, which belong to the Yangsang (Yang-gSang) or Nyingthig (sNying-Thig) subdivision, according to Gyurmed Tshewang Chotrub1^ '11245b/5 and Pema Ledreltsal are:1™8a/b
 
 And Yeshé will show you there. They have these seventeen ... Longchenpa lists seventeen tantras — and you have the Tibetan names there. They're not in English. So you can look these up though, just do a regular search engine search — and you will find the eighteen tantras, sometimes called the seventeen, sometimes the twentyone. Here we have nineteen, sometimes called the nineteen
 
@@ -181,9 +181,9 @@ Dawai: So this text also goes into some nuances between the three classes, if yo
 (p 35)
 And so it says:
 
->There are two other important categories of scriptures in the Yangsang sub-section of Mengagde, known as the Instructional (Man-Ngag) category of teachings. They are as follows. According to Pema Ledrel TsalNCC 8b/5 the first is the Nyingthig teachings which contain the essential instructions of the Seventeen Tantras and Throma Tantra. It was brought to Tibet by Vimalamitra and became known as Vima Nyingthig. The second is the Nyingthig teachings which mainly contain the essential instructions of Longsal Barwa Tantra. It was brought to Tibet by Guru Padmasambhava and became known as Khadro (mKha’-’Gro) Nyingthig.
+>There are two other important categories of scriptures in the Yangsang sub-section of Mengagde, known as the Instructional (Man-Ngag) category of teachings. They are as follows. According to Pema Ledrel TsalNCC 8b/5 the first is the Nyingthig teachings which contain the essential instructions of the Seventeen Tantras and Throma Tantra. It was brought to Tibet by Vimalamitra and became known as Vima Nyingtik. The second is the Nyingtik teachings which mainly contain the essential instructions of Longsal Barwa Tantra. It was brought to Tibet by Guru Padmasambhava and became known as Khadro (mKha’-’Gro) Nyingtik.
 
->Longchen Rabjam wrote a volume of commentarial and supplemental texts on Vima Nyingthig known as Vima Yangtig (Vima Yang-Tig) and one volume on Khadro Nyingthig known as Khadro Yangtig (mKha’-’Gro Yang-Tig). He also wrote a volume on both Nyingthigs known as Lama Yangtig (Bla-Ma Yang Tig) or Yangtig Yidzhin Norbu (Yang-Tig Yid-bZhin Nor- Bu). 
+>Longchen Rabjam wrote a volume of commentarial and supplemental texts on Vima Nyingtik known as Vima Yangtig (Vima Yang-Tig) and one volume on Khadro Nyingthig known as Khadro Yangtig (mKha’-’Gro Yang-Tig). He also wrote a volume on both Nyingthigs known as Lama Yangtig (Bla-Ma Yang Tig) or Yangtig Yidzhin Norbu (Yang-Tig Yid-bZhin Nor- Bu). 
 
 Dawai: So you have a lot of "tiks" there going on. Very good.
 

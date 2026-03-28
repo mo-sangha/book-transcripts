@@ -84,7 +84,7 @@ between form and emptiness.
 
 Dawai: And of course that interval is laced with cognition, so you have in between form and emptiness. That's why Longchenpa, in another place in the treasury, says, "mind resolves itself within phenomenon and phenomenon resolve themselves within mind," because it's the very phenomena that keep us confined, entrenched into sensual stimulation and vibrations.
 
-So when the mind—that weight, we're really just talking about psychic weight—lifts out of appearances and subjectivity, then there's non-duality. Making sense, right? That's shempa — the hooks come out. We have an evenness, great evenness here. 
+So when the mind—that weight, we're really just talking about psychic weight—lifts out of appearances and subjectivity, then there's non-duality. Making sense, right? That's shenpa — the hooks come out. We have an evenness, great evenness here. 
 
 You are worthy of that. You have made a connection with that in an authentic way. Uh, in these live gatherings are some of the most authentic Dzogchenpas I've ever seen.
 
@@ -96,7 +96,7 @@ But that very wakefulness that's exemplified in this group is what's being descr
 
 So it looks like—and right there, next time we're gonna start with the six modes of consciousness, which we went over today to preface this book exploration today. So that's great. Longchenpa's always got our back like this, and it's really nice to hear.
 
-Recently I had a contention that was so reductive that I couldn't even really respond to it—that the eight consciousness model is not found in Dzogchen. And this is a misunderstanding. The eight consciousness, the eight aspects, are definitely found all over Dzogchen. A lot of people like to say, "Oh, that's just Yogachara, which is the Abhidhamma stuff." But this is not the case, actually. You find it many, many places.
+Recently I had a contention that was so reductive that I couldn't even really respond to it—that the eight consciousness model is not found in Dzogchen. And this is a misunderstanding. The eight consciousness, the eight aspects, are definitely found all over Dzogchen. A lot of people like to say, "Oh, that's just Yogacara, which is the Abhidhamma stuff." But this is not the case, actually. You find it many, many places.
 
 I mean, if you're gonna work on your car, you gotta know what your engine looks like—you gotta know what the parts are—and so that's all the reason why we use the eight aspects: just to know our mechanics. And if anybody ever finds a better mind map, then hey, introduce it—we'll check it out. But this is pretty thorough, pretty awesome if you ask me.
 

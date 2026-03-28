@@ -14,7 +14,7 @@ So if we're relaxing right now into the view—so purely present cognizance, the
 
 So they have words for that. They call it _rigpa_, the pure aspect of your mind, and they have all these words, _kadak_ and _lhündrup_. They say it's pure, it's spontaneously present, unconditioned— that's what they mean by purity. And then this cognizance, this knowingness that permeates everything you're seeing, hearing, feeling, thinking—they call it the nature of mind because it permeates everything. And we can validate that in our own experience, in our own observability, which is the wonderful part, which makes this not anti-scientific. And then we can peer review it amongst each other, right? So this is a really great blessing that we have here, that we're not just aimlessly following vague abstracts in our mind. We can verify there's a part of mind that permeates all thoughts, emotions, the sense world, and everything.
 
-Now that has to exist within a space, or that presence of that mind is within a space, so to speak. And so that's another big part of this: the space that we're all in. Everything happens—every emotion you've ever had, every thought you've ever had—has always happened within this space. And they compare that to the feminine, the womb, right? _Tathāgatagarbha_ — _garbha_ meaning womb, _tathāgata_, the Buddha; so the womb of all the Buddhas, and all sentient beings are Buddhas. So that's why they call it _dharmakāya_ or _dharmadhātu_. It's the space that we all live in, the great womb of infinite potential.
+Now that has to exist within a space, or that presence of that mind is within a space, so to speak. And so that's another big part of this: the space that we're all in. Everything happens—every emotion you've ever had, every thought you've ever had—has always happened within this space. And they compare that to the feminine, the womb, right? _Tathāgatagarbha_ — _garbha_ meaning womb, _Tathagata_, the Buddha; so the womb of all the Buddhas, and all sentient beings are Buddhas. So that's why they call it _dharmakāya_ or _dharmadhātu_. It's the space that we all live in, the great womb of infinite potential.
 
 And yes, if we start to pick elements out of the infinite and build our world, it becomes like an eggshell, and we're not exactly abiding in the infinite, but you're headed towards that. You may not see that it's formless, but we're all headed towards the infinite. Our beingness is expanding into the infinite. It's so beautiful, isn't it? So amazing, especially when we embrace it.
 
@@ -30,7 +30,7 @@ So I'm getting into this because I don't want to just read this and have you be 
 
 Any questions about that—the three _kāyas_ and the three main aspects of your mind?
 
-Sangha 1: I wanted to ask about space. When we use the word space, we mean dhātu, right? Like in dharmadhātu, not like namkha, or lung, like in the space category. Long-de, sorry. Like, in my name, there's Long-de, but also in the dharmadhātu one, that's a different word, I think, right? Are those three different spaces?
+Sangha 1: I wanted to ask about space. When we use the word space, we mean dhatu, right? Like in dharmadhātu, not like namkha, or lung, like in the space category. Long-de, sorry. Like, in my name, there's Long-de, but also in the dharmadhātu one, that's a different word, I think, right? Are those three different spaces?
 
 Dawai: When I used it just now, I was comparing the mind to space. I was just using it as a metaphor.
 
@@ -96,7 +96,7 @@ That's why I don't use those, remember Yeshé, I don't use those three. I don't 
 
 Dawai: So the more you get absorbed into _Mahāmudrā_, into pure presence — free of distraction and various subdivisions of our mind, creating psychic boundaries and walls and all these things — then the wholeness will come to fruition. It will expose itself as luminosity — which is living luminosity, not just light, but mind-light. 
 
-So some sharing's here:
+So some sharings here:
 
 Reading chat: "Since many translators either are not practitioners or do not speak good Tibetan either. Longchenpa says, "You don't know where it has gone in dharmadhātu treasury."
 
@@ -171,7 +171,7 @@ Dawai: Yeah, we have little techniques to get you back into the view, we don't m
 
 >Second, the _distinctions_ are the four modes of liberation, including four crucial points, as stated in the _Reverberation of Sound_.
 
-Dawai: And we also have those here, the four chogshag's, right? Those are the four ways of letting be. They're talking about those, but we have the modes of liberation. Sometimes those are presented as the snake, the thief entering an empty house, and the old friend. I'm not going to get into the modes of liberation just yet. Let's see if they do, and we'll go along with it.
+Dawai: And we also have those here, the four Chokshyaks, right? Those are the four ways of letting be. They're talking about those, but we have the modes of liberation. Sometimes those are presented as the snake, the thief entering an empty house, and the old friend. I'm not going to get into the modes of liberation just yet. Let's see if they do, and we'll go along with it.
 
 [p 166]
 
