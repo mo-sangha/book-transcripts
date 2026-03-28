@@ -1,6 +1,6 @@
 #import "/template.typ": *
 // STATUS: Imperfectly formatted because of transfer changes. Words are correct but formatting needs work.
-== Awareness all inclusive #text(fill: gray)[[Ref]] 
+== Awareness all inclusive #text(fill: gray)[[Ref]]
 
 If you don't like enumerations, I apologize in advance. These were ways for people to keep track of the teachings before they wrote them down, and it's quite useful as a memory device, mnemonics and things. So of course, with the five aggregates, you have form, feelings, perception, mental formations, and conditioned consciousness. So to me, it's always been a strange list because it intertwines and people tend to treat them as they're different or separate even.
 
@@ -26,7 +26,7 @@ So, we see reality as our teacher. We saw these people as, you know, co-emergent
 
 That's right, I'm hitting you with the enumerations today! We're going to talk about the one path (the Ekayana), the two truths, the three poisons, the four noble truths, the five aggregates, the six perfections, the seven points of postures, the eightfold path, nine yanas, the 10 virtues. Of course, I could go on, but then your head will explode. And we're not going to talk about all that today, okay? Don't worry. But as you can see, there are a lot of enumerations in the Dharma.
 
-Responding to chat: That's a different religion, but sure. It just comes in like, "What about the 10 chicken nuggets I had in my McDonald's?" [laughing] Oh my goodness, okay. All good. 
+Responding to chat: That's a different religion, but sure. It just comes in like, "What about the 10 chicken nuggets I had in my McDonald's?" [laughing] Oh my goodness, okay. All good.
 
 Dawai: So the four foundations of mindfulness are included in that too, right? Another enumeration. But it's very useful because it's like knowing your car mechanics when you have these lists and you have these labels that you can utilize because you're already subscribing to them. You're already labeling this stuff—this random aggregate of energy, or this contraction of energy or consciousness. You're already labeling that.
 
@@ -171,13 +171,13 @@ Sangha 1: And then the follow-up question is, there were some that didn't make s
 
 Dawai: Well, have you ever got annoyed by somebody?
 
-Sangha 1: Yep. 
+Sangha 1: Yep.
 
-Dawai: Well, there you go. You're detaching; you want to detach from them, they're annoying. 
+Dawai: Well, there you go. You're detaching; you want to detach from them, they're annoying.
 
-Sangha 1: Okay, so it's not detachment in the sense that it's usually used in the context of, let's say, meditation practice? 
+Sangha 1: Okay, so it's not detachment in the sense that it's usually used in the context of, let's say, meditation practice?
 
-Dawai: Well yeah, we have this limited nomenclature, right? Our semantics are quite limited, comparatively speaking, to some of these other languages and the depth of psychology that they had in the Dharma. So I notice repeats in terms that are very reductive. And so yeah basically, we could say that it's a diverse word right there. Detachment can be very nuanced there. And I don't know what standard detachment would be. Detachment is never really a positive thing. I don't want to... you know, the lack of grasping is not the same as detachment here. I think you may be referring to lack of grasping. 
+Dawai: Well yeah, we have this limited nomenclature, right? Our semantics are quite limited, comparatively speaking, to some of these other languages and the depth of psychology that they had in the Dharma. So I notice repeats in terms that are very reductive. And so yeah basically, we could say that it's a diverse word right there. Detachment can be very nuanced there. And I don't know what standard detachment would be. Detachment is never really a positive thing. I don't want to... you know, the lack of grasping is not the same as detachment here. I think you may be referring to lack of grasping.
 
 Sangha 1: Yeah, that's what I was thinking about.
 
@@ -197,7 +197,7 @@ But if I have an impulse right now to smoke some crack—taking a funny example,
 
 So not only are we sitting through urges to smoke or eat some food, but we're sitting through the conditioned self arising and apprehending things. We're sitting through karmic tendencies and impulses, patterns that have been accumulated through beginningless time over lifetimes. They are now allowed to come up and fly freely without risk of being shot down and trapped in the cage of evaluation and analysis. Now we can let our experience be no matter what it is, all 80 of them. Making sense, yeah? Did you want to join in?
 
-Sangha 1: Well, as you were talking, a question came up, then maybe it's... I'll ask anyway. So in certain traditions, you mentioned thresholds. And the first thing that came to mind was... and we were talking about other religions, but so-called dark night of the soul, and there's traditions which have roadmaps which... anyway, I am not very familiar with that. So is that something—I don't think that's what you're referring to, but that's what came. 
+Sangha 1: Well, as you were talking, a question came up, then maybe it's... I'll ask anyway. So in certain traditions, you mentioned thresholds. And the first thing that came to mind was... and we were talking about other religions, but so-called dark night of the soul, and there's traditions which have roadmaps which... anyway, I am not very familiar with that. So is that something—I don't think that's what you're referring to, but that's what came.
 
 Dawai: We brought that up the other day. Yeah, there could be some pretty substantial so-called darkness that comes up for you until you can walk through demons, right? There's like having a dream of the scariest thing that you could imagine, but this time, instead of it taking you aback, now you're actually just walking straight through that thing—that image, that appearance that used to scare you so much. And so, this is what—where dreams and dream science can be a great indicator of one's liberation. Are the appearances still fooling you? Are they still captivating? And so, things will arise: empty things, bananas, fit to nothing, but we take them to be something. And it could be heavy bouts of desire, anger, confusion, restlessness.
 
@@ -214,7 +214,7 @@ We're a sangha here. We practice the same stuff. We know the same teachers and a
 
 
 Ref:
-https://www.rigpawiki.org/index.php?title=Eighty_indicative_conceptions  
+https://www.rigpawiki.org/index.php?title=Eighty_indicative_conceptions
 
 
 

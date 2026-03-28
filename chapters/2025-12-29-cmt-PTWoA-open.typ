@@ -2,11 +2,11 @@
 // STATUS: Imperfectly formatted because of transfer changes. Words are correct but formatting needs work.
 == Discerning the implications of openness #text(fill: gray)[(Cmt)]
 
-Discerning the implications of openness 
-December 29, 2025  
-Commentary on The Precious Treasury of the Way of Abiding, #38  
+Discerning the implications of openness
+December 29, 2025
+Commentary on The Precious Treasury of the Way of Abiding, #38
 Notes: Cmt on Root Verses and Auto-commentary
-Samaya — The Theme of Openness  
+Samaya — The Theme of Openness
 
 And this is of course The Way of Abiding, and we're still on the theme of openness. So, that sharing today reminded me of that spaciousness, that openness.
 
@@ -20,13 +20,13 @@ If you're gonna be in this then you might as well go all the way. Unless you jus
 
 Now, everybody knows the first five aspects of consciousness, right? Anybody want to throw it out there? So, the five senses—gustatorial, olfactory, visual, auditory—this is naturally, awareness is there. If you pick an object right now, for example, I'll pick this cup, there's awareness there—the mind is holding that. So even if you look away from your object, there's some part of your mind that knows that you just looked at an object, there's some cognition that held that.
 
-So if you sit here right now, and don't focus on any objects and just have everything in a kind of slightly blurry periphery. So even the screen in front of me right now, I'm just leaving that a little bit with this depth of field, right? So, notice how your mind is there in all these objects, all these appearances. 
+So if you sit here right now, and don't focus on any objects and just have everything in a kind of slightly blurry periphery. So even the screen in front of me right now, I'm just leaving that a little bit with this depth of field, right? So, notice how your mind is there in all these objects, all these appearances.
 
 Now, which part of your mind is rendering this entire scene? You know, according to modern science, we can only see in two dimensions, so that means there's a part of your mind making everything 3D right now. But you're still able to interact. I can look at this light—it looks 3D—so part of my mind, the multi-dimensional aspect, is saying, okay, I'm gonna render this thing for you and you use it.
 
 So, what's powerful, and it looks like we're safely getting into that part of our mind that's actually doing that rendering—traditionally they would say it's projected—your mind is projecting a reality from the heart space and these channels and everything. But we don't need to worry about where it's coming from. All we know is that there's a subsidiary of our mind that's essentially rendering this entire environment right now for us to navigate in it. And then awareness is there in the environment, and in our subjectivity.
 
-So me looking at the light, awareness is there through all of that, because in order for me to render the environment, there has to be a basis; cognitive basis. And so we hinge on awareness. And then I have thoughts about the light: "Wow, that light is very useful. It's a nice and sturdy light." Well, those thoughts are also permeated by the same awareness—it hasn't gone anywhere, like space. So that's the sixth aspect. 
+So me looking at the light, awareness is there through all of that, because in order for me to render the environment, there has to be a basis; cognitive basis. And so we hinge on awareness. And then I have thoughts about the light: "Wow, that light is very useful. It's a nice and sturdy light." Well, those thoughts are also permeated by the same awareness—it hasn't gone anywhere, like space. So that's the sixth aspect.
 
 But you also have emotions, emotional energy—like if I really love this light, I can't live without it—that's permeated by the same space-like awareness. It's very, very easy to see this part of your mind, but you have to come out a little bit and be willing a little bit to catch it.
 
@@ -36,7 +36,7 @@ So, is there a fire burning of conditioning within open space? In this practice,
 
 So that's the theme of openness, everybody. I just wanted to kind of lay the foundation and connect that with our practices, that openness is the very key, it's fundamental.
 
-All right? So let's see what Longchenpa has to say about it—usually getting very intertextual with us—but starting with some root verses here. 
+All right? So let's see what Longchenpa has to say about it—usually getting very intertextual with us—but starting with some root verses here.
 
 Discerning the Implications /  p. 151
 
@@ -65,7 +65,7 @@ Dawai:  Ah, so we have the wonderful word "discernment" in there. We all have th
 
 So, you have five lights of your mind, basically. And they've been able to... well, English is a little reductive, okay—but one of them is the wisdom of discernment associated with red and the counterpart to desire, and associated with Amitabha.
 
-So, what are they discerning here? It says here: "is to discern the implications of ultimate wholly positive enlightened intent as supreme and uninterrupted openness." So, this is discerning between contraction and openness. 
+So, what are they discerning here? It says here: "is to discern the implications of ultimate wholly positive enlightened intent as supreme and uninterrupted openness." So, this is discerning between contraction and openness.
 
 Making sense? You know when you're contracted into something. Like, let's say you're a real lug-head and you get upset because the dogs pooped on the floor. You know that you're in that contraction—being upset—you know, "why did they poop on the floor?" And you're proliferating, and you have to give yourself reasons to keep this contraction. And as awareness practitioners, you may even notice the fork in the road the whole time is there. You kind of know that, man, I could let this go right now. And you don't. You don't sometimes, right? So that's discernment. Any questions about that?
 
@@ -75,7 +75,7 @@ Remember everybody, this reality is considered to be like a reflection on the mi
 
 So, we'll just continue a little bit here:
 
->The Great Garuda states: 
+>The Great Garuda states:
 
 >> Freedom in all its immediacy—naturally pure, boundless, completely perfect—
 is that which is naturally evident in freedom from the limitations of dualism.
@@ -84,7 +84,7 @@ between form and emptiness.
 
 Dawai: And of course that interval is laced with cognition, so you have in between form and emptiness. That's why Longchenpa, in another place in the treasury, says, "mind resolves itself within phenomenon and phenomenon resolve themselves within mind," because it's the very phenomena that keep us confined, entrenched into sensual stimulation and vibrations.
 
-So when the mind—that weight, we're really just talking about psychic weight—lifts out of appearances and subjectivity, then there's non-duality. Making sense, right? That's shenpa — the hooks come out. We have an evenness, great evenness here. 
+So when the mind—that weight, we're really just talking about psychic weight—lifts out of appearances and subjectivity, then there's non-duality. Making sense, right? That's shenpa — the hooks come out. We have an evenness, great evenness here.
 
 You are worthy of that. You have made a connection with that in an authentic way. Uh, in these live gatherings are some of the most authentic Dzogchenpas I've ever seen.
 
@@ -114,7 +114,7 @@ Sangha: I just wanted to comment on how, uh, it's just so interesting how hearin
 
 Dawai: Well, I'm so happy you all keep coming to our gatherings like this, and you're getting something out of it—that's wonderful. And I really love it because it's so just bare bones, dealing with the view.
 
-And you got to remember everybody, there's nothing expected from you—even though I might get on you for posture. I mean, that's about it. That's like all I do, though. I might talk about your posture—and that's about it. So I think that really does with the zero obligation. You don't even have to give your email, right? It's just—it's better for Dzogchen like this. That way people can just test it themselves and have the natural consistency. 
+And you got to remember everybody, there's nothing expected from you—even though I might get on you for posture. I mean, that's about it. That's like all I do, though. I might talk about your posture—and that's about it. So I think that really does with the zero obligation. You don't even have to give your email, right? It's just—it's better for Dzogchen like this. That way people can just test it themselves and have the natural consistency.
 
 I'm big on consistency, and that's why you will see things, because this whole thing is laid out and deeper than I could even imagine, actually. We have themes and layers to these gatherings that—how does that even come together? Like our meditation techniques and stuff like that.
 
@@ -130,7 +130,7 @@ All right, so we'll just do these three White Tara mantras and then end with a m
 
 White Tara Mantra:
 
-ༀ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་མ་མ་ཨཱ་ཡུཿ་པུཎྱ་ཛྙཱ་ན་པུཥྚིཾ་ཀུ་རུ་སྭཱ།  
+ༀ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་མ་མ་ཨཱ་ཡུཿ་པུཎྱ་ཛྙཱ་ན་པུཥྚིཾ་ཀུ་རུ་སྭཱ།
 
 OṂ TĀRE TUTTĀRE TURE MAMA ĀYUḤ PUṆYA JÑĀNA PUṢṬIṂ KURU SVĀHĀ
 

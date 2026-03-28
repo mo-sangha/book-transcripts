@@ -4,21 +4,21 @@
 == Why external phenomena are mind #text(fill: gray)[(Cmt)]
 
 Commentary on Transcending Ego: Distinguishing Consciousness from Wisdom
-May 14, 2025  
+May 14, 2025
 
 Dawai: Let's go back to Rangjung Yeshé Dorje, the 3rd Karmapa's text here in Thrangu Rinpoche's commentary, because this is exactly what makes this style, this group, a little bit different—is that we get into the mechanics of our experience. We don't leave all that vague.
 
 And so if you consider that 95% of our reality—like this dark energy, dark matter that they're speaking of—is invisible, then it's quite logical to assume that we can embrace the I don’t know mind. You see? That we can allow for revelation.
 
-According to Fred Luskin at Stanford—those are the stats I like to cite anyway—there's about 50,000 thoughts that you're having per day, and the average person knows up to 50,000 words, okay? It could be much less or much more depending on circumstances. But that's not a lot—you don't want to confine your entire mind to those 50,000 words and those 50,000 thoughts. Alright? When you fact check me on that, understand that these numbers vary and I did an estimate based on different sources. Okay?  
+According to Fred Luskin at Stanford—those are the stats I like to cite anyway—there's about 50,000 thoughts that you're having per day, and the average person knows up to 50,000 words, okay? It could be much less or much more depending on circumstances. But that's not a lot—you don't want to confine your entire mind to those 50,000 words and those 50,000 thoughts. Alright? When you fact check me on that, understand that these numbers vary and I did an estimate based on different sources. Okay?
 
-So very good to know though, that you have this mind that's quite expansive. It knows words that you have not learned yet. It knows concepts that you have not developed yet. All kinds of things like that, okay?  
+So very good to know though, that you have this mind that's quite expansive. It knows words that you have not learned yet. It knows concepts that you have not developed yet. All kinds of things like that, okay?
 
-Yesterday we were talking about the hypnagogic and the hypnopompic states, and how we can kind of freeze those states. Those are intermediate states, as you're falling asleep—I think that's the hypnagogic state. And then as you're waking up, it's the hypnopompic state. Those are essentially bardos.  
+Yesterday we were talking about the hypnagogic and the hypnopompic states, and how we can kind of freeze those states. Those are intermediate states, as you're falling asleep—I think that's the hypnagogic state. And then as you're waking up, it's the hypnopompic state. Those are essentially bardos.
 
-And in those bardos you can learn a lot about your mind. You can see how emotions and thoughts melt together to make a dream. You can see how dreams are very random—like AI pictures—they'll have random artifacts and hallucinations. Right? 
+And in those bardos you can learn a lot about your mind. You can see how emotions and thoughts melt together to make a dream. You can see how dreams are very random—like AI pictures—they'll have random artifacts and hallucinations. Right?
 
-And when you start to see this, the whole world is actually pretty strange too. It's actually like an AI as well, but we've sort of normalized the magic of it. Like just look at cats. Would a really structured reality have cats? Come on. This is a dream-like magical trip. 
+And when you start to see this, the whole world is actually pretty strange too. It's actually like an AI as well, but we've sort of normalized the magic of it. Like just look at cats. Would a really structured reality have cats? Come on. This is a dream-like magical trip.
 
 Reading chat: Cats are the proof. [laughing]
 
@@ -30,7 +30,7 @@ You know, I love it when people school me on science and dharmas. Like I used to
 
 You share with somebody awareness practice—it should be like friends talking. “I saw my thoughts fly by today. It didn't even upset me, it was so awesome.” And then what if you said, “Man, that's actually not self-liberation, self-liberation you would have been you didn't even see it fly in the first place, and I’ve got to school you on this and teach you real Dzogchen.” Okay? I mean, this is kind of unnecessary. [laughing]
 
-So let yourself be humble, let yourself have the I don’t know mind. We are all students, we are all teachers. If the first thing your mind says is, “No, no, no, I'm not a teacher,” that's just more ego. That's just you trying to be humble—overly humble. You are teacher. There are many circumstances where you're the teacher, and many circumstances where you're the student. And so this is just a little heart advice coming out. I also have dealt with these struggles, okay, my friends. But let's see what the verses are saying here today. Oh yes, very good. 
+So let yourself be humble, let yourself have the I don’t know mind. We are all students, we are all teachers. If the first thing your mind says is, “No, no, no, I'm not a teacher,” that's just more ego. That's just you trying to be humble—overly humble. You are teacher. There are many circumstances where you're the teacher, and many circumstances where you're the student. And so this is just a little heart advice coming out. I also have dealt with these struggles, okay, my friends. But let's see what the verses are saying here today. Oh yes, very good.
 
 And so we're essentially talking about, we're bridging a gap here between Tögal practices—dealing with light and appearances and mind. Right? Once you've been introduced to Tögal, and you see the bindus, and you start to see, “Oh, my mind is actually also reality,” then Trekchö will cut through the Tögal essentially, as you abandon Trekchö and Tögal—because there's only pure abiding after that. You're not really cutting through anything, there's self-liberation of the environment and your mind happening simultaneously. Right? Like Longchenpa says: Mind resolves itself within phenomena, and phenomena resolve themselves within mind."
 
@@ -49,21 +49,21 @@ Dawai: Yeah, it's just such a wonderful passage there. It talks about the self-k
 
 So then also it's talking about divinity being at home right here in our minds—to me, this is very, very important. If we're constantly thinking that some other person is in charge of our reality, then we never get our own power.
 
-For example, I brought up sovereignty. When you are free of your conditioning, you have sovereignty. And one of my neighbors, who insists on coming over [laughing] said to me, “You don't have sovereignty. Only God has sovereignty. You have no sovereignty, God is your Ruler." And I was like, “No, I just mean you're free because you're with God now.” [neighbor says] “No, God is your owner. You don't have any freedom.” And I was really impressed by how he's given away all of his sovereignty. 
+For example, I brought up sovereignty. When you are free of your conditioning, you have sovereignty. And one of my neighbors, who insists on coming over [laughing] said to me, “You don't have sovereignty. Only God has sovereignty. You have no sovereignty, God is your Ruler." And I was like, “No, I just mean you're free because you're with God now.” [neighbor says] “No, God is your owner. You don't have any freedom.” And I was really impressed by how he's given away all of his sovereignty.
 
-And now it is actually criminal—it has been criminal—to entertain the possibility of your own sovereignty. If you go up to many Judeo-Christian or Islamic practitioners and tell them that your mind is the creato*r, they will chastise you. They will immediately assume you're assuming the position of God. Is that making sense? This is out there, it's very important that you don’t limit yourself by these kinds of constraints. 
+And now it is actually criminal—it has been criminal—to entertain the possibility of your own sovereignty. If you go up to many Judeo-Christian or Islamic practitioners and tell them that your mind is the creato*r, they will chastise you. They will immediately assume you're assuming the position of God. Is that making sense? This is out there, it's very important that you don’t limit yourself by these kinds of constraints.
 
-If you take back any power of your mind, the new sort of paradigm is that you're disciplined for that. You're not supposed to take back your mind. You're not supposed to be the All Creator. You're not supposed to be sovereign, God is supposed to rule over you. And who is God? God is what our YouTube videos are telling you God is., God is what our preachers are telling you what God is. So you never even get to find out what God is for yourself because some preacher is telling you this is what God is, and you've got to believe my rendition of what God is. 
+If you take back any power of your mind, the new sort of paradigm is that you're disciplined for that. You're not supposed to take back your mind. You're not supposed to be the All Creator. You're not supposed to be sovereign, God is supposed to rule over you. And who is God? God is what our YouTube videos are telling you God is., God is what our preachers are telling you what God is. So you never even get to find out what God is for yourself because some preacher is telling you this is what God is, and you've got to believe my rendition of what God is.
 
 And you see, so you never ever find God because you're believing what somebody else is telling you is God. And then when you try to go into your own mind, they tell you you're not allowed to do that—that's satanistic to go into your own mind, that's evil. You see? And so we get stuck in a dualistic, disempowered environment. Subscribe to somebody else's dream.
 
-So let's see what Thrangu Rinpoche's commentary says on this source verse. 
+So let's see what Thrangu Rinpoche's commentary says on this source verse.
 
 It says...
 
 >When we learn that external objects are only mind, and are not separately existing things, we might answer, “Well, I can see them. They are made out of matter; therefore, they are different from mind, which is not made up of matter but has the quality of clarity or awareness.” To refute this argument we can use the previous example of a hand. We say, “Oh, I see a hand.”
 
-Dawai: Isn't that ironic, everybody see the synchronicity? Whats the synchronicity? [laughing] Yeah. Isn't that crazy? Yeah, that's just like superficial synchronicities, but it's fun to see them, because then these are multilayered. 
+Dawai: Isn't that ironic, everybody see the synchronicity? Whats the synchronicity? [laughing] Yeah. Isn't that crazy? Yeah, that's just like superficial synchronicities, but it's fun to see them, because then these are multilayered.
 
 >We say, “Oh, I see a hand.” But if we investigate more closely, we see a thumb, an index finger, a middle finger, ring finger, and a little finger, skin, flesh, and bones. We then ask, “Where is this hand that I see?” In fact, the hand is just a conceptual fabrication. We then look at the thumb and say, “I see a thumb.” But the thumb consists of the first, second, and third joints, and so on, and therefore, also is made up of many different parts. We know that none of these parts are the thumb, and ask, “Well, where is the thumb?” There is only one answer: there is no actual thumb. We see something and think we see a hand, but in fact there is no real hand there. It is only a conceptual fabrication coming from the mind. The same analysis applies to the fingers, a mountain, a house, or to any other external object.
 
@@ -83,7 +83,7 @@ Dawai: And remember this is an older text, particles now are divided into like q
 
 Dawai: Ah you see that kind of answers that inquiry too at the beginning there: Why can't there just be liberation right away, instant enlightenment?
 
-Well, there could be if we didn't have these habituations over long periods of time—this plasticity, the imprinting that's been going on. It's like we typed in commands into the great command line—you know, the computer is now processing our commands. What do you expect, right? [laughing] 
+Well, there could be if we didn't have these habituations over long periods of time—this plasticity, the imprinting that's been going on. It's like we typed in commands into the great command line—you know, the computer is now processing our commands. What do you expect, right? [laughing]
 
 Responding to chat: I had a feeling you would like that one. The great Unix command line—It's just a little dash waiting for you to type something. That's the pure presence, you know. Pure presence is just no operating system.
 
@@ -101,7 +101,7 @@ Right, everybody? You all are yogis, you all are great practitioners, it feels m
 
 So these are great topics. That's why I love this book so much. It inspires a lot of great discussion. And it says:
 
->> We see things as being separate... 
+>> We see things as being separate...
 
 Dawai: Yeah because of that habituation, that inertia, as (name of Sangha) was putting it.
 
@@ -113,11 +113,11 @@ Dawai: Or in Judeo Christianity—Yeshua, or whatever terms you want to have for
 
 Dawai: Alright very good, it looks like we're going to go into the sixth consciousness, then the explanation of the mental consciousness next.
 
-And thank you Yeshé, I appreciate you, you did a wonderful job there. And to all these practitioners, I appreciate your practice all the time and your sincerity. Those of you who have said very kind things to me and shown appreciation to me, that's very nice of you. I'm humbled by that, and I feel the same way about you. I highly revere you as awakened beings, as pure energy, as pure consciousness. No matter what our minds start to make up, please don't lose that about each other, we're all Buddhists here. 
+And thank you Yeshé, I appreciate you, you did a wonderful job there. And to all these practitioners, I appreciate your practice all the time and your sincerity. Those of you who have said very kind things to me and shown appreciation to me, that's very nice of you. I'm humbled by that, and I feel the same way about you. I highly revere you as awakened beings, as pure energy, as pure consciousness. No matter what our minds start to make up, please don't lose that about each other, we're all Buddhists here.
 
 And even these politicians, everybody.. they are Buddhas, and they deserve compassion. They have been missed, they've been abused, they've been hypnotized, they've been programmed. So even those world leaders right now, in charge of Russia and Israel and America and all this money, they're just beings that need compassion. The whole world is hating them right now, and that's not helping, okay? So I encourage you to be radical about having compassion and really see the depth in those people. They probably have had very, very little love in their life. Okay? A lot of these world leaders and very powerful people have had very little love in their life, and materialism has taken them over. Okay?
 
-And you can mention their names in here. I specifically don't mention their names just in case people are sensitive, but you can. I don't know, everybody's mind is different, I'm not going to put anything in your head. That makes sense, yeah? You just see the whole human in these people. Okay, yeah. Thank you, too. I really appreciate you all. 
+And you can mention their names in here. I specifically don't mention their names just in case people are sensitive, but you can. I don't know, everybody's mind is different, I'm not going to put anything in your head. That makes sense, yeah? You just see the whole human in these people. Okay, yeah. Thank you, too. I really appreciate you all.
 
 And so we'll take a moment of silence here to end the session today. These gatherings are considered very powerful. Any good that we stirred up today, any realizations—there are beings in this very presence that are suffering, and we dedicate it all to them.
 

@@ -4,9 +4,9 @@
 == The Key Point of Self-Liberation is Extremely Crucial #text(fill: gray)[[Cmt]]
 
 _Precious Treasury of the Genuine Meaning_ \#9
-Notes: Dawai's commentary on Root Verses and Auto-commentary 
+Notes: Dawai's commentary on Root Verses and Auto-commentary
 
-Yeah, let's just read a little bit more on _Precious Treasury of the Genuine Meaning_. They go into some of the semantics, some of the lingo and things like that, and explain pretty in-depth details about our own mind. 
+Yeah, let's just read a little bit more on _Precious Treasury of the Genuine Meaning_. They go into some of the semantics, some of the lingo and things like that, and explain pretty in-depth details about our own mind.
 
 And so we can abide here holistically, non-conceptually, absorbed in the presence you know, when we're working, dancing, eating, whatever, sleeping — it really is a wonderful bed to lay in, being absorbed within the pure presence. The thinking mind tends to be a train that drives us away from pure presence, with thoughts of the future or the past and examining what's going on now. So to absorb into this presence, they have lots of words and lots of meanings for these things.
 
@@ -40,9 +40,9 @@ Dawai: They use sky a lot; it’s not my preference because we know the sky is w
 
 Sangha 1: Okay, thank you. That puts into context.
 
-Dawai: You’re thinking of nam, right? 
+Dawai: You’re thinking of nam, right?
 
-Sangha 1: Yeah, in that like metaphorical sense, I think nam, or namkha — I think that's the one that's used. 
+Sangha 1: Yeah, in that like metaphorical sense, I think nam, or namkha — I think that's the one that's used.
 
 Dawai: Well, it could be Namchö, like The Namchö Daily Practice, for example: Sky Treasure.
 
@@ -52,21 +52,21 @@ Dawai: Yeah, "basic space" in that regard is definitely referring to mind, The B
 
 Sangha 1: Thank you.
 
-Dawai: Any other questions about the three kāyas, these three aspects? If you get this, you will understand the roots of every religion, every authentic spiritual approach, et cetera. It's basically your code book. 
+Dawai: Any other questions about the three kāyas, these three aspects? If you get this, you will understand the roots of every religion, every authentic spiritual approach, et cetera. It's basically your code book.
 
-All right, very good. So let's get into it, as promised. 
+All right, very good. So let's get into it, as promised.
 
 PTGM / p 265  [whole paragraph to be read]
 
 > And in the _Great Soaring Garuda_, it states:
-    
+
 >> Given that all phenomena are unsullied and free from elaboration, the key point of liberation in its place without doing anything is extremely crucial. This is the key point for knowing that root causes have ceased, contributing circumstances have vanished, and results are exhausted. Without relying upon anything, there is only the sole expanse of liberation. This means there is freedom from conduct, meditation does not exist, and the view is gone. Liberation occurs when uncontrived appearances are at rest in their place.
 
 Dawai: So we start out with: [Commentary begins]
 
 > And in the _Great Soaring Garuda_, it states:
 
-It’s like a great lion, bird, animal—the Great Soaring Garuda. And that Tantra says: 
+It’s like a great lion, bird, animal—the Great Soaring Garuda. And that Tantra says:
 
 >> Given that all phenomena are unsullied and free from elaboration, the key point of liberation in its place without doing anything is extremely crucial.
 
@@ -81,20 +81,20 @@ So here we have clear evidence of what the truth is — self-liberation. That's 
 Dawai: So why do we have so many Dzogchen texts with mistranslations? Here I go again. I've just got to stop. All right, I'm going in on these rants. And we're just going to, when we see it, we're just going to correct it. I don't know what the issue is. The quote continues:
 
 >> This is the key point for knowing that root causes have ceased, contributing circumstances have vanished and results are exhausted.
-    
+
 Dawai: That is so beautiful right there, everybody. That's the key point for knowing that root causes for your stress, your confusion, your suffering — they've ceased. Contributing circumstances to our sadness, to our anger, to our habits that entrap us have vanished and the results are exhausted. This one paragraph says it all. The quote continues:
 
 >> Without relying upon anything, there's only the sole expanse of liberation. This means there's freedom from conduct, meditation does not exist, and the view is gone. Liberation occurs when uncontrived appearances are at rest in their [own] place.
 
 Dawai: So it’s also talking about the environment here, that appearances — we're leaving them be — including all sounds and the sense world, basically. But here again Longchenpa is mentioning the "three powers." I know those very well; they were at the tip of my tongue last session, but we have view, meditation, and conduct, right?
 
-And typically view would be Dzogchen, conduct would be _Madhyamaka_, and then meditation would be _Mahāmudrā_. Sometimes flipped— I've seen them flipped where meditation is _Mahāmudrā_ and conduct is _Madhyamaka_, which would make more sense actually. If you're paying attention to those little things — conduct would be _Madhyamaka_, the middle way free of extremes. Believe it or not, everything has a kind of middle ground, and when we find that it's extremely beneficial to sail that middle ground. Which is strange because many political systems only have left or right, so it's almost setting them up for permanent disagreement. Maybe we can begin to get more bipartisan in that regard. 
+And typically view would be Dzogchen, conduct would be _Madhyamaka_, and then meditation would be _Mahāmudrā_. Sometimes flipped— I've seen them flipped where meditation is _Mahāmudrā_ and conduct is _Madhyamaka_, which would make more sense actually. If you're paying attention to those little things — conduct would be _Madhyamaka_, the middle way free of extremes. Believe it or not, everything has a kind of middle ground, and when we find that it's extremely beneficial to sail that middle ground. Which is strange because many political systems only have left or right, so it's almost setting them up for permanent disagreement. Maybe we can begin to get more bipartisan in that regard.
 
 That's why I don't use those, remember Yeshé, I don't use those three. I don't use that trichotomy because it’s provisional. View, meditation, and conduct is kind of self-determined essentially. We just let that loose in a kind of anarchy within skillful means. So it says:
 
 >> Liberation occurs when uncontrived appearances are at rest in their place.
 
-Dawai: So the more you get absorbed into _Mahāmudrā_, into pure presence — free of distraction and various subdivisions of our mind, creating psychic boundaries and walls and all these things — then the wholeness will come to fruition. It will expose itself as luminosity — which is living luminosity, not just light, but mind-light. 
+Dawai: So the more you get absorbed into _Mahāmudrā_, into pure presence — free of distraction and various subdivisions of our mind, creating psychic boundaries and walls and all these things — then the wholeness will come to fruition. It will expose itself as luminosity — which is living luminosity, not just light, but mind-light.
 
 So some sharings here:
 
@@ -104,70 +104,70 @@ Dawai: Oh, very nice. All right, so we'll continue on a little bit here. Any com
 
 Reading chat: "Sometimes the view of the sky is obscured by clouds, and the source of the clouds is the energy of the nirmāṇakāya.
 
-Dawai: Yeah, exactly. I like that. And I think that's why the cloud metaphor and the sky metaphor can be useful because yeah, all appearances are nirmāṇakāya. 
+Dawai: Yeah, exactly. I like that. And I think that's why the cloud metaphor and the sky metaphor can be useful because yeah, all appearances are nirmāṇakāya.
 
-The sky is obscured by clouds, so that's awareness. And then we tend to get in trains of thought, so we have this electromagnetic confinement that takes place. "The source of the clouds is the energy of the nirmāṇakāya." 
+The sky is obscured by clouds, so that's awareness. And then we tend to get in trains of thought, so we have this electromagnetic confinement that takes place. "The source of the clouds is the energy of the nirmāṇakāya."
 
-It is the energy of the nirmāṇakāya, yeah, that is right. The source would be more cognizance and space mixed together. 
+It is the energy of the nirmāṇakāya, yeah, that is right. The source would be more cognizance and space mixed together.
 
-So the source is mom and dad, which by the way, you can also look at your Trungpa Rinpoche quote that way, metaphorically, that you have missed your grandma and grandpa and all this. All right? 
+So the source is mom and dad, which by the way, you can also look at your Trungpa Rinpoche quote that way, metaphorically, that you have missed your grandma and grandpa and all this. All right?
 
-Yeah, everything's always encoded on outer, inner, and secret levels, typically with yogis, so it gets very interesting. Even when I speak here, you can, if you're interested in seeing those three levels of what I'm saying, a lot of times they're there. I'm speaking in outer, inner, and secret. Typically, I give you all three for the important topics. 
+Yeah, everything's always encoded on outer, inner, and secret levels, typically with yogis, so it gets very interesting. Even when I speak here, you can, if you're interested in seeing those three levels of what I'm saying, a lot of times they're there. I'm speaking in outer, inner, and secret. Typically, I give you all three for the important topics.
 
 I really love this, by the way, I feel like — well, who translated this? Yes, Sangye Khandro, Lama Chönam, they're doing really great with that.
 
-Reading Auto Commentary:   
+Reading Auto Commentary:
 
 > Allowing appearances to be what they are, they are liberated in their own place by resting without adjusting or removing anything.
 
 Dawai: That’s tögal, everybody. Yes, you can do postures and pull light rays, but if you want the elements to start revealing themselves — if you're convinced that that building is a building, well, the only way it's not going to be a building, the only way you're going to be able to see anything else is by allowing the revelation and the lack of reification.
 
-Now, if we're subscribed to a certain reality, it's just like Donald Hoffman says, this physicist — he says that "We humans have a proprietary reality built on physicality. The chances of natural selection reflecting the true nature of reality is nearly zero." 
+Now, if we're subscribed to a certain reality, it's just like Donald Hoffman says, this physicist — he says that "We humans have a proprietary reality built on physicality. The chances of natural selection reflecting the true nature of reality is nearly zero."
 
 So we have this proprietary reality for our survivability and everything. And some are ready to break out of that; they don't want to eat meat anymore or hunt animals anymore and fill their stomachs; they don't want to mate anymore and just live their whole lives to mate.
 
 The commentary says:
 
-> Allowing appearances to be what they are, they are liberated in their own place. 
+> Allowing appearances to be what they are, they are liberated in their own place.
 
-Oh, that's tögal right there. 
+Oh, that's tögal right there.
 
-Reading cont':   
+Reading cont':
 
 >Hence, this is the wisdom intent that leads to the ground where view and meditation are exhausted.
 
 Dawai: _the ground_––the basis.
 
->The *Reverberation of Sound Tantra* states: 
+>The *Reverberation of Sound Tantra* states:
 
 >> For impure confusion, it is a key point to simply rest in placement without adjusting the faculties' gateways. To achieve transformation [from confusion] is the upadeśa. When an unfixated mind arises with phenomena free from grasping, the eyes will see without analyzing. One will be led upon the path without characteristics and delivered to the ground free from view and meditation. This will mature as the result free from action and effort. With this, phenomena will have no limit.
 
 
-Dawai's commentary:  
+Dawai's commentary:
 
 >> For impure confusion, it is a key point to simply rest in placement {or stability and awareness} without adjusting the faculties' gateways
 
 Dawai: Ah, isn't that what we do here, everybody? We just leave our senses open and still for 5 to 10 minutes.
 
->> To achieve transformation [from confusion] is the upadeśa. 
+>> To achieve transformation [from confusion] is the upadeśa.
 
-Dawai: That's the pith instructions of self-liberation. 
+Dawai: That's the pith instructions of self-liberation.
 
 >When an unfixated mind arises with phenomena free from grasping, the eyes ((mind's eye)) will see without analyzing. One will be led upon the path without characteristics and delivered to the basis free from view and meditation. This will mature as the result, free from action and effort. With this, phenomena will have no limit.
 
 Dawai: Ooohhh, I love when Longchenpa and I are on the same page. I was just saying expanding to the infinite. That's what it means. We are all expanding into the infinite. You see, our mind is that open, that creative. But just like the ant has no ideas about iPhones and computers and how to build a car engine, we do not have a conceptual framework for the infinite right now.
 
-So that's why we surrender a little bit into the "I don't know" mind — into the first great Dzogchen _samaya_ of ineffability — and then let your words come from there. Ideas, inventions, high-tech concepts, they will form from there. But if you try to start from within the mind, within the 30,000 to 50,000 words that you know, this is a very limited scope. 
+So that's why we surrender a little bit into the "I don't know" mind — into the first great Dzogchen _samaya_ of ineffability — and then let your words come from there. Ideas, inventions, high-tech concepts, they will form from there. But if you try to start from within the mind, within the 30,000 to 50,000 words that you know, this is a very limited scope.
 
 Okay, this is exciting. This is getting good. I feel like we're partying now. Good job, Sangye Khandro.
- 
+
 >While resting with phenomena, the transformations are a key point being presented here.
 
 Dawai: I mean, I just feel like this is what I've been telling you all — that the fourth foundation of mindfulness, all appearances, the sense world, we relax into that throughout the day. That's what I've been telling you, but you never really hear that. So it's really refreshing to hear this. And it says:
 
 >Along with the appearances of form, when cognition occurs, focusing directly upon that can cause deviation to the direction of dull, tranquil stillness. Otherwise, becoming overwhelmed by elation or mental agitation may occur. Therefore, on such occasions, by recognizing naked awareness, transform into that.
 
-Dawai: Yeah, we have little techniques to get you back into the view, we don't mind those, it's not effortless all the time. We don't mind little tricks — breath meditation, mantras, looking into the nature, all these tricks are okay. 
+Dawai: Yeah, we have little techniques to get you back into the view, we don't mind those, it's not effortless all the time. We don't mind little tricks — breath meditation, mantras, looking into the nature, all these tricks are okay.
 
 >Second, the _distinctions_ are the four modes of liberation, including four crucial points, as stated in the _Reverberation of Sound_.
 
@@ -224,17 +224,17 @@ Any other thoughts before we do dedication? Everybody good? All right, it has be
 And deep bow to you, my friends, and have a beautiful day.
 
 Ref:
-Precious Treasury of the Genuine Meaning_ (tsig don rinpoche dzöd)  
-Longchen Rabjam (Longchenpa) 
-Lama Chönam and Sangye Khandro, 2015  
+Precious Treasury of the Genuine Meaning_ (tsig don rinpoche dzöd)
+Longchen Rabjam (Longchenpa)
+Lama Chönam and Sangye Khandro, 2015
 
- 
+
  The four modes of liberation (grol lugs):
 1. gcer-grol: "liberation through bare attention"
 2. rang-shar: "self-arising liberation"
 3. shar-grol: "liberation as soon as it arises"
 4. rang-grol: "self-liberation"
 5. ye-grol: "primordial liberation"
- 
+
 
 #archive_minimal("May 20, 2025", "The keypoint...", "https://www.youtube.com/watch?v=Eh0_XR2k1sU")

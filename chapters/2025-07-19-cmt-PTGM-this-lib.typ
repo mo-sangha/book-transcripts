@@ -2,23 +2,23 @@
 // STATUS: Imperfectly formatted because of transfer changes. Words are correct but formatting needs work.
 == This liberation occurs upon itself #text(fill: gray)[(Cmt)] (unfinformatting)
 
-This liberation occurs upon itself 
-July 19, 2025  
+This liberation occurs upon itself
+July 19, 2025
 
-The Precious Treasury of the Genuine Meaning #8 
-Notes: Dawai's commentary on Root Verses and Auto-commentary 
+The Precious Treasury of the Genuine Meaning #8
+Notes: Dawai's commentary on Root Verses and Auto-commentary
 
 Dawai: This is a recent translation, around 2015, by Sangye Khandro and Lama Chönam. And it's another synthesis by Longchenpa; he’s really just putting it together in a nice, accessible way, usually accessible, if we have a good translation. So, yeah, I'll just make a little way through this text exploration, and please join in if you have something to comment about, or some questions, and things like that.
 
 p 164  [whole paragraph to be read]
 
 >It is similarly stated in the Absence of Syllables:
-     
->> If the mind is sustained without view or meditation, that is the crux of the dharmakaya. If the three strengths of the view are perfected, then appearances will be the expanse of the dharmakaya. If there is no distraction based on activities, that is the ground of the blissful dharmata. Staying in solitude, then the three strengths will occur from within. If present cognition is taken as the companion, then everything will become the sole state of placement. If always abiding within that, what more is necessary? Great appearances fully abide with everything, as this is the essence of Secret Mantra. 
+
+>> If the mind is sustained without view or meditation, that is the crux of the dharmakaya. If the three strengths of the view are perfected, then appearances will be the expanse of the dharmakaya. If there is no distraction based on activities, that is the ground of the blissful dharmata. Staying in solitude, then the three strengths will occur from within. If present cognition is taken as the companion, then everything will become the sole state of placement. If always abiding within that, what more is necessary? Great appearances fully abide with everything, as this is the essence of Secret Mantra.
 
 [Dawai's commentary begins]
 
->It is similarly stated in the Absence of Syllables: 
+>It is similarly stated in the Absence of Syllables:
 
 >>If the mind is sustained without view or meditation, that is the crux of the dharmakaya.
 
@@ -40,13 +40,13 @@ Dawai: Or basis would be a lot better of a word there, because ground implies so
 
 Dawai: ...then everything will become the sole state of placement.(Samatha)
 
-So, yeah, solitude—we're going to be talking about this in our previous session, the inner hermitage from the Aro Yeshé Jungné text. Nowadays, you may not be able to find solitude, but I encourage you that if you have the slightest opportunity to break physically free, there's plenty of land around. You can build your own home with solar panels, water catchment, you can even grow your own food. You can live with space. You don't need to be totally in solitude even, but you can have your space. There's plenty of land on this earth, and it's very easy to build a home actually. It may seem complicated, but it's not. And so, where you can buy a little tiny house or something so easy, or a camper, anything, and just be free physically. It does help out in certain cases. 
+So, yeah, solitude—we're going to be talking about this in our previous session, the inner hermitage from the Aro Yeshé Jungné text. Nowadays, you may not be able to find solitude, but I encourage you that if you have the slightest opportunity to break physically free, there's plenty of land around. You can build your own home with solar panels, water catchment, you can even grow your own food. You can live with space. You don't need to be totally in solitude even, but you can have your space. There's plenty of land on this earth, and it's very easy to build a home actually. It may seem complicated, but it's not. And so, where you can buy a little tiny house or something so easy, or a camper, anything, and just be free physically. It does help out in certain cases.
 
 And then also, right now, to leave a small footprint, I think, is very good if you can do that. Leave a small environmental footprint. Maybe the big corporations and people aren't doing their side of it, but we can do our side of it, and be kind to the environment, and boycott any kind of plastic and trash products, and things like that. And be mindful spenders, mindful eaters, and it goes a long way.
 
 So, staying in solitude, yeah, the three strengths, I don't know. Yeshé, maybe we haven't found those yet? Is that the tip of my tongue? I don't know if they're referring to body, speech, and mind in the wisdom state, or not, but it's okay. Oh, you got it, huh? Oh, you got it. View, meditation, and action. Okay, very good. Thank you so much.
 
-So, Yeshé pasted in chat: "In Dzogchen, the three strengths typically refer to the three aspects of practice: view *(ལྟ་བ་, lta ba, tawa)* [Lama Lena's favorite term], meditation *(sgom pa)* which would probably be *(sgom med)* like no meditation, and action *(spyod pa)*." 
+So, Yeshé pasted in chat: "In Dzogchen, the three strengths typically refer to the three aspects of practice: view *(ལྟ་བ་, lta ba, tawa)* [Lama Lena's favorite term], meditation *(sgom pa)* which would probably be *(sgom med)* like no meditation, and action *(spyod pa)*."
 
 The meditation would be Madhyamaka; it would be effortless, the middle way, and the same with action. But let's see what Longchenpa continues to say about the three strengths, now we know what they are: view, meditation, and action. VMA, okay, for you acronym heads out there, got to go to the VMAs.
 
@@ -54,7 +54,7 @@ Reading chat: "Deeds may be better because it is not of karma."
 
 Dawai: Yeah, and they usually use intent, too, but I don't know. You do have right action in the eightfold path. Okay, well, let's keep on going.
 
-Reading text:   
+Reading text:
 
 >>|| If always abiding within that, what more is necessary? Great appearances fully abide with everything, as that is the essence of Secret Mantra.
 
@@ -68,7 +68,7 @@ All right, so (833-221-133-1166-221 says, just kidding, it's a little shorter th
 
 Dawai: Yeah, they have it like this in many of the dharma texts, like by Dudjom Rinpoche and things like that. You’ll just see layers upon layers of explanation: you have the short, the medium, the long, and it just keeps on breaking in the sub-stack.
 
->First, among the two subsections of nature and distinctions, nature means recognizing the meaning of naked awareness.   
+>First, among the two subsections of nature and distinctions, nature means recognizing the meaning of naked awareness.
 
 Dawai: I would say recognizing naked awareness.  Meaning implies conceptuality. So remember, this text pretty much is defining things for us, so it's more technical, maybe very specific, in general.
 
@@ -80,7 +80,7 @@ If you're not into the nitty-gritty of the dharma, it's okay. All of this is com
 
 >> From the sole wisdom intent, nothing wavers. Given that appearances are lucid unto themselves like a face within a mirror, this liberation is liberated upon itself. The movement of cognition vanishes in emptiness, so visual cognition is not other than awareness. This liberation occurs upon itself. Since by knowing this one point everything is set free, the enumerations of two and three are exhausted. There is no perception of an object based on concepts or fixation; thus, movement and fixation are primordially empty. Since the wisdom intent of emptiness is lucidly perfected, the many enumerations are completely exhausted.
 
-Reading text:   
+Reading text:
 
 > From the sole wisdom intent, nothing wavers.
 
@@ -89,7 +89,7 @@ Dawai: Ah wisdom / beingness. They stick that way, it's good because they're agr
 From the soul wisdom beingness, nothing wavers.Intent has contrivance inherent to the definition of that word, "intent." Buddhas have effortless action, so there's no intention.
 
 > Given that appearances are lucid unto themselves like a face within a mirror, this liberation is liberated upon itself. The movement of cognition vanishes in emptiness, so visual cognition is not other than awareness.
-> 
+>
 
 Dawai: Hallelujah! Whoo! We won't hear that very often, will we, everybody? They just told you right there. Now, like 90% of our reality is made out of visual cognition. We're very visual. But once you start to see that, that's all mind. Oh man, what a shift. You almost go from being this pre-programmed drone to, wow, I'm free. Because you're stuck behind the eyes, right? Like almost robotic. And then everything catches your attention, and we're like moths attracted to our own stuff. But here it says: Appearances {are cognition} onto themselves like a face in the mirror.
 
@@ -107,7 +107,7 @@ Dawai: Oh goodness, this is like dousing myself in sweet nectar right now. Just 
 
 Dawai: So I don't know if that's referring to dichotomies and trichotomies of subject-action-object. If you know, go ahead and inform us. So it says:
 
-Reading text:  
+Reading text:
 
 > There is no perception of an object based on concepts or fixation;
 
@@ -117,7 +117,7 @@ Concepts and fixations ––confused mind.
 
 Dawai: So enumerations, there seems like a vague term. Maybe they will clear it up for us, but I think it's referring to all the different appearances and objects and everything. But it could also be enumerations, meaning very specifically the Dharma enumerations in the canon.
 
-Q&A  
+Q&A
 
 Sangha: I’m not super knowledgeable, but in some texts, enumerations mean all the things that correlate with the same numbers usually mean the same thing, like the tree usually means the refuges, and so forth. And those all correlate, right? Yeah, like the analysis, I think.
 

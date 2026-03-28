@@ -37,7 +37,7 @@ And so as we continue to exit out of our 50,000 words-a-day narrative that has�
 Okay, everybody, that's my little sharing today on sensitivity and how it relates to pure cognizance and omniscience. I hope that makes sense, and you can look into the six super cognitions and enlightened omniscience and things like that for more on this, okay? Are there any comments, questions?
 
 
-#speaker("Sangha 1", [ 
+#speaker("Sangha 1", [
   Okay. This morning, I noticed in the session this morning, I noticed a response that you had to a question that one of us posed. And it reminded me of my response to the same question. Okay, someone was asking, _What is the view?_ And he asked that a couple mornings ago when you were there. And as soon as he asked that, it helped me to access my experience of what the view is for me, which is something that I can't, you know, I can't put into words something...
 ])
 
@@ -104,7 +104,7 @@ And then anybody want to guess what becomes your highest protection? I've said i
 #speaker("Dawai", [
 Would say yes, in a way. Sensitivity, in the sense of being open, being aware, being able to recognize subtle signals in your mind and body—that is useful. But if your mind is contracted, closed, or very rigid, then yes, Dzogchen practice may be difficult. But then the practice itself can increase your sensitivity. So it's not fixed. Sensitivity is not an inherent block. It's dynamic. It can be cultivated, yes, but it must be safe. Safety is critical. We cannot have someone sensitive and unsafe. They will just be overwhelmed.
 
-Okay, friends. Thank you so much. I hope this talk on sensitivity gives you some perspective on your own practice. Remember, sensitivity is not a weakness. It is a superpower when paired with awareness, compassion, and spaciousness. 
+Okay, friends. Thank you so much. I hope this talk on sensitivity gives you some perspective on your own practice. Remember, sensitivity is not a weakness. It is a superpower when paired with awareness, compassion, and spaciousness.
 
 Thank you for being here.
 ])

@@ -8,33 +8,33 @@ Dawai: So refuge and bodhicitta are pretty standard in the Dharma; those are cal
 
 But at the end we typically dedicate, and at the beginning we sit in silence. And many times, we do the dedication in silence as well. That is going to be different than what you see out there in Buddhism or Vajrayana, and that's why I want to make it clear why in this group we approach refuge and bodhicitta with silence instead of like:
 
-མདུན་ིགྱ་ནམ་མཁར་ཀུན་ཏུ་བཟང་པོ་ལ༔  
-düngyi namkhar küntuzangpo la  
-(In the space in front is Kuntuzangpo)  
+མདུན་ིགྱ་ནམ་མཁར་ཀུན་ཏུ་བཟང་པོ་ལ༔
+düngyi namkhar küntuzangpo la
+(In the space in front is Kuntuzangpo)
 
-སངས་རྒྱས་བྱང་སེམས་དཔག་ཏུ་མེད་པས་བསྐོར༔  
-sangyé jangsem paktu médpé kor  
-(Surrounded by boundless buddhas and bodhisattvas) 
+སངས་རྒྱས་བྱང་སེམས་དཔག་ཏུ་མེད་པས་བསྐོར༔
+sangyé jangsem paktu médpé kor
+(Surrounded by boundless buddhas and bodhisattvas)
 
-ཀུན་བཟང་རྒྱལ་བ་སྲས་བཅས་ཐམས་ཅད་ལ༔  
-künzang gyalwa séché tamched la  
-(In Kuntuzangpo, the victorious ones and their heirs all together) 
+ཀུན་བཟང་རྒྱལ་བ་སྲས་བཅས་ཐམས་ཅད་ལ༔
+künzang gyalwa séché tamched la
+(In Kuntuzangpo, the victorious ones and their heirs all together)
 
-བདག་ནི་ རྩེ ་གཅིག་ཡིད་ཀྱིས་སྐྱབས་སུ་མཆི༔  
-dakni tséchik yidkyi kyabsu chi  
+བདག་ནི་ རྩེ ་གཅིག་ཡིད་ཀྱིས་སྐྱབས་སུ་མཆི༔
+dakni tséchik yidkyi kyabsu chi
 (I go for refuge with single-pointed awareness
 (3x)
 
 That's a refuge. That's actually a Dzogchen refuge. Or:
 
-མས་ཅན་དོན་དུ་བྱང་ཆུབ་སེམས་བསྐྱེད་དོ༔  
-semchen döndu jangchub semkyéd do  
+མས་ཅན་དོན་དུ་བྱང་ཆུབ་སེམས་བསྐྱེད་དོ༔
+semchen döndu jangchub semkyéd do
 (For the benefit of sentient beings, I generate the awakened mind)
 
-That's a bodhichitta. All right? And then we have just a one-liner at the end for dedication. We do the dedication: 
+That's a bodhichitta. All right? And then we have just a one-liner at the end for dedication. We do the dedication:
 
->དགེ་བ་མ་ རྒ ན་འོགྲ་ དྲུ ག་ཀུན་ལ་བསྔོ༔  
-géwa magen drodruk künla ngo  
+>དགེ་བ་མ་ རྒ ན་འོགྲ་ དྲུ ག་ཀུན་ལ་བསྔོ༔
+géwa magen drodruk künla ngo
 (I dedicate the merit to all motherly-sentient beings of the six realms)
 
 These syllables are sacred. They have a resonance to them; they're vibratory, and they can be non-conceptual. If you want to take refuge with a mantra, it can be great. But instead of doing that mantra when we first get here, you may not know this, there are no bells and no mantras because I'm really trying to invite you to rest in the true source.
@@ -47,18 +47,18 @@ Dawai: I'll take that.
 
 Reading chat: "Mind. Nature of mind. Awareness."
 
-Dawai: Yeah. Awareness. Very good. And see, we tend to externalize our refuge by doing the Buddha, Dharma, and Sangha thing. And actually, it's: 
+Dawai: Yeah. Awareness. Very good. And see, we tend to externalize our refuge by doing the Buddha, Dharma, and Sangha thing. And actually, it's:
 
-བླ་མ་ལ་སྐྱབས་སུ་མཆིའོ། །  
-lama la kyab su chi o Taking refuge in the Guru;  
+བླ་མ་ལ་སྐྱབས་སུ་མཆིའོ། །
+lama la kyab su chi o Taking refuge in the Guru;
 
-སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ། །  
-sangye la kyab su chi o Taking refuge in the Buddha;  
+སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ། །
+sangye la kyab su chi o Taking refuge in the Buddha;
 
-ཆོས་ལ་སྐྱབས་སུ་མཆིའོ། །  
-chö la kyab su chi o Taking refuge in the Dharma;  
+ཆོས་ལ་སྐྱབས་སུ་མཆིའོ། །
+chö la kyab su chi o Taking refuge in the Dharma;
 
-དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ། །  
+དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ། །
 gendün la kyab su chi o Taking refuge in the Saṅgha
 
 So when you do the ngöndro, for example, you're taking refuge in your Lama, the Guru, the Dharma, and the Sangha.
