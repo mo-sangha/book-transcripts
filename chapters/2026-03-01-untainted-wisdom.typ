@@ -1,9 +1,6 @@
 #import "/template.typ": *
 
-/* To Editor: Around line 67, Dawai says phenomenon but Longchenpa says phenomena. Because of this I didn't put this in quotes. What to do? */
-
 == Dharma talk on the untainted wisdom of the view
-
 
 ...remind everybody of the Dzogchen view, which has been considered too simple—so simple that it's beyond capture. So simple that it's actually, as Niguma states it (an 11th-century Yogini), that it's a fault. People will ignore the view because it's too simple.
 
