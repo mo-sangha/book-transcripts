@@ -22,7 +22,7 @@ So I'll stop here, but I just wanted to point out, because it's the second time 
 
 Get to know your lucid mind. Stabilize into your lucid mind so it doesn't have to drive for you. You'll start to get into it and then your thoughts can spark off of that rather than us being in a different dimension than our lucidity, which is the fourth time: past, present and future.
 
-So I didn't mean to neglect this other hand, I know your hand was up there, but he was inquiring about this and it's very fundamental to our approach. I just wanted to share and entertain and start to open this up for you—that solidity—things like air, fire, space, water. Now I know, these are just five, we're reducing everything, but to begin to see, or at least entertain the possibility of luminosity. Okay? And luminosity in the sense of just like when you go to sleep, you dream of a forest, that's all mind.
+So I didn't mean to neglect this other hand, I know your hand was up there, but he was inquiring about this and it's very fundamental to our approach. I just wanted to share and entertain and start to open this up for you—that solidity—things like earth, air, fire, space, water. Now I know, these are just five, we're reducing everything, but to begin to see, or at least entertain the possibility of luminosity. Okay? And luminosity in the sense of just like when you go to sleep, you dream of a forest, that's all mind.
 
 Let's say you're sitting here at a campfire in the forest and you're sitting cross-legged and you're enjoying the view and the smell, and all of sudden you take away all the colors. Now there's just pure luminosity, isn't there? There isn't even any subject and object because that was all cognition too.
 
@@ -259,7 +259,7 @@ Okay, that's one of my favorite topics there because I feel like you can reposse
 ])
 
 #speaker("Dawai", [
-  It's like it's like the buddha statues in Afghanistan that got destroyed right?
+  It's like the buddha statues in Afghanistan that got destroyed, right?
 ])
 
 #speaker("Sangha 5", [
@@ -307,7 +307,7 @@ Okay, that's one of my favorite topics there because I feel like you can reposse
 ])
 
 #speaker("Dawai", [
-  Of course thoughts are... but they're in an invisible dimension, in the psychic dimension, and so we crowded out. Telepathy is happening all the time. That's why thoughts are considered coarse. Thoughts are easy. Now, can you pick up on somebody's emotion? Can you pick up on the energy in the room? That's more subtle.
+  Of course thoughts are... but they're in an invisible dimension, in the psychic dimension, and so we crowd it out. Telepathy is happening all the time. That's why thoughts are considered coarse. Thoughts are easy. Now, can you pick up on somebody's emotion? Can you pick up on the energy in the room? That's more subtle.
 ])
 
 #speaker("Sangha 6", [
@@ -327,7 +327,7 @@ Okay, that's one of my favorite topics there because I feel like you can reposse
 ])
 
 #speaker("Dawai", [
-  Yeah, that's like if we both had a canvas, what you're painting on the canvas, what I'm painting is different. but the canvas is the same and the paints are the same.
+  Yeah, that's like if we both had a canvas, what you're painting on the canvas, what I'm painting is different. But the canvas is the same and the paints are the same.
 ])
 
 #speaker("Sangha 6", [

@@ -13,15 +13,15 @@ It's so easy to say, well, I have my food, I have my sex, you know, I have my mo
 
 We can just be like a dog, got my food, I'm good. Right? And never entertain the possibility that you're just in a comfort zone of unhappiness, essentially you're trapped. You're thinking that because you have this food and these few superficial needs are met, that somehow that's it. And in a way, simplicity, it's true, you can find completion in simplicity. But if you're just programmed to suppress everything, and be comfortable with your food and your house and your air conditioning and everything, this is a kind of slumber. Right?
 
-So, yeah, I guess I don't need to go into that too much and it's just my opinion, right? But a lot of people have something nagging at them and saying, well, instead of suppressing this and pretending like my discomfort, my unhappiness, my dissatisfaction, instead of pretending that's not here, I'm going to actually look into my mind, and that's what many of you are doing and whats so commendable.
+So, yeah, I guess I don't need to go into that too much and it's just my opinion, right? But a lot of people have something nagging at them and saying, well, instead of suppressing this and pretending like my discomfort, my unhappiness, my dissatisfaction, instead of pretending that's not here, I'm going to actually look into my mind, and that's what many of you are doing and what's so commendable.
 
 But let's talk about it then. You know, I guess I just set the stage a little bit there. As far as the audience goes, I don't need to remind people that mass hypnosis and social engineering is being endorsed, but also we have many unhealthy family dynamics nowadays taking place and lots of stuff there to mess with your mind and entrap you into materialism and materialist ideas. It's essentially somebody else's hypnosis. That's why I cite the Donald Hoffman quote where he says, "after much experimentation and testing, we've come to the conclusion that natural selection reflecting the true nature of reality is virtually zero."
 
-I'm saying the same thing. You know, we're following a dream here, a dream world that's based on physicality, it's based on desire, food and sex, and a lot of beings are dissatisfied with that. And so we go from this barbaric mentality of #btw[Dawai changes his voice into grunts]: "Get food, have sex." We go from that to turning the light inwards and discovering something way beyond that scope. And so I wanted to talk a little bit about what is it like when you look at your own mind. This can be like a train that's been going and going for many years, it hasn't stopped and the wheels are falling off and the inside stinks and, you know, pieces are falling off of it. This train has been going and finally you stop it to look at it, to examine it. Well, if you don't get out of this constant thought proliferation, you are on a broken train. Dukkha!
+I'm saying the same thing. You know, we're following a dream here, a dream world that's based on physicality, it's based on desire, food and sex, and a lot of beings are dissatisfied with that. And so we go from this barbaric mentality of #btw[grunting]: "Get food, have sex." We go from that to turning the light inwards and discovering something way beyond that scope. And so I wanted to talk a little bit about what is it like when you look at your own mind. This can be like a train that's been going and going for many years, it hasn't stopped and the wheels are falling off and the inside stinks and, you know, pieces are falling off of it. This train has been going and finally you stop it to look at it, to examine it. Well, if you don't get out of this constant thought proliferation, you are on a broken train. Dukkha!
 
 I'm preaching to the choir a little bit here in this group. Now many of you notice, and many of you have heard me repeat these things in our live gathering here, but this is worth trying everybody. To be stuck in these stories and these thoughts and these old habits, just to look at them. Just to turn awareness in on itself or cognition in on itself, use awareness and see your own mind. What kind of thoughts are you having? Are they one thought after another? Are you able to stop the thoughts?
 
-#btw[Dawai stops thoughts for a few moments of silence]. Huh?
+#btw[Dawai has no thoughts for a few moments]. Huh?
 
 Why are you still thinking?
 
@@ -31,7 +31,7 @@ Give it a try! And we're not going anti-thought, of course not. We're going anti
 
 #btw[The sangha tries the practice for some moments].
 
-Now you can isolate a thought. We have one thought, "The weather is cold." Let that be our only thought. "The weather is cold." Noticing its texture, its length. It's coming, it's abiding, and it's going. "The weather is cold."
+Now you can isolate a thought. We have one thought, "The weather is cold." Let that be our only thought. "The weather is cold." Noticing its texture, its length, its coming, its abiding, and its going. "The weather is cold."
 
 Where does that thought happen? Don't think about it. #btw[Dawai laughs]. Just notice the space where that thought is happening, that's why we isolate the thought. We want to start to connect with the basis for that thought, the base cognition.
 
@@ -170,7 +170,7 @@ Yes, please.
 
   You know maybe we could say it's like the... #btw[Dawai laughs], the rubbing the belly and patting the head thing. #btw[Dawai laughs]. Except you have this great Avalokiteshvara mental ability to emanate across dimensions and realities and things. That's what originally in the ancient Vedas, Ishvara meant that, you know, the very fabric of this and the creator all in one. So you have this ancient trichotomy there with Brahma. Vishnu and Shiva, right? Which happens with every one of these thoughts.
 
-  The thought comes, Brahma, it abides, Vishnu, and then it destroys Shiva. So you have the Ishvara here, connected to Avalokiteshvara, by the way, for those Dharma nerds out there. it's the very... we're just playing with mind, we're just playing with consciousness. Just... you are the spider, you know, weaving the web.
+  The thought comes, Brahma, it abides, Vishnu, and then it destroys Shiva. So you have the Ishvara here, connected to Avalokiteshvara, by the way, for those Dharma nerds out there. It's the very... we're just playing with mind, we're just playing with consciousness. Just... you are the spider, you know, weaving the web.
 
   But yes, it was a great share, just showing how much you're seeing is always impressive to me. Thank you.
 ])
@@ -227,9 +227,9 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  Yeah, we had that last session and I maybe should have specified that reinvoking the thought is fine. That's what I mean by mono-minded. You're just having one thought. You're letting it, ideally you would notice the echoing out of that thought. That's the dissolution. We want those three phases of the thought to be seen. It's creation, it's abiding and it's dissolution. Those are three very important stages for just to witness those, because then you can notice panic and, and, know, heavy feelings, traumas. You can notice they're arising, they're abiding in their cessation. That is the superpower.
+  Yeah, we had that last session and I maybe should have specified that reinvoking the thought is fine. That's what I mean by mono-minded. You're just having one thought. You're letting it, ideally you would notice the echoing out of that thought. That's the dissolution. We want those three phases of the thought to be seen: its creation, its abiding and its dissolution. Those are three very important stages for just to witness those, because then you can notice panic and, and, know, heavy feelings, traumas. You can notice they're arising, they're abiding in their cessation. That is the superpower.
 
-  So if I have a thought, let's say... I want to pick something that's as less complicated as possible. "The hand has five fingers." Is that good? Is that debatable? Well, yeah, I guess it is. uh, false.
+  So if I have a thought, let's say... I want to pick something that's as less complicated as possible. "The hand has five fingers." Is that good? Is that debatable? Well, yeah, I guess it is, uh, false.
 
   "Birds fly." There we go. Two words. "Birds fly." Very easy. I know some birds don't fly, but we're gonna just stop. Not talk about penguins. #btw[Dawai laughs]. Don't do it... I can read your mind. So, "Birds fly." Obviously just that, those two words are already invoking us to get silly, you see? I mean, that's the power of thought, just noticing that, just how did those two words cause us to act that silly? #btw[Dawai laughs]. Just little sounds, basically, little vibrations. So as long as we begin to notice the effect that thoughts have and how they abide, what they look like, their texture, their tone, their frequency, their vibrations, this is all that's needed.
 

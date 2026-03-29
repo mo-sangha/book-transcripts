@@ -32,11 +32,11 @@ We're only fighting each other when we have a thought in our mind. When the thou
 
 That's right, we're practicing lots of awkward silence today. It's no longer becoming awkward, is it? Kind of cool. Getting used to pure presence.
 
-So when the coarse linguistic narrative releases that constant perpetuation, and the heart is able to breathe a little bit, now we have any sense of substantiality, any sense of division—a reference point—is able to breathe now; it's no longer contracted either. There's levels to this thing, okay? Get out of the thinking mind, get out of the emotions, get out of the apprehension—the reference point.
+So when the coarse linguistic narrative releases that constant perpetuation, and the heart is able to breathe a little bit, now any sense of substantiality, any sense of division—a reference point—is able to breathe; it's no longer contracted either. There's levels to this thing, okay? Get out of the thinking mind, get out of the emotions, get out of the apprehension—the reference point.
 
 And these words will always come up a little short, right? But basically what's happening here is a fist that's been contracted is finally allowed to release. And you have the fists everywhere, and the head just releasing. We have lots of room here. It's like if you had a hundred acres of forest, and you built a little bitty box under a tree, and you crawled inside this box, and you tried to live there, and you're kind of looking around: "This is my home, I can't really have guests, it's too small." And then some fly gets in your box—"Oh my god, this is crazy, get this thing out of here!"
 
-Your mind is a vast, spacious---more spacious than space. You're aware of space, space is in your awareness, the whole planet is, the sun and the moon. More spacious than space. You don't need to live in a box.
+Your mind is vast, spacious---more spacious than space. You're aware of space, space is in your awareness, the whole planet is, the sun and the moon. More spacious than space. You don't need to live in a box.
 
 So that's all I wanted to share today. What do you think? Any comments, questions going on? It makes sense; it's very straightforward. Good. And as long as you see the nature of mind, spaciousness is yours—be good to go. It starts with recognizing—we just say awareness for the sake of accessibility—and then there's the appearance of the phase of familiarization. As if the person in the dream is now warming up, getting used to being the whole mind that's having the dream—this multi-dimensional, multi-faceted mind that can create entire environments, that can create the feeling of rigidity and solidity.
 
