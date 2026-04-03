@@ -83,7 +83,7 @@ In Dzogchen we let that be nourished within just letting it be. Just letting it 
 
 Yeah, so they use this in cognitive science, this technique of letting be. They use this in mindfulness. But the difference is here, you have the largest scope possible, the very nature of experience and reality as awareness.
 
-So now you can really let the whole thing be into a kind of cosmic Nirvāṇa, which includes this fourth foundation of mindfulness, the environment, our reality
+So now you can really let the whole thing be into a kind of cosmic Nirvāṇa, which includes this fourth foundation of mindfulness, the environment, our reality.
 
 I think we can tread into those waters, many of you can. Let the mind and the environment liberate, self-liberate, okay?
 

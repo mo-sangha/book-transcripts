@@ -246,7 +246,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 
   #btw[Dawai reads a chat message]. Like you say, one big one that keeps appearing.
 
-  It can happen. It can actually expand to encompass your entire body and expand to include visual appearances. For the Tibetans, they would typically see yidams, like White Tara, Medicine Buddha, and things like that, but you may see Mickey Mouse or something. I don't know, we don't know what each individual is going to. It's like when you're looking at clouds and you see these images in the clouds. It's got that lightness to it. Lightness, taking on two different connotations there.
+  It can happen. It can actually expand to encompass your entire body and expand to include visual appearances. For the Tibetans, they would typically see yidams, like White Tara, Medicine Buddha, and things like that, but you may see Mickey Mouse or something. I don't know, we don't know what each individual is going to... It's like when you're looking at clouds and you see these images in the clouds. It's got that lightness to it. Lightness, taking on two different connotations there.
 ])
 
 #speaker("Sangha 11 (chat)", [
@@ -268,7 +268,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 
   And so overall, just very, very beautiful, everybody. And I think the more we can empower each other, lift each other up, this is like a little movement going on here. And we're now linking up with other people that are part of the movement. And a lot of you are coming into this, being a part of it. It's not confined by age or culture, and it's all about freedom. So I'm totally humbled to be a part of it. And whatever I can do to continue to help you, you know I'm here. Y just provided you the link for that library.
 
-  Yeah, so I think we can end here. Deep thanks to everybody. And we'll just take a moment of silence. Any realizations that we have, understandings or compassion, there are beings in this very presence that are suffering, and we can dedicate that. May any benefit from this gathering be shared with all beings, without exception, that they may also find the sovereign freedom of their own minds.
+  Yeah, so I think we can end here. Deep thanks to everybody. And we'll just take a moment of silence. Any realizations that we have, understandings or compassion, there are beings in this very presence that are suffering, and we can dedicate that all to them. May any benefit from this gathering be shared with all beings, without exception, that they may also find the sovereign freedom of their own minds.
 
   Thank you, everybody. I’ll see you in the next one. Love you all. Bye-bye.
 ])
