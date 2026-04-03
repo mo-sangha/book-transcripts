@@ -251,7 +251,7 @@ Yes, please.
 
   And then I think for everybody that ripple would be the same, if we had a uh pristinely pure clear mind, all of us. The reason why it doesn't appear the same is because every one of us is doing something with that thought: "Birds fly." Now there are a lot of yogis here, maybe you're not. I believe that some of you are probably able to throw a pebble in the lake and that's the only pebble. You just watch it ripple out. "Birds fly." You can literally tune into the rippling, to it echoing out.
 
-  The issue is when we're compounding, we say "Birds fly." I wonder why they fly? I wonder how many birds are gonna fly? I wonder if they're gonna poop on my car, and then I'm gonna have to clean it? I don't have enough paper towels to clean it. Oh, I wonder what I'm gonna do with the birds later when they come back? Are the birds gonna be in a flock later?
+  The issue is when we're compounding, we say: "Birds fly. I wonder why they fly? I wonder how many birds are gonna fly? I wonder if they're gonna poop on my car, and then I'm gonna have to clean it? I don't have enough paper towels to clean it. Oh, I wonder what I'm gonna do with the birds later when they come back? Are the birds gonna be in a flock later?"
 
   And this is the kind of perpetuated thought cycle that gets us trapped. And then we're blind, we don't have visibility. But instead of about the birds, it's about your fears, it's about your parents, it's about your job, about your school. And you sit there thinking about birds.  So this gets you out of that electromagnetic confine, as I would call it. And then you can still think about birds from there. You know, we can have all the thoughts about birds we want, no problem, from here.
 
