@@ -47,7 +47,41 @@
 #outline(title: "Table of Contents", indent: 2em)
 #pagebreak()
 
-// --- TEACHINGS (Arabic 1, 2, 3) ---
+// ==========================================
+// Curated teachings.
+// ==========================================
+#set page(numbering: "1")
+#counter(page).update(1)
+
+#heading(level: 1, numbering: none, outlined: true)[Teachings]
+
+#include "chapters/2025-07-02-letting-be.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2025-10-10-turn-awa.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2025-11-05-bravery.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2025-11-28-four-ponds.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2025-12-07-subjectivity.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2025-12-22-thought-isolation.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2026-01-14-the-phasing.typ"
+#pagebreak(weak: true)
+
+#include "chapters/2026-02-09-spheres.typ"
+#pagebreak(weak: true)
+
+// ==========================================
+// Addendum, so we don't lose track of transcripts.
+// ==========================================
 #set page(numbering: "1")
 #counter(page).update(1)
 
@@ -55,7 +89,7 @@
 // 2024 TEACHINGS
 // ==========================================
 #pagebreak(weak: true)
-#heading(level: 1, numbering: none, outlined: true)[2024 Teachings]
+#heading(level: 1, numbering: none, outlined: true)[_Addendum: 2024 Teachings_]
 #counter(heading).update(0)
 
 #include "chapters/2024-06-13-hindrances.typ"
@@ -83,7 +117,7 @@ To make this year start at Chapter 1: Leave the 'update(0)' line alone.
 To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 */
 
-#heading(level: 1, numbering: none, outlined: true)[2025 Teachings]
+#heading(level: 1, numbering: none, outlined: true)[_Addendum: 2025 Teachings_]
 #counter(heading).update(0) 
 
 #include "chapters/2025-04-21-dzog-tonglen.typ"
@@ -170,7 +204,7 @@ To make the numbers keep climbing (5, 6, 7...): Delete the 'update(0)' line.
 // ==========================================
 // 2026 TEACHINGS
 // ==========================================
-#heading(level: 1, numbering: none, outlined: true)[2026 Teachings]
+#heading(level: 1, numbering: none, outlined: true)[_Addendum: 2026 Teachings_]
 #counter(heading).update(0)
 
 #include "chapters/2026-01-01-effortless.typ"
