@@ -20,7 +20,7 @@ So more and more in the 10-minute sessions, these are revealed. First it's, "Oh 
 
 It’s like a piano: every thought is a key, and your nervous system are the strings. So you can have happy thoughts—the nervous system will be happy, open; sad thoughts—the nervous system will be closed—but you're still stuck in the piano. So first, breaking out of thoughts, so to speak.
 
-So now I can see the emotional weight of my body. Now I can see my sense involvement into stimuli. Now I can hear and see with my mind rather than my senses. Shout out to the gorillas. #btw[Dawai laughs]. Don't see with your eyes—you see with your mind, right?
+So now I can see the emotional weight of my body. Now I can see my sense involvement into stimuli. Now I can hear and see with my mind rather than my senses. Shout out to the Gorillaz. #btw[Dawai laughs]. "You don't see with your eyes—you perceive with your mind," right?
 
 So coming into your whole mind like this allows you to have the scope for things to start melting, and then you can come over this confinement, come out of it, and—kind of on the throne of your own divinity then, in a complete union within ineffability—you can mature into this monarchy. But not as long as we're hypnotized by somebody else's delusion, some materialist object-based dream world.
 
