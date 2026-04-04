@@ -115,7 +115,7 @@
 #set page(numbering: "1")
 #counter(page).update(1)
 
-#heading(level: 1, numbering: none, outlined: true)[_Addendum: Additional Teachings_]
+#heading(level: 1, numbering: none, outlined: true)[_Addendum: Additional Transcripts For the Next Book_]
 #counter(heading).update(0)
 
 #include "chapters/2024-06-13-hindrances.typ"
