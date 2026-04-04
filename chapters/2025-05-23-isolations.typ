@@ -52,7 +52,7 @@ We have about thirty to fifty thousand thoughts per day. I always cite that stat
 
 And if you yourself don't want to believe me, then you can verify, you can test, you can observe your own mind. Is this the same thought that I had six hours ago, or yesterday, or an hour ago? Yes. And in many cases, when practitioners have observed their own mind, they have found that this is repetitive. And the worst is your moods, your depression, your sadness is repetitive. So, in that regard, it can be tormenting. Here I am again in this cycle, and _da da da da da_. All right?
 
-So that brings us to the second thing. That when you're in the short session, where you could be, maybe I'm in a mood. Maybe I feel sick, or maybe I feel nervous, or something like that. So I'm in a kind of mood now, and somebody says: "Hey Dawai, why don't you pay attention to your breath? Take a deep breath." "I can't right now, I'm nervous". Short breaths, stressful breaths, right?
+So that brings us to the second thing. That when you're in the short session, where you could be, maybe I'm in a mood. Maybe I feel sick, or maybe I feel nervous, or something like that. So I'm in a kind of mood now, and somebody says: "Hey Dawai, why don't you pay attention to your breath? Take a deep breath." "I can't right now, I'm nervous." Short breaths, stressful breaths, right?
 
 So okay, Dawai, "just be here with it for ten minutes." Okay, so I'm here, I'm crunched up, my shoulders are crunched, my neck is crunched, I have tension throughout my body, and I'm not doing anything about that.
 

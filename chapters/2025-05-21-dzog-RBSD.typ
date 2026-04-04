@@ -41,7 +41,7 @@ These syllables are sacred. They have a resonance to them; they're vibratory, an
 
 Anybody know what your refuge is ultimately? Conventionally, it's the Buddha, Dharma, and Sangha. But what is it ultimately?
 
-Reading chat: "Knowingness".
+Reading chat: "Knowingness."
 
 Dawai: I'll take that.
 

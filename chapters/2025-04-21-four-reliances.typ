@@ -63,7 +63,7 @@ Dzogchen is beyond good and bad; this is about being truthful, and the truth is 
 
 Okay, anybody want to say anything? Are we still recording?
 
-Well this is good what Yeshé shared here. It says: this is sort of Sutrayana, keep that in mind but could still benefit. "The qualities of the student in the _Great Exposition_, Lama Tsongkhapa goes on to discuss the three principal qualifications of an ideal student: an objective and open mind; the second one is the intelligence to judge between right and wrong, appropriate and inappropriate; and third is enthusiasm for and interest in the subject".
+Well this is good what Yeshé shared here. It says: this is sort of Sutrayana, keep that in mind but could still benefit. "The qualities of the student in the _Great Exposition_, Lama Tsongkhapa goes on to discuss the three principal qualifications of an ideal student: an objective and open mind; the second one is the intelligence to judge between right and wrong, appropriate and inappropriate; and third is enthusiasm for and interest in the subject."
 
 Yeah, pretty decent. And the sutras, I mean, those things can help, but don't worry, you can come in here totally unmotivated and depressed, and I'll still work with you.
 ])

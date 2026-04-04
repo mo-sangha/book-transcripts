@@ -57,7 +57,7 @@ Dawai: So let's go into these.
 9. peace
 10. conceptualization
 
-Dawai: See, that's why you need explanation, because you may think, "Well, all these are conceptualization". Indeed, but you can sub-conceptualize. So it says:
+Dawai: See, that's why you need explanation, because you may think, "Well, all these are conceptualization." Indeed, but you can sub-conceptualize. So it says:
 
 11. embracing
 12. kissing

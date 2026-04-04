@@ -122,7 +122,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  "The weather is cold", that's it. We're dealing with the sixth aspect of consciousness, the cognitive aspect---the mental formations.
+  "The weather is cold," that's it. We're dealing with the sixth aspect of consciousness, the cognitive aspect---the mental formations.
 ])
 
 #speaker("Sangha 1", [
@@ -194,10 +194,10 @@ Yes, please.
 #speaker("Dawai", [
   Yeah, this is exceptional to even be able to see the activity of your own thoughts. So there are different minds. We could almost make a graphic out of this. You know we have 36 people here, 37 including me, and we could all make a graphic of our mind, what it does when we say isolate a thought.
 
-  Let's say "The weather's getting cold", right? That one thought, "The weather's getting cold." Well, what is their mind doing with that? You know, maybe painting a pretty picture of snow and mountains. What is their mind doing with that? I don't know if I want to think about this, you know, or do I want to isolate this thought? You know, maybe having some doubts about the thought. Maybe they are adding on to the thought, even though you just shared the opposite. I'm just giving examples, okay? Don't take any of this personal.
+  Let's say "The weather's getting cold," right? That one thought, "The weather's getting cold." Well, what is their mind doing with that? You know, maybe painting a pretty picture of snow and mountains. What is their mind doing with that? I don't know if I want to think about this, you know, or do I want to isolate this thought? You know, maybe having some doubts about the thought. Maybe they are adding on to the thought, even though you just shared the opposite. I'm just giving examples, okay? Don't take any of this personal.
 
 
-  Maybe when I say, "The weather's getting cold", they says, oh, I need to get a jacket, you know, I wonder what kind of jacket I'm going to get. You know, so everybody's mind is going to do something unique with this. And just observing what your mind does with thoughts is good enough. That's the magic right there. You get to see, you know, you get to zoom in a little bit while zooming out, and see how your mind interacts with thoughts, what it does with thoughts. How proliferation starts, how visualizations and nostalgia can take place from a thought. All kinds of stuff. How anxious feelings can arise from a thought. There's an entire spectrum, it's worth writing a book about it or making a graphic, because there's an entire spectrum of things that the mind does when asked to isolate a single thought. Very interesting.
+  Maybe when I say, "The weather's getting cold," they says, oh, I need to get a jacket, you know, I wonder what kind of jacket I'm going to get. You know, so everybody's mind is going to do something unique with this. And just observing what your mind does with thoughts is good enough. That's the magic right there. You get to see, you know, you get to zoom in a little bit while zooming out, and see how your mind interacts with thoughts, what it does with thoughts. How proliferation starts, how visualizations and nostalgia can take place from a thought. All kinds of stuff. How anxious feelings can arise from a thought. There's an entire spectrum, it's worth writing a book about it or making a graphic, because there's an entire spectrum of things that the mind does when asked to isolate a single thought. Very interesting.
 
   And by the way, is it okay if these sharing are on the YouTube channel? They're very powerful. You all do so well in these sharing that I really wish more visibility on them as long as people are comfortable.
 ])
@@ -233,7 +233,7 @@ Yes, please.
 
   "Birds fly." There we go. Two words. "Birds fly." Very easy. I know some birds don't fly, but we're gonna just stop. Not talk about penguins. #btw[Dawai laughs]. Don't do it... I can read your mind. So, "Birds fly." Obviously just that, those two words are already invoking us to get silly, you see? I mean, that's the power of thought, just noticing that, just how did those two words cause us to act that silly? #btw[Dawai laughs]. Just little sounds, basically, little vibrations. So as long as we begin to notice the effect that thoughts have and how they abide, what they look like, their texture, their tone, their frequency, their vibrations, this is all that's needed.
 
-  So if we have "birds fly", this has become clear canvas, that's our thought, and it leaves a little bit of a trace before it vanishes completely. "Birds fly."
+  So if we have "birds fly," this has become clear canvas, that's our thought, and it leaves a little bit of a trace before it vanishes completely. "Birds fly."
 
   Now the space is going to increase between your invocations. You can still see it flying around your mind so be careful not to reinvoke it prematurely. There may still be a trace of that thought there. For me, I can still right now see a trace of that thought, without deliberately invoking it.
 

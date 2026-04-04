@@ -183,7 +183,7 @@ Dawai: And we also have those here, the four Chokshyaks, right? Those are the fo
 
 Dawai: Remember, we also utilize Dream Yoga in here, and sky gazing and things like that as long as people request them and they're at that level, definitely. You'll start to be able to see light rays and bindus and things like that that you could not see before. That's a good sign that you're ready for effortless abiding into phenomena.
 
-> Liberation through the key point of seeing naked awareness, liberation of time restrictions based on the past and future, and liberation in natural placement free from effort are the three meanings of "liberation from limitation".
+> Liberation through the key point of seeing naked awareness, liberation of time restrictions based on the past and future, and liberation in natural placement free from effort are the three meanings of "liberation from limitation."
 
 Dawai: Okay so you have liberation through the key point of seeing awareness, of time restrictions based on past and future—because you're in presence—and liberation and natural placement (stability) free from effort. So yeah, you don't need to do anything once you stabilize relatively well. And then as long as you stick with the sangha and the teachers, you will gain the confidence because you'll see it for yourself, and that's where the real confidence comes from. Don't try to create the confidence. If you don't have confidence, allow that to be in your awareness, and it will blossom into confidence. Go figure.
 

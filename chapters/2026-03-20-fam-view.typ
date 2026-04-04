@@ -16,7 +16,7 @@ And so not just this whole session is a Dzogchen session, but like [sangha membe
 
 So this is very powerful, all of our experiences now have a basis, so you're not caught up and trapped in the experience. And we say this many times, you know there's so much I could say about this. When it's conditioned, you have the eyeballs seeing sense objects. You have the ear consciousness hearing sound objects. The smell, the tactile sensations, the taste. You have all these things happening, the five senses plus conditioned thoughts and emotions making the sixth. And then the seventh aspect of your mind, conditioned mind, is the egoic construct, the conditioned self.
 
-And that all has a basis. If I say, "I love the bird", well, where's that I? That's in the eighth consciousness, sometimes called Alayavijñana. Sometimes termed Kuntuzangpo or Samantabhadra, The All Good, when we're talking about the counterpart to conditioning.
+And that all has a basis. If I say, "I love the bird," well, where's that I? That's in the eighth consciousness, sometimes called Alayavijñana. Sometimes termed Kuntuzangpo or Samantabhadra, The All Good, when we're talking about the counterpart to conditioning.
 
 So basically you have the lake, and when you stir it there's a sense of separability---that's the seventh egoic consciousness. The "me" isolation that's making a duality. And then within that whirlpool, you're getting caught up in the reflections within the whirlpool. So you're seeing stuff but they're only your own reflections. So you have this entire eight aspects of consciousness, but when this starts to sort of untangle, then you have the five wisdoms, which are together, like the five lights or the four lights within clear light.
 
