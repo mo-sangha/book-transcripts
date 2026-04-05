@@ -10,7 +10,7 @@ So the reason why I value Yogācāra and various mechanics of the mind, even the
 
 So the idea is that there already are doings. There's already effort in this presence, and we allow for that effort to untie, to breathe out. So it's a lot like water can be frozen; mind can be frozen, it can be crystallized. But these elements, this life, our crystallized cartoon reality, well—it doesn't have to be limited to that.
 
-If we can apply the four foundations of mindfulness—so our body, our emotional feelings, our thoughts, and the entire environment. So the three spheres of conception as in concepts: subject, action, object, the _ayatanas_ as they're known in the Dharma, we're letting them be open. Everything's okay. Because if there's a sound, that sound is happening within mind. If there's something being seen, if I look over at Scrappy Tank over there, that's all within the same mind---even me focusing on him.
+We can apply the four foundations of mindfulness—so our body, our emotional feelings, our thoughts, and the entire environment. So the three spheres of conception as in concepts: subject, action, object, the _ayatanas_ as they're known in the Dharma, we're letting them be open. Everything's okay. Because if there's a sound, that sound is happening within mind. If there's something being seen, if I look over at Scrappy Tank over there, that's all within the same mind---even me focusing on him.
 
 Then, if I have a thought, "Oh, I wonder if it's gonna rain some more?" that thought was held within the same mind as hearing the sound—as hearing, as the sound, and as the source of the sound. All three spheres of conception are within awareness like that.
 
