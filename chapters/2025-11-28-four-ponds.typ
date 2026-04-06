@@ -2,21 +2,21 @@
 
 == The four ponds
 
-I just say again, warm welcome to everyone here in the live session. Your presence is amazing. To be in the view with you is amazing. Thank you for that. Even Nitty cannot resist anymore. So I did want to just briefly talk about this—well, maybe we can call it the four ponds. That's right, I'm making stuff up now. So you could be in one of these four ponds; in fact, you are in one of these four ponds.
+I just say again, warm welcome to everyone here in the live session. Your presence is amazing. To be in the view with you is amazing. Thank you for that. Even Nitty cannot resist anymore. So I did want to just briefly talk about this—well, maybe we can call it _the four ponds_. That's right, I'm making stuff up now. So you could be in one of these four ponds; in fact, you are in one of these four ponds.
 
-One has a great whirlpool going, spinning and spinning. And you jump in and you're spinning too. That's the pond of the thoughts. Still pristine water, but it's a little spun up.
+One has a great whirlpool going, spinning and spinning. And you jump in and you're spinning too. That's the pond of the thoughts. Still, pristine water, but it's a little spun up.
 
-The second pond is a muddy pond. You could be in that muddy pond—very thick mud—and just maybe swaying around, enjoying. This is the pond of emotion because they feel like that sometimes, right? You have a heavy, almost stuckness.
+The second pond is a muddy pond. You could be in that muddy pond—very thick mud—and just maybe swaying around, enjoying... This is the pond of emotion because they feel like that sometimes, right? We have a heavy almost stuckness.
 
-The third pond: a little bit less mud, actually very little mud. I forget what they call that, it starts with a B I think—that water that's a little bit gray and foggy. If anybody knows it? Yes, brackish; it's a cool little word. So that's more of the spiritual pond, the pond of the practitioner. Very subtle. "I'm a Dzogchenpa, I've realized non-duality." The great oxymoron.
+The third pond: a little bit less mud, actually very little mud. I forget what they call that, it starts with a 'B' I think—that water that's a little bit gray and foggy. If anybody knows it? Yes, brackish; it's a cool little word. So that's more of the spiritual pond, the pond of the practitioner. Very subtle. "I'm a Dzogchenpa, I've realized non-duality." The great oxymoron.
 
-So the fourth pond is pristine—pristinely pure.
+So, the fourth pond is pristine—pristinely pure.
 
-Just knowing when you're in a pond is good enough. And these ponds correspond with the spectrum of cognition. The coarse linguistic narrator is an electromagnetic psychic confine.
+Just knowing when you're in a pond is good enough. And these ponds correspond with the spectrum of cognition. The coarse linguistic narrator is an electromagnetic, psychic confine.
 
-I'm very sorry to say, but when I hear all these spiritual teachers just giving data dumps, these videos and stuff like that, and these conferences, there's not a single pause; neither dog nor attention. #btw[Dawai laughs]. There aren't any dog paws and there aren't any pauses in their electromagnetic data dump.
+I'm very sorry to say, but when I hear all these spiritual teachers just giving data dumps, these videos and stuff like that, and these conferences, there's not a single pause: neither dog nor attention. #btw[Dawai laughs]. There aren't any dog paws and there aren't any pauses in their electromagnetic data dump.
 
-Please if you catch yourself talking, talking, talking, talking—other person talking, talking, talking—you talking, talking, talking... Or if you're talking to a group of people talking, talking, talking, talking, and you're not breathing, you're not pausing, then you are in that pond: the whirlpooling. This is the most common place humans meet each other at. You can feel it when two people are conversing. There's an electric connection there, sometimes very difficult to break. Think at a bar; think when you have a meeting with somebody and you're the only two people there, and you're talking, talking, talking, talking. You can tune into that, you can feel it lobe to lobe; it's a kind of lovemaking.
+Please if you catch yourself talking, talking, talking, talking—other person talking, talking, talking—you talking, talking, talking... Or if you're talking to a group of people talking, talking, talking, talking, and you're not breathing, you're not pausing, then you are in that pond: the whirlpooling. This is the most common place humans meet each other at. You can feel it when two people are conversing---there's an electric connection there, sometimes very difficult to break. Think at a bar; think when you have a meeting with somebody and you're the only two people there, and you're talking, talking, talking, talking. You can tune into that: you can feel it lobe to lobe; it's a kind of lovemaking.
 
 And I'm not trying to diss anybody here; what I'm suggesting is that there are alternatives and perhaps humanity itself is veering into this great alternative, for it seems to be the only option: increased cognition. It's a survivability issue. If we don't become more aware, we will self-destruct, just like you see people doing all the time.
 
