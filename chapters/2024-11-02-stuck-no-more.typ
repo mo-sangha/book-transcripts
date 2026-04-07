@@ -2,7 +2,7 @@
 
 == Stuck in thoughts no more, a talk on the Dzogchen way out of this age old sickness
 
-So here are some basic kind of stages that we can be at as meditators, right? They could even be considered phases because if you're progressing along some type of path, then you could consider them to be like phases. So these aren't to be reached for or achieved necessarily, but this is kind of what happens during meditation.
+So here are some basic kind of stages that we can be at as meditators, right? They could even be considered phases because if you're progressing along some type of path, then you could consider them to be like phases. So these aren't to be reached for or achieved, necessarily, but this is kind of what happens during meditation.
 
 The average person is stuck in their thoughts. This is the age-old kind of issue. Even in the Torah, you know, even in Adam and Eve and Genesis, they talk about the thoughts—the thinking mind—being evil, right? Now, I'm not saying it's evil, and maybe that was a lack of words there that they had to kind of articulate this point. It's not that they're evil; in my opinion, I think it's an immaturity when we're stuck in our thoughts. It's a kind of womb, it's a phase that we're in, like we can maybe have a kid phase and teenage phase, young adult phase. Well, spiritually or psychologically speaking, we have a phase where we're stuck in our thoughts.
 
@@ -10,7 +10,7 @@ And you know that this is serious because people end their lives and things like
 
 So a spiritual practitioner knows that there's something more to it. They know there's something outside of these thoughts, and we don't need to end our lives to break free of the thoughts and put them in their place to where they're actually useful and nice. So even for a person who's primarily driven by thought, they will have moments of non-thought, of course, and those will be very special to them. But meditators, practitioners, can access this world outside of that dense thought dimension. We can access it.
 
-In Dzogchen, you access it by recognizing the nature of mind: the awareness, kind of the witness. That's pretty standard Dharma, but high-level Dharma. Becoming the witness of the thoughts is a pretty high-level Dharma. And that's the second stage or phase that you might be in. You might be able to witness your thoughts, but not just those—emotions, too, when you're having cycles and patterns of thoughts and emotions.
+In Dzogchen, you access it by recognizing the nature of mind: the awareness, kind of the witness. That's pretty standard Dharma, but high-level Dharma. Becoming the witness of the thoughts is a pretty high-level Dharma. And that's the second stage or phase that you might be in. You might be able to witness your thoughts, but not just those—emotions too, when you're having cycles and patterns of thoughts and emotions.
 
 So there's this Vipassana aspect then: the seeing. One can only see from the point of view of the witness. You can only see your mind from the point of view of the witness—you cannot really see the mind from inside the thoughts. So anybody want to take a guess what the next stage or phase would be then?
 
@@ -43,7 +43,7 @@ Oh, very nice. Yeah, a little bit tricky to articulate that, you know? What does
 
 So your mind has layers and layers upon deception that insist on you being stuck in thoughts, triggering emotional upheaval, and all kinds of other obscurations. This little ego combined with its thoughts, its thought power... because remember, the witness, the ego, is subservient to thoughts at first. That's why they hack into our minds, right? That's why they use symbols and all this language. And now, I mean, culture is so obsessed with material—at least they're trying to continue to push materialism. You know, to push being rich and having fancy cars and, you know, really all this stuff, mansions... and even spirituality gets mixed with this. So everybody's kind of feeling like, "Well, if I'm not very rich, then I must be lacking somehow." It's gotten to that point where you hold yourself up to that bar that my value is dependent on how much I'm making.
 
-It is a very interesting culture we're living in, combined with the kind of brainwashing of the digital world like TikTok and Facebook, they really have these deep algorithms that are psychologically targeting people. So for that I say, when your thoughts have that witness on lockdown, "We need to go get that money," right? #btw[Dawai laughs]. "But we need to have a this or that, you know, bigger house. Come on, man, 16 rooms ain't enough for the two of us?"
+It is a very interesting culture we're living in, combined with the kind of brainwashing of the digital world like TikTok and Facebook; they really have these deep algorithms that are psychologically targeting people. So for that I say, when your thoughts have that witness on lockdown, "We need to go get that money," right? #btw[Dawai laughs]. "But we need to have a this or that, you know, bigger house. Come on, man, 16 rooms ain't enough for the two of us?"
 
 So then, if you're brave enough, if you have the opportunity and the fortune probably that comes from being a decent person, you meet with the teachings somehow. You meet with something that brings you here. And now you can see the dots. "Stop that. Not going out tonight." Right?
 
