@@ -42,7 +42,7 @@ I know we're at the end of our live session and you're probably a little wore ou
 #speaker("Dawai", [
   Yeah, exactly. And you just saw the difference, right? You just saw that. I could sit here and think, "Wow, why is my computer so loud right now? Why is the fan so loud?" And I can think about that, think about that. And that's the present moment. I'm technically in the present moment, right? Thinking about the fan that's happening right now.
 
-  But _presence_, my mind isn't being pulled towards anything. It's fully present. And I can still say, yup, the fan is loud. #btw[Dawai laughs]. But I'm not in that, right? So you're not _in_ the three times.
+  But _presence_, my mind isn't being pulled towards anything. It's fully present. And I can still say, "Yup, the fan is loud." #btw[Dawai laughs]. But I'm not _in_ that, right? So you're not in the three times.
 ])
 
 
@@ -51,11 +51,11 @@ I know we're at the end of our live session and you're probably a little wore ou
 ])
 
 #speaker("Dawai", [
-  Without the grasping. You can still have the thought. That's why I said you can still think that, yeah, fan's pretty loud right now. But you're not sitting here like distracting away from presence into "Wow, I wonder what's wrong with that fan, starting to piss me off. I'm not sure why. It always has to be like that." So there's a texture change there. Okay?
+  Without the grasping. You can still have the thought. That's why I've said you can still think that, "Yeah, fan's pretty loud right now." But you're not sitting here like distracting away from presence into "Wow, I wonder what's wrong with that fan, starting to piss me off. I'm not sure why. It always has to be like that." So there's a texture change there. Okay?
 ])
 
 #speaker("Sangha 2", [
-  Yeah. Hello everyone, morning everyone. What I was going to say basically was made out in the comment section. That it's a nice exercise I found because I am now getting used to noticing and stopping proliferation and doing the exercise where you're actually trying to spin it up, I think it's quite interesting to see that, see the kind of mechanism there. And you would just want to do the silly stuff because as N says, actually, you know, for the first four and a half decades of my life. You know, it’s automatic and involuntary and you're waking up at three in the morning in a panic about something you said to a girl in primary seven, you know, it's just that you're doing whatever it is about the brain that fires these things up. So yeah, doing it and that kind of nice, lightweight, playful way, kind of shows you, in a way, in a nice way for me, you can assure us how far I've come, you know, but it's good training for noticing the proliferation, you know, bubbling away under the surface when you're going about your day. So yeah, I think it's a thumbs up from me, definitely.
+  Yeah. Hello everyone, morning everyone. What I was going to say basically was made out in the comment section. That it's a nice exercise, I've found, because I am now getting used to noticing and stopping proliferation and doing the exercise where you're actually trying to spin it up, I think it's quite interesting to see that, see the kind of mechanism there. And you would just want to do the silly stuff because, as [sangha member] says, actually, you know, for the first four and a half decades of my life---you know, it’s automatic and involuntary and you're waking up at three in the morning in a panic about something you said to a girl in primary seven---you know, it's just that you're doing whatever it is about the brain that fires these things up. So yeah, doing it and that kind of nice, lightweight, playful way, kind of shows you, in a way, in a nice way for me, you can assure us how far I've come, you know, but it's good training for noticing the proliferation, you know, bubbling away under the surface when you're going about your day. So yeah, I think it's a thumbs up from me, definitely.
 ])
 
 #speaker("Dawai", [
@@ -65,7 +65,7 @@ I know we're at the end of our live session and you're probably a little wore ou
 ])
 
 #speaker("Sangha 3", [
-  I just wanted to mention, I really appreciate the non-seriousness, because a lot of times when people address these kinds of topics, it's so about getting into presence that it actually reifies it, and then while reifying the past, while trying to diminish it, while like, there's just like a lot of clumping where for this, where it's just like, okay, open _that_ door and now open _that_ door and now open _that_ door. Okay, and now presence was there the whole time and is here still. So thank you for the simplicity, is my thought.
+  I just wanted to mention, I really appreciate the non-seriousness, because a lot of times when people address these kinds of topics, it's _so_ about getting into presence that it actually reifies it #btw[Dawai laughs], and then while reifying the past, while trying to diminish it, while like, there's just like a lot of clumping where for this, where it's just like: okay, open _that_ door and now open _that_ door and now open _that_ door. Okay, and now presence was there the whole time and is here still. So thank you for the simplicity, is my thought.
 ])
 
 #speaker("Dawai", [
@@ -77,9 +77,7 @@ I know we're at the end of our live session and you're probably a little wore ou
 ])
 
 #speaker("Dawai", [
-  Yay! #btw[Dawai laughs]. Yeah, when we're being innovative, we never know, right? So that's great. I think we can polish a little bit and continue to utilize this technique. And thankfully, Yeshé got it out there to share with everybody. So I kind of prioritize some of these other techniques before we do isolation of the conditioned self.
-
-  And we'll go back to isolating a thought. But here we’re doing this cognitive diffusion before we go into isolating the conditioned self. So even though when you isolate thoughts, usually the conditioned self is mixed in there, but maybe not as explicitly.
+  Yay! #btw[Dawai laughs]. Yeah, when we're being innovative, we never know, right? So that's great. I think we can polish a little bit and continue to utilize this technique. And thankfully, Yeshé got it out there to share with everybody. So I kind of prioritize some of these other techniques before we do isolation of the conditioned self---and we'll go back to isolating a thought. But here we’re doing this cognitive diffusion before we go into isolating the conditioned self. So even though when you isolate thoughts, usually the conditioned self is mixed in there, but maybe not as explicitly.
 
   Anyway, thank you everybody so much for joining and giving these techniques a try. And we just kind of, you know, get more freedom in our mind, in our life, in our world. And get some of the congestion out and use these different mind sciences, right? These are just tools, mind science tools that are very effective apparently, and they're based on our own introspection. So that makes them very powerful.
 
