@@ -12,9 +12,9 @@ So if I'm resting here and I'm just noticing any thoughts, I'm having thoughts a
 
 Then notice what kind of thoughts: narrations, images, song in your head, the movement. That's the internal movement, right? So-called. If you're able to just do that, just have awareness of thoughts, you're already in a different phase of the mind.
 
-So, look at the ants. No offense to the ants, I love the ants so much, actually, but they're really on a mission. If I was to say, “Hey ant, can you stop serving the Queen for a second or whatever you're doing, and pay attention to me so I could teach you a breath meditation?” The ant would not stop. "I am on a mission. I don't want to hear all this woo-woo stuff right now."
+So, look at the ants. You know, no offense to the ants, I love the ants so much, actually, but they're really on a mission. If I was to say, “Hey ant, can you stop serving the Queen for a second or whatever you're doing, and pay attention to me so I could teach you a breath meditation?” The ant would not stop. "I am on a mission. I don't want to hear all this woo-woo stuff right now." #btw[Dawai laughs].
 
-So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_.
+So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_. #btw[Dawai laughs].
 
 Everybody understanding that, right? How we can psychically isolate ourselves, and that becomes emotive to the intense feelings associated.
 
@@ -42,7 +42,7 @@ I just see the question here.
 ])
 
 #speaker("Dawai", [
-All right, we're gonna slowly build up here, okay? We're just trying to make this accessible for the people who are just getting into the meditations and things like that. So we want all this to be accessible. If there's any point in which I'm speaking, something becomes inaccessible to you, for example, if I say, "Hey, just rest in Dharmakāya emptiness," you're gonna be like, "What?"
+All right, we're gonna slowly build up here, okay? We're just trying to make this accessible for the people who are just getting into the meditations and things like that. So we want all this to be accessible. If there's any point in which I'm speaking, something becomes inaccessible to you, for example, if I say, "Hey, just rest in Dharmakāya emptiness," you're gonna be like, "What?" #btw[Dawai laughs].
 
 A lot of you, and now some of you know exactly that that's synonymous with awareness, that's synonymous with pure presence. No problem. But the mind tends to overcomplicate things.
 
@@ -64,7 +64,11 @@ So think of when you lose somebody or something like that, that's just holding a
 
 We see that you must hold something, some ideas, some belief, and then you must renew it in order to have your troubles, right? So these are the isolations.
 
-We can be in moods. I'm in a bad mood today. What's wrong? All this stuff is wrong. I'm in a bad mood today, and you'll have to keep on reminding yourself of that, or else your bad mood might leave you. You don't want that. You don't want your bad mood to go away, do you? No, so keep kicking yourself in the butt, make sure it's still there. That's what we do anyway. So this is also what happens.
+We can be in moods. I'm in a bad mood today. Well, what's wrong? All this stuff is wrong. I'm in a bad mood today, and you'll have to keep on reminding yourself of that, or else your bad mood might leave you. You don't want that. You don't want your bad mood to go away, do you? No, so keep kicking yourself in the butt, make sure it's still there. That's what we do anyway. So this is also what happens.
+
+So there are two kind of isolations that I've described so far, the thought and the emotion, right, essentially the emotion. The third one is the body.
+
+#btw[Sangha 2 raises their hand]. Is this a real question?
 ])
 
 #speaker("Sangha 2", [
@@ -76,13 +80,13 @@ There could be many answers for that, actually, that are probably better than wh
 
 From a dharmic point of view, it would be the very basis of dependent origination there. It has to do with our ignorance and our self-grasping. Bad moods typically are perpetuated because of self-grasping, because we're not getting something the way we wanted, things like that, okay?
 
-But yeah, maybe you'll get some better answers. Why we perpetuate, why we have a negative bias? It's just saṃsāra, I guess. And we really get hooked on those. We justify lots of things. We justify being sick.
+But yeah, maybe you'll get some better answers. Why we perpetuate, why we have a negative bias? It's just samsara, I guess. You know. And we really get hooked on those. We justify lots of things. We justify being sick.
 
 Look at a lot of people that fake sickness. Why would you ever do that? We don't know. It just happens. People want it for different reasons. You know, they do that kind of thing. I think it's normal. You know, children do that when they want attention and things like that.
 
 So, this must be perpetuated with thoughts. This is what we know about this particular psychic isolation, cognizant, isolated cognizance, we can say. It's a pretty good term. Like a whirlpool in the ocean, it's an isolated cognizance. Being in your thoughts, being in the mood, and also holding a perspective.
 
-I'm incorporating the five aggregates a little bit here. So let's say you've been practicing meditation for a long time. You feel enlightened. You feel, man, I'm pretty somatically cleared. I'm pretty mentally cleared. So you're sort of holding this perspective, like, yeah, I'm enlightened, dude. You know, me the enlightened one. And then when you talk to people, you're assuming that, yeah, here I am, the enlightened one, talking to somebody.
+I'm incorporating the five aggregates a little bit here. So let's say you've been practicing meditation for a long time. You feel enlightened. You feel, man, I'm pretty somatically cleared. I'm pretty mentally cleared. So you're sort of holding this perspective, like, yeah, I'm that enlightened dude. You know, me the enlightened one. And then when you talk to people, you're assuming that, yeah, here I am, the enlightened one, talking to somebody.
 
 So it's a kind of, not many thoughts there, not much mood there, but it's a perspective. You understand? You could go to the complete opposite of that and say, I don't believe in enlightenment. That is a bunch of crap. And you kind of, you're not very having any thoughts, but you're kind of having the skeptical disposition, this perspective. And then maybe someone says to you, hey, you can really enlighten the mind, you know. And you're holding this perspective like, yeah, okay, I believe you. Sure.
 
@@ -100,7 +104,7 @@ You don't have to do anything about it. If there's oppression in this world and 
 
 If these kinds of discussions give you stress, that's probably your empathy, your compassion, which is great, better than apathy and destruction. But at the same time, we should be able to discuss these things without our emotions conquering us, and just put a flag in the ground: This is wrong, right? And you don't even have to hold a perspective that I'm against extreme nationalism or extreme religious fanaticism. You just can objectively state, like a scientist, religious fanaticism is probably destructive for the mind. Very easy like that. Extreme nationalism, those kinds of perspectives are very destructive for the mind, just knowing that.
 
-Responding to chat: Oh that's an interesting comparing, comparing nationalism to a collective ego. Very interesting, yeah. And I want to say there's some kind of healthy nationalism, to be, you know, happy about your country, your culture, and things like that. Yeah, so I don't want to completely say that. Yeah, maybe that's more patriotism, isn't it?
+#btw[Dawai reads a chat message]. Oh that's an interesting comparing, comparing nationalism to a collective ego. Very interesting, yeah. And I want to say there's some kind of healthy nationalism, to be, you know, happy about your country, your culture, and things like that. Yeah, so I don't want to completely say that. Yeah, maybe that's more patriotism, isn't it?
 
 So interesting topic to get into, but it has a lot to do with the mind. Those are cultural zeitgeists that kidnap the mind very easily, because that's another deep psychological thing that we do. When we see groups doing the same things, we all start dressing the same, we all start adopting the same language, and whatnot, and less free thinkers are popping out of that kind of structure.
 
@@ -116,7 +120,7 @@ And so I believe [name] is still here, or no? Yes. So, he kind of inspired this 
 
 So that's why I say, when we do our short sessions, these are all the things that you're bringing into presence. You don't have to deliberately bring them in. They're already here within pure presence.
 
-So for some of you, it may be like taking a bath—your whole body, including that neck and that head tension, is within awareness right now. And you're allowing it some time to relieve, for that contraction to alleviate. Just like a fist. How you would allow it to just, by not doing anything, and in fact, you're stopping the doing because it takes doing to clench a fist. Power to the people! [laughing] But anyway, so when you are clenching that fist, it's a doing, and then you stop doing, and there's a release.
+So for some of you, it may be like taking a bath—your whole body, including that neck and that head tension, is within awareness right now. And you're allowing it some time to relieve, for that contraction to alleviate. Just like a fist. How you would allow it to just, by not doing anything, and in fact, you're stopping the doing because it takes doing to clench a fist. Power to the people! #btw[Dawai laughs]. But anyway, so when you are clenching that fist, it's a doing, and then you stop doing, and there's a release.
 
 That's exactly what's happening in our necks right now, or most of the time. And so, there's absolutely nothing to do about it. No moving around, all this stuff. You could actually hurt yourself if you do that rolling the neck thing too fast. Rolling the neck is very, very good in its proper context, okay?
 
@@ -158,7 +162,7 @@ And it's gonna come off a little bit different if you've never recognized awaren
 
 All right, so now that I've gone over those, I just want to also include the eight consciousnesses, because we got all this stuff.
 
-We got our mental mind, getting stuck on thoughts, getting stuck on emotions—that's the sixth consciousness. But there's also, you can be isolated into a feeling of a watcher, a thinker. And that's kind of where [member's name], I believe, in the beginning was going into. What about emptiness? Well, it's great.
+We got our mental mind, getting stuck on thoughts, getting stuck on emotions—that's the sixth consciousness. But there's also, you can be isolated into a feeling of a watcher, a thinker. And that's kind of where [Sangha member], I believe, in the beginning was going into. What about emptiness? Well, it's great.
 
 If you're stuck in your thoughts, now you're observing your thoughts: "Wow, I'm having a lot of anxiety about what I'm going to do today." But now, who is the one having that observation of the thoughts? You see, so there's a third layer there. That's the conditioned self—that's the watcher, the thinker, the stinker, whatever you want to call it, the feeler, the one who's offended, the one who's offending, the one who's mad, the one who's sad. This feeling of 'me' sitting right now, listening, hearing words—a reference point, yeah.
 
@@ -230,7 +234,7 @@ And I'd say at the base. Look at Kristoff Koch and maybe others, like a lot of p
 #speaker("Sangha 4", [Oh, that makes sense. Okay, okay, thank you, thank you.])
 
 #speaker("Dawai", [
-  Mm-hmm. Thank you. And way to accept that challenge, you know. I know I challenge you a little bit, and you're one of the best I've ever seen at accepting those challenges. Seeing how you yourself, I just got to put that out there—they can react any way. You get upset, even, we all. I'm not saying that they got upset, but if they were to get upset, they would be able to see it first. It's pretty amazing when you're working with people like that. Like, oh, I saw how I got upset by what you said, or, and then also trusting me, like maybe I could be more delicate with my speech. So awareness is teaching me, it's teaching them. You see, that's how to build a healthy relationship right there—and you have your insight, and you trust each other, you know. You're gonna see your bullshit, I'm gonna see my bullshit. But I'm just very proud of you, because the way you can reflect and correct, the way you can stay in the presence is amazing. It's very good.
+  Mm-hmm. Thank you. And way to accept that challenge, you know. I know I challenge you a little bit, and you're one of the best I've ever seen at accepting those challenges. Seeing how you yourself, I just got to put that out there—they can react any way. You get upset, even, we all. I'm not saying that they got upset, but if they were to get upset, they would be able to see it first. It's pretty amazing when you're working with people like that. Like, oh, I saw how I got upset by what you said, or, and then also trusting me, like maybe I could be more delicate with my speech. So awareness is teaching me, it's teaching them. You see, that's how to build a healthy relationship right there—and you have your insight, and you trust each other, you know. You're gonna see your bullshit, I'm gonna see my bullshit. #btw[Dawai laughs]. But I'm just very proud of you, because the way you can reflect and correct, the way you can stay in the presence is amazing. It's very good.
 ])
 
 #speaker("Sangha 4", [
