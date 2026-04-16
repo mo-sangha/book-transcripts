@@ -36,9 +36,9 @@ Any questions, comments? You got it? Pretty straightforward, right? Especially i
 
 In order to do nothing—in order to take a bath—you need bath water. You cannot just sit in the tub and say, "I'm taking a bath." You can proclaim that, I suppose, but...
 
-So it's true, we're kind of always in this bathwater, but the recognition frees a sentient being. And it could seem like forever before a being recognizes their own freedom. This seemed like a long time. And we see that even here, year after year, decade after decade: people lost in some belief. Now you have beliefs weaponizing people.
+So it's true, we're kind of always in this bathwater, but the recognition frees a sentient being. And it could seem like forever before a being recognizes their own freedom. Could seem like a long time. And we see that even here, year after year, decade after decade: people lost in some belief. Now you have beliefs weaponizing people.
 
-People all gather around a belief. For example, right now in America, I'm getting political a little bit, just as a metaphor. We have a relatively tiny group of Christian nationalists, white nationalists, they're just sticking together on that one thing, Christianity, well, their interpretation of it, and white supremacy. That's their unifying belief. And look how much they've accomplished.
+People all gather around a belief. For example, right now in America, that's right, I'm getting political a little bit, just as a metaphor. We have a relatively tiny group of Christian nationalists, white nationalists, they're just sticking together on that one thing, Christianity, well, their interpretation of it, and white supremacy. That's their unifying belief. And look how much they've accomplished.
 
 But why can't we stick together? Because we're fighting about beliefs. All the normal people that aren't white supremacists—we can't get along. We just need to unify just like they did, you know? Under the umbrella of compassion, just—
 

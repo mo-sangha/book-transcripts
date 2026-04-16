@@ -6,7 +6,7 @@ Okay, Little Bear is going to give the teaching… so pay close attention. He's 
 
 All right, well, I wanted to talk about these a little bit more psychic nuances, all right, and sort of put it out there for your reference and your sourcing.
 
-Before we talked about the layers of the mind or dimensions of the mind, so I used a little bit of a funny analogy with the whispering. So if I started whispering to you right now about anything, maybe I could whisper about Little Bear. Now he's harassing me. For some reason he's harassing the cat, but that's okay.
+Before we talked about the layers of the mind or dimensions of the mind, so I used a little bit of a funny analogy with the whispering. So if I started whispering to you right now about anything, maybe I could whisper about Little Bear. Now he's harassing Nitty. For some reason he's harassing the cat, but that's okay.
 
 Now there's a part of my mind that's talking about Little Bear and the cat, but there's another cognitive holding that says you need to whisper for some random reason. Usually, we have a reason to whisper, right? So, there's some thought that's holding a batch of thoughts.
 
@@ -94,7 +94,7 @@ All right, so any comments, questions so far on any of this stuff?
 #speaker("Dawai", [
   Please don't, but I'm talking about speed reading life here. Without that narrator, you know, they call it sub-vocalization in the science of literature. But I'm talking about this having multiple applications when this narrator starts to quiet down, because it's creating a literal electrical boundary.
 
-  When you're in thought, you can see it, you can imagine this, that you're creating a psychic isolation. And as long as you're there, well, you can't be everywhere else. Now you can have thoughts, but you don't need to be stuck in the spheres of conception. That's why they call, the ancients knew this, isn't it amazing, spheres of conception. To me, that's high-tech terminology that we don't even have in modern psychology, that I know.
+  When you're in thought, you can see it, you can imagine this, that you're creating a psychic isolation. And as long as you're there, well, you can't be everywhere else. Now you can have thoughts, but you don't need to be stuck. #btw[Dawai reads the chat:] "Okay, in the spheres of conception." That's why they call, the ancients knew this, isn't it amazing, spheres of conception. To me, that's high-tech terminology that we don't even have in modern psychology, that I know.
 ])
 
 #speaker("Sangha 2", [

@@ -4,6 +4,8 @@
 
 I wanted to come back around to subjectivity. We all finished a ten-minute effortless abiding session just now, and it doesn't really end, does it? But what happens is after the bell rings, even though we don't have a bell, after the session ends, we start doing again. We start piling on the doings.
 
+And so that's why it's great to discern this contrast after ten minutes of doing nothing. Letting the doings come off of us and seeing, what is it like when this topic of narration, this coarse linguistic narrative, what happens when it ceases?
+
 It's electromagnetic. You can literally imagine that contrast when we're thinking a lot and when we're not. And the irony is, you can have all those thoughts at your disposal from spaciousness, without the electromagnetism.
 
 By the way, I just posted on Discord. Discord is fine—it's Dharma-filled, it's beautiful, so I don't mind mentioning it. I just posted this study, relatively recent, where they're talking about how light can affect matter.
@@ -16,7 +18,7 @@ We may be stuck in a habit—people get stuck with a point of view for years. Lo
 
 So this is a little bit more advanced: the reference point, the subjectivity. The _manas-vijñāna_, as they call it in the Eight Aspects of Consciousness model. Because typically we're thinking a lot, we're feeling something, and we're really comfortable in that, so you don't even see the reference point.
 
-Who is thinking? Some kind of irresponsible teachers will tell you, "There's no one thinking, nothing there." And then they'll leave it at that. Then the person thinking comes back, the teacher is gone, and you’re left wondering, "Oh, what do I do?" You try again to tell yourself that you don't exist, but it doesn't work this time as well as it did the first time. Like I said before, Dzogchen is a little bit more responsible. That reference point keeps re-emerging. It's habituated, it's programmed, it's plasticity.
+Who is thinking? And some kind of irresponsible teachers will tell you, "There's no one thinking, nothing there." And then they'll leave it at that. Then the person thinking comes back, the teacher is gone, and you’re left wondering, "Oh, what do I do?" You try again to tell yourself that you don't exist, but it doesn't work this time as well as it did the first time. So like I said before, Dzogchen is a little bit more responsible. That reference point keeps re-emerging. It's habituated, it's programmed, it's plasticity.
 
 So when the reference point, the habit of apprehending, re-emerges, we’re into kind of melting it like ice, or if you want to say, as [sangha member] says, evaporating it. Releasing, surrendering—so many things you could term this. I say the more words the better so we can diversify. But when this contraction releases, because it _is_ a contraction of consciousness, that reference point can be on a spectrum.
 
@@ -24,11 +26,11 @@ Sometimes it's very heavy. When you get insulted, when somebody targets your bel
 
 Any questions about that so far? Because again, it's just like when you're looking down at your iPhone and you're driving through a rainforest, you’re missing all the monkeys and the plants and all the crazy stuff that you could be seeing because you're on this phone. Well, that's subjectivity. That's exactly how subjectivity works. You're _in_ subjectivity, so you're missing the whole thing.
 
-And subjectivity can be pleasant. The subject can have a mansion and all the food in the world and the illusion of this entire setup. In that way, they say that gods, endemic gods, get captivated for a long time like that. They are so comfortable in the subjectivity. We're lucky we get to taste the dirt a little bit as humans.
+And subjectivity can be pleasant. The subject can have a mansion and all the food in the world and the illusion of this entire setup. So in that way, they say that gods, endemic gods, get captivated for a long time like that. They are so comfortable in the subjectivity. We're lucky we get to taste the dirt a little bit as humans.
 
-That's really it, the fact that we can somatically, viscerally tune into the conditioned self, the small self, the small mind. We can see that plain as day. That's the Eight Consciousness model. That's karma, you know? We can feel karma, we can see karma, the weights of it within awareness, because awareness is so subtle and omnipresent and permeating.
+That's really it everybody, the fact that we can somatically, viscerally tune into the conditioned self, the small self, the small mind. We can see that plain as day. That's the Eight Consciousness model. That's karma, you know, we can feel karma, we can see karma, the weights of it within awareness, because awareness is so subtle and omnipresent and permeating.
 
-That's a lot different than a lot of schools that I'm seeing, at least on YouTube, and hearing at some of the temples where they just talk about the "conditioned self" a lot. They're actually reconditioning the conditioned self by all the data dumping and talking about it. But here we're talking about something we can _see_. Big difference. We're more interested in scraping off the conditions, getting them out of the way, freeing them up, rather than inflating them with usually "high vibe," good stuff, right? Then you just have a façade, a persona.
+That's a lot different than a lot of schools that I'm seeing, at least on YouTube, and hearing at some of the temples where they just talk about the "conditioned self" a lot. And they're actually reconditioning the conditioned self by all the data dumping and talking about it. But here we're talking about something we can _see_. Big difference. We're more interested in scraping off the conditions, getting them out of the way, freeing them up, rather than inflating them with usually "high vibe," good stuff, right? Then you just have a façade, a persona.
 
 Believe it or not, we can just be our naturalness, be ourselves, so to speak. We can be ourselves when the self is gone, when the conditioned self is gone. Isn't it amazing? These healthy paradoxes.
 
@@ -56,13 +58,13 @@ I have to be careful speaking with some of these… what are they called? Phrase
 #speaker("Dawai", [
   Yeah. And in Dzogchen, we don't mind saying "oneself." That whole thing is beyond singularity and multiplicity. We can leave it alone. I know this mind isn't your mind, right? It's more of a reductio ad absurdum. It's a reduction. It's not my mind, but it's not your mind.
 
-  Okay, so subjectivity is the seventh aspect of consciousness: _manas_. And it has to, almost like when you're swimming and you're trying to stay afloat and you grab these bags with you, and all this stuff is with you while you're treading water, this is the eighth aspect. This is all your karmic seeds and everything: your memories, your stories. You have to _hold_ those, everybody. There's a subtle weight there, even in the eighth Ālayavijñāna (the storehouse consciousness). Even there, there's karmic seeding, karmic weight.
+  Okay, so subjectivity is the seventh aspect of consciousness: _manas_. And it has to, almost like when you're swimming and you're trying to stay afloat and you grab these bags with you, and all this stuff is with you while you're treading water, this is the eighth aspect. This is all your karmic seeds and everything: your memories, your stories. You have to _hold_ those, everybody. There's a subtle weight there, even in the eighth Ālayavijñāna, the storehouse consciousness, they call it. Even there, there's karmic seeding, karmic weight.
 
-  In this presence, everybody, that's what's so special about effortless abiding. We are not trying to figure out what exactly is liberating, or what exactly is here right now. Yes, you can know coarse thoughts (the sixth aspect of consciousness). You can know emotions---they're visible to you. You can know subjectivity, "I'm feeling sad today," you can know that feeling of _me_. It's visible.
+  In this presence, everybody, that's what's so special about effortless abiding. And not trying to figure out what exactly is liberating, or what exactly is here right now. Yes, you can know coarse thoughts (the sixth aspect of consciousness). You can know emotions---they're visible to you. You can know subjectivity, "I'm feeling sad today," you can know that feeling of _me_. It's visible.
 
   But your karmic seeds, your sense weights, those are going to be a little bit more subtle. You’ve got to keep leaving them alone, keep leaving them alone. So you see the entirety of your mind movement, your mind contractions and expansions. And that's good enough, just seeing when our mind weighs into something, subscribes to something.
 
-  And you don't even know right now the stuff that you're subscribed to if you're residing in a more coarse mind. You don't see all the subtle things: "I'm holding a story about missing my dad and wishing that I could talk to him," or a story about how I got abused as a child. That story has to be held here, like those waiters with all the plates. We're holding stuff, believe it or not.
+  And you don't even know right now the stuff that you're subscribed to if you're residing in a more coarse mind. You don't see all the subtle things: "I'm holding a story about missing my dad and wishing that I could talk to my dad," or something like that. Or a story about how I got abused as a child, or something like that. That story has to be held here, like those waiters with all the plates. We're holding stuff, believe it or not.
 
   So when subjectivity, the sense of interaction, and all that stuff starts to free up, ah, now even karmic seeds are freeing up. Particularly if subjectivity is freeing up, because who's going to hold the plates? See, subjectivity holds stuff in the visible (the phenomena) and, shout out to Kant, the _noumena_. It holds karmic seeds, the invisible world, and the visible world. It’s holding stuff.
 ])
