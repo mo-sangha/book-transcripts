@@ -2,7 +2,7 @@
 
 == Familiarizing with spaciousness through provisional meditation techniques
 
-After you've recognized the nature of mind, it may be just fine to use effort, to use your conditioned mind, to get used to spaciousness, to get used to this nice fresh awareness. And so we have all types of probably hundreds of techniques that you can use to get used to your real sort of nature—what they call the natural state.
+After you've recognized the nature of mind, it may be just fine to use effort, to use your conditioned mind, to get used to spaciousness, to get used to this nice fresh awareness. And so we have all types of probably hundreds of techniques that you can use to get used to your real sort of nature---what they call the natural state.
 
 #heading(level: 3, outlined: false, [Dzogchen Object Meditation])
 
@@ -23,11 +23,11 @@ And if you zoom out a little bit, your whole energy, the subtle energy body. So 
 
 #heading(level: 3, outlined: false, [Isolating a Thought])
 
-Now let's isolate a thought. Now that allegedly we have our stability and we have a wider scope of visibility, let's pick a thought, “Rainbows are colorful.” That will be our very simple thought, and only have this one thought, as if we're kind of a robot that can only have one line of code. So we have this one thought: "Rainbows are colorful."
+Now let's isolate a thought. Now that allegedly we have our stability and we have a wider scope of visibility, let's pick a thought, "Rainbows are colorful." That will be our very simple thought, and only have this one thought, as if we're kind of a robot that can only have one line of code. So we have this one thought: "Rainbows are colorful."
 
-Now notice the canvas, the aquarium, the space in which this thought happens. "Rainbows are colorful." Notice if you're adding anything to it, any more thoughts, or having resistance. Maybe a picture of a rainbow is popping up—that's fine. We really just want to get in touch with the basis that's holding this thought, that's capable of presenting this thought.
+Now notice the canvas, the aquarium, the space in which this thought happens. "Rainbows are colorful." Notice if you're adding anything to it, any more thoughts, or having resistance. Maybe a picture of a rainbow is popping up---that's fine. We really just want to get in touch with the basis that's holding this thought, that's capable of presenting this thought.
 
-"Rainbows are colorful." Notice how it kind of echoes out within the mind. So the thought itself is the thought movement, the energy of the mind, and the part of your mind that's serving as the basis, _gzhi_. This is the Buddha nature, because it's still there as you're having the thought. So it's this beautiful cognitive basis.
+"Rainbows are colorful." Notice how it kind of echoes out within the mind. So the thought itself is the thought movement, the energy of the mind, and the part of your mind that's serving as the basis, _gzhi_. This is the Buddha nature, because it's still there as you're having the thought. So it's this beautiful cognitive basis.
 
 #heading(level: 3, outlined: false, [Isolating an Emotion])
 
@@ -37,15 +37,15 @@ So let's try it with an emotion. Let's make ourselves a little joyful. That may 
 
 And now let's focus on something externally. I'll pick a drum. I'm picking a drum sitting right in front of me. Now just relax, release your object. Notice how your mind is still pulling towards that object, typically. That sense weight, okay, we can do that with sounds, we can do that with sights.
 
-If you see something very attractive, even repulsive, you can notice your mind's engagement. There's an engagement there—that's what we're interested in. And the pure basis awareness is still here, holding that engagement.
+If you see something very attractive, even repulsive, you can notice your mind's engagement. There's an engagement there---that's what we're interested in. And the pure basis awareness is still here, holding that engagement.
 
 So whether it's a taste, a smell, a tactile sensation, something we see or hear, we can measure, so to speak, this weight that we have invested. It's not good or bad, we just want to see our weight.
 
-And now I have a choice. I have a little bit of freedom. I can invest into that drum or not. So those are the five sense aspects of consciousness, combined with the sixth, thinking and emotional, that Manovijñāna, as it's known in Sanskrit. And the seventh—we'll move on to the seventh aspect of consciousness now—which is the self.
+And now I have a choice. I have a little bit of freedom. I can invest into that drum or not. So those are the five sense aspects of consciousness, combined with the sixth, thinking and emotional, that Manovijñāna, as it's known in Sanskrit. And the seventh---we'll move on to the seventh aspect of consciousness now---which is the self.
 
 #heading(level: 3, outlined: false, [Invoking the Sense of Self])
 
-So we'll sit here again in our clear, open canvas, and we're going to deliberately invoke a sense of self. You can say, “I'm meditating. I'm meditating.” And that little feeling of “me” meditating, that's the thought. That's what we're isolating within awareness.
+So we'll sit here again in our clear, open canvas, and we're going to deliberately invoke a sense of self. You can say, "I'm meditating. I'm meditating." And that little feeling of "me" meditating, that's the thought. That's what we're isolating within awareness.
 
 And then when you leave these things in awareness, pure presence starts to open up, doesn't it? That little sense of self goes away, and now you're really open and non-dual. So you start to become undivided. So you can isolate that sense of self, that conditioned pattern of reemerging apprehension.
 
@@ -69,7 +69,7 @@ But we're just offering nourishment. We're offering spaciousness and ineffabilit
 
 So I think that's about it. Those are phase two, if you want to get more specific, phase two, little tricks that you can use to familiarize with the view after introduction.
 
-So introduction means you had a little, oh yeah, or aha, some kind of acknowledgement that you saw something you hadn't noticed before. That acknowledgement is undeniable. We can all prove, “Oh yes, I've seen the nature of my mind. I was pointed to it, or I recognized it, yes for sure.” You can validate that.
+So introduction means you had a little, oh yeah, or aha, some kind of acknowledgement that you saw something you hadn't noticed before. That acknowledgement is undeniable. We can all prove, "Oh yes, I've seen the nature of my mind. I was pointed to it, or I recognized it, yes for sure." You can validate that.
 
 But then you have to familiarize with it so that your patterns can go out. Otherwise you're going to be submissive to your patterns. You're always going to be under programming, involuntary programming.
 

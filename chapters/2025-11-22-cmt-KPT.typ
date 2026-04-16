@@ -4,9 +4,9 @@
 // --------------------------------------------------
 == The Key Points of Trekchö #text(fill: gray)[(Cmt)]
 
-So yeah, this is a precious text that comes by way of Adam Pearcey, 2018, introducing Clear Light Awareness, the pure aspect of pure presence, and the nature of mind essentially. Mipham Rinpoche is very well known as a polymath and outstanding scholar and yogi. Passed away in the early 1900s. So also contemporary, relatively contemporary, about 100 years ago. We’ll take what we can get, right, when it comes to Trekchö and Tögal.
+So yeah, this is a precious text that comes by way of Adam Pearcey, 2018, introducing Clear Light Awareness, the pure aspect of pure presence, and the nature of mind essentially. Mipham Rinpoche is very well known as a polymath and outstanding scholar and yogi. Passed away in the early 1900s. So also contemporary, relatively contemporary, about 100 years ago. We'll take what we can get, right, when it comes to Trekchö and Tögal.
 
-So please relax and go over this text here. We can keep the eyes open without focusing on anything. And this text is all about recognizing awareness. We call it awareness, but it's your Buddha nature. It’s home. You are home. Everything we think, say, and feel is home. Okay, let's get into this text.
+So please relax and go over this text here. We can keep the eyes open without focusing on anything. And this text is all about recognizing awareness. We call it awareness, but it's your Buddha nature. It's home. You are home. Everything we think, say, and feel is home. Okay, let's get into this text.
 
 // STATUS:  (md) - Key Points needs formatting fro md to typ`
 
@@ -14,7 +14,7 @@ So please relax and go over this text here. We can keep the eyes open without fo
 by Mipham Rinpoche \
 
 Dhīḥ! Before the wisdom-being Mañjuśri, I reverently bow down.\
-Here I shall explain the key points of Trekchö—Thorough Cut.\
+Here I shall explain the key points of Trekchö---Thorough Cut.\
 
 Do not alter the mind but allow it to settle as it is.\
 And, in such a state, look naturally within.\
@@ -50,7 +50,7 @@ Within which everything is entirely perfect and complete.\
 This happens effortlessly, is spontaneously accomplished.\
 Any striving to adopt or abandon simply fades away,\
 And hopes and fears for saṃsāra and nirvāṇa are no more.\
-The primordial nature is made manifest — \
+The primordial nature is made manifest---\
 The fruition: awareness, left as it is.\
 
 This instruction, including the four ways of leaving things as they are,\
@@ -89,7 +89,7 @@ You can even see it when we see a light phenomenon, the moon, or the sun rising.
 
 You might even see yourself looking at the sun, this kind of non-duality, this oneness. The fruition is like a carrot on a stick. We want to chase it and apprehend it.
 
-The fourth chokshyak, which probably comes from _The Tantra without Syllables_, one of the pith instruction tantras, is very potent and multi-layered. It has many aspects: reading thoughts, seeing people's thoughts, or being able to see the future or your past. You have to leave it be because there is more — lots more.
+The fourth chokshyak, which probably comes from _The Tantra without Syllables_, one of the pith instruction tantras, is very potent and multi-layered. It has many aspects: reading thoughts, seeing people's thoughts, or being able to see the future or your past. You have to leave it be because there is more---lots more.
 
 If you get hung up on one little insight and write a book about it and become a guru about it, then you are shortchanging yourself.
 

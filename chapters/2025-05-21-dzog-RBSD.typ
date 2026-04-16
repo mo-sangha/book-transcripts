@@ -4,7 +4,7 @@
 == Refuge-Bodhicitta-Sādhanā-Dedication: From the Dzogchen Point of View
 
 
-Dawai: So refuge and bodhicitta are pretty standard in the Dharma; those are called opening prayers or the opening mūlam, and the closing prayer is the dedication. It's almost like sealing your practice—it has a significance to it. Believe me, I would tell you there’s no need for it to seal your practice if I didn't think there was something to it.
+Dawai: So refuge and bodhicitta are pretty standard in the Dharma; those are called opening prayers or the opening mūlam, and the closing prayer is the dedication. It's almost like sealing your practice---it has a significance to it. Believe me, I would tell you there's no need for it to seal your practice if I didn't think there was something to it.
 
 But at the end we typically dedicate, and at the beginning we sit in silence. And many times, we do the dedication in silence as well. That is going to be different than what you see out there in Buddhism or Vajrayana, and that's why I want to make it clear why in this group we approach refuge and bodhicitta with silence instead of like:
 
@@ -67,13 +67,13 @@ So when you do the ngöndro, for example, you're taking refuge in your Lama, the
 
 But anyway, so traditionally the Buddha is externalized, the Dharma is considered the 84,000 teachings of the Buddha, and the Sangha is considered the Sangha of the noble ones, monastics and yogis, and all these teachers. You take refuge in those, and it can be very, very useful for you.
 
-And then there's also the Vajrayana refuge, which is the Lama, Yidam, and Ḍākinī—or the Protector.
+And then there's also the Vajrayana refuge, which is the Lama, Yidam, and Ḍākinī---or the Protector.
 
 So there are outer, inner, and secret forms of refuge that I won't really go into, but you've got them all covered here.
 
 So when you come here and you're just letting be, you're resting in awareness. You're taking refuge into pure presence, into that Buddhahood.
 
-And then your bodhicitta—bodhi means enlightened or awakened, citta means mind. And so typically that's associated with your compassionate mind; your natural compassionate mind. And so just by resting in awareness, as your contracting starts to relieve, as your various degrees of separating dissolve, you come into a wholeness of abiding. And that's true compassion.
+And then your bodhicitta---bodhi means enlightened or awakened, citta means mind. And so typically that's associated with your compassionate mind; your natural compassionate mind. And so just by resting in awareness, as your contracting starts to relieve, as your various degrees of separating dissolve, you come into a wholeness of abiding. And that's true compassion.
 
 When we abide here, all sentient beings are within our mind, naturally embraced within our mind. And so in that way you don't have to be discriminatory with your compassion. You don't have to say, Oh, I love this person, but I don't love that person. We don't have to do that because we're resting in compassion, and that will really help you resolve your situations.
 
@@ -81,17 +81,17 @@ When we abide here, all sentient beings are within our mind, naturally embraced 
 
 So anyway, this is really a key, you know, because you start to reframe the situation into your own refuge, and the Buddha becomes your awareness. That's your true teacher.
 
-And in the times that we're living in, where there's been so much spiritual abuse—yeah, you all out there, stop it, corrupting the Dharma. But it’s okay, because we have a Plan B. All these gurus that have been caught grabbing people's butts and doing ridiculous stuff like punching nuns. We don't need them. We really don't need them.
+And in the times that we're living in, where there's been so much spiritual abuse---yeah, you all out there, stop it, corrupting the Dharma. But it's okay, because we have a Plan B. All these gurus that have been caught grabbing people's butts and doing ridiculous stuff like punching nuns. We don't need them. We really don't need them.
 
 And you don't ever need to risk your vulnerabilities again by trusting a guru to that level. You can trust them in regard to the teachings, just like you would trust a college professor. And any blessings that are there, they will come to you.
 
 You don't need to give your whole self over to somebody else. You need to keep yourself in this practice. This is what brings out our warriorship, our toughness, our wisdom mind, our fearlessness, right? Depending on other people isn't going to get us there. And in these times we're living in we have to come back home. So that's why this awareness is the true Buddha, is the true guru, is the true Lama.
 
-And then just by abiding here in awareness, I start to see, "Wow, my tone of voice may have been kind of harsh with this last person. Next time around, I want to calm my tone of voice." That's Vipassana right there. You saw it. No teacher can show you that. You saw your tone of voice. "Oh wow, I had this very desirous thought. It made me feel shameful." You saw that.
+And then just by abiding here in awareness, I start to see, "Wow, my tone of voice may have been kind of harsh with this last person. Next time around, I want to calm my tone of voice." That's Vipassana right there. You saw it. No teacher can show you that. You saw your tone of voice. "Oh wow, I had this very desirous thought. It made me feel shameful." You saw that.
 
 You became the teacher, so that's your Dharma. That's the middle when you say Buddha, Dharma, Sangha. The Dharma is the teachings that are coming from your awareness. You understand?
 
-And then the Sangha on the ultimate level like that—everything's always within your awareness. All beings, whether you're talking about over on the continent of Asia, the continent of Africa or Europe, North America, or South America, you know, all of that. The planet, the sun, the moon, the cat, the dog, the horse: they're all within your mind. The good politicians, the bad politicians, the clergymen, the starving, and the overfed are all embraced within your mind already. They've never left your mind.
+And then the Sangha on the ultimate level like that---everything's always within your awareness. All beings, whether you're talking about over on the continent of Asia, the continent of Africa or Europe, North America, or South America, you know, all of that. The planet, the sun, the moon, the cat, the dog, the horse: they're all within your mind. The good politicians, the bad politicians, the clergymen, the starving, and the overfed are all embraced within your mind already. They've never left your mind.
 
 And so yes, there may be a sense of, Oh, but they're over there on another continent, but no, they're really first in your mind and they're never going to leave your mind, are they? In that regard, in the fact that we embrace all phenomenon.
 
@@ -99,9 +99,9 @@ Yeah we don't need to contract into,'Oh, I wonder what's happening in Tibet. The
 
 And then you will also know you have your intuitive lucidity that's exposing wisdom to you constantly. So the situation you're trying to figure out about what's going on with the world will be revealed to you if you allow it, if you stop distracting yourself into smaller dimensions.
 
-So that's how the Sangha can be fully embraced. The  maṇḍala can be fully embraced within your awareness on the outer, inner, and secret levels. Okay?
+So that's how the Sangha can be fully embraced. The  maṇḍala can be fully embraced within your awareness on the outer, inner, and secret levels. Okay?
 
-Because there are outer maṇḍalas: That’s your family, your friends, well in my case, dogs and cats and mice and ravens. That's what keeps us coming into... And this is going a little into karma and rebirth, you don't need to believe this. You need to see it for yourself—but your maṇḍala is what keeps you in collectives. You keep coming back to this collective because there are beings here that you're connected to, that you're magnetized to. You could very well drift off into another collective quite easily. There are infinite collectives, in my opinion; that would only make sense. But anyway, I don't want to stray from the practical.
+Because there are outer maṇḍalas: That's your family, your friends, well in my case, dogs and cats and mice and ravens. That's what keeps us coming into... And this is going a little into karma and rebirth, you don't need to believe this. You need to see it for yourself---but your maṇḍala is what keeps you in collectives. You keep coming back to this collective because there are beings here that you're connected to, that you're magnetized to. You could very well drift off into another collective quite easily. There are infinite collectives, in my opinion; that would only make sense. But anyway, I don't want to stray from the practical.
 
 So refuge and bodhicitta is truly coming into that awareness nature. You see, that is your refuge, your ultimate refuge.
 
@@ -111,7 +111,7 @@ See, when I was in the institutions as a monastic, there was a lot of abuse ther
 
 But one thing I couldn't shake was the awareness practice. I couldn't get rid of it. It was still saving me.
 
-And so in that regard, here I am still. I'm actually able to wear this robe, which I'll admit I've had times where even I want to take this off because of what it sometimes symbolizes, and the various Dharma paraphernalia and everything, right? So awareness is like that—it supersedes religion and spirituality, and it becomes a true source of refuge and divinity.
+And so in that regard, here I am still. I'm actually able to wear this robe, which I'll admit I've had times where even I want to take this off because of what it sometimes symbolizes, and the various Dharma paraphernalia and everything, right? So awareness is like that---it supersedes religion and spirituality, and it becomes a true source of refuge and divinity.
 
 All right? And then, so that's refuge in bodhicitta. Typically, you open up like that. You do your refuge in bodhicitta, and then you'll do some kind of practice, they're called sādhanas.
 
@@ -125,7 +125,7 @@ But we're not in that context. Right now, we're talking about this group in Dzog
 
 And we start off with, when we come here, we relax. You know, some yogis, it takes them ten minutes just to get comfortable and aligned and stuff like that. But anyway, we take our time to relax. We take our refuge, our bodhicitta, and then we do our practice. And then at the end of it, we dedicate.
 
-Sometimes I do the mantra on certain days, but typically you should be able to rest here in that wholeness, in that oneness—the fourth Dzogchen samaya.
+Sometimes I do the mantra on certain days, but typically you should be able to rest here in that wholeness, in that oneness---the fourth Dzogchen samaya.
 
 And so you rest in that oneness. Any realization, any merit that's been stirred up in this group, as soon as you have that thought, you have the thought, man, there was some good that came out of this group. Boom! Give it to them. Give it to all sentient beings. Anything good that came out of it, any benefit that came out of this, we immediately give it away.
 
@@ -143,7 +143,7 @@ So anyway, yes, it is perplexing, though. It's a perplexing paradox. Perplexing 
 
 And it's not a negation. It doesn't mean that we're going into zombie mode or non-existence. This is not an affirmation either. That's saying, oh, life needs to be like this, we need to do it like that. It's not that, it's abiding. It's a flow that's here. It's embracing all dimensions of various activity.
 
-Okay, so I think I covered it. Refuge bodhicitta, the sādhana itself, and dedication from a Dzogchen point of view. More specifically, from the MO point of view—Meditation Online approach that I encourage. That even if this body was to, this appearance was to pass, then you could still do it that way in this group. But you don't have to, it's just how I'm advising, you know, because I think it's an awesome approach to do refuge in silence.
+Okay, so I think I covered it. Refuge bodhicitta, the sādhana itself, and dedication from a Dzogchen point of view. More specifically, from the MO point of view---Meditation Online approach that I encourage. That even if this body was to, this appearance was to pass, then you could still do it that way in this group. But you don't have to, it's just how I'm advising, you know, because I think it's an awesome approach to do refuge in silence.
 
 All right? So thank you dear friends who stayed. Wow, a lot of you stayed. That's awesome. And then thank you to those on YouTube for entertaining this Dzogchen approach, which is a true approach to freedom. Yeah, I really appreciate you for that. This world needs the freedom.
 

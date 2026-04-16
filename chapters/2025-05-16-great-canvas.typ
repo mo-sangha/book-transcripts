@@ -4,7 +4,7 @@
 
 They say, oh you can't assume the position of God as the creator or as the all-existing thing. All right? But it's not like that. You drew your mind on the great canvas.
 
-So you have always been a part of this whole thing. If there is a God or an infinite consciousness or a oneness, then you drew your mind on that canvas. So just like a blank canvas, we drew a circle. Yeshé drew a circle, that's his mind. I drew a circle, that's my mind, and we're both part of the same canvas, just like that. Both of our minds are part of the same pure cognizance, that pure cognizant field, and the basis of our mind is pure cognizance—that's why it's beyond singularity or multiplicity, as well.
+So you have always been a part of this whole thing. If there is a God or an infinite consciousness or a oneness, then you drew your mind on that canvas. So just like a blank canvas, we drew a circle. Yeshé drew a circle, that's his mind. I drew a circle, that's my mind, and we're both part of the same canvas, just like that. Both of our minds are part of the same pure cognizance, that pure cognizant field, and the basis of our mind is pure cognizance---that's why it's beyond singularity or multiplicity, as well.
 
 So let's say these little circles were ego, Yeshe's constructed self and my constructed self, and we really think we're separate from the canvas. So you see? We initiated dependent origination; we initiated duality and stress, because we think we're separate from this canvas.
 
@@ -20,7 +20,7 @@ So if a fish was made out of pure water, it would still have its own mind, but i
 
 And how you can end up melting into this grand divinity, and that's what they call unionizing, right? Unionizing the Higher Self or unionizing with God, unionizing with the infinite consciousness. Now your body, speech, and mind is in a great flow.
 
-So it's almost like you immersed yourself into a stream of water and you had mud all over you and the stream is taking it away, taking it away, taking it away—that's self-liberation, but eventually you start flowing, you get taken away to your whole body, it's you [sound of chuumm]. And now you're in the flow, right, now you're in the stream. Easy.
+So it's almost like you immersed yourself into a stream of water and you had mud all over you and the stream is taking it away, taking it away, taking it away---that's self-liberation, but eventually you start flowing, you get taken away to your whole body, it's you [sound of chuumm]. And now you're in the flow, right, now you're in the stream. Easy.
 
 In our creativity, when we're taking walks, when we're studying, painting, you know, it's wonderful to study subjects that we're actually into because that's what complements the flow.
 
@@ -55,7 +55,7 @@ Making sense, right?  Want to jump in there?
 
   But because it's cognizance, just like the mind can dream and layer itself and isolate itself, all of a sudden you create a world. Ehh I don't like this pure cognizance, I want to eat some broccoli, and I want to actually take somebody else's broccoli, right?
 
-  So now you create a separation within that. Before, you were completely submerged in the bathwater. Now, you're sort of sticking your head out of the bath and it's creating a separability. So self and other is how dependent origination started, that's how the whole issue gets started: is you divide cognizance within cognizance. I don't know if any of this is making sense, but I'm trying to just explain it—how that initiates that self and another.
+  So now you create a separation within that. Before, you were completely submerged in the bathwater. Now, you're sort of sticking your head out of the bath and it's creating a separability. So self and other is how dependent origination started, that's how the whole issue gets started: is you divide cognizance within cognizance. I don't know if any of this is making sense, but I'm trying to just explain it---how that initiates that self and another.
 
   Maybe look at a single-cell organism, to me, that was a great example of how consciousness can separate itself out, right? Making sense, or no? How consciousness can separate itself out and isolate like a cloud within the sky? A cloud can separate itself from the sky, yet it's inseparable from the sky, isn't it?
 
@@ -71,7 +71,7 @@ Making sense, right?  Want to jump in there?
 ])
 
 #speaker("Sangha 3", [
-  In that video, yeah, they told you that some yogis are lying down for a month after month so, and that the call is the samadhi state, they are all in a samadhi state. They are in, it’s like, I can't explain. We have to rewatch that video again if we need to. Yeshé has posted the link.
+  In that video, yeah, they told you that some yogis are lying down for a month after month so, and that the call is the samadhi state, they are all in a samadhi state. They are in, it's like, I can't explain. We have to rewatch that video again if we need to. Yeshé has posted the link.
 
   And I have a follow-up question. The follow-up question is, the samadhi state is way deeper than deep sleep, right? Deep sleep.
 ])
@@ -101,13 +101,13 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 #speaker("Sangha 4", [
   Yeah, yoga nidra is a preliminary. In hatha yoga practices, and the ones I've been involved in, we do yoga nidra at different sections and there's times where you do it multiple times. And it takes you deeper and deeper in each sit. What's happening is it's allowing the body to go in deeper, deeper states of relaxation to where you no longer feel your body. You get very expansive from that, then your mind can then relax.
 
-  When the mind relaxes, there's less need for all this calorie intake. We can look at the studies that they've done in people who play chess, and they burn a lot of calories, and they don't do anything, they barely move. So when the mind and the body become extremely still—stillness, all the other functions can go into like a hibernation type state. This is just my limited understanding, what I've been taught.
+  When the mind relaxes, there's less need for all this calorie intake. We can look at the studies that they've done in people who play chess, and they burn a lot of calories, and they don't do anything, they barely move. So when the mind and the body become extremely still---stillness, all the other functions can go into like a hibernation type state. This is just my limited understanding, what I've been taught.
 
   But that yoga nidra allows deep, deep amount of relaxation while at the same time you're not going to sleep, but there is a limited quality to yoga nidra. Since you're laying down, you still have that falling into sleep or the hypnagogic state. And we're going beyond that by being absorbed back into what we've always been. But the yoga nidra allows that deeper, deeper amount of relaxation, but the same with just sitting. When we sit and allow everything to be, include our environment and everything, we're getting absorbed slowly back into all of that.
 ])
 
 #speaker("Dawai", [
-  And you have energy even if you're thinking—you're thinking from awareness now, so it's not going to consume all that energy. Thoughts are able to flow, big difference. You can tell when you're crunching on thoughts, when you're holding thoughts, and this can, especially if you have brain sensitivity, can be really obvious. So that's what's taking energy, is when you're holding thoughts and being in that cycle of thoughts. Yeah, very good, thank you.
+  And you have energy even if you're thinking---you're thinking from awareness now, so it's not going to consume all that energy. Thoughts are able to flow, big difference. You can tell when you're crunching on thoughts, when you're holding thoughts, and this can, especially if you have brain sensitivity, can be really obvious. So that's what's taking energy, is when you're holding thoughts and being in that cycle of thoughts. Yeah, very good, thank you.
 ])
 
 #speaker("Sangha 3", [
@@ -121,7 +121,7 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 #speaker("Sangha 5", [
   Sure. Good morning. The concentric clear films metaphor was great. It reminded me of there's a book, Holographic Mind, Holographic Universe, and I don't remember much of it, but I remember the description of holographic film, which is this:
 
-  You pass light through the film at a certain angle and it creates an interference pattern, and if you look at the film, you can't see—like if you just hold it up to the light, you can't see what the picture was, but if you pass light through it at the same angle, there's the picture. And then the really interesting piece of it, to me, was if you cut a small corner off of the film, not from the center but from the corner or from anywhere, it contains the whole picture in that little piece of the film. Yeah, and that is the part that reminded me of your concentric clear films, which is—
+  You pass light through the film at a certain angle and it creates an interference pattern, and if you look at the film, you can't see---like if you just hold it up to the light, you can't see what the picture was, but if you pass light through it at the same angle, there's the picture. And then the really interesting piece of it, to me, was if you cut a small corner off of the film, not from the center but from the corner or from anywhere, it contains the whole picture in that little piece of the film. Yeah, and that is the part that reminded me of your concentric clear films, which is---
 
   And you also used that, you said today that omnipresence is the same as non-referential---that kind of blew my mind.
 
@@ -143,11 +143,11 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 
   But it's very important to understand that this cognizance, it permeates everything. So that's how the six super cognitions and this Buddha omniscience is even possible. And it's safeguarded because if you're not compassionate, if your ego is getting involved in omniscience, then you're going to get cut off from your omniscience because ego is dividing. But if you keep it compassionate, then you'll have a very easy time. And that's why kind people are considered very intelligent in many cases because of the pliancy of their mind, like that.
 
-  So I encourage you all to allow empathy and compassion, which is — that's the essence of the Mahayana path, okay? Because they emphasize bodhicitta and the bodhisattva yana as it’s called. And so that's an introduction to non-duality, emptiness, and this omniscience and omnipresent clear cognizance.
+  So I encourage you all to allow empathy and compassion, which is---that's the essence of the Mahayana path, okay? Because they emphasize bodhicitta and the bodhisattva yana as it's called. And so that's an introduction to non-duality, emptiness, and this omniscience and omnipresent clear cognizance.
 
   Okay, very nice, very good.
 
-  So these are exciting topics that don't get explored very often, at least not out there in the known Dharma world, at least that I know of anyway—how to correlate things like super-cognitions with sensitivity. Today has been this, one of many wonderful themes happening today, actually. So part of that theme, part of our discussion has been wholeness, the fourth samaya of oneness, that I imagine we're getting to in the Longchenpa text. It's oneness without melting into oneness, right? So it's not a complete loss of agency in the conventional sense of the word.
+  So these are exciting topics that don't get explored very often, at least not out there in the known Dharma world, at least that I know of anyway---how to correlate things like super-cognitions with sensitivity. Today has been this, one of many wonderful themes happening today, actually. So part of that theme, part of our discussion has been wholeness, the fourth samaya of oneness, that I imagine we're getting to in the Longchenpa text. It's oneness without melting into oneness, right? So it's not a complete loss of agency in the conventional sense of the word.
 
   Okay, very nice. Any other comments going on?
 ])

@@ -2,7 +2,7 @@
 
 == Dharma Talk: Dzogchen Overview
 
-Welcome to everybody, MO Sangha is here, and to all the people on YouTube for your kind of support in any way you do that, your practice, showing love to the channel, to the group. It means a lot because I constantly witness Dzogchen being misrepresented. Practice itself becomes out of reach, “you'll get it in 10 years” kind of mentality.
+Welcome to everybody, MO Sangha is here, and to all the people on YouTube for your kind of support in any way you do that, your practice, showing love to the channel, to the group. It means a lot because I constantly witness Dzogchen being misrepresented. Practice itself becomes out of reach, "you'll get it in 10 years" kind of mentality.
 
 So accessing your natural state now, releasing into it, recognizing awareness as the nature of your mind. Learning how to let things be is the secret, please don't forget that.
 
@@ -20,15 +20,15 @@ If you can let it be, even in baby steps, a few moments of your cyclic disturbin
 
 I'm not trying to rhyme, but it's happening. I've decided I'm just going to let it happen from now on. When it happens accidentally, again, I'm not trying to rhyme. This is not Dharma rap, although it could be, to try it out, I suppose.
 
-But yes, that's the great secret, you know. Many of us have cycles that have been going on for a very long time, and if you can notice the repetitive nature of a cycle, then that's how you can spot, “Well, this is conditioning.” And if it's repetitive, you can greet it like an old friend.
+But yes, that's the great secret, you know. Many of us have cycles that have been going on for a very long time, and if you can notice the repetitive nature of a cycle, then that's how you can spot, "Well, this is conditioning." And if it's repetitive, you can greet it like an old friend.
 
-So there may be a thought like, “Wow, what the heck am I doing with my life?” or, “Oh man, I should have more money. I should be more of a peaceful person,” right? But that thought itself makes you a less peaceful person, it's kind of paradoxical. So if you can manage to catch that thought in mid-air, sometimes even in mid kind of sentence, “I'm not a good person,” or “I'm not worthy,” whatever it may be, you may see it within awareness, within mid-sentence, and it goes away because you didn't feed it.
+So there may be a thought like, "Wow, what the heck am I doing with my life?" or, "Oh man, I should have more money. I should be more of a peaceful person," right? But that thought itself makes you a less peaceful person, it's kind of paradoxical. So if you can manage to catch that thought in mid-air, sometimes even in mid kind of sentence, "I'm not a good person," or "I'm not worthy," whatever it may be, you may see it within awareness, within mid-sentence, and it goes away because you didn't feed it.
 
-So that's like a thief entering an empty house. This thought comes to snatch you up, and as awareness holders, you have a space there to say, “Nope.” These thoughts lead you to anything, right? Drinking, smoking, watching weird stuff, you name it. Holding grudges against people, holding grudges against yourself.
+So that's like a thief entering an empty house. This thought comes to snatch you up, and as awareness holders, you have a space there to say, "Nope." These thoughts lead you to anything, right? Drinking, smoking, watching weird stuff, you name it. Holding grudges against people, holding grudges against yourself.
 
-And so maybe I came to the meditation today, maybe something upset me earlier. I saw some suffering, and I'm sitting here, and I'm still disturbed by it. And I know we're supposed to just let it be, so I'm just going to sit here and let it be. And I feel this thought, like, “Man, I'm very angry about that, I want to go over there, tell those people what's up,” you know? All that, I'm letting that be. I'm letting that feeling of a knot in my body uncoil itself like a snake, untying itself within my awareness, the second mode of liberation, right? Also, a way of letting it be.
+And so maybe I came to the meditation today, maybe something upset me earlier. I saw some suffering, and I'm sitting here, and I'm still disturbed by it. And I know we're supposed to just let it be, so I'm just going to sit here and let it be. And I feel this thought, like, "Man, I'm very angry about that, I want to go over there, tell those people what's up," you know? All that, I'm letting that be. I'm letting that feeling of a knot in my body uncoil itself like a snake, untying itself within my awareness, the second mode of liberation, right? Also, a way of letting it be.
 
-So if I'm sitting here, thought comes, maybe I didn't let it get to me, and it says, “Oh, those people, you should be mad at them or something.” You know, “Those people are at it again, stealing stuff,” or something like that. I just let that thought come and go. So I let the thought, like a thief entering an empty house, it comes and goes. Obviously, a thief would not stay at an empty house, right?
+So if I'm sitting here, thought comes, maybe I didn't let it get to me, and it says, "Oh, those people, you should be mad at them or something." You know, "Those people are at it again, stealing stuff," or something like that. I just let that thought come and go. So I let the thought, like a thief entering an empty house, it comes and goes. Obviously, a thief would not stay at an empty house, right?
 
 So let's say I did let the thought get to me; now I feel pissed off. That's like a snake uncoiling itself within awareness. Another way of letting it be, but a little bit deeper, right, a little bit more to it.
 
@@ -46,7 +46,7 @@ Now let's talk about Garab Dorje's three statements. Have confidence in one thin
 
 The thief enters an empty house, self-liberation of thoughts. And guess what happens if you never let thoughts send you into a snake, into a production cycle? Well, you're completely here in wakeful presence all the time. Sounds like a Buddha, doesn't it? You never get dragged into conditioning.
 
-And at first it may seem unappealing to our samsaric mind that needs things to be heavy and shiny, that freshness, that kind of just, wow, I'm just here, I'm not really doing anything, you know, happy and fresh and nice. “I need to do something to pollute this again,” you know, we do that.
+And at first it may seem unappealing to our samsaric mind that needs things to be heavy and shiny, that freshness, that kind of just, wow, I'm just here, I'm not really doing anything, you know, happy and fresh and nice. "I need to do something to pollute this again," you know, we do that.
 
 So that's as simple as it gets, in my opinion, Garab Dorje's three statements. You know, he talks about tawa, the view, and to me that is resting in the view. It doesn't need to get any more complicated.
 
@@ -64,7 +64,7 @@ Your experiences are going to be like an ocean within space, ebbing and flowing,
 
 Your actions, your conduct, are going to be within awareness, uncontrived. Hopefully the pilot, the baby pilot that thinks they need to navigate this whole thing, is starting to step back, so now you can leave your action, your conduct, leave it be, the third chokshyak.
 
-The fourth one is any fruition. This is very important. I feel like many practitioners can get hung up here because things start to get magical and a little trippy, and so we kind of pull in the reins when we say, “Whoa, whoa, whoa, what the heck was that? Time to write a book; I'm going to write a book about that,” or even awareness practice. “Oh, I recognize the awareness, that deserves three volumes of books,” you know, so amazing. And it is; I don't blame anybody.
+The fourth one is any fruition. This is very important. I feel like many practitioners can get hung up here because things start to get magical and a little trippy, and so we kind of pull in the reins when we say, "Whoa, whoa, whoa, what the heck was that? Time to write a book; I'm going to write a book about that," or even awareness practice. "Oh, I recognize the awareness, that deserves three volumes of books," you know, so amazing. And it is; I don't blame anybody.
 
 And the first time you see bindus and vajra chains and things like that, yeah, you're probably impressed, but my thing is, if you let it be, like the four chokshyaks say, then you can continue past that threshold. That's the important part, right? Don't just look at the daylight and go back into the cave and write a book. And many have declared themselves teachers prematurely, not knowing that there's more.
 
@@ -72,7 +72,7 @@ So I hope you're seeing the basic premise to this presentation, that all these a
 
 And these patterns go very deep. You know, we get very philosophical and analytical with a deep framework of justification for beliefs that keep us solidified in duality and into a cartoon that we swear is real, which is fine, you know, I'm not hating. But those of you who are making authentic connections with the path of awakening, yeah, past that threshold into ineffability.
 
-Even the four samayas are all about letting it be, which The Way of Abiding by Longchenpa has to be my favorite text, my favorite Dzogchen text, and probably the manual for our group. And I can't believe how misunderstood it is by academics and practitioners alike. Perhaps they never took the time to read it; it's a big book, you know, maybe they're just getting the cliff notes? But that book goes into depth about ineffability, which people translate that in all kinds of weird ways, like “non-existence.” And yes, the book talks about non-existence, but it also clearly defines ineffability.
+Even the four samayas are all about letting it be, which The Way of Abiding by Longchenpa has to be my favorite text, my favorite Dzogchen text, and probably the manual for our group. And I can't believe how misunderstood it is by academics and practitioners alike. Perhaps they never took the time to read it; it's a big book, you know, maybe they're just getting the cliff notes? But that book goes into depth about ineffability, which people translate that in all kinds of weird ways, like "non-existence." And yes, the book talks about non-existence, but it also clearly defines ineffability.
 
 Tank just let one rip. There's nothing like a dog fart when you're meditating, talk about let it be; if you can let that be, then you are getting leveled up there, Buddha level, you know.
 
@@ -84,7 +84,7 @@ Then the second one, openness, is also clearly defined, talking over and over ag
 
 So anyway, the third one, pure presence, is also very self-evident; usually that one, all the translators agree on that one. They don't agree on the first two.
 
-Then the fourth one being oneness, or kind of wholeness, and this is also, this ties together the whole _Way of Abiding Treasury_ with the _Basic Space of Phenomena Treasury_, you see?
+Then the fourth one being oneness, or kind of wholeness, and this is also, this ties together the whole _Way of Abiding Treasury_ with the _Basic Space of Phenomena Treasury_, you see?
 
 When we're sitting here abiding, we have to include the elements. This is a great misunderstanding out there. Why would we continue to enhance that dividing line between our mind and the elements? So I really encourage you, feel the air as you breathe it, connect with the air all around you, you know, whether it's through resting in awareness, which is the primary way, just let your environment be, and notice that dividing that we're doing, and definitely stay away from language and teachings that enhance your divide.
 
@@ -97,7 +97,7 @@ So let's see, I want to get to the comments here too.
 ])
 
 #speaker("Dawai", [
-  Indeed true, but also people in lower yanas are oftentimes misled, even down to the academics. I mean, perhaps the academics bear more responsibility to actually practice, put the teachings into practice before they decide to write about them and publish about them. It's kind of disrespectful, isn't it? It's like me just going to some tribe in the rainforest and saying, “I'm going to write about your cultural practices, I hope you don't mind.” You know, just by looking from the outside, maybe I stay there a week and then I'll write a book about them. I know nothing. You got to get in there and dance around a fire.
+  Indeed true, but also people in lower yanas are oftentimes misled, even down to the academics. I mean, perhaps the academics bear more responsibility to actually practice, put the teachings into practice before they decide to write about them and publish about them. It's kind of disrespectful, isn't it? It's like me just going to some tribe in the rainforest and saying, "I'm going to write about your cultural practices, I hope you don't mind." You know, just by looking from the outside, maybe I stay there a week and then I'll write a book about them. I know nothing. You got to get in there and dance around a fire.
 ])
 
 #speaker("Sangha 2 (chat)", [
@@ -107,7 +107,7 @@ So let's see, I want to get to the comments here too.
 #speaker("Dawai", [
 Tilopa's Six Nails, yeah. Don't recall, don't imagine, let go. So it says don't recall, let go of what has passed. Don't imagine.
 
-And remember, I added an extra layer to this, if you are sitting there on the past, just leave it in awareness and it'll self-liberate. You don't need to apply a strict “don't” there and you don't need to apply any effort of letting go: it self-liberates.
+And remember, I added an extra layer to this, if you are sitting there on the past, just leave it in awareness and it'll self-liberate. You don't need to apply a strict "don't" there and you don't need to apply any effort of letting go: it self-liberates.
 
 So I'd say when you're recalling, allow it to self-liberate within awareness. When you're imagining what may come, allow it to liberate within awareness. When you're thinking, allow what you're thinking about now to self-liberate within awareness. When you're examining, when you're trying to figure things out, allow that to liberate into awareness. When you're trying to control the meditation, yeah, that's a great one, let that sense of controlling your spirituality, your meditation, your Dzogchen, whatever it may be, allow that to release; definitely that's a big one. And then rest. Relax. Right now, rest.
 ])

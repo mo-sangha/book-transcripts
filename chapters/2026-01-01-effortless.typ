@@ -2,27 +2,27 @@
 
 == Talk on Dzogchen Effortless Abiding
 
-So we all just finished about 10 minutes or so of this effortless abiding—with our eyes open, ideally without much preoccupation. There's nothing to analyze, nothing to modify, nothing to change.
+So we all just finished about 10 minutes or so of this effortless abiding---with our eyes open, ideally without much preoccupation. There's nothing to analyze, nothing to modify, nothing to change.
 
-Dzogchen particularly deals with the purely present aspect of your mind. If you're in your body, in your worries, for example, then your nervous system is following you and you're in a contraction. That's a psychic dimension that you're in. If you've never seen pristine cognition—the basis for all experiences—then you have no option: you are locked into that. You can try to work with it, do stuff with it, and perhaps even release that, but it's more of a burning out.
+Dzogchen particularly deals with the purely present aspect of your mind. If you're in your body, in your worries, for example, then your nervous system is following you and you're in a contraction. That's a psychic dimension that you're in. If you've never seen pristine cognition---the basis for all experiences---then you have no option: you are locked into that. You can try to work with it, do stuff with it, and perhaps even release that, but it's more of a burning out.
 
-When you see awareness—or just a space-like aspect of your mind—now your nervous system, this mood, has wide open spaciousness to be nurtured, to be felt, to just be. And so at first, it could feel like there's ice, like ice cubes inside of us and our neck and our shoulders that are melting as we just sit here and abide in wakefulness. There's things sort of coming off of us, right? Everybody can relate to that, yes or no?
+When you see awareness---or just a space-like aspect of your mind---now your nervous system, this mood, has wide open spaciousness to be nurtured, to be felt, to just be. And so at first, it could feel like there's ice, like ice cubes inside of us and our neck and our shoulders that are melting as we just sit here and abide in wakefulness. There's things sort of coming off of us, right? Everybody can relate to that, yes or no?
 
 Pretty relatable, the visceral somatic end of this as they would call it. So let's say a couple of minutes go by and the tension from your shoulders and neck has been released. Well, you may find more ice cubes. They could be in the core of your body, a disposition, something that's set in and gets reinforced by the coarse linguistic narrative, all the talking in your head. So there could be this core feeling of solidity, of contraction. And as we do nothing, maybe a few more minutes go by, then this is also softening out, down to the pelvis, throughout the spine.
 
-This is why Dzogchen is considered superior, within its own curriculum, to Tsalung—for example, this intense yoga, or asana yoga, with the bodies, winds, and channels to unblock this congestion. Just sitting here doing nothing unblocks it faster—more thoroughly. Please, this is not a competition. I'm just a little bit like scientifically comparing, okay? Comparing and contrasting and showing the logic of it.
+This is why Dzogchen is considered superior, within its own curriculum, to Tsalung---for example, this intense yoga, or asana yoga, with the bodies, winds, and channels to unblock this congestion. Just sitting here doing nothing unblocks it faster---more thoroughly. Please, this is not a competition. I'm just a little bit like scientifically comparing, okay? Comparing and contrasting and showing the logic of it.
 
 So also in previous yanas, for example, there are visualization practices and dealing with gods and goddesses, yidam practices and devotional practices. Dzogchen is also more efficient at releasing not only the conditioned self, but the conditioned perspective of the heart, the misorientation of the heart, away from divinity, away from purity.
 
-So that's why we can never really in Dzogchen conclude, "Oh yes, now I'm there," because there are little sheets of ice thawing out continuously—beyond non-dualism, beyond the non-dual energy that we're experiencing. More importantly, that stuff inside of us that's been lingering like ice: tough spots within our body, or tough spots within our mind.
+So that's why we can never really in Dzogchen conclude, "Oh yes, now I'm there," because there are little sheets of ice thawing out continuously---beyond non-dualism, beyond the non-dual energy that we're experiencing. More importantly, that stuff inside of us that's been lingering like ice: tough spots within our body, or tough spots within our mind.
 
 So more and more in the 10-minute sessions, these are revealed. First it's, "Oh my goodness, I'm thinking a lot about food or my plans tomorrow," right? That's the coarse linguistic narrative. If you can't get out of that, then, well, as you're thinking about all your, you know, the food, the plans, whatever, the past, whatever, you're haunting your own mind, and the nervous system is following.
 
-It’s like a piano: every thought is a key, and your nervous system are the strings. So you can have happy thoughts—the nervous system will be happy, open; sad thoughts—the nervous system will be closed—but you're still stuck in the piano. So first, breaking out of thoughts, so to speak.
+It's like a piano: every thought is a key, and your nervous system are the strings. So you can have happy thoughts---the nervous system will be happy, open; sad thoughts---the nervous system will be closed---but you're still stuck in the piano. So first, breaking out of thoughts, so to speak.
 
-So now I can see the emotional weight of my body. Now I can see my sense involvement into stimuli. Now I can hear and see with my mind rather than my senses. Shout out to the Gorillaz. "You don't see with your eyes—you perceive with your mind," right?
+So now I can see the emotional weight of my body. Now I can see my sense involvement into stimuli. Now I can hear and see with my mind rather than my senses. Shout out to the Gorillaz. "You don't see with your eyes---you perceive with your mind," right?
 
-So coming into your whole mind like this allows you to have the scope for things to start melting, and then you can come over this confinement, come out of it, and—kind of on the throne of your own divinity then, in a complete union within ineffability—you can mature into this monarchy. But not as long as we're hypnotized by somebody else's delusion, some materialist object-based dream world.
+So coming into your whole mind like this allows you to have the scope for things to start melting, and then you can come over this confinement, come out of it, and---kind of on the throne of your own divinity then, in a complete union within ineffability---you can mature into this monarchy. But not as long as we're hypnotized by somebody else's delusion, some materialist object-based dream world.
 
 So more and more you will begin to find this union by letting be, by relaxing your efforts. Remember, Longchenpa says: effort is a disease. Calls it a sickness. Okay, any questions about that stuff, comments, sharing, questions going on?
 
@@ -31,9 +31,9 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 ])
 
 #speaker("Dawai", [
-  Yeah, well, the core of duality is like a sheet of ice, it's a contraction within us—so that softens out. But we're not just talking about non-dual energy, we're talking about non-dual mind. So cognition itself becomes non-dual as the heart essence. So a little bit beyond perhaps what you would see in traditional non-duality, where the focus seems to be about the energetic non-duality, rather than the cognition. What they call Nyingtik: this heart essence, the union of the three kayas.
+  Yeah, well, the core of duality is like a sheet of ice, it's a contraction within us---so that softens out. But we're not just talking about non-dual energy, we're talking about non-dual mind. So cognition itself becomes non-dual as the heart essence. So a little bit beyond perhaps what you would see in traditional non-duality, where the focus seems to be about the energetic non-duality, rather than the cognition. What they call Nyingtik: this heart essence, the union of the three kayas.
 
-  #btw[Dawai reads the chat]. Yeah well, that’s like saying sun versus heat. Remember the context here, okay? So energy is, you know, the cognition has energy—has co-emergent energy. And that’s why it’s not actually a duality, it’s a quadradality. You’re actually dividing into four; I think I just made up a new word. But I think you get it, right? We get lost in the energy, we divide the energy up, but then our cognition gets divided up in that process; which is why I think Longchenpa mingles mind and phenomenon in terms of their liberation with that quote: “Within phenomena, mind resolves itself, and within mind, phenomena resolve themselves.” You okay then? You got it?
+  #btw[Dawai reads the chat]. Yeah well, that's like saying sun versus heat. Remember the context here, okay? So energy is, you know, the cognition has energy---has co-emergent energy. And that's why it's not actually a duality, it's a quadradality. You're actually dividing into four; I think I just made up a new word. But I think you get it, right? We get lost in the energy, we divide the energy up, but then our cognition gets divided up in that process; which is why I think Longchenpa mingles mind and phenomenon in terms of their liberation with that quote: "Within phenomena, mind resolves itself, and within mind, phenomena resolve themselves." You okay then? You got it?
 ])
 
 #speaker("Sangha 1", [
@@ -41,9 +41,9 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 ])
 
 #speaker("Dawai", [
-  Well, it's like you go to sleep and you have a dream, right? If there is oneness in your dream, in the appearance, the appearance itself is the energy. So let's say you're dreaming of a city. Well, that whole thing is just one—it's just one cognition, well, it's one energy. It's all one energy, the whole city. And now you create a character. The character gets dropped on Fifth Street. Now you're dividing the energy, you see? You think you're in the city. So you're dividing the energy up. You're no longer seeing it as a great even one energy. Now you think you're here, and the building is there, and that building is there, and you start subdividing within that.
+  Well, it's like you go to sleep and you have a dream, right? If there is oneness in your dream, in the appearance, the appearance itself is the energy. So let's say you're dreaming of a city. Well, that whole thing is just one---it's just one cognition, well, it's one energy. It's all one energy, the whole city. And now you create a character. The character gets dropped on Fifth Street. Now you're dividing the energy, you see? You think you're in the city. So you're dividing the energy up. You're no longer seeing it as a great even one energy. Now you think you're here, and the building is there, and that building is there, and you start subdividing within that.
 
-  But the cognition is also getting subdivided. Because as you're having a dream, there's only one mind. But as soon as you think you're on Fifth Street looking at a building, you're subdividing not only the appearances—which is the building and your body and stuff—but you're subdividing the cognition itself. So to use two and four is actually reductive, because this can be an infinite subdivision, a.k.a. hell. And that's essentially what conceptual proliferation is. When we sink into conceptual proliferation, we're continuously subdividing reality.
+  But the cognition is also getting subdivided. Because as you're having a dream, there's only one mind. But as soon as you think you're on Fifth Street looking at a building, you're subdividing not only the appearances---which is the building and your body and stuff---but you're subdividing the cognition itself. So to use two and four is actually reductive, because this can be an infinite subdivision, a.k.a. hell. And that's essentially what conceptual proliferation is. When we sink into conceptual proliferation, we're continuously subdividing reality.
 ])
 
 #speaker("Sangha 2", [
@@ -121,7 +121,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 
   Yeah, sorry I can't be of more help. I personally don't focus on that at all, because it's more about what is the karma in our own minds, right? I mean, there's collective karma, too, when we talk about our own karma. There's collective karma included in that. And here we're getting dualistic, because we're saying, "I have my own karma. If I'm not around, is there still a bottle?"
 
-  It's like, how could there be a bottle if there's no me around? I'm the one who's making the bottle. Okay, let's just say, is there still sand? Well, that's also a concept; that's an inference. It's an anthropocentric inference—to an ant, to a dog, that wouldn't be sand. So let's say, is there a pebble? When nobody's around, that would be a hard duality right there; that would assume that you are separate from the basis of reality. Dang it, I got hooked into this.
+  It's like, how could there be a bottle if there's no me around? I'm the one who's making the bottle. Okay, let's just say, is there still sand? Well, that's also a concept; that's an inference. It's an anthropocentric inference---to an ant, to a dog, that wouldn't be sand. So let's say, is there a pebble? When nobody's around, that would be a hard duality right there; that would assume that you are separate from the basis of reality. Dang it, I got hooked into this.
 ])
 
 #speaker("Sangha 5", [
@@ -151,7 +151,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 
   Okay, any other comments, questions going on? These inquiries have been great, and I hope you don't mind that they are going to be shared on YouTube, because I really think people are resonating with your inquiries and everything and getting to know you all. You know, people in this group are powerful practitioners in their own right, and kind of bodhisattvas, and meeting with this very direct approach to liberation with no messing around. Please remember that.
 
-  You know, whenever you may get down on yourself and things like that, we can re-inspire each other and remember that we're all beautiful—just energy and consciousness and pure luminosity, truly. We just reify a whole world, you know; we construct a whole world into this purity.
+  You know, whenever you may get down on yourself and things like that, we can re-inspire each other and remember that we're all beautiful---just energy and consciousness and pure luminosity, truly. We just reify a whole world, you know; we construct a whole world into this purity.
 
   And even to meet with these teachings today, you have been compassionate in extraordinary ways. You have had lifetimes of wisdom and wisdom interactions. You've been a pioneer and a warrior, just to meet with the Dzogchen teachings is like that. We can be re-empowered, okay, everybody? Take our power back, our sovereignty. All right, so no other questions about this particular topic?
 
@@ -166,9 +166,9 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 #speaker("Dawai", [
   Yeah I basically introduce on request, everything's on request. The initial tögal introduction is to light rays. Maybe take a month or so beginning to relax until the light rays present themselves. Ideally, within a month or so, you can just look up, you don't have to squint your eyes or anything. You can kind of activate them with your mind, so to speak, or get out of the way a little bit. And then now everything can flourish within that light ray, because the light ray, you don't need to deliberately pull it. So we're interested in the happenings, not interested in any kind of concerted way. But it's an introduction for us when we begin to see the flourishings within the light rays. And seeing the light rays is very easy. I did that with Gary Haskins on that YouTube interview, actually.
 
-  So if you're introduced to clear light, that's the wisdom of dharmata. That’s already… In here, we don't just say awareness as a cognitive orientation, perhaps even within subjectivity. We say clear light awareness. So in here, it's slightly different. We utilize the cognitive aspect, the trekcho aspect of its cognitive omnipresence, of course, we utilize that. But we also utilize the fourth foundation of mindfulness, clear light awareness, as one of the five lights. And so being introduced to clear light awareness, you are introduced to tögal and trekcho at the same time in these groups. And that's what we go through. We talk about, we introduce, so we keep that going.
+  So if you're introduced to clear light, that's the wisdom of dharmata. That's already… In here, we don't just say awareness as a cognitive orientation, perhaps even within subjectivity. We say clear light awareness. So in here, it's slightly different. We utilize the cognitive aspect, the trekcho aspect of its cognitive omnipresence, of course, we utilize that. But we also utilize the fourth foundation of mindfulness, clear light awareness, as one of the five lights. And so being introduced to clear light awareness, you are introduced to tögal and trekcho at the same time in these groups. And that's what we go through. We talk about, we introduce, so we keep that going.
 
-  But just to be safe, we also introduce pulling light rays and seeing bindus, little swirly spheres and rainbow lights and things like that, and anything else within the light rays. So just to be safe, and possibly even expedite our introduction to luminosity, okay? The pure luminous aspect of our mind. Otherwise we'll be confined into our conceptual construct of reality. It'll be too convincing for us, like the dog that's kicking its legs, you can't hack into its brain and say, "Hey, dude, this is just a dream, you're not really chasing a rabbit right now." That would be nearly impossible. Think about it, even with the impulses that it's feeling to chase a rabbit. That's how we are. We're so stuck—entrenched into this dream. And that's why the introduction to luminosity is kind of hacking that, in the midst of our impulses, in the midst of our action, our karma. Okay? You good?
+  But just to be safe, we also introduce pulling light rays and seeing bindus, little swirly spheres and rainbow lights and things like that, and anything else within the light rays. So just to be safe, and possibly even expedite our introduction to luminosity, okay? The pure luminous aspect of our mind. Otherwise we'll be confined into our conceptual construct of reality. It'll be too convincing for us, like the dog that's kicking its legs, you can't hack into its brain and say, "Hey, dude, this is just a dream, you're not really chasing a rabbit right now." That would be nearly impossible. Think about it, even with the impulses that it's feeling to chase a rabbit. That's how we are. We're so stuck---entrenched into this dream. And that's why the introduction to luminosity is kind of hacking that, in the midst of our impulses, in the midst of our action, our karma. Okay? You good?
 ])
 
 #speaker("Sangha 7 (chat)", [
@@ -180,7 +180,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 
   #btw[Dawai reads a chat message]. "I treat them the same way I treat thought movement in trekcho."
 
-  Yeah exactly, very good. And so you also want to treat your body in the same way as you treat thought movement: place it into awareness and leave it there. And then you will really start to open up the lines of communication. Even if we start out sick or something like that—we could have a condition or something that's in our life—it will still just open up a line of communication with your organs, with your blood flow, with your oxygen, your body in general. Down to a particular level, cellular level.
+  Yeah exactly, very good. And so you also want to treat your body in the same way as you treat thought movement: place it into awareness and leave it there. And then you will really start to open up the lines of communication. Even if we start out sick or something like that---we could have a condition or something that's in our life---it will still just open up a line of communication with your organs, with your blood flow, with your oxygen, your body in general. Down to a particular level, cellular level.
 ])
 
 #speaker("Sangha 8", [
@@ -270,7 +270,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 
   Yeah, so I think we can end here. Deep thanks to everybody. And we'll just take a moment of silence. Any realizations that we have, understandings or compassion, there are beings in this very presence that are suffering, and we can dedicate that all to them. May any benefit from this gathering be shared with all beings, without exception, that they may also find the sovereign freedom of their own minds.
 
-  Thank you, everybody. I’ll see you in the next one. Love you all. Bye-bye.
+  Thank you, everybody. I'll see you in the next one. Love you all. Bye-bye.
 ])
 
 

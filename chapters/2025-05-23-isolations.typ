@@ -12,21 +12,21 @@ So if I'm resting here and I'm just noticing any thoughts, I'm having thoughts a
 
 Then notice what kind of thoughts: narrations, images, song in your head, the movement. That's the internal movement, right? So-called. If you're able to just do that, just have awareness of thoughts, you're already in a different phase of the mind.
 
-So, look at the ants. You know, no offense to the ants, I love the ants so much, actually, but they're really on a mission. If I was to say, “Hey ant, can you stop serving the Queen for a second or whatever you're doing, and pay attention to me so I could teach you a breath meditation?” The ant would not stop. "I am on a mission. I don't want to hear all this woo-woo stuff right now."
+So, look at the ants. You know, no offense to the ants, I love the ants so much, actually, but they're really on a mission. If I was to say, "Hey ant, can you stop serving the Queen for a second or whatever you're doing, and pay attention to me so I could teach you a breath meditation?" The ant would not stop. "I am on a mission. I don't want to hear all this woo-woo stuff right now."
 
 So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_.
 
 Everybody understanding that, right? How we can psychically isolate ourselves, and that becomes emotive to the intense feelings associated.
 
-"Get out of my way, I'm on a mission!" And the ant is like, "Get out of my way, I'm gonna crawl over you, I don't care." Steps on the other ant with like ten legs, ten feet, in their face. How many legs do ants have? I think, yeah, six, right? Six feet—that's more than two. You know, so when an ant gets stepped on, it's six times over.
+"Get out of my way, I'm on a mission!" And the ant is like, "Get out of my way, I'm gonna crawl over you, I don't care." Steps on the other ant with like ten legs, ten feet, in their face. How many legs do ants have? I think, yeah, six, right? Six feet---that's more than two. You know, so when an ant gets stepped on, it's six times over.
 
-But anyway, this is what's happening, right? And we get very clunky because we get trapped in these psychic isolations, and we essentially steamroll. We stiff-arm our way through anything at that point. And even people are trying to tell us some positive news or give us a gift or something. "No, no, I can't right now. I'm too busy." That's all making sense. Psychic isolation, right? It's not discussed so much, but it's part of our science.
+But anyway, this is what's happening, right? And we get very clunky because we get trapped in these psychic isolations, and we essentially steamroll. We stiff-arm our way through anything at that point. And even people are trying to tell us some positive news or give us a gift or something. "No, no, I can't right now. I'm too busy." That's all making sense. Psychic isolation, right? It's not discussed so much, but it's part of our science.
 
 When you engage with introspection, it's kind of like you're using a microscope or a telescope, except you're using awareness, which is just a scope. This scope, your lens, lets you see your thoughts now. Because you're allowing them, just like when you look in a microscope, you're just allowing the specimen to do what it's doing while you observe.
 
 Well, just like that, let your thoughts do what they do. If they're evil thoughts, destructive thoughts, let them come and go. It's when we give them extra momentum, extra energy, that's when those thoughts can be a problem. And you may even follow through on what these thoughts are saying instead of just letting them come and go. See why psychic unbinding, why that cognitive diffusion is so beneficial for us?
 
-And people say, you know, all the time, "why introduce Dzogchen like this without any ngondro preliminaries and without strong Dharma backgrounds sometimes and things like that?" Well, they introduce cognitive therapy to you, which is the same thing. Increased visibility will never be a risk, okay?
+And people say, you know, all the time, "why introduce Dzogchen like this without any ngondro preliminaries and without strong Dharma backgrounds sometimes and things like that?" Well, they introduce cognitive therapy to you, which is the same thing. Increased visibility will never be a risk, okay?
 
 Don't take this for anything more than it is. You're just increasing the visibility of your mind, and breaking out of isolations. There's nothing harmful about that.
 
@@ -42,7 +42,7 @@ I just see the question here.
 ])
 
 #speaker("Dawai", [
-All right, we're gonna slowly build up here, okay? We're just trying to make this accessible for the people who are just getting into the meditations and things like that. So we want all this to be accessible. If there's any point in which I'm speaking, something becomes inaccessible to you, for example, if I say, "Hey, just rest in Dharmakāya emptiness," you're gonna be like, "What?"
+All right, we're gonna slowly build up here, okay? We're just trying to make this accessible for the people who are just getting into the meditations and things like that. So we want all this to be accessible. If there's any point in which I'm speaking, something becomes inaccessible to you, for example, if I say, "Hey, just rest in Dharmakāya emptiness," you're gonna be like, "What?"
 
 A lot of you, and now some of you know exactly that that's synonymous with awareness, that's synonymous with pure presence. No problem. But the mind tends to overcomplicate things.
 
@@ -50,13 +50,13 @@ So remember why it's so crucial: The thoughts and the thought isolation are very
 
 We have about thirty to fifty thousand thoughts per day. I always cite that statistic from Fred Luskin, and others have those stats, so it's not just single. Ninety percent of those are repetitive, and then probably eighty percent are negative. See why it's very, very useful to break out of our thought patterns? It's just cycling thoughts.
 
-And if you yourself don't want to believe me, then you can verify, you can test, you can observe your own mind. Is this the same thought that I had six hours ago, or yesterday, or an hour ago? Yes. And in many cases, when practitioners have observed their own mind, they have found that this is repetitive. And the worst is your moods, your depression, your sadness is repetitive. So, in that regard, it can be tormenting. Here I am again in this cycle, and _da da da da da_. All right?
+And if you yourself don't want to believe me, then you can verify, you can test, you can observe your own mind. Is this the same thought that I had six hours ago, or yesterday, or an hour ago? Yes. And in many cases, when practitioners have observed their own mind, they have found that this is repetitive. And the worst is your moods, your depression, your sadness is repetitive. So, in that regard, it can be tormenting. Here I am again in this cycle, and _da da da da da_. All right?
 
-So that brings us to the second thing. That when you're in the short session, where you could be, maybe I'm in a mood. Maybe I feel sick, or maybe I feel nervous, or something like that. So I'm in a kind of mood now, and somebody says: "Hey Dawai, why don't you pay attention to your breath? Take a deep breath." "I can't right now, I'm nervous." Short breaths, stressful breaths, right?
+So that brings us to the second thing. That when you're in the short session, where you could be, maybe I'm in a mood. Maybe I feel sick, or maybe I feel nervous, or something like that. So I'm in a kind of mood now, and somebody says: "Hey Dawai, why don't you pay attention to your breath? Take a deep breath." "I can't right now, I'm nervous." Short breaths, stressful breaths, right?
 
 So okay, Dawai, "just be here with it for ten minutes." Okay, so I'm here, I'm crunched up, my shoulders are crunched, my neck is crunched, I have tension throughout my body, and I'm not doing anything about that.
 
-But I'm again isolated, right? Now instead of vivid thoughts, I'm isolated in a mood. It's a little bit more vague, it's a little bit more subtle where my isolation is, but it's still cognizance. It's still cognition, just like the thoughts. I'm stuck in cognition, I'm stuck in cognition either way. So I'm stuck in this nervousness, this anxiety—and then I just let it be. It has to go away, it cannot last forever.
+But I'm again isolated, right? Now instead of vivid thoughts, I'm isolated in a mood. It's a little bit more vague, it's a little bit more subtle where my isolation is, but it's still cognizance. It's still cognition, just like the thoughts. I'm stuck in cognition, I'm stuck in cognition either way. So I'm stuck in this nervousness, this anxiety---and then I just let it be. It has to go away, it cannot last forever.
 
 So in cognitive science, for example, Dr. Harry Berry has these statistics: 90% success rate with allowing things to be. Your panic, your anxiety will alleviate within 10 minutes or so, whereas if you perpetuate it, if you didn't let it be, if you kept on thinking about it, it would last over an hour, and sometimes days, these things could last years.
 
@@ -112,21 +112,21 @@ All right, so I've gone into perspective, how we can isolate ourselves into pers
 
 And so obviously, for some of you it may be obvious, I'm going through the four foundations of mindfulness. So the third is the body. We can actually have this cognitive isolation into the body, because the body is also alive, living, doing stuff, and if you stub your toe, for example, and you say, 'Doh!' [sound], and then you start isolating yourself into the vibrations of that toe. You've seen that, right? You've seen yourself do that? Very good.
 
-So now you know what it's like to isolate yourself into thoughts, to isolate yourself into emotional energy, and bodily energy. Internal stuff is very difficult. If you have some kind of internal pain, you don't know what it is, it's very difficult not to isolate yourself into that—but that isolation is not going to help your blood flow. It's not going to help your oxygen delivery and your T helper cells create white blood cells for the healing. It's not going to help any of that. That isolation is going to create a tension.
+So now you know what it's like to isolate yourself into thoughts, to isolate yourself into emotional energy, and bodily energy. Internal stuff is very difficult. If you have some kind of internal pain, you don't know what it is, it's very difficult not to isolate yourself into that---but that isolation is not going to help your blood flow. It's not going to help your oxygen delivery and your T helper cells create white blood cells for the healing. It's not going to help any of that. That isolation is going to create a tension.
 
 So if you can allow that, the vibrations of that injury or that sickness, best you can, without contracting into it, then, in my opinion, this will be better, okay? And again, you don't have to do anything for any of these. I'm just describing to you all the different ways that we can isolate ourselves.
 
-And so I believe [name] is still here, or no? Yes. So, he kind of inspired this because everybody... a lot of people deal with the neck and the head pain going up, up the back of the head, right? And the shoulders. This is a very sensitive area where your head is connected to your torso. And the nervous system, the pineal gland—a central hub of the nervous system—that is connecting to the rest of your body there.
+And so I believe [name] is still here, or no? Yes. So, he kind of inspired this because everybody... a lot of people deal with the neck and the head pain going up, up the back of the head, right? And the shoulders. This is a very sensitive area where your head is connected to your torso. And the nervous system, the pineal gland---a central hub of the nervous system---that is connecting to the rest of your body there.
 
 So that's why I say, when we do our short sessions, these are all the things that you're bringing into presence. You don't have to deliberately bring them in. They're already here within pure presence.
 
-So for some of you, it may be like taking a bath—your whole body, including that neck and that head tension, is within awareness right now. And you're allowing it some time to relieve, for that contraction to alleviate. Just like a fist. How you would allow it to just, by not doing anything, and in fact, you're stopping the doing because it takes doing to clench a fist. Power to the people! But anyway, so when you are clenching that fist, it's a doing, and then you stop doing, and there's a release.
+So for some of you, it may be like taking a bath---your whole body, including that neck and that head tension, is within awareness right now. And you're allowing it some time to relieve, for that contraction to alleviate. Just like a fist. How you would allow it to just, by not doing anything, and in fact, you're stopping the doing because it takes doing to clench a fist. Power to the people! But anyway, so when you are clenching that fist, it's a doing, and then you stop doing, and there's a release.
 
 That's exactly what's happening in our necks right now, or most of the time. And so, there's absolutely nothing to do about it. No moving around, all this stuff. You could actually hurt yourself if you do that rolling the neck thing too fast. Rolling the neck is very, very good in its proper context, okay?
 
-But when we're doing the short sessions, that's why they say Anuyoga, the 8th yāna, where you do tons of yoga—neck rolling, you name it, shoulder rolling, and a much more intense yoga is the 8th yāna. Dzogchen is the 9th yāna. They say in Anuyoga, it takes many lifetimes to achieve liberation using energy practices in yoga.
+But when we're doing the short sessions, that's why they say Anuyoga, the 8th yāna, where you do tons of yoga---neck rolling, you name it, shoulder rolling, and a much more intense yoga is the 8th yāna. Dzogchen is the 9th yāna. They say in Anuyoga, it takes many lifetimes to achieve liberation using energy practices in yoga.
 
-But in Dzogchen, one lifetime—you can have liberation. Why? Because it's easier to release that tension in your neck by allowing it to just be here than it is by doing 10 cycles of extreme yoga while you're holding your breath and whatever else, breaking your kneecaps.
+But in Dzogchen, one lifetime---you can have liberation. Why? Because it's easier to release that tension in your neck by allowing it to just be here than it is by doing 10 cycles of extreme yoga while you're holding your breath and whatever else, breaking your kneecaps.
 
 So big difference here between Anuyoga and Atiyoga, the 8th and the 9th yāna. In 1 through 8, you're doing stuff. In the 9th yāna, you're not doing anything anymore. Doing is antithetical to liberation, to self-liberation.
 
@@ -140,7 +140,7 @@ You cannot have cessation or cognitive diffusion if you're doing something, alri
 #speaker("Dawai", [
 Yes, certainly. There's a lot more preoccupation. The minds are way speedier. We can pretty much say that for sure that it's a little bit more materialistic now, and the minds are much speedier.
 
-So what we have is, to me, degenerate times—this Kali Yuga that we're in, it's ending. It's a long run that's ending now and going into the Golden Age, at least according to Dharmic cosmology. But as it ends, it's like water going down the toilet; it's getting denser. So, you have all the information that used to be everywhere, now it's just on the internet servers, like condensed. You have all the forests turning into cities. Everything's getting denser, you see, including the minds. And that's why we don't see the true power of the mind, because we're contracted into these dense isolations.
+So what we have is, to me, degenerate times---this Kali Yuga that we're in, it's ending. It's a long run that's ending now and going into the Golden Age, at least according to Dharmic cosmology. But as it ends, it's like water going down the toilet; it's getting denser. So, you have all the information that used to be everywhere, now it's just on the internet servers, like condensed. You have all the forests turning into cities. Everything's getting denser, you see, including the minds. And that's why we don't see the true power of the mind, because we're contracted into these dense isolations.
 
 That's why I want you all to break out of the isolations, you understand? A whole other world when you start to break out of that density.
 
@@ -150,25 +150,25 @@ So you know, you can inject that into your ego if you want to, but it's more to 
 
 All right, and so the last psychic isolation that we can experience is the environment. Just like a cat gets very enticed by the mouse, we can isolate into focus itself. Like, if I'm focusing on a cup, and I really want that cup, and I have some dreams about it and things, well I'm isolating into the three spheres of conception, that subject-action-object trichotomy.
 
-So those are the four foundations of mindfulness, and the five aggregates—condition, consciousness, form, mental formations, everything is in there. And how, in these ten-minute sits, where are you? Where are you isolated into? Or are you isolated?
+So those are the four foundations of mindfulness, and the five aggregates---condition, consciousness, form, mental formations, everything is in there. And how, in these ten-minute sits, where are you? Where are you isolated into? Or are you isolated?
 
 See, the one thing that does not ever isolate is awareness. That's what holds all the isolations. It's the very basis for any experiential movement, any consciousness, okay?
 
-So I think you got it. That's why we get pointed to the nature of mind. It's not just awareness. Awareness is like a placeholder. When you and I have a one-on-one, or you and any authentic awareness holder, and you have an aha moment, and you see something there—cognizance recognizing cognizance—then that should become your new best friend. Because that's the one place that's never going to be trapped, ensnared, damaged, hurt, sick, anything.
+So I think you got it. That's why we get pointed to the nature of mind. It's not just awareness. Awareness is like a placeholder. When you and I have a one-on-one, or you and any authentic awareness holder, and you have an aha moment, and you see something there---cognizance recognizing cognizance---then that should become your new best friend. Because that's the one place that's never going to be trapped, ensnared, damaged, hurt, sick, anything.
 
 All right, everybody? Making sense, yeah?
 
-And it's gonna come off a little bit different if you've never recognized awareness, or the nature of mind. If you're not familiar with that _rang bzhin_, that nature of mind—the cognizance that permeates all other cognizance, if you're unsure about it or you haven't been introduced, then this whole explanation may logically add up, but you're not going to be able to access it. Because you'll say, oh yeah, I know I can get isolated in my thoughts. And then, as you're saying that, you're isolated in your thoughts. You'll get isolated into your thoughts about isolation of thoughts. The mind is a very tricky place.
+And it's gonna come off a little bit different if you've never recognized awareness, or the nature of mind. If you're not familiar with that _rang bzhin_, that nature of mind---the cognizance that permeates all other cognizance, if you're unsure about it or you haven't been introduced, then this whole explanation may logically add up, but you're not going to be able to access it. Because you'll say, oh yeah, I know I can get isolated in my thoughts. And then, as you're saying that, you're isolated in your thoughts. You'll get isolated into your thoughts about isolation of thoughts. The mind is a very tricky place.
 
 All right, so now that I've gone over those, I just want to also include the eight consciousnesses, because we got all this stuff.
 
-We got our mental mind, getting stuck on thoughts, getting stuck on emotions—that's the sixth consciousness. But there's also, you can be isolated into a feeling of a watcher, a thinker. And that's kind of where [Sangha member], I believe, in the beginning was going into. What about emptiness? Well, it's great.
+We got our mental mind, getting stuck on thoughts, getting stuck on emotions---that's the sixth consciousness. But there's also, you can be isolated into a feeling of a watcher, a thinker. And that's kind of where [Sangha member], I believe, in the beginning was going into. What about emptiness? Well, it's great.
 
-If you're stuck in your thoughts, now you're observing your thoughts: "Wow, I'm having a lot of anxiety about what I'm going to do today." But now, who is the one having that observation of the thoughts? You see, so there's a third layer there. That's the conditioned self—that's the watcher, the thinker, the stinker, whatever you want to call it, the feeler, the one who's offended, the one who's offending, the one who's mad, the one who's sad. This feeling of 'me' sitting right now, listening, hearing words—a reference point, yeah.
+If you're stuck in your thoughts, now you're observing your thoughts: "Wow, I'm having a lot of anxiety about what I'm going to do today." But now, who is the one having that observation of the thoughts? You see, so there's a third layer there. That's the conditioned self---that's the watcher, the thinker, the stinker, whatever you want to call it, the feeler, the one who's offended, the one who's offending, the one who's mad, the one who's sad. This feeling of 'me' sitting right now, listening, hearing words---a reference point, yeah.
 
 And so that's another psychic isolation. That's another cognitive isolation, okay? We can be in that with very little thoughts, very little emotions, but still have a feeling of anchoring into separability.
 
-And as you trust awareness, that also begins to alleviate and soften. So that isolation—the very root of all suffering is starting to alleviate as well, starting to come apart. So, it's contracted and then it's starting to soften apart, okay? Back into spaciousness. Yes, and with that, all your karmic seeds are being softened too. All that karmic momentum has no basis anymore. It needs a reference point in order for karmic cycles to occur, just like a whirlpool needs that momentum, that center point.
+And as you trust awareness, that also begins to alleviate and soften. So that isolation---the very root of all suffering is starting to alleviate as well, starting to come apart. So, it's contracted and then it's starting to soften apart, okay? Back into spaciousness. Yes, and with that, all your karmic seeds are being softened too. All that karmic momentum has no basis anymore. It needs a reference point in order for karmic cycles to occur, just like a whirlpool needs that momentum, that center point.
 
 Okay, everybody, well, thank you for letting me present that. I feel like we don't get into the mechanics much of our mind, and the Thrangu Rinpoche text that we're reading is all about that, and I wanted to correlate it to our short sessions so that when you come here for these short sessions, you know what's going on, right? You know where you're located, which country are you located in? The country of your thoughts, the country of your emotions, the country of your body, right? The country of the environment.
 
@@ -188,7 +188,7 @@ So this can all be truly fascinating stuff. It's like being a scientist and you'
 ])
 
 #speaker("Dawai", [
-  Okay, but the question you just asked me was essentially an invalid question. You said, how did the mental formations fit in? I just explained a whole bunch of mental formations. I'm not trying to offend you, it's just an invalid question, because I already went through contact, feeling, perception—we went on a whole thing of perception. So, you're basically saying, how does perception fit into this talk that you just had?
+  Okay, but the question you just asked me was essentially an invalid question. You said, how did the mental formations fit in? I just explained a whole bunch of mental formations. I'm not trying to offend you, it's just an invalid question, because I already went through contact, feeling, perception---we went on a whole thing of perception. So, you're basically saying, how does perception fit into this talk that you just had?
 ])
 
 #speaker("Sangha 4", [
@@ -204,7 +204,7 @@ So this can all be truly fascinating stuff. It's like being a scientist and you'
 ])
 
 #speaker("Dawai", [
-  But when we sit here in the short sessions, there are all these things here for us—all these various isolations, emotional. We can get stuck in thoughts, we can get stuck in our own greed, in our own pride, in our own jealousy. So, do you have a question about that? How we can get stuck in thoughts?
+  But when we sit here in the short sessions, there are all these things here for us---all these various isolations, emotional. We can get stuck in thoughts, we can get stuck in our own greed, in our own pride, in our own jealousy. So, do you have a question about that? How we can get stuck in thoughts?
 ])
 
 #speaker("Sangha 4", [
@@ -212,9 +212,9 @@ So this can all be truly fascinating stuff. It's like being a scientist and you'
 ])
 
 #speaker("Dawai", [
-Mm-hmm, yeah, if it's helpful to define mental formations, as you see there with the list, those are constructs, okay? They come about through conditioning. So, I have to program together a construct. For example, greed is a construct. It's made from self-grasping, from sensory constructs. I have to create, like, maybe I really like apple juice—I have to create the apple, I have to create the juice, I have to create the idea, the taste sensations, I have to associate. So, it becomes a construct. Greed is a construct, you see?
+Mm-hmm, yeah, if it's helpful to define mental formations, as you see there with the list, those are constructs, okay? They come about through conditioning. So, I have to program together a construct. For example, greed is a construct. It's made from self-grasping, from sensory constructs. I have to create, like, maybe I really like apple juice---I have to create the apple, I have to create the juice, I have to create the idea, the taste sensations, I have to associate. So, it becomes a construct. Greed is a construct, you see?
 
-And so, mental formations can be constructs, but they can also be just little fly thoughts, too. But every thought is going to be, essentially, a construct until you start to abide in pure presence, and until you allow pure presence—then the thoughts have less weight. They have less—every word that you're speaking, every word that I'm speaking. For example word and speaking, those are constructs. Word has more to it. It has a whole file tree to it. Just the word "word" we have to assign, we have to grasp. And how are those built up? You know, these are all things that will be revealed with awareness, you start to see all the file trees.
+And so, mental formations can be constructs, but they can also be just little fly thoughts, too. But every thought is going to be, essentially, a construct until you start to abide in pure presence, and until you allow pure presence---then the thoughts have less weight. They have less---every word that you're speaking, every word that I'm speaking. For example word and speaking, those are constructs. Word has more to it. It has a whole file tree to it. Just the word "word" we have to assign, we have to grasp. And how are those built up? You know, these are all things that will be revealed with awareness, you start to see all the file trees.
 ])
 
 #speaker("Sangha 4", [Thank you, yes, that makes sense.])
@@ -234,7 +234,7 @@ And I'd say at the base. Look at Kristoff Koch and maybe others, like a lot of p
 #speaker("Sangha 4", [Oh, that makes sense. Okay, okay, thank you, thank you.])
 
 #speaker("Dawai", [
-  Mm-hmm. Thank you. And way to accept that challenge, you know. I know I challenge you a little bit, and you're one of the best I've ever seen at accepting those challenges. Seeing how you yourself, I just got to put that out there—they can react any way. You get upset, even, we all. I'm not saying that they got upset, but if they were to get upset, they would be able to see it first. It's pretty amazing when you're working with people like that. Like, oh, I saw how I got upset by what you said, or, and then also trusting me, like maybe I could be more delicate with my speech. So awareness is teaching me, it's teaching them. You see, that's how to build a healthy relationship right there—and you have your insight, and you trust each other, you know. You're gonna see your bullshit, I'm gonna see my bullshit. But I'm just very proud of you, because the way you can reflect and correct, the way you can stay in the presence is amazing. It's very good.
+  Mm-hmm. Thank you. And way to accept that challenge, you know. I know I challenge you a little bit, and you're one of the best I've ever seen at accepting those challenges. Seeing how you yourself, I just got to put that out there---they can react any way. You get upset, even, we all. I'm not saying that they got upset, but if they were to get upset, they would be able to see it first. It's pretty amazing when you're working with people like that. Like, oh, I saw how I got upset by what you said, or, and then also trusting me, like maybe I could be more delicate with my speech. So awareness is teaching me, it's teaching them. You see, that's how to build a healthy relationship right there---and you have your insight, and you trust each other, you know. You're gonna see your bullshit, I'm gonna see my bullshit. But I'm just very proud of you, because the way you can reflect and correct, the way you can stay in the presence is amazing. It's very good.
 ])
 
 #speaker("Sangha 4", [
@@ -248,9 +248,9 @@ And I'd say at the base. Look at Kristoff Koch and maybe others, like a lot of p
 #speaker("Dawai", [
 Yeshé also posted: "A definition of mental formations are defined as the aspects of the mind that apprehend particular qualities of an object."
 
-Yeah there's probably never going to be a thought that you have that isn't associated with an object. If you could come up with a thought, or even a word that's not associated with an object, I've done this. I've found very few like, love is probably a close one. Love can be non-dual without an object, but Sanskrit words—you can find Sanskrit words like OM, right? Very non-dual, not based on a sense object, but most thoughts that you ever have will always be about some object.
+Yeah there's probably never going to be a thought that you have that isn't associated with an object. If you could come up with a thought, or even a word that's not associated with an object, I've done this. I've found very few like, love is probably a close one. Love can be non-dual without an object, but Sanskrit words---you can find Sanskrit words like OM, right? Very non-dual, not based on a sense object, but most thoughts that you ever have will always be about some object.
 
-Very good, wow, we really went in on this session. I can appreciate that. You know me, I'm a little insistent when we do our short sessions that everybody is, pretty much everybody. There may be a few people to get a pass, but everybody should be waking up together. We're all gonna wake up together, okay? We're not leaving anybody behind. As long as they're here in this group, they're here for some reason, and that means that we're gonna try to pull everybody out of the water, all right? And I know it's not always happy-happy and fluffy-fluffy—that's not Dzogchen. Dzogchen isn't always fluffy, although it can be quite fluffy.
+Very good, wow, we really went in on this session. I can appreciate that. You know me, I'm a little insistent when we do our short sessions that everybody is, pretty much everybody. There may be a few people to get a pass, but everybody should be waking up together. We're all gonna wake up together, okay? We're not leaving anybody behind. As long as they're here in this group, they're here for some reason, and that means that we're gonna try to pull everybody out of the water, all right? And I know it's not always happy-happy and fluffy-fluffy---that's not Dzogchen. Dzogchen isn't always fluffy, although it can be quite fluffy.
 
 So, all right, very good. I'll end the session here then. These gatherings are considered very powerful, very meritorious, and my aspiration is that we become so strong that people with addictions can come here and start to get the support that they need through this awareness practice and the friendships here, where they can overcome these, even the strongest psychological entrapments and isolations. This is what it takes to come out of addiction, come out of trauma, come out of hate and things. You need to be around people. It's really I mean, I guess you could do it on your own, but it'd be very, very difficult. So the safer we can make this, the more inclusive, the more you all show each other love and respect, we can be that place, all right everybody?
 
