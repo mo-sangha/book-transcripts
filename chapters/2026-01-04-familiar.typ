@@ -197,7 +197,7 @@ So are there any questions about this stuff going on? Yes, hello.
 ])
 
 #speaker("Sangha 4", [
-  Oh no, #btw[Sangha 4 laughs], I was looking at yesterday's video, it was hilarious.
+  Oh no, I was looking at yesterday's video, it was hilarious.
 ])
 
 #speaker("Dawai", [

@@ -24,7 +24,7 @@ So thoughts are just coming from your mind, and when you abide in the whole mind
 
 We can allow the echoes of our experience to settle. Then what is left over? That is your Buddha.
 
-#btw[Dawai addresses Little Bear]. Okay, maybe he really needs to go. He's not just harassing me. OM BENZO SATO HUM. Purification practice for interrupting the Dharma. #btw[Dawai laughs].
+#btw[Dawai addresses Little Bear]. Okay, maybe he really needs to go. He's not just harassing me. OM BENZO SATO HUM. Purification practice for interrupting the Dharma.
 
 So this is the case though, when we do effortlessness, okay, in _The Way of Abiding_, Longchenpa is suggesting exactly this—not suggesting, hey, your awareness, everything's perfect, everything's enlightened. That's why when people express prohibition towards Dzogchen, one needs to understand there's still a 15‑year timeline of your self-liberation, sort of the maximum, but I think we're moving a lot faster, honestly.
 
@@ -38,7 +38,7 @@ So you have perception in there, mental formations in there. You have also the e
 
 So the sixth mental consciousness is active with thinking about the future or the past or analyzing the present. The seventh egoic consciousness is involved in that—I'm sitting here, I'm here, am I accomplished, am I not accomplished, what do I need to do later, right? So all this is a big old highway, super highway of preoccupation, and that's all eight consciousnesses.
 
-So you have the five senses---the eyes, we leave them open; ears, our awareness holds all the ears. If you have more than two ears, they're holding all the ears. #btw[Dawai laughs]. I meant to say all the sounds, not all the ears. So anyway, but it holds your ears. It holds all the sounds. It holds whatever we're perceiving as the thing making the sound.
+So you have the five senses---the eyes, we leave them open; ears, our awareness holds all the ears. If you have more than two ears, they're holding all the ears. I meant to say all the sounds, not all the ears. So anyway, but it holds your ears. It holds all the sounds. It holds whatever we're perceiving as the thing making the sound.
 
 So we're resting in the inclusivity of cognition there, rather than subdividing our experience into, oh, what was that sound, I liked that sound, that sound needs to happen again, right? Or no, I don't like that sound, please make it stop. This is all some kind of getting involved in subdividing our experience into a psychic contraction.
 
@@ -55,7 +55,7 @@ So this is exactly what's happening to us, except the appearance of death is so 
 Yeshé has the information, be happy to share that with you:
 “The Turritopsis dohrnii, also known as the immortal jellyfish, is a species of small, biologically immortal jellyfish found worldwide in temperate to tropic waters and is one of the few known cases of animals capable of completely reverting to a sexually immature colonial stage after having reached sexual maturity as a solitary individual.”
 
-So it goes back to childhood like Benjamin Button style. #btw[Dawai laughs].
+So it goes back to childhood like Benjamin Button style.
 
 So to me, that's very interesting, because if you look at the pictures, they got it mapped out, the stages. It looks exactly like cyclic existence, what you would think that our mind is doing, except we're a little bit like the snakes, we shed a skin.
 
@@ -67,7 +67,7 @@ So just by letting be all the elements—the four foundations of mindfulness: yo
 
 Then you don't have to worry about all these programs that are written into your mind and all these things, because the very circuit board that's holding everything is getting pulled out.
 
-So if you can allow that subjectivity to rest in your awareness—that feeling of a me sitting here, a witness, a watcher, a thinker, a stinker #btw[Dawai laughs]—whatever the witness is doing, whatever the individual, the agency is doing. And then it's not a complete loss of agency either. That would be like the sun losing its rays: it's not like that. So we abide and we allow that.
+So if you can allow that subjectivity to rest in your awareness—that feeling of a me sitting here, a witness, a watcher, a thinker, a stinker---whatever the witness is doing, whatever the individual, the agency is doing. And then it's not a complete loss of agency either. That would be like the sun losing its rays: it's not like that. So we abide and we allow that.
 
 Now if you've been introduced to the nature of mind, then you can do this. You can allow that feeling of an observer, a thinker, a me, that very feeling—you can bathe that naturally in effortless abiding.
 

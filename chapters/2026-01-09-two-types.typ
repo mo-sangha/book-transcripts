@@ -4,7 +4,7 @@
 
 I wanted to talk about the two types of absorption. So typically in object-based meditation, you'd get to a point of objectless abiding. And in some methods, when you have the eyes closed, you go into a deep state of absorption—almost like when you go to sleep and you have that deep state of sleep like that. So if there's a mouse nibbling at your toe, you may not know it.
 
-In Dzogchen, if I can borrow a few words, the texture and tonality is the same—exactly the same—except instead of absorbing into a subjectivity, a compartmentalization of the mind, you're including the fourth foundation of mindfulness: the environment, your surroundings. And you're absorbing into that. So everything is being absorbed into pure presence. That's your absorption. And the more you're absorbed into pure presence, kind of the more free you are then. Is that making sense? Okay, make a YouTube short, we're done. #btw[Dawai laughs]. Any questions about that? Oh, yes, please.
+In Dzogchen, if I can borrow a few words, the texture and tonality is the same—exactly the same—except instead of absorbing into a subjectivity, a compartmentalization of the mind, you're including the fourth foundation of mindfulness: the environment, your surroundings. And you're absorbing into that. So everything is being absorbed into pure presence. That's your absorption. And the more you're absorbed into pure presence, kind of the more free you are then. Is that making sense? Okay, make a YouTube short, we're done. Any questions about that? Oh, yes, please.
 
 #speaker("Sangha 1", [
   So is it the same as Samatha without the object?

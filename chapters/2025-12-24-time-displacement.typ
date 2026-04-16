@@ -8,7 +8,7 @@
 
 So please relax and we're going to do a short meditation-type practice. Release the mind from any kind of thoughts and things like that, and see if you can just come into pure presence without thoughts, clear like the sky. 'Cause we're gonna bring stuff into our canvas, so we need a blank canvas here.
 
-And so now... now I got a blank canvas, I can't remember, what was I gonna use? #btw[Dawai laughs]. I had a few options for bringing up the past. We're gonna drag the past into our purely present canvas here. Well, what was it?
+And so now... now I got a blank canvas, I can't remember, what was I gonna use? I had a few options for bringing up the past. We're gonna drag the past into our purely present canvas here. Well, what was it?
 
 I had some dog poop on my boots. That's right, we'll use that one. Okay. So that's mine. You bring something innocent up from last week, last month, yesterday, something a little innocent. Like for me, I had some dog poop on my boot. So I'm thinking about that now.
 
@@ -42,7 +42,7 @@ I know we're at the end of our live session and you're probably a little wore ou
 #speaker("Dawai", [
   Yeah, exactly. And you just saw the difference, right? You just saw that. I could sit here and think, "Wow, why is my computer so loud right now? Why is the fan so loud?" And I can think about that, think about that. And that's the present moment. I'm technically in the present moment, right? Thinking about the fan that's happening right now.
 
-  But _presence_, my mind isn't being pulled towards anything. It's fully present. And I can still say, "Yup, the fan is loud." #btw[Dawai laughs]. But I'm not _in_ that, right? So you're not in the three times.
+  But _presence_, my mind isn't being pulled towards anything. It's fully present. And I can still say, "Yup, the fan is loud." But I'm not _in_ that, right? So you're not in the three times.
 ])
 
 
@@ -65,7 +65,7 @@ I know we're at the end of our live session and you're probably a little wore ou
 ])
 
 #speaker("Sangha 3", [
-  I just wanted to mention, I really appreciate the non-seriousness, because a lot of times when people address these kinds of topics, it's _so_ about getting into presence that it actually reifies it #btw[Dawai laughs], and then while reifying the past, while trying to diminish it, while like, there's just like a lot of clumping where for this, where it's just like: okay, open _that_ door and now open _that_ door and now open _that_ door. Okay, and now presence was there the whole time and is here still. So thank you for the simplicity, is my thought.
+  I just wanted to mention, I really appreciate the non-seriousness, because a lot of times when people address these kinds of topics, it's _so_ about getting into presence that it actually reifies it, and then while reifying the past, while trying to diminish it, while like, there's just like a lot of clumping where for this, where it's just like: okay, open _that_ door and now open _that_ door and now open _that_ door. Okay, and now presence was there the whole time and is here still. So thank you for the simplicity, is my thought.
 ])
 
 #speaker("Dawai", [
@@ -77,7 +77,7 @@ I know we're at the end of our live session and you're probably a little wore ou
 ])
 
 #speaker("Dawai", [
-  Yay! #btw[Dawai laughs]. Yeah, when we're being innovative, we never know, right? So that's great. I think we can polish a little bit and continue to utilize this technique. And thankfully, Yeshé got it out there to share with everybody. So I kind of prioritize some of these other techniques before we do isolation of the conditioned self---and we'll go back to isolating a thought. But here we’re doing this cognitive diffusion before we go into isolating the conditioned self. So even though when you isolate thoughts, usually the conditioned self is mixed in there, but maybe not as explicitly.
+  Yay! Yeah, when we're being innovative, we never know, right? So that's great. I think we can polish a little bit and continue to utilize this technique. And thankfully, Yeshé got it out there to share with everybody. So I kind of prioritize some of these other techniques before we do isolation of the conditioned self---and we'll go back to isolating a thought. But here we’re doing this cognitive diffusion before we go into isolating the conditioned self. So even though when you isolate thoughts, usually the conditioned self is mixed in there, but maybe not as explicitly.
 
   Anyway, thank you everybody so much for joining and giving these techniques a try. And we just kind of, you know, get more freedom in our mind, in our life, in our world. And get some of the congestion out and use these different mind sciences, right? These are just tools, mind science tools that are very effective apparently, and they're based on our own introspection. So that makes them very powerful.
 

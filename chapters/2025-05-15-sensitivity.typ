@@ -6,7 +6,7 @@ The topic of sensitivity—and guess what the topic is going to be? Sensitivity.
 
 And so here's an interesting notion that I invite you to entertain: that we're all the same amount of sensitive, just like all the fishies in the sea. All the animals are the same sensitivity to the environment, right? Everything, the flowers are all, even though they grow different and look different, they are all the same sensitivity to the environment.
 
-So my little amateur speculation, but I feel like it has some basis and pretty solid ground, is that we're all the same sensitivity, but we have a natural mechanism that filters stuff out. And this is proven by modern science: that our consciousness, our brain, and the rest of our mind filters things out that could be overwhelming or scary, or anything like that. I've heard Buddhist teachings that say many of your past-life memories, you don't remember them because if you did, that'd be horrific, right? #btw[Dawai laughs]. So we have some reasoning here. We have some logic that says, well, yes, there's a lot of filtering going on.
+So my little amateur speculation, but I feel like it has some basis and pretty solid ground, is that we're all the same sensitivity, but we have a natural mechanism that filters stuff out. And this is proven by modern science: that our consciousness, our brain, and the rest of our mind filters things out that could be overwhelming or scary, or anything like that. I've heard Buddhist teachings that say many of your past-life memories, you don't remember them because if you did, that'd be horrific, right? So we have some reasoning here. We have some logic that says, well, yes, there's a lot of filtering going on.
 
 And when you're in the movement of your mind, it's very difficult to handle all that stimulation. So we've become very tough. Maybe we can think of it like a soldier's training. It's not that things aren't getting to you, because they clearly are. Soldiers often have recollections after they do their bit, they remember and feel everything; it catches up to them, right? So they have very high suicide rates and things like that. And with this awareness practice, we can avoid things like that by handling our sensitivity. I myself am considered a sensitive person. I feel the animals, I feel their disposition. I feel the disposition of the world pretty easily. If I see somebody suffering or something like that, I can empathize pretty quickly.
 
@@ -28,7 +28,7 @@ For example, with my Luna girl, she's got this sort of persistent thing going on
 
 So empathy and compassion, free of contrivance, allows us to actually see deeper into that situation. So now I may see that even if she's sick, and even if it was incurable, there are more layers past that, aren't there? Yes, she may be sick, but she still has her pure mind, still pure energy. And what's going to happen to her mind? What is her mind going to make next after this body?
 
-Oh, I wouldn't even be saying this if it wasn't visible in the face of empathy, non-duality, and compassion. You can see past that. And that's the vital layer that's very great for a yogi to see past. Because first of all, you're seeing very deep. If you can even see your friend's pain, like, _Oh, this person is sick._ That's already layers of empathy and compassion. So multilayered cognizance, you’re seeing your mind reading, okay? #btw[Dawai laughs]. Just to make this accessible, your mind reading. You are. Because everything's mind. And in the face of non-duality, that's what we do. We read each other's minds, even speech. So don't get silly about this, please, my friends. We just keep it mature.
+Oh, I wouldn't even be saying this if it wasn't visible in the face of empathy, non-duality, and compassion. You can see past that. And that's the vital layer that's very great for a yogi to see past. Because first of all, you're seeing very deep. If you can even see your friend's pain, like, _Oh, this person is sick._ That's already layers of empathy and compassion. So multilayered cognizance, you’re seeing your mind reading, okay? Just to make this accessible, your mind reading. You are. Because everything's mind. And in the face of non-duality, that's what we do. We read each other's minds, even speech. So don't get silly about this, please, my friends. We just keep it mature.
 
 So you saw that layer of, yes, this being is sick, they are suffering. And then maybe even see another dimension into this: how they feel about it, are they handling it good, are they handling it bad? And then even further past that: what is their karmic energy, their momentum? Are they headed into more sickness? Are they headed into more trauma and confusion? Or are they headed into a kind of awakening or freedom from that body, from that sickness, from that confusion? You see, you can see all these things making sense, right? We're getting a little into woo-woo territory because it's unknown, it's mysterious, I know. But I want to put it out there only because I wouldn't even say it to you unless it was validated in my own experience. And seeing that extra layer helps out a lot to be able to see your family, your friends, your animal friends, to see where they might be after their sickness or something like that. And then seeing in your own mind, too, all this karma. That's why the past, the future is all here with us, right, in the presence.
 
@@ -58,7 +58,7 @@ Self-liberation is probably one of the key ways that we can verify the view. Bec
 
 So typically, lately, I mean, it's been so impressive, the sharing that's been going on in these groups. I've never heard anything like it, and I've been part of therapy groups to try to incorporate dharma. Like as a monk, I sat with therapists, mental health experts. The depth that we go in here is quite impressive, the amount of insight, introspection that's happening. And it's thanks to accessing the omnipresent cognitive dimension.
 
-Yep, that's right. I'm going to fancy up the terms now. #btw[Dawai laughs]. We're going to switch it from tathagatagarbha to purely present or omnipresent cognizance. Yes. There are many ways to speak about these things, but it's really about that this cognition is like space. It's conventionally speaking unchanging, as the basis of our mind and all experiences.
+Yep, that's right. I'm going to fancy up the terms now. We're going to switch it from tathagatagarbha to purely present or omnipresent cognizance. Yes. There are many ways to speak about these things, but it's really about that this cognition is like space. It's conventionally speaking unchanging, as the basis of our mind and all experiences.
 
 So it's very simple. We're either located in the movement, the experience of the mind, or we're located in the basis of the mind. The basis of the mind is free of any harm, right? Free of any birth or death. And in that regard, it's also free of confusion.
 
@@ -66,7 +66,7 @@ And so it starts off with the Eightfold Path. Right View is the first in the Eig
 
 And so there's Right Intention next, and then Right Speech, Right Action, Right Livelihood, Right Effort, Right Concentration, and Right Wisdom, or sometimes Right Mindfulness. All that is coming from recognizing and stabilizing in awareness. So you have accomplished the Four Noble Truths, the Eightfold Path, Six Perfections, the Bhumis, the Jhanas, all of that, just by stabilizing into the nature of your mind, you see?
 
-And sensitivity... it does, having a break in our mind. Our mind loves to jump on things right away, like the doggie. You throw the toy, and it's jumping right away. It's rare, but you will find sometimes a dog that throws a toy and looks at you, #btw[Dawai laughs], and then also looks at the toy, examines what's going on in that situation. You see?
+And sensitivity... it does, having a break in our mind. Our mind loves to jump on things right away, like the doggie. You throw the toy, and it's jumping right away. It's rare, but you will find sometimes a dog that throws a toy and looks at you, and then also looks at the toy, examines what's going on in that situation. You see?
 
 And so this is the same. We have space in our mind, and so we can see more dimensions. If we don't have space and security, our mind will not allow more than one or two dimensions into a situation.
 
@@ -106,7 +106,7 @@ And then anybody want to guess what becomes your highest protection? I've said i
 #speaker("Dawai", [
   Yeah, very good inquiry. Thank you for that one. Any other discussions stuff?
 
-  Alright very good. So I think we can end it here, roll the credits. I'd like to thank my producer, my mind. My director, my mind. All the actors, my mind. #btw[Dawai laughs].
+  Alright very good. So I think we can end it here, roll the credits. I'd like to thank my producer, my mind. My director, my mind. All the actors, my mind.
 ])
 
 // #speaker("Sangha 3", [

@@ -8,7 +8,7 @@ Rely on the message of the teacher, not on his personality. #linebreak() _(gang 
 
 They put "his," but I'm pretty sure that Tibetan translates as "their." Plus the teachers can be male, female, or in between.
 
-So anyway, Yeshé's trying to make me dizzy because he keeps scrolling the size of the font. #btw[Dawai laughs].
+So anyway, Yeshé's trying to make me dizzy because he keeps scrolling the size of the font.
 
 Rely on the meaning, not just on the words. #linebreak() _(tshig la mi rton/ don la rton)_
 
@@ -91,7 +91,7 @@ Yeah, pretty decent. And the sutras, I mean, those things can help, but don't wo
 #speaker("Dawai", [
  You can come to this group with all of those. Yeah that's a sutra thing, that's not really a Dzogchen thing. In fact, if you come here with hatred, that's awesome, because you're going to sit with that, and you're going to uncouple yourself from that hatred, right?
 
- Yeah, so in our 10-minute meditations, please, invite your hatred, invite your demons. I'm safe, you can't get me, we're on the internet. #btw[Dawai laughs]. You're trying to hurt somebody, and you can't #btw[Dawai messes with the camera]. No no no, you know, take it easy, of course, some maturity is kind of expected in here. But really, if you come here in a bad mood, that's awesome, everybody—or just sit on your own with it for 10 minutes. But really, if you're in here with it, you'd be surprised, even if you have the most hateful, spiteful thoughts, within a few minutes, it's gone, and you're smiling, and you're thinking about the Dharma, you're participating and stuff like that. You just allow yourself that, you have to allow yourself that, I suppose, okay?
+ Yeah, so in our 10-minute meditations, please, invite your hatred, invite your demons. I'm safe, you can't get me, we're on the internet. You're trying to hurt somebody, and you can't #btw[Dawai messes with the camera]. No no no, you know, take it easy, of course, some maturity is kind of expected in here. But really, if you come here in a bad mood, that's awesome, everybody—or just sit on your own with it for 10 minutes. But really, if you're in here with it, you'd be surprised, even if you have the most hateful, spiteful thoughts, within a few minutes, it's gone, and you're smiling, and you're thinking about the Dharma, you're participating and stuff like that. You just allow yourself that, you have to allow yourself that, I suppose, okay?
 
  All right, any other comments, questions, anything? By the way, is this your first time here?
 ])
@@ -125,7 +125,7 @@ Yeah, pretty decent. And the sutras, I mean, those things can help, but don't wo
 ])
 
 #speaker("Dawai", [
- Well, thanks for that introduction, let me read what you typed here, okay? And please welcome him, he seems like a great person, right? Great little background to come here with, I think that's awesome, thank you for connecting. Thank you Yeshé, for continuing to provide people with support—that means a lot to me, Yeshé, and everybody who even shows love on YouTube, because I'm saying "on the YouTube" now, #btw[Dawai laughs], but anyway on YouTube, because there are many, many people out there that are very thirsty for Dzogchen, for the simplicity, and people who could use some support. So it means a lot to me when people are connecting to those channels and finding this group. We don't advertise—you still have to make it to where you kind of meet the group auspiciously. You're not going to meet this group through some kind of advertisement, unless it's something I don't know about, but you're going to find it on your own, which is a beautiful part of this group.
+ Well, thanks for that introduction, let me read what you typed here, okay? And please welcome him, he seems like a great person, right? Great little background to come here with, I think that's awesome, thank you for connecting. Thank you Yeshé, for continuing to provide people with support—that means a lot to me, Yeshé, and everybody who even shows love on YouTube, because I'm saying "on the YouTube" now, but anyway on YouTube, because there are many, many people out there that are very thirsty for Dzogchen, for the simplicity, and people who could use some support. So it means a lot to me when people are connecting to those channels and finding this group. We don't advertise—you still have to make it to where you kind of meet the group auspiciously. You're not going to meet this group through some kind of advertisement, unless it's something I don't know about, but you're going to find it on your own, which is a beautiful part of this group.
 ])
 
 #speaker("Sangha 2 (chat)", [
@@ -133,7 +133,7 @@ Yeah, pretty decent. And the sutras, I mean, those things can help, but don't wo
 ])
 
 #speaker("Dawai", [
- Oh, wow, man, wow. That's very nice of you. I didn't know the comment was going to be like that. Didn't know you're going to make me cry. #btw[Dawai laughs]. All right, see, you don't want to adopt the personality of the teacher—you'd be crying like a little baby every time you see a frickin' sad commercial or something. You know?
+ Oh, wow, man, wow. That's very nice of you. I didn't know the comment was going to be like that. Didn't know you're going to make me cry. All right, see, you don't want to adopt the personality of the teacher—you'd be crying like a little baby every time you see a frickin' sad commercial or something. You know?
 
  #btw[Dawai reads a different chat message]. Okay, very good. Oh, you thought it was one of your recruits, but it was not one of your recruits, so we take away your referral bonus. We have to add on the 10 karmas back to your karmic cycle.
 ])

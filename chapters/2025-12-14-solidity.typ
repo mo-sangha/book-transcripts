@@ -37,7 +37,7 @@ Okay, so any questions about this stuff? Comments, anything? Yes, join on in the
 #speaker("Dawai", [
   I definitely would agree that there's a vulnerability involved. Some people are a little bit gung-ho—they don't mind complete release. For example, nowadays, like Alan Watts says, a lot of people that use drugs and things like that are really just mystics, right? They're contemplatives, and they're basically renouncing this life—that's why they're on the drugs or on the alcohol, whatever—because they're renouncing this conditioned reality that's built now off somebody else's condition. We're basically subscribing to somebody else's dream that has been force-fed into our minds. It's been psychologically injected through propaganda—endless propaganda over generations—and just essentially mind games, cosmic violations, dealing with the psyche.
 
-  And so we have to understand that we're repossessing our sovereignty here. I mean, in many countries, we could not even be talking about this right now. Over hundreds and hundreds of years, it would be illegal for us to talk about this or even explore this—we would get persecuted, at the very least culturally ostracized and things like that. So us just joining together right now in the name of liberating our minds is quite revolutionary. Wait, what was the question? #btw[Dawai laughs].
+  And so we have to understand that we're repossessing our sovereignty here. I mean, in many countries, we could not even be talking about this right now. Over hundreds and hundreds of years, it would be illegal for us to talk about this or even explore this—we would get persecuted, at the very least culturally ostracized and things like that. So us just joining together right now in the name of liberating our minds is quite revolutionary. Wait, what was the question?
 ])
 
 #speaker("Sangha 1", [
@@ -47,9 +47,9 @@ Okay, so any questions about this stuff? Comments, anything? Yes, join on in the
 #speaker("Dawai", [
   And I believe there could be a threshold there where you're like, "Okay, I feel empty and alone." But then you start to... because that's just a dependency leaning back into conditioning, saying, "Give me some kind of sense appearance for my security." But then you start to witness security in a way broader range. Security, confidence, nourishment that we've never had before from the sense world can come from this presence.
 
-  And so it's not so much about dissolving the elements into light and taking great acid trip through infinite dimensions and things like that—it's not so much about that. The main point of this Tögal light practice is to ease your subscription, your bondage to the sense world. And that's what mushrooms and acid and all kinds of stuff will do that. Staring out of a sunrise can do that. Licking frogs—certain frogs can do that. #btw[Dawai laughs]. But just love for a friend or something like that could—anything could show us signs outside of the cartoon. It's not like Dzogchen owns that, right? But Dzogchen can stabilize us outside of the cartoon—that's one thing for sure.
+  And so it's not so much about dissolving the elements into light and taking great acid trip through infinite dimensions and things like that—it's not so much about that. The main point of this Tögal light practice is to ease your subscription, your bondage to the sense world. And that's what mushrooms and acid and all kinds of stuff will do that. Staring out of a sunrise can do that. Licking frogs—certain frogs can do that. But just love for a friend or something like that could—anything could show us signs outside of the cartoon. It's not like Dzogchen owns that, right? But Dzogchen can stabilize us outside of the cartoon—that's one thing for sure.
 
-  And then it can also provide relative relief, like increased visibility in your life—just more awareness over your own habits, your own mind—this can be quite a relief. Learning to let your emotions be and settle in their own place is very, very powerful on a relative level. It just so happens that this path is the one that can take you all the way to the other side—as Jim Morrison's recommending. No dad joke credit for that one? #btw[Dawai laughs].
+  And then it can also provide relative relief, like increased visibility in your life—just more awareness over your own habits, your own mind—this can be quite a relief. Learning to let your emotions be and settle in their own place is very, very powerful on a relative level. It just so happens that this path is the one that can take you all the way to the other side—as Jim Morrison's recommending. No dad joke credit for that one?
 
   Now what was the first part of your inquiry there?
 ])
@@ -149,11 +149,11 @@ Okay, that's one of my favorite topics there because I feel like you can reposse
 ])
 
 #speaker("Sangha 5", [
-  Yeah. #btw[Dawai laughs].
+  Yeah.
 ])
 
 #speaker("Dawai", [
-  Because you're a little minor. Sorry, I had to. #btw[Dawai laughs]. My head got stuck on a joke. For those who don't know, he's actually a minor. The joke is perfect: he has a little minor question. All right. Corny joke for the day accomplished. Go ahead, ask about the chart now.
+  Because you're a little minor. Sorry, I had to. My head got stuck on a joke. For those who don't know, he's actually a minor. The joke is perfect: he has a little minor question. All right. Corny joke for the day accomplished. Go ahead, ask about the chart now.
 ])
 
 #speaker("Sangha 5", [
@@ -227,7 +227,7 @@ Okay, that's one of my favorite topics there because I feel like you can reposse
 ])
 
 #speaker("Dawai", [
-  Of course, yeah. Probably had it for rolling a cigarette. Smoking on the Diamond Sutra. #btw[Dawai laughs].
+  Of course, yeah. Probably had it for rolling a cigarette. Smoking on the Diamond Sutra.
 ])
 
 #speaker("Sangha 5", [

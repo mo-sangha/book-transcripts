@@ -9,7 +9,7 @@ First of all, I'm very, very grateful again to be in the presence of so many peo
 
 We have these Dharma talks, they're very powerful, and we have these practices, and it takes checking out of your comfort zone to embrace these practices and what's being introduced here, so just very good on you. And thank you for joining those of us who prioritize freedom.
 
-It's so easy to say, well, I have my food, I have my sex, you know, I have my money, my comforts, I'm done. I don't need anything else in life. And the doggies do that too. #btw[Dawai laughs]. They say I have my food, I have my comforts, that's all I need, right? And they don't even really care about introspection, for example. But do you want to live like a dog? Like, I love the dogs so much, right? They're my best friends, but, #btw[Dawai laughs], like, the scope of awareness, there's a lot going on that a dog isn't seeing. And the dog is confined into its own desires, usually---a lot of dogs, I don't want to generalize, but typically the dog is confined into those desires and humans get like that too.
+It's so easy to say, well, I have my food, I have my sex, you know, I have my money, my comforts, I'm done. I don't need anything else in life. And the doggies do that too. They say I have my food, I have my comforts, that's all I need, right? And they don't even really care about introspection, for example. But do you want to live like a dog? Like, I love the dogs so much, right? They're my best friends, but, like, the scope of awareness, there's a lot going on that a dog isn't seeing. And the dog is confined into its own desires, usually---a lot of dogs, I don't want to generalize, but typically the dog is confined into those desires and humans get like that too.
 
 We can just be like a dog, got my food, I'm good. Right? And never entertain the possibility that you're just in a comfort zone of unhappiness, essentially you're trapped. You're thinking that because you have this food and these few superficial needs are met, that somehow that's it. And in a way, simplicity, it's true, you can find completion in simplicity. But if you're just programmed to suppress everything, and be comfortable with your food and your house and your air conditioning and everything, this is a kind of slumber. Right?
 
@@ -21,7 +21,7 @@ I'm saying the same thing. You know, we're following a dream here, a dream world
 
 I'm preaching to the choir a little bit here in this group. Now many of you notice, and many of you have heard me repeat these things in our live gathering here, but this is worth trying, everybody. To be stuck in these stories and these thoughts and these old habits---just to look at them. Just to turn awareness in on itself or cognition in on itself, use awareness and see your own mind. What kind of thoughts are you having? Are they one thought after another? Are you able to stop the thoughts?
 
-#btw[Dawai has no thoughts for a few moments, and then laughs]. Huh?
+#btw[Dawai pauses for a few moments]. Huh?
 
 Why are you still thinking?
 
@@ -33,7 +33,7 @@ Give it a try! And we're not going anti-thought, of course not. We're going anti
 
 Now you can isolate a thought. We have one thought, "The weather is cold." Let that be our only thought. "The weather is cold." Noticing its texture, its length, its coming, its abiding, and its going. "The weather is cold."
 
-Where is that thought happening? Don't think about it. #btw[Dawai laughs]. Just notice the space where that thought is happening, that's why we isolate the thought. We want to start to connect with the basis for that thought, the base cognition.
+Where is that thought happening? Don't think about it. Just notice the space where that thought is happening, that's why we isolate the thought. We want to start to connect with the basis for that thought, the base cognition.
 
 And no matter what thought you're having, you're free. Anyone not able to isolate a thought? Or become mono-minded? I know there are more thoughts happening from most of you than just "the weather is cold." If you're taking my invitation to become mono-minded, then thank you, I know that's kind of tricky. So everybody here is pretty much accessing this, right?
 
@@ -156,7 +156,7 @@ Yes, please.
 
   It may seem like on the surface, you're caught up in your moods, and you're caught up in your day and something agitates you. But there will always, always be this recognition of a higher cognition, a higher consciousness, this very basis that holds the thought. You have seen it. You can no longer be captivated. You can no longer be hurt. You understand? That's why it means so much to me to go into this together.
 
-  And I have no presentation skill, I have no manners. You know, I grew up with no parents, like teaching me anything and no schooling, and so I'm sorry if it comes across rough or weird or anything like that. I don't know what normal is, and I don't know how to act sometimes #btw[Dawai laughs]; I just go by what I got. But this is it everybody, if you can just, (well, thank you but) if you could just find this everybody, you will be okay, you know? Alright, I think Sangha 3 was next, there.
+  And I have no presentation skill, I have no manners. You know, I grew up with no parents, like teaching me anything and no schooling, and so I'm sorry if it comes across rough or weird or anything like that. I don't know what normal is, and I don't know how to act sometimes; I just go by what I got. But this is it everybody, if you can just, (well, thank you but) if you could just find this everybody, you will be okay, you know? Alright, I think Sangha 3 was next, there.
 ])
 
 #speaker("Sangha 3", [
@@ -168,7 +168,7 @@ Yes, please.
 #speaker("Dawai", [
   Yeah, very good. You know, this is wonderful. It shows the power of your emanating mind and multifaceted mind. They had this trope going around that people can only think one thought at a time, which is ridiculous, right. Compared to what you're doing here, you're showing that obviously your mind is multifaceted. So yes, you can actually somehow speak from some place in consciousness and still hold that thought at the same time.
 
-  You know maybe we could say it's like the... #btw[Dawai laughs], the rubbing the belly and patting the head thing. #btw[Dawai laughs]. Except you have this great Avalokiteshvara mental ability to emanate across dimensions and realities and things. That's what originally in the ancient Vedas, Ishvara meant that, you know, the very fabric of this and the creator all in one. So you have this ancient trichotomy there with Brahma. Vishnu and Shiva, right? Which happens with every one of these thoughts.
+  You know maybe we could say it's like the... the rubbing the belly and patting the head thing. Except you have this great Avalokiteshvara mental ability to emanate across dimensions and realities and things. That's what originally in the ancient Vedas, Ishvara meant that, you know, the very fabric of this and the creator all in one. So you have this ancient trichotomy there with Brahma. Vishnu and Shiva, right? Which happens with every one of these thoughts.
 
   The thought comes, Brahma, it abides, Vishnu, and then it destroys Shiva. So you have the Ishvara here, connected to Avalokiteshvara, by the way, for those Dharma nerds out there. It's the very... we're just playing with mind, we're just playing with consciousness. Just... you are the spider, you know, weaving the web.
 
@@ -180,7 +180,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  #btw[Dawai laughs]. Well, using two of their arms. Yeah, Indra's web is what gets... where we're in Indra's web in this gathering right now.
+  Well, using two of their arms. Yeah, Indra's web is what gets... where we're in Indra's web in this gathering right now.
 
   So now we can isolate a thought and... go ahead.
 ])
@@ -203,11 +203,11 @@ Yes, please.
 ])
 
 #speaker("Sangha 5", [
-  Something clicked when you told Sangha 1 that it was about isolating mental formations. So I had just ordinary perception, and in that was repeating "The weather is cold." And I finally understand what a thought is. And through that I know what all the other thoughts are, they're all mental formations. #btw[Sangha 5 laughs]. And my head is full of mental formations all the time so this is interesting, interesting exercise. Thank you.
+  Something clicked when you told Sangha 1 that it was about isolating mental formations. So I had just ordinary perception, and in that was repeating "The weather is cold." And I finally understand what a thought is. And through that I know what all the other thoughts are, they're all mental formations. And my head is full of mental formations all the time so this is interesting, interesting exercise. Thank you.
 ])
 
 #speaker("Dawai", [
-  You had a realization. #btw[Dawai laughs]. I'm chipping away at you guys. #btw[Dawai laughs]. Very good. Yeah, Sangha 1, ask a few more questions and they will become Buddhas. #btw[Dawai laughs].
+  You had a realization. I'm chipping away at you guys. Very good. Yeah, Sangha 1, ask a few more questions and they will become Buddhas.
 
   This is so powerful everybody and we've spent nearly the entire session on this topic, which isn't very long comparatively speaking, this Dharma train moves fast here. So what you're seeing, you know most people wouldn't be introduced to this kind of thing after years and years of meditation and mindfulness practice and things like that. So please don't be going hard on yourself, let yourself naturally get good at this. It's possible and it's extremely liberating.
 
@@ -229,15 +229,15 @@ Yes, please.
 #speaker("Dawai", [
   Yeah, we had that last session and I maybe should have specified that reinvoking the thought is fine. That's what I mean by mono-minded. You're just having one thought. You're letting it, ideally you would notice the echoing out of that thought. That's the dissolution. We want those three phases of the thought to be seen: its creation, its abiding and its dissolution. Those are three very important stages for just to witness those, because then you can notice panic and, and, know, heavy feelings, traumas. You can notice their arising, their abiding and their cessation. That is the superpower.
 
-  So if I have a thought, let's say... I want to pick something that's as less complicated as possible. "The hand has five fingers." Is that good? Is that debatable? #btw[Dawai reads the chat and laughs]. Well, yeah, I guess it is, uh, false; Sangha 1 said "false."
+  So if I have a thought, let's say... I want to pick something that's as less complicated as possible. "The hand has five fingers." Is that good? Is that debatable? #btw[Dawai reads the chat]. Well, yeah, I guess it is, uh, false; Sangha 1 said "false."
 
-  "Birds fly." There we go. Two words. "Birds fly." Very easy. I know some birds don't fly, but we're gonna just stop. Not talk about penguins. #btw[Dawai laughs]. Don't do it... I can read your mind. So, "Birds fly." Obviously just that, those two words are already invoking us to get silly, you see? I mean, that's the power of thought, just noticing that, just how did those two words cause us to act that silly? #btw[Dawai laughs]. Just little sounds, basically, little vibrations. So as long as we begin to notice the effect that thoughts have and how they abide, what they look like, their texture, their tone, their frequency, their vibrations, this is all that's needed.
+  "Birds fly." There we go. Two words. "Birds fly." Very easy. I know some birds don't fly, but we're gonna just stop. Not talk about penguins. Don't do it... I can read your mind. So, "Birds fly." Obviously just that, those two words are already invoking us to get silly, you see? I mean, that's the power of thought, just noticing that, just how did those two words cause us to act that silly? Just little sounds, basically, little vibrations. So as long as we begin to notice the effect that thoughts have and how they abide, what they look like, their texture, their tone, their frequency, their vibrations, this is all that's needed.
 
   So if we have "birds fly," let's just become clear canvas, that's our thought, and it leaves a little bit of a trace before it vanishes completely. "Birds fly."
 
   Now the space is going to increase between your invocations. You can still see it flying around your mind so be careful not to reinvoke it prematurely. There may still be a trace of that thought there. For me, I can still right now see a trace of that thought, without deliberately invoking it.
 
-  What was it? Birds poop? Oh, "Birds fly." #btw[Dawai laughs]. I got you guys. Okay so very good.
+  What was it? Birds poop? Oh, "Birds fly." I got you guys. Okay so very good.
 
   Go ahead...
 ])
@@ -297,7 +297,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  #btw[Dawai laughs]. Here you go, you made it sound very sweet.
+  Here you go, you made it sound very sweet.
 ])
 
 #speaker("Sangha 7", [
@@ -311,11 +311,11 @@ Yes, please.
 ])
 
 #speaker("Sangha 6", [
-  Yeah. Wow. #btw[Sangha 6 laughs].
+  Yeah. Wow.
 ])
 
 #speaker("Dawai", [
-  #btw[Dawai laughs]. There's always more. But important for everybody to know the context that from this Palyul context that I've adopted from Karma Chagme in the 1600s, this is a union of Mahamudra and Dzogchen, but a union of Samatha and Vipassana too.
+  There's always more. But important for everybody to know the context that from this Palyul context that I've adopted from Karma Chagme in the 1600s, this is a union of Mahamudra and Dzogchen, but a union of Samatha and Vipassana too.
 
   Those people that separate Samatha and Vipassana, that's a whole different method, that's a whole different technique and style. I would never ever separate them because the second you bring awareness into your body, for example, like everybody can do this, just bring awareness or bring your neck into awareness.
 
@@ -344,7 +344,7 @@ Seems like with this practice, there's a core assumption that's different from h
 
   Is that making sense? But you're right, generally speaking, you're right. There's a whole different kind of vantage point now. Yeah from remedies to letting be. From inference and imputation to revelation. It's a completely different trajectory here, and that's why I'm happy so many of you are taking part in it. And in such a short time, we've gathered together too.  Just this year has been very powerful for this group.  I'm very happy that you all, because you all will continue to  bring this approach into the collective, into your worlds, and benefit many beings like that. Right?
 
-  This is the only way to be free. You know, we have to reorientate into this kind of approach because the latter has not been working. The former has not been working. #btw[Dawai laughs]. My ladder works just fine, dang it! #btw[Dawai laughs]. But this is... I got you guys, some of you guys I got on that one pretty good.  Don't worry, I got myself too. Whenever I get you, I get myself. Laughter is contagious, isn't it?
+  This is the only way to be free. You know, we have to reorientate into this kind of approach because the latter has not been working. The former has not been working. My ladder works just fine, dang it! But this is... I got you guys, some of you guys I got on that one pretty good.  Don't worry, I got myself too. Whenever I get you, I get myself. Laughter is contagious, isn't it?
 
   All right. But this is, you know, so beautiful to see and always, you know, kind of reminding you of how exceptional it is. Please cherish and  continue to be humble about it the way you've been and not water it down with this materialism or you know, trying to sell it and market it and all these things. It's a sacred, profound truth, that's accessed through sincerity and honesty and  innocence. Yeah, so high praise to you all for that, and we'll just keep on, you know, keeping this medicine alive.
 
@@ -356,7 +356,7 @@ Seems like with this practice, there's a core assumption that's different from h
 ])
 
 #speaker("Dawai", [
-  Deep bows everyone, Yodi said woo woo. #btw[Dawai laughs].
+  Deep bows everyone, Yodi said woo woo.
 ])
 
 #archive_minimal("December 22, 2025", "Thought isolation practice", "https://www.youtube.com/watch?v=a07yZ3ANyLE")

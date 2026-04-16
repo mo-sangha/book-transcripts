@@ -10,7 +10,7 @@ So let's say these little circles were ego, Yeshe's constructed self and my cons
 
 And so now we're moving around, we're even talking to each other and Yeshé tells me, hey, we're all part of this canvas, this canvas is all we are, it's the whole thing.
 
-And I say, oh!! #btw[Dawai laughs]. And the circle breaks open, Yeshe's circle breaks open. You see? And then now there's holistic, just abiding in a great evenness that way.
+And I say, oh!! And the circle breaks open, Yeshe's circle breaks open. You see? And then now there's holistic, just abiding in a great evenness that way.
 
 But our minds are never separate, so we're not really two little circles like that. Our minds are concentric, like Indra's net but on the same canvas. So there is a divinity, there is something that's... You know, you have your own mind paradoxically, and I know this is sounding like theory, but we need some of this theory in order to complement our realization sometimes. So you have your own mind, even if it's non-dual and even if it's on the part of the great canvas, right, part of this great cognizance.
 
@@ -49,7 +49,7 @@ Making sense, right?  Want to jump in there?
 ])
 
 #speaker("Dawai", [
-  Well that's what we do, we take... If this is all cognizance, a pure base of infinite cognition, and let's say you're just resting in that, purely happy. Then somebody offers you an apple. I'm just kidding. #btw[Dawai laughs], that's a reference to Adam and Eve, you have to be super corny to get that one, but um, so really…
+  Well that's what we do, we take... If this is all cognizance, a pure base of infinite cognition, and let's say you're just resting in that, purely happy. Then somebody offers you an apple. I'm just kidding. That's a reference to Adam and Eve, you have to be super corny to get that one, but um, so really…
 
   So you're here resting in this pure cognition. Inseparable. Perfect. I imagine there's still play, there's still compassion; but it's something beyond imagination. Let's say this is if you're a total pure consciousness merged with pure consciousness, okay?
 
@@ -131,7 +131,7 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 ])
 
 #speaker("Dawai", [
-  #btw[Dawai laughs]. Yes, an omnipresence is also synonymous, correlates with empathy and compassion. Omniscience correlates with compassion. The deeper empathy and compassion you have, the more apparent our natural telepathy and clairvoyance will be.
+  Yes, an omnipresence is also synonymous, correlates with empathy and compassion. Omniscience correlates with compassion. The deeper empathy and compassion you have, the more apparent our natural telepathy and clairvoyance will be.
 
   Obviously, even as we're speaking right now, you're decoding the words that I'm saying, which are just sounds, just vibrations, but your mind is making something out of them. And the same is for any feelings you're getting right now or any thoughts you're having. We are in an interchange right now and reflecting each other in that way, it's a nexus.
 
@@ -147,7 +147,7 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 
   Okay, very nice, very good.
 
-  So these are exciting topics that don't get explored very often, at least not out there in the known Dharma world, at least that I know of anyway—how to correlate things like super-cognitions with sensitivity. Today has been this, one of many wonderful themes happening today, actually. So part of that theme, part of our discussion has been wholeness, the fourth samaya of oneness, that I imagine we're getting to in the Longchenpa text. It's oneness without melting into oneness, right? #btw[Dawai laughs]. So it's not a complete loss of agency in the conventional sense of the word.
+  So these are exciting topics that don't get explored very often, at least not out there in the known Dharma world, at least that I know of anyway—how to correlate things like super-cognitions with sensitivity. Today has been this, one of many wonderful themes happening today, actually. So part of that theme, part of our discussion has been wholeness, the fourth samaya of oneness, that I imagine we're getting to in the Longchenpa text. It's oneness without melting into oneness, right? So it's not a complete loss of agency in the conventional sense of the word.
 
   Okay, very nice. Any other comments going on?
 ])

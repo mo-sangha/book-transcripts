@@ -74,7 +74,7 @@ And these patterns go very deep. You know, we get very philosophical and analyti
 
 Even the four samayas are all about letting it be, which The Way of Abiding by Longchenpa has to be my favorite text, my favorite Dzogchen text, and probably the manual for our group. And I can't believe how misunderstood it is by academics and practitioners alike. Perhaps they never took the time to read it; it's a big book, you know, maybe they're just getting the cliff notes? But that book goes into depth about ineffability, which people translate that in all kinds of weird ways, like “non-existence.” And yes, the book talks about non-existence, but it also clearly defines ineffability.
 
-Tank just let one rip. #btw[Dawai laughs]. There's nothing like a dog fart when you're meditating, talk about let it be; if you can let that be, then you are getting leveled up there, Buddha level, you know.
+Tank just let one rip. There's nothing like a dog fart when you're meditating, talk about let it be; if you can let that be, then you are getting leveled up there, Buddha level, you know.
 
 So anyway, various other kind of exotic translations, I'm not going to name the translators, I'm trying to, you know, be respectful here. I don't really want to disrespect anybody or be unkind, you know, but these translations are ridiculous.
 

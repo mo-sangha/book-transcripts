@@ -14,7 +14,7 @@ So, the fourth pond is pristine—pristinely pure.
 
 Just knowing when you're in a pond is good enough. And these ponds correspond with the spectrum of cognition. The coarse linguistic narrator is an electromagnetic, psychic confine.
 
-I'm very sorry to say, but when I hear all these spiritual teachers just giving data dumps, these videos and stuff like that, and these conferences, there's not a single pause: neither dog nor attention. #btw[Dawai laughs]. There aren't any dog paws and there aren't any pauses in their electromagnetic data dump.
+I'm very sorry to say, but when I hear all these spiritual teachers just giving data dumps, these videos and stuff like that, and these conferences, there's not a single pause: neither dog nor attention. There aren't any dog paws and there aren't any pauses in their electromagnetic data dump.
 
 Please if you catch yourself talking, talking, talking, talking—other person talking, talking, talking—you talking, talking, talking... Or if you're talking to a group of people talking, talking, talking, talking, and you're not breathing, you're not pausing, then you are in that pond: the whirlpooling. This is the most common place humans meet each other at. You can feel it when two people are conversing---there's an electric connection there, sometimes very difficult to break. Think at a bar; think when you have a meeting with somebody and you're the only two people there, and you're talking, talking, talking, talking. You can tune into that: you can feel it lobe to lobe; it's a kind of lovemaking.
 
@@ -34,7 +34,7 @@ That's right, we're practicing lots of awkward silence today. It's no longer bec
 
 So when the coarse linguistic narrative releases that constant perpetuation, and the heart is able to breathe a little bit. Now any sense of substantiality, any sense of division—a reference point—is able to breathe; it's no longer contracted either. There's levels to this thing, okay? Get out of the thinking mind, get out of the emotions, get out of the apprehension—the reference point.
 
-And these words will always come up a little short, right? But basically what's happening here is a fist that's been contracted is finally allowed to release. And you have the fists everywhere, #btw[Dawai gestures towards various points on the body], and the head just releasing. We have lots of room here. It's like if you had a hundred acres of forest, and you built a little bitty box under a tree, and you crawled inside this box, and you tried to live there, and you're kind of looking around: "This is my home, #btw[Dawai laughs], I can't really have guests, it's too small." And then some fly gets in your box—"Oh my god, this is crazy, get this thing out of here!" #btw[Dawai laughs].
+And these words will always come up a little short, right? But basically what's happening here is a fist that's been contracted is finally allowed to release. And you have the fists everywhere, #btw[Dawai gestures towards various points on the body], and the head just releasing. We have lots of room here. It's like if you had a hundred acres of forest, and you built a little bitty box under a tree, and you crawled inside this box, and you tried to live there, and you're kind of looking around: "This is my home, I can't really have guests, it's too small." And then some fly gets in your box—"Oh my god, this is crazy, get this thing out of here!"
 
 Your mind is vast, spacious---more spacious than space. You're aware of space, space is in your awareness, the whole planet is, the sun and the moon. More spacious than space... You don't need to live in a box.
 
@@ -43,9 +43,9 @@ So that's all I wanted to share today. What do you think? Any comments, question
 When you go to sleep and you have a dream, you feel solids, you can smell stuff. How the heck is your mind doing that—creating the feeling of solidity? I went in my dream and I got smacked upside the head, even shook your body when it happened. How did your mind create that? There was no smack. You never got hit.
 
 Just like that everybody, there's no smack now. You can see yourself like when a dog looks at you. When a dog looks at you it's just—it doesn't know you have a PhD. It doesn't know that you really messed up last year with your partner. It doesn't know that you drive a car; nothing. The dog just looks at you: #btw[Dawai makes panting noises].
-Can you look at each other like that? Minus the tongue—you don't need to have the tongue, the tongue is optional. #btw[Dawai laughs].
+Can you look at each other like that? Minus the tongue—you don't need to have the tongue, the tongue is optional.
 
-But look at the innocence there, because a dog isn't over-conceptualizing, isn't writing a story about each individual person. A dog is a dog. Maybe little stories. #btw[Dawai laughs]. Little Bear does seem to treat me a little different than other people that come visit. But still, there's this blank slate when they look at you. Maybe you could look at yourself like that too.
+But look at the innocence there, because a dog isn't over-conceptualizing, isn't writing a story about each individual person. A dog is a dog. Maybe little stories. Little Bear does seem to treat me a little different than other people that come visit. But still, there's this blank slate when they look at you. Maybe you could look at yourself like that too.
 
 And believe me, you can still have all your accomplishments, all your plaques on the wall, your entire biography can still be there, now with a lightness. PhD, no PhD, all good. Same thing as the banana, when you just imagine yourself as the banana. All of a sudden all the stories are clear, the identity constructs—all of it.
 

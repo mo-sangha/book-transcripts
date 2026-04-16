@@ -12,9 +12,9 @@ So if I'm resting here and I'm just noticing any thoughts, I'm having thoughts a
 
 Then notice what kind of thoughts: narrations, images, song in your head, the movement. That's the internal movement, right? So-called. If you're able to just do that, just have awareness of thoughts, you're already in a different phase of the mind.
 
-So, look at the ants. You know, no offense to the ants, I love the ants so much, actually, but they're really on a mission. If I was to say, “Hey ant, can you stop serving the Queen for a second or whatever you're doing, and pay attention to me so I could teach you a breath meditation?” The ant would not stop. "I am on a mission. I don't want to hear all this woo-woo stuff right now." #btw[Dawai laughs].
+So, look at the ants. You know, no offense to the ants, I love the ants so much, actually, but they're really on a mission. If I was to say, “Hey ant, can you stop serving the Queen for a second or whatever you're doing, and pay attention to me so I could teach you a breath meditation?” The ant would not stop. "I am on a mission. I don't want to hear all this woo-woo stuff right now."
 
-So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_. #btw[Dawai laughs].
+So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_.
 
 Everybody understanding that, right? How we can psychically isolate ourselves, and that becomes emotive to the intense feelings associated.
 
@@ -42,7 +42,7 @@ I just see the question here.
 ])
 
 #speaker("Dawai", [
-All right, we're gonna slowly build up here, okay? We're just trying to make this accessible for the people who are just getting into the meditations and things like that. So we want all this to be accessible. If there's any point in which I'm speaking, something becomes inaccessible to you, for example, if I say, "Hey, just rest in Dharmakāya emptiness," you're gonna be like, "What?" #btw[Dawai laughs].
+All right, we're gonna slowly build up here, okay? We're just trying to make this accessible for the people who are just getting into the meditations and things like that. So we want all this to be accessible. If there's any point in which I'm speaking, something becomes inaccessible to you, for example, if I say, "Hey, just rest in Dharmakāya emptiness," you're gonna be like, "What?"
 
 A lot of you, and now some of you know exactly that that's synonymous with awareness, that's synonymous with pure presence. No problem. But the mind tends to overcomplicate things.
 
@@ -120,7 +120,7 @@ And so I believe [name] is still here, or no? Yes. So, he kind of inspired this 
 
 So that's why I say, when we do our short sessions, these are all the things that you're bringing into presence. You don't have to deliberately bring them in. They're already here within pure presence.
 
-So for some of you, it may be like taking a bath—your whole body, including that neck and that head tension, is within awareness right now. And you're allowing it some time to relieve, for that contraction to alleviate. Just like a fist. How you would allow it to just, by not doing anything, and in fact, you're stopping the doing because it takes doing to clench a fist. Power to the people! #btw[Dawai laughs]. But anyway, so when you are clenching that fist, it's a doing, and then you stop doing, and there's a release.
+So for some of you, it may be like taking a bath—your whole body, including that neck and that head tension, is within awareness right now. And you're allowing it some time to relieve, for that contraction to alleviate. Just like a fist. How you would allow it to just, by not doing anything, and in fact, you're stopping the doing because it takes doing to clench a fist. Power to the people! But anyway, so when you are clenching that fist, it's a doing, and then you stop doing, and there's a release.
 
 That's exactly what's happening in our necks right now, or most of the time. And so, there's absolutely nothing to do about it. No moving around, all this stuff. You could actually hurt yourself if you do that rolling the neck thing too fast. Rolling the neck is very, very good in its proper context, okay?
 
@@ -234,7 +234,7 @@ And I'd say at the base. Look at Kristoff Koch and maybe others, like a lot of p
 #speaker("Sangha 4", [Oh, that makes sense. Okay, okay, thank you, thank you.])
 
 #speaker("Dawai", [
-  Mm-hmm. Thank you. And way to accept that challenge, you know. I know I challenge you a little bit, and you're one of the best I've ever seen at accepting those challenges. Seeing how you yourself, I just got to put that out there—they can react any way. You get upset, even, we all. I'm not saying that they got upset, but if they were to get upset, they would be able to see it first. It's pretty amazing when you're working with people like that. Like, oh, I saw how I got upset by what you said, or, and then also trusting me, like maybe I could be more delicate with my speech. So awareness is teaching me, it's teaching them. You see, that's how to build a healthy relationship right there—and you have your insight, and you trust each other, you know. You're gonna see your bullshit, I'm gonna see my bullshit. #btw[Dawai laughs]. But I'm just very proud of you, because the way you can reflect and correct, the way you can stay in the presence is amazing. It's very good.
+  Mm-hmm. Thank you. And way to accept that challenge, you know. I know I challenge you a little bit, and you're one of the best I've ever seen at accepting those challenges. Seeing how you yourself, I just got to put that out there—they can react any way. You get upset, even, we all. I'm not saying that they got upset, but if they were to get upset, they would be able to see it first. It's pretty amazing when you're working with people like that. Like, oh, I saw how I got upset by what you said, or, and then also trusting me, like maybe I could be more delicate with my speech. So awareness is teaching me, it's teaching them. You see, that's how to build a healthy relationship right there—and you have your insight, and you trust each other, you know. You're gonna see your bullshit, I'm gonna see my bullshit. But I'm just very proud of you, because the way you can reflect and correct, the way you can stay in the presence is amazing. It's very good.
 ])
 
 #speaker("Sangha 4", [

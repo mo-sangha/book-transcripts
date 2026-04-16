@@ -47,7 +47,7 @@ But why can't we stick together? Because we're fighting about beliefs. All the n
 ])
 
 #speaker("Dawai", [
-  #btw[Dawai laughs]. But you know, under compassion, under relentless insistence on peace. And if all the people united under that, they'd be safer, they'd be better off, the world would be better off. Instead we play all these games with all these countries and force all these laws onto people, and all these things. And all the propaganda getting shoved into people's minds is the basis. This is psychological warfare.
+  But you know, under compassion, under relentless insistence on peace. And if all the people united under that, they'd be safer, they'd be better off, the world would be better off. Instead we play all these games with all these countries and force all these laws onto people, and all these things. And all the propaganda getting shoved into people's minds is the basis. This is psychological warfare.
 
 Well, in my little fantasy, there has been and will be a time again where beings are just beings without the labels, you know? There's no reason to fight each other at all. There's no reason to hurt animals at all. And that's radical, isn't it? Just like we gotta let ourselves be loved, we gotta let ourselves be enlightened, we gotta allow ourselves to be enlightened, we gotta allow world peace. We gotta allow that great peace. Never know what could happen.
 
