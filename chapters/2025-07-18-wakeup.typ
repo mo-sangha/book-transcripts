@@ -20,7 +20,7 @@ We begin to impregnate the infinite with boundary constraints and build great wa
 
 But isn't it true, on a psychosomatic level, that we sort of feel boxed in, don't we? When we're in a car, we feel like we're in a car, we don't feel like space, wide open space, just because we're not used to it. So you see, this is truly like an eggshell, isn't it? An eggshell of constructs, patterned, moving mind that creates walls. Electromagnetically, this is not anti-scientific.
 
-So by recognizing the nature of mind, we say, oh, we start where we're in our turtle shell: thoughts. The thoughts, they're like a turtle shell, OM MANI PADME HUM, I absolutely love turtles. I'm not dissing on turtles, but let's just take it as an example, okay? When we're in our thoughts, we just cannot see the shell; the shell is invisible.
+So by recognizing the nature of mind, we say, oh, we start where we're in our turtle shell: thoughts. The thoughts, they're like a turtle shell, OM MANI PADME HUNG, I absolutely love turtles. I'm not dissing on turtles, but let's just take it as an example, okay? When we're in our thoughts, we just cannot see the shell; the shell is invisible.
 
 So isn't it preoccupying your mind? This is how we get fanaticism, like people ending their lives, people killing others, and doing all types of extreme things. Because we're believing the thoughts, we're believing in them, and we're saying, "Yes, I've elected you to be my president, I've elected you to be my dictator," actually, not a president, maybe you didn't even elect that guy.
 

@@ -351,12 +351,12 @@ Seems like with this practice, there's a core assumption that's different from h
   Well thank you so much. I appreciate you all, I really do. And the love that you have given me has probably very literally kept me alive in more ways than one. So, yeah, I'm just as much appreciative of you. Okay, so we'll end here then with a moment of silence for this dedication.
 ])
 
-#speaker("Yodi", [
-  #btw[Yodi howls "Woo woo!"].
+#speaker("Yote", [
+  #btw[Yote howls "Woo woo!"].
 ])
 
 #speaker("Dawai", [
-  Deep bows everyone, Yodi said woo woo.
+  Deep bows everyone, Yote said woo woo.
 ])
 
 #archive_minimal("December 22, 2025", "Thought isolation practice", "https://www.youtube.com/watch?v=a07yZ3ANyLE")
