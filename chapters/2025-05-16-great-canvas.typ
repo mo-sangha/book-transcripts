@@ -131,7 +131,7 @@ But with Dzogchen, you don't have to stay in a deep meditative state to avoid ka
 ])
 
 #speaker("Dawai", [
-  Yes, an omnipresence is also synonymous, correlates with empathy and compassion. Omniscience correlates with compassion. The deeper empathy and compassion you have, the more apparent our natural telepathy and clairvoyance will be.
+  Yes, and omnipresence is also synonymous, correlates with empathy and compassion. Omniscience correlates with compassion. The deeper empathy and compassion you have, the more apparent our natural telepathy and clairvoyance will be.
 
   Obviously, even as we're speaking right now, you're decoding the words that I'm saying, which are just sounds, just vibrations, but your mind is making something out of them. And the same is for any feelings you're getting right now or any thoughts you're having. We are in an interchange right now and reflecting each other in that way, it's a nexus.
 

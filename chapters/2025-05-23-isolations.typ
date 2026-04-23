@@ -14,11 +14,11 @@ Then notice what kind of thoughts: narrations, images, song in your head, the mo
 
 So, look at the ants. You know, no offense to the ants, I love the ants so much, actually, but they're really on a mission. If I was to say, "Hey ant, can you stop serving the Queen for a second or whatever you're doing, and pay attention to me so I could teach you a breath meditation?" The ant would not stop. "I am on a mission. I don't want to hear all this woo-woo stuff right now."
 
-So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_.
+So this is like that. We are on missions in this collective, conditioned environment. Politicians are on missions. Leaders are on missions. People driving like crazy to get to work are on a mission. And if you get in the way, guess what you're gonna get? _The cuckoo of awareness_ (middle finger).
 
-Everybody understanding that, right? How we can psychically isolate ourselves, and that becomes emotive to the intense feelings associated.
+Everybody understanding that, right? How we can psychically isolate ourselves into mentalities, and that becomes emotive, including all these intense feelings.
 
-"Get out of my way, I'm on a mission!" And the ant is like, "Get out of my way, I'm gonna crawl over you, I don't care." Steps on the other ant with like ten legs, ten feet, in their face. How many legs do ants have? I think, yeah, six, right? Six feet---that's more than two. You know, so when an ant gets stepped on, it's six times over.
+"Get out of my way, I'm on a mission!" And the ant is like, "Get out of my way, I'm gonna crawl over you, I don't care." Steps on the other ant with like ten legs, ten feet, in their face. How many legs do ants have? I think, yeah, six, right? Six feet. You know, so when an ant steps on you, it's six times over.
 
 But anyway, this is what's happening, right? And we get very clunky because we get trapped in these psychic isolations, and we essentially steamroll. We stiff-arm our way through anything at that point. And even people are trying to tell us some positive news or give us a gift or something. "No, no, I can't right now. I'm too busy." That's all making sense. Psychic isolation, right? It's not discussed so much, but it's part of our science.
 
@@ -34,7 +34,7 @@ Maybe in other practices, tantric practices, there could be harm, and the way pe
 
 So that's one phase when we come here for the 10-minute sessions, all right? You can be in your thoughts, or you can notice what thoughts are here in the 10 minutes.
 
-I just see the question here.
+I see a question here...
 
 
 #speaker("Sangha 1", [
@@ -92,11 +92,15 @@ So it's a kind of, not many thoughts there, not much mood there, but it's a pers
 
 You know, it's just a perspective. It's not really deeper than that, a lot of times. And we can hold these perspectives for long, long times.
 
-Nationalism is a great example. You can be very proud of your country. That's a kind of perspective that you're holding. You can see people marching at restaurants together, all holding the same perspectives. Religious hierarchy, racial hierarchy is a perspective. You know, it's very subtle. I think Israel is a great example of that. They have this disposition. And if you're from Israel, if you're watching and you like Israel, I'm sorry, but I cannot agree with that country at all. It's in their Constitution to hate others who are not, you know, of their country. It's written in black and white. I mean, we can ignore that. I'm not trying to ruffle any feathers. But that's a hierarchical disposition based on nationalism.
+Nationalism is a great example. You can be very proud of your country. That's a kind of perspective that you're holding. You can see people marching at restaurants together, all holding the same perspectives. Religious hierarchy, racial hierarchy is a perspective. You know, it's very subtle.
+// I think Israel is a great example of that. They have this disposition. And if you're from Israel, if you're watching and you like Israel, I'm sorry, but I cannot agree with that country at all. It's in their Constitution to hate others who are not, you know, of their country. It's written in black and white. I mean, we can ignore that. I'm not trying to ruffle any feathers. But that's a hierarchical disposition based on nationalism.
 
-It happens not just from Israel. It happens, you know, lots of different countries and lots of different religions. We're Christians, so we have the right answer. You have the wrong answer, right? It's a little bit of a perspective that we hold, that people can hold. And it sucks because all beings are each other's teachers and are each other's relatives and friends and family. Yet all these things divide us. It could even be a football team or a basketball team, you know. America has this disposition too, not just Israel. Israel is probably a great example of extreme fanatical nationalism. I'll venture to say fascism at this point, but, you know, America has gotten very fascist too many times and very well prideful in their nationalism.
+// It happens not just from Israel. It happens with lots of different countries and lots of different religions. We're Christians, so we have the right answer. You have the wrong answer, right?
+// It's a little bit of a perspective that we hold, that people can hold.
+And it sucks because all beings are each other's teachers and are each other's relatives and friends and family. Yet all these things divide us. It could even be a football team or a basketball team, you know.
+// America has this disposition too, not just Israel. Israel is probably a great example of extreme fanatical nationalism. I'll venture to say fascism at this point, but, you know, America has gotten very fascist too many times and very well prideful in their nationalism.
 
-And then you can have nationalism, I suppose, that's less destructive, like the Tibetans, but they have gotten in many wars too. So this nationalism can actually engage you into wars and things like that, and have you being racist and things, and have you with the religious discrimination.
+// And then you can have nationalism, I suppose, that's less destructive, like the Tibetans, but they have gotten in many wars too. So this nationalism can actually engage you into wars and things like that, and have you being racist and things, and have you with the religious discrimination.
 
 I know that's a sensitive topic, but these are perspectives that we take up. And I just want you to know them, to see them, because visibility is enough.
 
@@ -130,7 +134,7 @@ But in Dzogchen, one lifetime---you can have liberation. Why? Because it's easie
 
 So big difference here between Anuyoga and Atiyoga, the 8th and the 9th yāna. In 1 through 8, you're doing stuff. In the 9th yāna, you're not doing anything anymore. Doing is antithetical to liberation, to self-liberation.
 
-You cannot have cessation or cognitive diffusion if you're doing something, alright? And that doesn't mean I can go grab a cup of water right now and not be doing anything, because there's a slight paradox in that.
+You cannot have cessation or cognitive diffusion if you're doing something, alright? And that means I can go grab a cup of water right now and still not be doing anything; there's a slight paradox in that.
 ])
 
 #speaker("Sangha 3", [
@@ -142,7 +146,7 @@ Yes, certainly. There's a lot more preoccupation. The minds are way speedier. We
 
 So what we have is, to me, degenerate times---this Kali Yuga that we're in, it's ending. It's a long run that's ending now and going into the Golden Age, at least according to Dharmic cosmology. But as it ends, it's like water going down the toilet; it's getting denser. So, you have all the information that used to be everywhere, now it's just on the internet servers, like condensed. You have all the forests turning into cities. Everything's getting denser, you see, including the minds. And that's why we don't see the true power of the mind, because we're contracted into these dense isolations.
 
-That's why I want you all to break out of the isolations, you understand? A whole other world when you start to break out of that density.
+That's why I want you all to break out of the isolations, you understand? There's another world when you start to break out of that density.
 
 So you're absolutely right, and I hope many more Dzogchen guides pop up, and we all, the yogis here end up continuing to benefit. I think each of you is at that level of being, if not now, then, as you mature, whatever. You know, you've met with Dzogchen. Traditionally, that's considered of epic karmic proportions. Like, you've done something extremely good to meet with these teachings. And that means you are a sovereign monarch. You are beyond the gods. The gods venerate you according to the dharma, right?
 
@@ -158,7 +162,7 @@ So I think you got it. That's why we get pointed to the nature of mind. It's not
 
 All right, everybody? Making sense, yeah?
 
-And it's gonna come off a little bit different if you've never recognized awareness, or the nature of mind. If you're not familiar with that _rang bzhin_, that nature of mind---the cognizance that permeates all other cognizance, if you're unsure about it or you haven't been introduced, then this whole explanation may logically add up, but you're not going to be able to access it. Because you'll say, oh yeah, I know I can get isolated in my thoughts. And then, as you're saying that, you're isolated in your thoughts. You'll get isolated into your thoughts about isolation of thoughts. The mind is a very tricky place.
+And it's gonna come off a little bit different if you've never recognized awareness, the nature of mind, the nature of reality and all experience. If you're not familiar with that _rang bzhin_, that nature of mind---the cognizance that permeates all other cognizance, if you're unsure about it or you haven't been introduced, then this whole explanation may logically add up, but you're not going to be able to access it. Because you'll say, oh yeah, I know I can get isolated in my thoughts. And then, as you're saying that, you're isolated in your thoughts. You'll get isolated into your thoughts about isolation of thoughts. The mind is a very tricky place.
 
 All right, so now that I've gone over those, I just want to also include the eight consciousnesses, because we got all this stuff.
 
@@ -170,7 +174,7 @@ And so that's another psychic isolation. That's another cognitive isolation, oka
 
 And as you trust awareness, that also begins to alleviate and soften. So that isolation---the very root of all suffering is starting to alleviate as well, starting to come apart. So, it's contracted and then it's starting to soften apart, okay? Back into spaciousness. Yes, and with that, all your karmic seeds are being softened too. All that karmic momentum has no basis anymore. It needs a reference point in order for karmic cycles to occur, just like a whirlpool needs that momentum, that center point.
 
-Okay, everybody, well, thank you for letting me present that. I feel like we don't get into the mechanics much of our mind, and the Thrangu Rinpoche text that we're reading is all about that, and I wanted to correlate it to our short sessions so that when you come here for these short sessions, you know what's going on, right? You know where you're located, which country are you located in? The country of your thoughts, the country of your emotions, the country of your body, right? The country of the environment.
+Okay, everybody, well, thank you for letting me present that. I feel like we don't get into the mechanics of mind much, and the Thrangu Rinpoche text that we're reading is all about that, and I wanted to correlate it to our short sessions so that when you come here for these short sessions, you know what's going on. You know where you're located, which "country" are you located in? The country of your thoughts, the country of your emotions, the country of your body, of the environment. Just knowing is enough.
 
 So this can all be truly fascinating stuff. It's like being a scientist and you're having a microscope, a telescope-type device where you could see everything about the mind and your reality. It's fascinating.
 ])
