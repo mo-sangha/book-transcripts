@@ -24,24 +24,24 @@ And so what? You're on Twitter again. Yep. Or X, whatever. Yep, you're contracte
 
 Or maybe when you're talking to somebody, you have to figure out that maybe I shouldn't hang out with this person that much because every time I hang out with him, I get this contracted, uncomfortable, you know, insecurity---whatever's happening. Yeah. So that's where you eventually get to.
 
-And that's what they compared to in Three Modes of Liberation as a thief entering an empty house. Now things cannot steal you away, not even tragedies. Very good.
+And that's what the Three Modes of Liberation compared to a thief entering an empty house. Now things cannot steal you away, not even tragedies. Very good.
 
-When you have an increased visibility, it goes kind of like this. Let's say I'm eating the donut. And the donut is a metaphor for sex, masturbation, anger, rage, overeating, you name it. So here's the donut of desire. It starts off like that. #btw[Dawai makes eating motions and sounds] Then somebody says, "Hey, look at awareness." #btw[Dawai munches]. You know, you're still eating. You may slow down a little bit, but you're kind of like, "Well, my mouth is pretty full right now, I don't know if I need to jam another donut in there. This is a little uncomfortable. I'm getting donuts all over me," right? So you start to see increased visibility.
+When you have an increased visibility, it goes kind of like this. Let's say I'm eating the donut. And the donut is a metaphor for sex, masturbation, anger, rage, overeating, you name it. So here's the donut of desire. It starts off like that. #btw[Dawai makes eating motions and sounds]. Then somebody says, "Hey, look at awareness." #btw[Dawai munches]. You know, you're still eating. You may slow down a little bit, but you're kind of like, "Well, my mouth is pretty full right now, I don't know if I need to jam another donut in there. This is a little uncomfortable. I'm getting donuts all over me," right? So you start to see increased visibility.
 
 That's why I always say you just bring awareness into your current situation, your current life. And that visibility will cause a natural harmony, a natural resolution. All of a sudden you're just like, "Man, this is getting redundant. Too many donuts," right? Way too many donuts. And you're getting to see the whole production cycle, everything, full visibility. And then one day you're just like, "Not today." #btw[Dawai looks at his hand holding an invisible donut, then just puts his hand down]. "Just not gonna eat it today."
 
 And then, next thing you know, now you're clear. "I used to be a donut-aholic." You tell people, you know, "Hey, I used to be really hooked on these donuts, but now I'm free." And then somebody comes to you and they say, "Want a donut?" And maybe everybody's eating donuts. When in Rome, sure, I will eat a donut. #btw[Dawai goes munch munch munch]. Right? Now you're free. You can eat the donut or not eat the donut. Making sense, right?
 
-This is asymmetrical logic. There are thresholds and paradoxes, so it's a little bit difficult to verbalize it. But that's what's so exceptional about our group, which is so awesome, is that we're actually venturing into this previously mysterious territory to many teachers, many paths, many approaches. This is mysterious territory. What happens after recognition? How does self-liberation work? How does actual freedom work? Right? How does conditioning coming undone? How does that look? Okay, very good. So any comments or questions about that? This just kind of phasing through the path.
+This is asymmetrical logic. There are thresholds and paradoxes, so it's a little bit difficult to verbalize it. But that's what's so exceptional about our group, which is so awesome, is that we're actually venturing into this previously mysterious territory to many teachers, many paths, many approaches. This is mysterious territory. What happens after recognition? How does self-liberation work? How does actual freedom work? Right? How does conditioning come undone? How does that look? Okay, very good. So any comments or questions about that? This is just kind of phasing through the path.
 
 #speaker("Sangha 1", [
-  Yeah I have one question. The process of self-liberation, I've heard the phrase be said that we gain confidence in self-liberation. I'm just wondering what that means and maybe if knowing how the mechanism of self-liberation works, maybe if that helps to gain confidence in it to abide in awareness as things liberate or something like that.
+  Yeah, I have one question. The process of self-liberation, I've heard the phrase be said that we gain confidence in self-liberation. I'm just wondering what that means and maybe if knowing how the mechanism of self-liberation works, maybe if that helps to gain confidence in it to abide in awareness as things liberate or something like that.
 ])
 
 #speaker("Dawai", [
 Exactly. I love when you guys answer your own questions with your own wisdom. Exactly. You see self-liberation. "Wow, my headache just went away. That means all this other tension can go away."
 
-Oh, wow. "My habit of desire is lessening," right? Or I'm able to have more control during my drinking, my smoking, my eating---things like that. I'm able to have more visibility or, at least, a slight sense of freedom there. Whereas before, you had no other exit. You had no other vantage point.
+"Oh, wow, my habit of desire is lessening," right? Or "I'm able to have more control during my drinking, my smoking, my eating"---things like that. "I'm able to have more visibility or, at least, a slight sense of freedom there." Whereas before, you had no other exit. You had no other vantage point.
 
 So witnessing self-liberation: first, that starts with the body. It's the easiest to notice tension liberating out of your neck or tension out of your jaw or something like that, right?
 

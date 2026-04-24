@@ -1,6 +1,7 @@
 #import "/template.typ": *
 
-= Stuck in Thoughts No More, a Talk on the Dzogchen Way Out of This Age-Old Sickness
+// = Stuck in Thoughts No More, a Talk on the Dzogchen Way Out of This Age-Old Sickness
+= Stuck in Thoughts: The Dzogchen Way Out
 
 So here are some basic kind of stages that we can be at as meditators, right? They could even be considered phases because if you're progressing along some type of path, then you could consider them to be like phases. So these aren't to be reached for or achieved, necessarily, but this is kind of what happens during meditation.
 

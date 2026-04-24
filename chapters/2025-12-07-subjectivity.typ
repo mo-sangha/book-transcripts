@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-= Subjectivity, the Habit of Apprehending
+= Subjectivity: the Habit of Apprehending
 
 I wanted to come back around to subjectivity. We all finished a ten-minute effortless abiding session just now, and it doesn't really end, does it? But what happens is after the bell rings, even though we don't have a bell, after the session ends, we start doing again. We start piling on the doings.
 
