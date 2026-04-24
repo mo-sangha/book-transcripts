@@ -6,8 +6,8 @@
 // ==========================================
 #page(background: rect(fill: gradient.linear(rgb("#87cfe9"), white, angle: 90deg), width: 100%, height: 100%), numbering: none)[
   #set align(center)
-  #v(3cm)
-  #text(40pt, weight: "bold", book_title)
+  #v(1cm)
+  #text(40pt, weight: "bold", hyphenate: false, book_title)
   #v(1fr)
   #image("images/thigle.png", width: 70%)
   #v(1fr)
