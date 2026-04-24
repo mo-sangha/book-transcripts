@@ -39,7 +39,6 @@
 // ==========================================
 // --- COPYRIGHT and PUBLICATION INFO ---
 // ==========================================
-#pagebreak()
 #set page(numbering: none)
 #v(1fr)
 #context {
