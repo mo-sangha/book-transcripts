@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The many layers of psychic contraction, and how to let go of them
+= The Many Layers of Psychic Contraction, and How to Let Go of Them
 
 Okay, Little Bear is going to give the teaching… so pay close attention. He's showing you how to be a loving dog, if you ever get curious. Love you too, buddy. Go sit, go sit. Your harassment is on camera.
 

@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The great canvas of all minds
+= The Great Canvas of All Minds
 
 They say, oh you can't assume the position of God as the creator or as the all-existing thing. All right? But it's not like that. You drew your mind on the great canvas.
 

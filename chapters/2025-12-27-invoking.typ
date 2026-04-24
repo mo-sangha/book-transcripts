@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== Invoking-the-conditioned-self technique
+= Invoking-the-Conditioned-Self Technique
 
 // Dzogchen Meditation Techniques; pt.4 of 4
 

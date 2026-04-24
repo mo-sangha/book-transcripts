@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The bravery of integrating experience into the view
+= The Bravery of Integrating Experience into the View
 
 The topic being what he was from a conventional standpoint calling patience, but from a Dzogchen point of view I wouldn't say this is patience---it's more bravery than anything. And that's beginning to allow karmic habituations.
 

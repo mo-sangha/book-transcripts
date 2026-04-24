@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== Turning Awareness on itself
+= Turning Awareness on Itself
 
 Let's get into the awareness practice if you're not already in phase three, essentially just nice and firm in awareness---as awareness. So that's what happens: the very thing searching for awareness, or searching for enlightenment, is awareness. Okay? That is the cognition. That's just a more coarse, active part of consciousness within consciousness.
 

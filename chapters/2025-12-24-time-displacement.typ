@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== Time-displacement practice
+= Time-Displacement Practice
 
 // Dzogchen Meditation Techniques, pt. 3 of 4
 

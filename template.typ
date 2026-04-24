@@ -87,21 +87,21 @@
 
   // Chapter headings.
   set heading(outlined: true)
-  show heading.where(level: 2): set heading(
+  show heading.where(level: 1): set heading(
     // Headings are Level 1 (unnumbered), Chapters are Level 2 (numbered 1, 2, 3...)
     // Auto-number each chapter starting from 1. Avoids "1.1", etc.
-    numbering: (..args) => numbering("1.", ..args.pos().slice(1)),
+    // numbering: (..args) => numbering("1.", ..args.pos().slice(1)),
     supplement: [Chapter],
   )
-  show heading.where(level: 2): set align(center)
-  show heading.where(level: 2): set block(
+  show heading.where(level: 1): set align(center)
+  show heading.where(level: 1): set block(
     below: 1.2em,
   )
-  show heading.where(level: 2): set text(
+  show heading.where(level: 1): set text(
     size: 20pt,
     hyphenate: false, // It looks better in headings to not hyphenate words.
   )
-  show heading.where(level: 2): set par(
+  show heading.where(level: 1): set par(
     justify: false, // Heading text doesn't need to occupy the full column.
   )
 
@@ -183,10 +183,11 @@
     numbering: "1",
     margin: 1.25cm,
 
+    // This controls text at the very top of each page.
     header: context {
       if here().page-numbering() == "1" {
-        let before = query(heading.where(level: 2).before(here()))
-        let current = query(heading.where(level: 2).after(here())).filter(h => h.location().page() == here().page())
+        let before = query(heading.where(level: 1).before(here()))
+        let current = query(heading.where(level: 1).after(here())).filter(h => h.location().page() == here().page())
         
         let active_heading = if current.len() > 0 { current.first() } else if before.len() > 0 { before.last() } else { none }
 

@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== Dzogchen Tonglen
+= Dzogchen Tonglen
 
 And so for you all in the dear sangha here today, this will be a repeat of what I just said. So this is a different type of Tonglen. The typical Tonglen involves this kyerim visualization, and it's also very powerful, the Tantric Tonglen. And so if I'm not mistaken, this is derived from Atisha's Mind Slogans. I haven't looked into that in a while, so please correct me if I'm wrong, but I believe it's 59 mind slogans compiled by Chekawa Yeshe Dorje and Tonglen is deriving from that, and that is also derivative of the Sutras, Mahayana Sutras. The exact name of the primary sources escapes me right now, but Lojong slogans are generally attributed to Atisha (10th-11th CE), although they developed over hundreds of years. So we have Tonglen, it's a very popular practice that's taught by many, many Tibetan masters and various Dharma teachers.
 

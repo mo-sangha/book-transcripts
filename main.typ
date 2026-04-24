@@ -74,8 +74,6 @@
 #set page(numbering: "1")
 #counter(page).update(1)
 
-#heading(level: 1, numbering: none, outlined: true)[Teachings]
-
 #include "chapters/2024-11-02-stuck-no-more.typ"
 #pagebreak(weak: true)
 

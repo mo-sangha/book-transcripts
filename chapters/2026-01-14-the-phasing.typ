@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The phasing of this practice
+= The Phasing of This Practice
 
 When you get pointing out, you have seen the fact that your mind---let's use a metaphor---is like a window. Okay? For a second there, you've seen this clear window, but there's a lot of stuff on your window, grime covering it. And so the issue is that at first you see your enlightened mind, but because of that grime, which is the momentum of karma, so mental-emotional tendencies grab that right away. "Oh, Dawai just showed me awareness. This is awesome. I need to go party." Whatever you end up thinking---you're apprehending that.
 

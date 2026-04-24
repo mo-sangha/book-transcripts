@@ -3,7 +3,7 @@
 /* Reference for "Why are you still thinking?" */
 /* Dorje note: I changed the sangha member numbers around a bit, needs double-checking. */
 
-== Thought isolation practice
+= Thought Isolation Practice
 
 First of all, I'm very, very grateful again to be in the presence of so many people that are authentically allowing their freedom to unfold in their mind, in their life, and also just confronting their own mind. This is exceptional, in my opinion, and I'm always very humbled to be here with you all.
 

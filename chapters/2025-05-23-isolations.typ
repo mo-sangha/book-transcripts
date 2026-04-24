@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== The four cyclical isolations, and why
+= The Four Cyclical Isolations
 
 When you first go into a short session, you're leaving your eyes open, and what is here for you? Well, typically we're conditioned to be in thoughts.
 

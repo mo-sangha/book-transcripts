@@ -1,6 +1,6 @@
 #import "/template.typ": *
 
-== Wake up, you're having a rough dream!
+= Wake Up, You're Having a Rough Dream!
 
 Yes, so this is a talk on meditation and just another summary and a reminder of the praxis involved with Dzogchen, Mahamudra, and what I would say many authentic high-level approaches. They all end up with, they should anyway, end up with empty cognizance.
 
