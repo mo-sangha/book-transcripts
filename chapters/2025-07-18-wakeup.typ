@@ -2,13 +2,13 @@
 
 == Wake up, you're having a rough dream!
 
-Yes, so this is a talk on meditation and just another summary and a reminder of the praxis involved with Dzogchen, Mahamudra, and what I would say many authentic high-level approaches. They all end up with, they should anyway, empty cognizance.
+Yes, so this is a talk on meditation and just another summary and a reminder of the praxis involved with Dzogchen, Mahamudra, and what I would say many authentic high-level approaches. They all end up with, they should anyway, end up with empty cognizance.
 
 And so empty cognizance means that there's a field of cognizance that's been holding your experience and permeating your experience. And that field has to be empty of any kind of substantiality. If it existed in any reference point, then of course it would not be able to hold your experiences in their entirety.
 
 So I think it's safe to say that's the Dharmadhatu. What do you think, Dorje Lekpa---you agree? #btw[Dorje nods]. The space that's holding everything and inseparable from everything. Dorje Lekpa's giving the exploration on _The Basic Space of Phenomena_ right now.
 
-There's a chönyi, dharmata I think is also sometimes called. I like the womb analogy, because the baby in the womb cannot be separate from the mom, and is dependent on it if it wants to grow and exist, and cease to exist; it all happens within the womb. Although in this case, this would be, a lot of times they call suchness or emptiness. They associate with a sphere; sometimes some of you yogis can tune into the atmosphere itself, you can be aware of it; it feels like a sphere. Next time you're outside, you can try that maybe, and just rest without any focus, noticing that sphere-like encompassing presence, just there naturally.
+There's chönyi in Tibetan, or dharmata (Sanskrit) is also used. I like the womb analogy, because the baby in the womb cannot be separate from the mom, and is dependent on the mother if it wants to grow and exist, and cease to exist; it all happens within the womb. Although in this case, this would be, a lot of times they call suchness or emptiness. They associate with a sphere; sometimes some of you yogis can tune into the atmosphere itself, you can be aware of it; it feels like a sphere. Next time you're outside, you can try that maybe, and just rest without any focus, noticing that sphere-like encompassing presence, just there naturally.
 
 Then once awareness goes outside of that sphere, then you're really reaching boundless space. So then it becomes almost like you know marbles, right? The little marbles that you play with, little glass that you roll around, well it's like you're looking at it, and this is earth, this is you on earth now, the marble. Your mind becomes one with entirety, right? They're not joking about that oneness.
 
@@ -24,7 +24,7 @@ So by recognizing the nature of mind, we say, oh, we start where we're in our tu
 
 So isn't it preoccupying your mind? This is how we get fanaticism, like people ending their lives, people killing others, and doing all types of extreme things. Because we're believing the thoughts, we're believing in them, and we're saying, "Yes, I've elected you to be my president, I've elected you to be my dictator," actually, not a president, maybe you didn't even elect that guy.
 
-So now these thoughts---they're dictating; we're following them around. We believe in them, we subscribe in them. And instead of letting someone be revealed to us, we go to our associate, the thoughts, to tell us who this person is---our presuppositions, our predispositions, all of that.
+So now these thoughts---they're dictating; we're following them around. We believe in them, we subscribe to them. And instead of letting someone be revealed to us, we go to our associate, the thoughts, to tell us who this person is---our presuppositions, our predispositions, all of that.
 
 So you see, when we're not partnered up with this consultant, then wisdom can be there. And we know, we start in our little turtle shell, we know awareness is there when I'm thinking. When I'm thinking about, "Oh, what is going to happen with this life?" and "Oh, I'm so worried about it," and all these things---awareness is there, unchanging.
 
@@ -40,7 +40,7 @@ So on the surface, it may seem, oh my God, five dogs, what the heck are you doin
 
 You're doing what's in your heart; it's always been there. You know exactly how to follow your intuition, how to follow your compassion, and when you're going against it, whether it's on a career level, relationship level, treating yourself level, treating animals. So many people here, they just, they get a dog and then they have to move, so they leave the dog and typically they'll leave it with Emmy or Rebecca or one of like three people who have 20 dogs already. You know, that's the kind of thing, how could you do that? But the karma there that you're getting into, you don't even see it. It's so subtle, it's in the subtle seas. That's why you've got to play it right. You've got to play it according to heart, even if it's a sacrifice.
 
-And so just to continue on from that premise, when you start to soften that shell of subjectivity---your main shell, that's enhancing duality. Then comes the other boundaries that we've set in, in our environment.
+And so just to continue on from that premise, when you start to soften the shell of subjectivity---your main shell, which is enhancing duality---then what follows are the other boundaries we've set in, our environment.
 
 So it's just like a dream. If I was dreaming that I'm working a nine to five, I'm in my cubicle, okay, in an office building, and then I start to see, wow, my mind is permeating my whole body and this cubicle. Then all of a sudden, body is softening up, cubicle is softening up; maybe still appearing, but mind is starting to not be constrained there. And then whole dream is mind, right? So your mind wasn't just you in the cubicle, it was you and the cubicle and the building. It always was. But we go into subdivision; we divide ourselves into psychic chambers.
 
