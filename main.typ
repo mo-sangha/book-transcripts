@@ -7,27 +7,18 @@
 #context {
   if target() == "paged" { // Paged output, like PDF, SVG, etc.
     page(
-      background: rect(
-        fill: gradient.linear(rgb("#87cfe9"), white, angle: 90deg),
-        width: 100%,
-        height: 100%
-      ),
+      background: image("images/medicine-buddha-lamp.jpeg", width: 100%, height: 100%),
       numbering: none,
       margin: auto,
       [
         #set par(spacing: 0em)
         #set par(justify: false)
         #place(top + center, [
-          #v(0pt)\
-          #text(60pt, weight: "bold", "Atiyoga")\
-          #v(8pt)\
-          #text(28pt, weight: "bold", "Dharma Talks")
+          #text(70pt, weight: "bold", fill: white, "Atiyoga")\
+          #v(9pt)\
+          #text(35pt, weight: "bold", fill: white, "Dharma Talks")
         ])
-        #place(horizon + center, [
-          #v(40pt)
-          #image("images/thigle.png", width: 90%)
-        ])
-        #place(bottom + center, text(30pt, book_author))
+        #place(bottom + center, text(30pt, fill: white, book_author))
       ]
     )
     pagebreak()
