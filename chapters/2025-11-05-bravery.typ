@@ -2,19 +2,19 @@
 
 = The Bravery of Integrating Experience into the View
 
-The topic being what he was from a conventional standpoint calling patience, but from a Dzogchen point of view I wouldn't say this is patience---it's more bravery than anything. And that's beginning to allow karmic habituations.
+The topic is what he was, from a conventional standpoint, calling patience, but from a Dzogchen point of view I wouldn't say this is patience---it's more bravery than anything. It's brave when we begin to allow karmic habituations.
 
-Maybe an example can be if you go to the store and back and you get stressed out during that. And you're usually caught up in it and it drives you crazy---some kind of traffic or something like that. Or, you would almost invite it now, with an awareness... say, "Okay, I'm gonna take this trip. And as soon as I start to feel agitated and things like that, I'm gonna invite that."
+Maybe an example can be if you go to the store and back and you get stressed out during that. And you're usually caught up in it and it drives you crazy---some kind of traffic or something like that. Or, you would almost invite it now, with an awareness... say, "Okay, I'm gonna take this trip. And as soon as I start to feel agitated and things like that, I'm going to be in the witnessing of that."
 
 So it's a whole different perspective, right? From being in the agitation to having this kind of opening to it. And that's what I'm talking about when I say we do that with baby steps.
 
-You could cold turkey that---I don't know, it depends on the person. But for example, nicotine: you could just invite yourself to feel that urge, that wanting it, that going without it; maybe stop smoking inside or inside the car, or both. Little things like that, and you'll catch yourself wanting it---and that wanting it, with an awareness, is very good.
+You could cold turkey that---I don't know, it depends on the person. But for example, nicotine: you could just invite yourself to feel that urge, that wanting it, that going without it; maybe stop smoking inside or inside the car, or both. Little things like that, and you'll catch yourself wanting it---and that wanting it, within awareness, is very good.
 
 Now typically we'd be adverse to that wanting. Like, "Oh... there's this wanting, I gotta satisfy it, right?" But here, in baby steps, with awareness, we can begin to say, "All right, wanting, let's have a look at you. Let's see how long I can last."
 
 And this can go for so many things. You may have old friends, deep feelings that pass over you from time to time, or even an angst of something's wrong but you can't find anything that's wrong, or something has triggered you or stirred you up. Now you have awareness to discern: "Well, I know this is going to pass and I'm going to come back to my naturalness."
 
-When you're only caught up in the experiential waves, and it's very difficult to see: well, this is gonna pass---even though it's quite overwhelming and vivid and heavy. It's gonna pass and I'm gonna go back to normal, somatically even. Throughout the nervous system, you know that it's gonna go back and the body will settle.
+When you're only caught up in the experiential waves, and it's very difficult to see: well, this is gonna pass---even though it's quite overwhelming and vivid and heavy. It's going to pass and I'm going to go back to normal, somatically even. Throughout the nervous system, you know that it's gonna go back and the body will settle.
 
 And since our mind is actually broad and open and spacious, we can be like the moon held by space. Except in this case, the space is a knowingness and a compassion---an undeniable, indisputable, irrefutable compassion. So we let ourselves be held like that when we go into these 10 minute effortless abiding or you do your thing, you---you sit out in a forest maybe and just abide.
 
