@@ -263,5 +263,5 @@
 // #include "chapters/2026-04-21-noticing-the-space-where.typ"
 // #pagebreak(weak: true)
 
-#include "chapters/2026-04-24-dzogchen-responsibilities.typ"
-#pagebreak(weak: true)
+// #include "chapters/2026-04-24-dzogchen-responsibilities.typ"
+// #pagebreak(weak: true)

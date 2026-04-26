@@ -6,7 +6,7 @@
 
 // Dawai: Yeah, so let's talk a little bit for 10 minutes, okay? I know we're on the overtime, but I did want to get this time displacement method out there to you in case it benefits. The details, if you want to email me I can get you the details for the meditation online retreat, they are on Discord. So they're not totally out there, but they are out there. Yeah, it's funny that you mentioned that because that's going to be one of our examples today for this time displacement method. So it may sound a little fancy, but basically this is used again for visibility, okay?
 
-So please relax and we're going to do a short meditation-type practice. Release the mind from any kind of thoughts and things like that, and see if you can just come into pure presence without thoughts, clear like the sky. 'Cause we're gonna bring stuff into our canvas, so we need a blank canvas here.
+So please relax and we're going to do a short meditation-type practice. Release the mind from any kind of thoughts and things like that, and see if you can just come into pure presence without thoughts, clear like the sky. 'Cause we're going to bring stuff into our canvas, so we need a blank canvas here.
 
 And so now... now I got a blank canvas, I can't remember, what was I gonna use? I had a few options for bringing up the past. We're gonna drag the past into our purely present canvas here. Well, what was it?
 
@@ -20,7 +20,7 @@ Making sense, right? How we can be stuck on the past? Any questions about that? 
 
 So now, let's take the future. I'm going to town today to get water. That's my future thought. Now you pick a future thought.
 
-And now purposefully proliferate on that. I'll do mine out loud first: I have to go to town later. I wonder if I have all the water trucks in the Jeep yet? I wonder if there's gonna be any traffic today? Maybe I'll make some other stops. This water has been tasting funny lately. I wonder if it's really purified or if they're just trying to cheat? Okay, those were mine.
+And now purposefully proliferate on that. I'll do mine out loud first: I have to go to town later. I wonder if I have all the water tanks in the Jeep yet? I wonder if there's gonna be any traffic today? Maybe I'll make some other stops. This water has been tasting funny lately. I wonder if it's really purified or if they're just trying to cheat? Okay, those were mine.
 
 Now you do yours. You don't have to do them out loud, obviously. #btw[The sangha practices the instruction for a few moments].
 
@@ -30,7 +30,7 @@ Let's clear the mind back to that very clear open state. No past, no future. Jus
 
 So those are the three times: past, present, and future. And that's how you can actually displace yourself into the past, present, or future.
 
-This happens all the time and it drives us crazy and it stresses us out and it hurts our bodies. We think so much about the future and we're displacing ourselves away from presence. We worry so much about the past and things we've done in the past, etc., etc., and we displace ourselves into the past. It's illusory living because pure presence is all there ever was, all there ever is. And when your mind isn't bogged down by analyzing what's happening right now, when it's not bogged down by the nostalgia of the past, or the worries, the angst of the future, then all you have is presence then. You have entered the fourth time.
+This happens all the time and it drives us crazy and it stresses us out and it hurts our bodies. We think so much about the future and we're displacing ourselves away from presence. We worry so much about the past and things we've done in the past, etc., etc., and we displace ourselves into the past. It's illusory living because pure presence is all there ever was, all there ever is. And when your mind isn't bogged down by analyzing what's happening right now, when it's not bogged down by the nostalgia of the past, or the worries, the angst of the future, then all you have is presence, then you have entered the fourth time.
 
 Okay, so any comments or questions about that?
 I know we're at the end of our live session and you're probably a little wore out, but I appreciate you joining in on that. It's the first time I ever tried anything like this. And I just kind of made it up the other day. It just kind of came to me and I'm sure it'll get more polished and things, but I don't even know how that landed on you, so please feel free to give me feedback.

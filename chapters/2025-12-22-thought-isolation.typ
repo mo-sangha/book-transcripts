@@ -168,7 +168,7 @@ Yes, please.
 #speaker("Dawai", [
   Yeah, very good. You know, this is wonderful. It shows the power of your emanating mind and multifaceted mind. They had this trope going around that people can only think one thought at a time, which is ridiculous, right. Compared to what you're doing here, you're showing that obviously your mind is multifaceted. So yes, you can actually somehow speak from some place in consciousness and still hold that thought at the same time.
 
-  You know maybe we could say it's like the... the rubbing the belly and patting the head thing. Except you have this great Avalokiteshvara mental ability to emanate across dimensions and realities and things. That's what originally in the ancient Vedas, Ishvara meant that, you know, the very fabric of this and the creator all in one. So you have this ancient trichotomy there with Brahma. Vishnu and Shiva, right? Which happens with every one of these thoughts.
+  You know maybe we could say it's like the... the rubbing the belly and patting the head thing. Except you have this great Avalokiteshvara mental ability to emanate across dimensions and realities and things. That's what originally in the ancient Vedas, Ishvara meant that, you know, the very fabric of this and the creator all in one. So you have this ancient trichotomy there with Brahma, Vishnu, and Shiva. Which happens with every one of these thoughts.
 
   The thought comes, Brahma, it abides, Vishnu, and then it destroys Shiva. So you have the Ishvara here, connected to Avalokiteshvara, by the way, for those Dharma nerds out there. It's the very... we're just playing with mind, we're just playing with consciousness. Just... you are the spider, you know, weaving the web.
 
@@ -227,7 +227,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  Yeah, we had that last session and I maybe should have specified that reinvoking the thought is fine. That's what I mean by mono-minded. You're just having one thought. You're letting it, ideally you would notice the echoing out of that thought. That's the dissolution. We want those three phases of the thought to be seen: its creation, its abiding and its dissolution. Those are three very important stages for just to witness those, because then you can notice panic and, and, know, heavy feelings, traumas. You can notice their arising, their abiding and their cessation. That is the superpower.
+  Yeah, we had that last session and I maybe should have specified that reinvoking the thought is fine. That's what I mean by mono-minded. You're just having one thought. You're letting it, ideally you would notice the echoing out of that thought. That's the dissolution. We want those three phases of the thought to be seen: its creation, its abiding and its dissolution. Those are three very important stages to simply witness, because then you can notice panic, heavy feelings, and traumas within the same space. You can notice their arising, their abiding and their cessation. That is the superpower.
 
   So if I have a thought, let's say... I want to pick something that's as less complicated as possible. "The hand has five fingers." Is that good? Is that debatable? #btw[Dawai reads the chat]. Well, yeah, I guess it is, uh, false; Sangha 1 said "false."
 
@@ -305,7 +305,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  I know. I know. Yeah, it's very good. It's very sweet. But you know, I think the nuance there that Sangha 6 is providing for us too is that, you know, when you're able to just isolate that thought, you're seeing tons of stuff about the thought. And that's compassion, that's as compassion as can be. Right? And so I just stuck compassion in there just to finalize the three kayas because we're essentially dealing with three kayas here. You have the space, Dharmakaya, you have the cognition, which is your thought and the knowingness of that thought, which is the act of cognition, Sambhogakaya. And then the display of that, the happening of that is the Nirmanakaya compassion, that thukjé.
+  I know. I know. Yeah, it's very good. It's very sweet. But you know, I think the nuance there that Sangha 6 is providing for us too is that, you know, when you're able to just isolate that thought, you're seeing tons of stuff about the thought. And that's compassion, that's as compassionate as can be. Right? And so I just stuck compassion in there just to finalize the three kayas because we're essentially dealing with three kayas here. You have the space, Dharmakaya, you have the cognition, which is your thought and the knowingness of that thought, which is the act of cognition, Sambhogakaya. And then the display of that, the happening of that is the Nirmanakaya compassion, that thukjé.
 
   But anyway, just being able to see a thought, how that little echoing, that's like one of the deepest aspects of Vipassana you guys could see. If you're able to see a thought come and go within your awareness, that is high level Vipassana. Okay?
 ])
@@ -342,7 +342,7 @@ Seems like with this practice, there's a core assumption that's different from h
 
   We're on fire today, everybody. Always.
 
-  Is that making sense? But you're right, generally speaking, you're right. There's a whole different kind of vantage point now. Yeah from remedies to letting be. From inference and imputation to revelation. It's a completely different trajectory here, and that's why I'm happy so many of you are taking part in it. And in such a short time, we've gathered together too.  Just this year has been very powerful for this group.  I'm very happy that you all, because you all will continue to  bring this approach into the collective, into your worlds, and benefit many beings like that. Right?
+  Is that making sense? But you're right, generally speaking, you're right. There's a whole different kind of vantage point now. Yeah from remedies to letting be. From inference and imputation to revelation. It's a completely different trajectory here, and that's why I'm happy so many of you are taking part in it. And in such a short time, we've gathered together too.  Just this year has been very powerful for this group.  I'm very happy that you all, because you all will continue to  bring this approach into the collective, into your worlds, and benefit many beings like that.
 
   This is the only way to be free. You know, we have to reorientate into this kind of approach because the latter has not been working. The former has not been working. My ladder works just fine, dang it! But this is... I got you guys, some of you guys I got on that one pretty good.  Don't worry, I got myself too. Whenever I get you, I get myself. Laughter is contagious, isn't it?
 
