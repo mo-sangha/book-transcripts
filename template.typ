@@ -206,7 +206,7 @@
         set text(size: 9pt, fill: black)
         grid(
           columns: (1fr, 1fr),
-          [DRAFT], 
+          // [DRAFT],
           align(right)[#counter(page).display(style)]
         )
       }

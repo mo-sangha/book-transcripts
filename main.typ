@@ -33,6 +33,7 @@
 #set page(numbering: none)
 #v(1fr)
 #context {
+  set par(first-line-indent: 0pt)
   let copyright_text = [
     Published #datetime.today().display("[year]-[month]-[day]").\
     This text is self-secret and self-protected.
