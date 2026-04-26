@@ -250,3 +250,18 @@
 
 // #include "chapters/2026-03-20-fam-view.typ"
 // #pagebreak(weak: true)
+
+// #include "chapters/2024-06-13-hindrances.typ"
+// #pagebreak(weak: true)
+
+// #include "chapters/2025-08-17-witnessing-the-thoughts.typ"
+// #pagebreak(weak: true)
+
+// #include "chapters/2025-08-19-the-witness-itself-is.typ"
+// #pagebreak(weak: true)
+
+// #include "chapters/2026-04-21-noticing-the-space-where.typ"
+// #pagebreak(weak: true)
+
+#include "chapters/2026-04-24-dzogchen-responsibilities.typ"
+#pagebreak(weak: true)
