@@ -8,17 +8,17 @@ So accessing your natural state now, releasing into it, recognizing awareness as
 
 If it's good enough for modern cognitive behavioral therapy, then it's definitely good enough for us in Dzogchen and meditation; it means we're doing something right. The success rates are incredibly high in CBT, which I find fascinating. Wow, what we're doing in this ancient practice.
 
-So in my opinion, one thing has never changed through thousands of years, however it's spoken about, however it's represented metaphorically, allegorically, symbolically, whether it's shown symbolically, orally, through silence of pure presence, we're talking about resting in awareness. A part of your mind that can be there as you have a state of upheaval or disturbing emotions, stuck in thoughts, anything.
+So in my opinion, one thing has never changed through thousands of years, however it's spoken about, however it's represented metaphorically, allegorically, symbolically, whether it's shown symbolically, orally, or through silence of pure presence, we're talking about resting in awareness. A part of your mind that can be there as you have a state of upheaval or disturbing emotions, stuck in thoughts, anything.
 
 There's a part of your mind that will be there in a very kind of free, open, unentangled way. But we end up in this state of consciousness, typically.
 
-So let's take sadness, for example. If I was in a state of consciousness of sadness, well, my body might be like this, a little bit more rigid and tight throughout the body. I may have thoughts, even creating... you can see it, my frontal lobe might be heavier appearing and feeling for sure to yourself. Your heart and your chest area may feel like it's drowning, right, like there's water there, maybe heavy; digestive system feeling tight. Things like that.
+So let's take sadness, for example. If I was in a state of consciousness of sadness, well, my body might be like this, a little bit more rigid and tight throughout the body. I may have thoughts, even creating... you can see it, my frontal lobe might be heavier appearing and feeling for sure to yourself. Your heart and your chest area may feel like it's drowning, right? Like there's water there, maybe heavy digestive system feeling tight. Things like that.
 
 It's a whole state of consciousness that involves thoughts, emotions, and the body. So just like if we had water in a pot, that's the state of the water, whether it's frozen or hot. So we can be like that almost, you know, frozen or boiling. I'm sure you've been boiling before. But that's another state of consciousness within the pot of your awareness. Just let it be.
 
 If you can let it be, even in baby steps, a few moments of your cyclic disturbing emotions like anxiety, maybe you have dialogues about how you're not good enough, or maybe you have ideas about the world, how it's very bad and corrupt and disturbing, which you can find all these things in the world, of course. But something brings us down, and in that case, we're in a state of consciousness and we can just sit with that and let it be, even just for 10 minutes, and you'll be free.
 
-I'm not trying to rhyme, but it's happening. I've decided I'm just going to let it happen from now on. When it happens accidentally, again, I'm not trying to rhyme. This is not Dharma rap, although it could be, to try it out, I suppose.
+I'm not trying to rhyme, but it's happening. I've decided I'm just going to let it happen from now on. So, when it happens accidentally, again, I'm not trying to rhyme. This is not Dharma rap, although it could be, to try it out, I suppose.
 
 But yes, that's the great secret, you know. Many of us have cycles that have been going on for a very long time, and if you can notice the repetitive nature of a cycle, then that's how you can spot, "Well, this is conditioning." And if it's repetitive, you can greet it like an old friend.
 
@@ -38,9 +38,9 @@ For example, we may think of our parents or something, we may get nostalgic, or 
 
 So there's a, you know... we start to really become friends with ourselves in all this. That's one of the overall points, key points. But many of our thoughts that drag us down or drag us around, or keep us feeling incomplete, are like old friends. We've had them many times; we can recognize them.
 
-So this is also within awareness and letting it be, because you're letting that thought come on in. This time I have a TV and a DVD player to steal for you, thief. So the thief sits down and starts stealing your stuff. And you let it; you know it's going to happen, he does it. And now you got a snake to untie.
+So this is also within awareness and letting it be, because you're letting that thought come on in. This time I have a TV and a DVD player to steal for you, thief. So the thief sits down and starts stealing your stuff. And you let it; you know it's going to happen, he does it. And now you got a snake to untie. Okay? 
 
-Okay? So those are the three modes of liberation, very useful there.
+So those are the three modes of liberation, very useful there.
 
 Now let's talk about Garab Dorje's three statements. Have confidence in one thing and one thing only, the self-liberation of thoughts. Well, that's letting it be.
 
@@ -54,25 +54,25 @@ And then let's talk about statements like Tilopa, excuse me, The Six Nails of Ti
 
 No need to bring the past in. If you're thinking about the past, release it. If you're thinking of the future, release it. And this is my personal kind of paraphrasing of it, because they say, Don't think of the past, don't think of the future. But, you know, if you're thinking of the future or the past, leave it. You've let an old friend into your house, you've given them something to steal, and they're here now, let that be, and it will liberate.
 
-And that's what it means by releasing, just leaving it within your awareness and then allowing it to pass and liberate. So he also mentions, don't examine what's going on right now, right? And don't imagine, like fantasize. And I would say, if you're imagining fantasizing, it must be cyclic usually, and it's a habit of that, so leave that within awareness, which is the last of those six nails, relax and let it be.
+And that's what it means by releasing, just leaving it within your awareness and then allowing it to pass and liberate. So he also mentions, don't examine what's going on right now, right? And don't imagine, like fantasize. And I would say, if you're imagining fantasizing, it must be cyclic usually, and it's a habit of that, so leave that within awareness, which is the last of those six nails, relax and let it be, it says.
 
-So then the four chokshyaks, right, we get that from Vimalamitra, who received them from Jnanasutra. All about leaving it be, again. So notice how every single one of these Dzogchen Mahamudra instructions are about just leaving it be, similar to cognitive behavioral therapy, except here we utilize the nature of mind.
+And so then the four chokshyaks, right. We get that from Mañjuśrīmitra right? Vimalamitra maybe actually. Yeah. Just leaving it be, again. So notice how every single one of these Dzogchen Mahamudra instructions are about just leaving it be, the same as in cognitive behavioral therapy.
 
 So the four chokshyaks, your view, which is awareness, let it be like a mountain.
 
-Your experiences are going to be like an ocean within space, ebbing and flowing, but they have a suchness there, so let that be like an ocean.
+Your experiences are going to be like an ocean within space, you know ebbing and flowing, but they have a suchness there, so let that be like an ocean.
 
-Your actions, your conduct, are going to be within awareness, uncontrived. Hopefully the pilot, the baby pilot that thinks they need to navigate this whole thing, is starting to step back, so now you can leave your action, your conduct, leave it be, the third chokshyak.
+Your actions, your conduct, are going to be within awareness, uncontrived. Hopefully the pilot, the baby pilot that thinks they need to navigate this whole thing, is starting to step back. Yes now you can leave your action, your conduct, leave it be, the third chokshyak.
 
-The fourth one is any fruition. This is very important. I feel like many practitioners can get hung up here because things start to get magical and a little trippy, and so we kind of pull in the reins when we say, "Whoa, whoa, whoa, what the heck was that? Time to write a book; I'm going to write a book about that," or even awareness practice. "Oh, I recognize the awareness, that deserves three volumes of books," you know, so amazing. And it is; I don't blame anybody.
+The fourth one is any fruition. This is very important. I feel like many practitioners can get hung up here because things start to get magical and a little trippy, and so we kind of pull in the reins when we say, "Whoa, whoa, whoa, what the heck was that? Time to write a book; I'm going to write a book about that," You know. Or even awareness practice,  "Oh, I recognize the awareness, that deserves three volumes of books," you know, so amazing. And it is; I don't blame anybody.
 
 And the first time you see bindus and vajra chains and things like that, yeah, you're probably impressed, but my thing is, if you let it be, like the four chokshyaks say, then you can continue past that threshold. That's the important part, right? Don't just look at the daylight and go back into the cave and write a book. And many have declared themselves teachers prematurely, not knowing that there's more.
 
-So I hope you're seeing the basic premise to this presentation, that all these authentic instructions that we see everywhere are about leaving our experience alone. And that's what's difficult when you're so used to doing, so used to being active and applying remedies and antidotes and assuming that there's something that needs fixing, or assuming there's something that's unenlightened.
+So I hope you're seeing the basic premise to this presentation, is that all these authentic instructions that we see everywhere is about leaving our experience alone. And that's what's difficult when you're so used to doing, so used to being active and applying remedies and antidotes and assuming that there's something that needs fixing, or assuming there's something that's unenlightened.
 
 And these patterns go very deep. You know, we get very philosophical and analytical with a deep framework of justification for beliefs that keep us solidified in duality and into a cartoon that we swear is real, which is fine, you know, I'm not hating. But those of you who are making authentic connections with the path of awakening, yeah, past that threshold into ineffability.
 
-Even the four samayas are all about letting it be, which The Way of Abiding by Longchenpa has to be my favorite text, my favorite Dzogchen text, and probably the manual for our group. And I can't believe how misunderstood it is by academics and practitioners alike. Perhaps they never took the time to read it; it's a big book, you know, maybe they're just getting the cliff notes? But that book goes into depth about ineffability, which people translate that in all kinds of weird ways, like "non-existence." And yes, the book talks about non-existence, but it also clearly defines ineffability.
+Even the four samayas are all about letting it be, which _The Way of Abiding_ by Longchenpa has to be my favorite text, my favorite Dzogchen text, and probably the manual for our group. And I can't believe how misunderstood it is by academics and practitioners alike. Perhaps they never took the time to read it; it's a big book, you know, maybe they're just getting the cliff notes? But that book goes into depth about ineffability, which people translate that in all kinds of weird ways, like "non-existence." And yes, the book talks about non-existence, but it also clearly defines ineffability.
 
 Tank just let one rip. There's nothing like a dog fart when you're meditating, talk about let it be; if you can let that be, then you are getting leveled up there, Buddha level, you know.
 
@@ -110,6 +110,8 @@ Tilopa's Six Nails, yeah. Don't recall, don't imagine, let go. So it says don't 
 And remember, I added an extra layer to this, if you are sitting there on the past, just leave it in awareness and it'll self-liberate. You don't need to apply a strict "don't" there and you don't need to apply any effort of letting go: it self-liberates.
 
 So I'd say when you're recalling, allow it to self-liberate within awareness. When you're imagining what may come, allow it to liberate within awareness. When you're thinking, allow what you're thinking about now to self-liberate within awareness. When you're examining, when you're trying to figure things out, allow that to liberate into awareness. When you're trying to control the meditation, yeah, that's a great one, let that sense of controlling your spirituality, your meditation, your Dzogchen, whatever it may be, allow that to release; definitely that's a big one. And then rest. Relax. Right now, rest.
+
+Translator Ken McLead. Thank you very much, translator. Tilopa. Was wonderful, right? 
 ])
 
 #speaker("Sangha 3 (chat)", [
@@ -121,7 +123,7 @@ Ah, very pithy, very pithy indeed.
 
 Yeah, so I hope you're starting to catch on to what the essential key point is to all of these. And although the path has been over-complicated, there are no beliefs, there are no philosophical tenets to adopt. There's no problem to solve, to figure out. This is all about learning to let it be without altering that deliberately.
 
-Okay yeah so is that it? Let's see. Yeah, and we have a Dzogchen kind of overview too for the group. And I include the chokshyaks and the three modes of liberation in there, and Garab Dorje's three statements. And this can relate to the Satipatthana Sutta and many emptiness practices, staring at walls and things like that, it can relate, yeah.
+Okay yeah so is that it? Let's see. Yeah, and we have a Dzogchen kind of overview too for the group. And I include the chokshyaks and the three modes of liberation in there, and Garab Dorje's three statements. And this can relate to the Satipatthana Sutta and you know, many emptiness practices, staring at walls and things like that, it can relate, yeah.
 ])
 
 
