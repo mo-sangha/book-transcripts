@@ -265,3 +265,31 @@
 
 // #include "chapters/2026-04-24-dzogchen-responsibilities.typ"
 // #pagebreak(weak: true)
+
+// ==========================================
+// Final Page
+// ==========================================
+#context {
+  if target() == "paged" { // Paged output, like PDF, SVG, etc.
+    page(
+      background: image("images/candle.jpeg", width: 100%, height: 100%),
+      numbering: none,
+      margin: auto,
+      [
+        #set par(spacing: 0.17em)
+        #set par(justify: false)
+        #place(bottom + left, dx: -40pt, dy: 0pt, text(30pt, fill: white,
+          [May
+
+          all
+
+          beings
+
+          benefit]
+        ))
+      ]
+    )
+  } else if target() == "html" {
+    [May all beings benefit.]
+  }
+}
