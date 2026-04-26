@@ -2,9 +2,9 @@
 
 = Subjectivity: the Habit of Apprehending
 
-I wanted to come back around to subjectivity. We all finished a ten-minute effortless abiding session just now, and it doesn't really end, does it? But what happens is after the bell rings, even though we don't have a bell, after the session ends, we start doing again. We start piling on the doings.
+I wanted to come back around to subjectivity. We all finished a ten-minute effortless abiding session just now, and it doesn't really end, does it? But what happens is after the bell rings, even though we don't have a bell, after the session ends, we start "doing" again. We start piling on the doings.
 
-And so that's why it's great to discern this contrast after ten minutes of doing nothing. Letting the doings come off of us and seeing, what is it like when this topic of narration, this coarse linguistic narrative, what happens when it ceases?
+And so that's why it's great to discern this contrast after ten minutes of doing nothing. Letting the doings come off of us and seeing what it's like when this topic of narration, this coarse linguistic narrative, what happens when it ceases?
 
 It's electromagnetic. You can literally imagine that contrast when we're thinking a lot and when we're not. And the irony is, you can have all those thoughts at your disposal from spaciousness, without the electromagnetism.
 
@@ -26,7 +26,7 @@ Sometimes it's very heavy. When you get insulted, when somebody targets your bel
 
 Any questions about that so far? Because again, it's just like when you're looking down at your iPhone and you're driving through a rainforest, you're missing all the monkeys and the plants and all the crazy stuff that you could be seeing because you're on this phone. Well, that's subjectivity. That's exactly how subjectivity works. You're _in_ subjectivity, so you're missing the whole thing.
 
-And subjectivity can be pleasant. The subject can have a mansion and all the food in the world and the illusion of this entire setup. So in that way, they say that gods, endemic gods, get captivated for a long time like that. They are so comfortable in the subjectivity. We're lucky we get to taste the dirt a little bit as humans.
+And subjectivity can be pleasant. The subject can have a mansion and all the food in the world and the illusion of this entire setup. So in that way, the Buddhist scriptures say that gods, and demigods, get captivated for a long time by sense comforts without any desire to leave them. They become very comfortable with subjectivity. We're lucky we get to taste the dirt a little bit as humans.
 
 That's really it everybody, the fact that we can somatically, viscerally tune into the conditioned self, the small self, the small mind. We can see that plain as day. That's the Eight Consciousness model. That's karma, you know, we can feel karma, we can see karma, the weights of it within awareness, because awareness is so subtle and omnipresent and permeating.
 
@@ -38,7 +38,7 @@ I don't know what to say because I feel like I'm almost luring you out of a gold
 
 Good thing I've already jumped. It's okay out here, everybody, come on. It is okay to release when you're ready. It will release: the stories, the identities, the habits, the home you've built in illusion.
 
-So we've been touching on these wonderful topics, how Dzogchen is very radical (shout out to Keith Dowman). Because Dzogchen embraces all people, all things as teachers, as the co-emergence of mind. We're ending all the little battles, all the little strife, addictions, impulses, interactions with the sense world. The subject-action-object trichotomy, that triad, is softening its electromagnetic contraction.
+So we've been touching on these wonderful topics, how Dzogchen is very radical (shout out to Keith Dowman). Because Dzogchen embraces all people, all things as teachers, as the co-emergence of mind. We're ending all the little battles, all the little strife, addictions, impulses, clinging and grasping to the sense world. The subject-action-object trichotomy, that triad, is softening its electromagnetic contraction.
 
 The _Āyatanas_: The ears, the hearing, and what's heard. The eyes, the seeing, and what's seen. The thinking mind, what's thought, and the topic of the thought. The emotional mind, the emotion, and what's being felt. You'll always find these three spheres of contraction---until you don't.
 
@@ -48,7 +48,7 @@ But for awareness practitioners, that's great. Because that's a whole bunch of w
 
 So next time you go to the grocery store---clear your mind, and then start to see all the thoughts that come in: the preoccupations, worries, emotional energies, all that stuff. Grocery store, work, wherever. You can see this. Any questions so far? If you get this, freedom is at hand.
 
-I have to be careful speaking with some of these… what are they called? Phrases and idioms? I heard this one lady, people were going through her car, and she said they were "ransacking" her car. And that reminded me of being careful because we don't want to "ransack" anybody. I don't know, I just saw that and it cracks me up because I'm silly like that. But I wanted to get to the comment here.
+// I have to be careful speaking with some of these… what are they called? Phrases and idioms? I heard this one lady, people were going through her car, and she said they were "ransacking" her car. And that reminded me of being careful because we don't want to "ransack" anybody. I don't know, I just saw that and it cracks me up because I'm silly like that. But I wanted to get to the comment here.
 
 
 #speaker("Sangha 1 (chat)", [
