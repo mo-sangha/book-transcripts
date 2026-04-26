@@ -55,7 +55,7 @@ So beginning to see the entire reality just like you see your inside---allowing 
 
 Well anyway, maybe I've gone a little idealistic here, or at least it sounds that way. The main point is to allow oneself to have that freedom throughout the day. And maybe, you know, you need to take it slow, slowly integrate experiences and reality into the view. Okay?
 
-So I think that's all I have to say on that topic. Are there any question, comments? Think we can all relate to that, how beliefs can possess us, ideas can possess us, and get us doing the cruddiest things. Justifying abuse, only to feel terrible about it.
+So I think that's all I have to say on that topic. Are there any questions, comments? Think we can all relate to that, how beliefs can possess us, ideas can possess us, and get us doing the cruddiest things. Justifying abuse, only to feel terrible about it.
 
 Okay, and this way, you know which beliefs are in line and which aren't. You have your whole mind here. They call them metacognition, have all these countless names throughout history for this beautiful awakened mind of yours. And yes, I'll say it, mind of yours, because we don't mind speaking in conventions. Once you get it, you get it. You don't need to sit there and play with words to appease people's conceptual ideation. That's a little ridiculous, right? A little petty.
 
