@@ -168,6 +168,7 @@
   show "Togyal": [Tögal]
   show "ngondro": [ngöndro]
   show "Ngondro": [Ngöndro]
+  show "Yeshe": [Yeshé]
 
   // The page configuration below is only valid for paged targets.
   //
