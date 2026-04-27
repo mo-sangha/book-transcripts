@@ -156,7 +156,7 @@ Yes, please.
 
   It may seem like on the surface, you're caught up in your moods, and you're caught up in your day and something agitates you. But there will always, always be this recognition of a higher cognition, a higher consciousness, this very basis that holds the thought. You have seen it. You can no longer be captivated. You can no longer be hurt. You understand? That's why it means so much to me to go into this together.
 
-  And I have no presentation skill, I have no manners. You know, I grew up with no parents, like teaching me anything and no schooling, and so I'm sorry if it comes across rough or weird or anything like that. I don't know what normal is, and I don't know how to act sometimes; I just go by what I got. But this is it everybody, if you can just, (well, thank you but) if you could just find this everybody, you will be okay, you know? Alright, I think Sangha 3 was next, there.
+  And I have no presentation skill, I have no manners. You know, I grew up with no parents teaching me anything and no schooling, and so I'm sorry if it comes across rough or weird or anything like that. I don't know what normal is, and I don't know how to act sometimes; I just go by what I got. But this is it everybody, if you can just, (well, thank you but) if you could just find this everybody, you will be okay, you know? Alright, I think Sangha 3 was next, there.
 ])
 
 #speaker("Sangha 3", [
@@ -170,7 +170,7 @@ Yes, please.
 
   You know maybe we could say it's like the... the rubbing the belly and patting the head thing. Except you have this great Avalokiteshvara mental ability to emanate across dimensions and realities and things. That's what originally in the ancient Vedas, Ishvara meant that, you know, the very fabric of this and the creator all in one. So you have this ancient trichotomy there with Brahma, Vishnu, and Shiva. Which happens with every one of these thoughts.
 
-  The thought comes, Brahma, it abides, Vishnu, and then it destroys Shiva. So you have the Ishvara here, connected to Avalokiteshvara, by the way, for those Dharma nerds out there. It's the very... we're just playing with mind, we're just playing with consciousness. Just... you are the spider, you know, weaving the web.
+  The thought comes, Brahma, it abides, Vishnu, and then it destroys, Shiva. So you have the Ishvara here, connected to Avalokiteshvara, by the way, for those Dharma nerds out there. It's the very... we're just playing with mind, we're just playing with consciousness. Just... you are the spider, you know, weaving the web.
 
   But yes, it was a great share, just showing how much you're seeing is always impressive to me. Thank you.
 ])
