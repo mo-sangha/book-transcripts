@@ -199,11 +199,11 @@ Yes, please.
 
   Maybe when I say, "The weather's getting cold," Sangha 4 says, "Oh, I need to get a jacket," you know, "I wonder what kind of jacket I'm going to get." You know, so everybody's mind is going to do something unique with this. And just observing what your mind does with thoughts is good enough. That's the magic right there. You get to see, you know, you get to zoom in a little bit while zooming out, and see how your mind interacts with thoughts, what it does with thoughts. How proliferation starts, how visualizations and nostalgia can take place from a thought. All kinds of stuff. How anxious feelings can arise from a thought. There's an entire spectrum, it's worth writing a book about it or making a graphic, because there's an entire spectrum of things that the mind does when asked to isolate a single thought. Very interesting.
 
-  And by the way, is it okay if these sharing are on the YouTube channel? They're very powerful. You all do so well in these sharings that I really wish more visibility on them as long as people are comfortable.
+  And by the way, is it okay if these sharings are on the YouTube channel? They're very powerful. You all do so well in these sharings that I really wish more visibility on them as long as people are comfortable.
 ])
 
 #speaker("Sangha 5", [
-  Something clicked when you told Sangha 1 that it was about isolating mental formations. So I had just ordinary perception, and in that was repeating "The weather is cold." And I finally understand what a thought is. And through that I know what all the other thoughts are, they're all mental formations. And my head is full of mental formations all the time so this is interesting, interesting exercise. Thank you.
+  Something clicked when you told Sangha 1 that it was about isolating mental formations. So I had just ordinary perception, and in that was repeating "The weather is cold." And I finally understand what a thought is. And through that I know what all the other thoughts are, they're all mental formations. And my head is full of mental formations all the time so this is an interesting, interesting exercise. Thank you.
 ])
 
 #speaker("Dawai", [
@@ -227,7 +227,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  Yeah, we had that last session and I maybe should have specified that reinvoking the thought is fine. That's what I mean by mono-minded. You're just having one thought. You're letting it, ideally you would notice the echoing out of that thought. That's the dissolution. We want those three phases of the thought to be seen: its creation, its abiding and its dissolution. Those are three very important stages to simply witness, because then you can notice panic, heavy feelings, and traumas within the same space. You can notice their arising, their abiding and their cessation. That is the superpower.
+  Yeah, we had that last session and I maybe should have specified that reinvoking the thought is fine. That's what I mean by mono-minded. You're just having one thought. You're letting it, ideally you would notice the echoing out of that thought. That's the dissolution. We want those three phases of the thought to be seen: its creation, its abiding and its dissolution. Those are three very important stages to simply witness, because then you can notice panic, heavy feelings, and traumas within the same space. You can notice their arising, their abiding, and their cessation. That is the superpower.
 
   So if I have a thought, let's say... I want to pick something that's as less complicated as possible. "The hand has five fingers." Is that good? Is that debatable? #btw[Dawai reads the chat]. Well, yeah, I guess it is, uh, false; Sangha 1 said "false."
 
@@ -235,9 +235,9 @@ Yes, please.
 
   So if we have "birds fly," let's just become clear canvas, that's our thought, and it leaves a little bit of a trace before it vanishes completely. "Birds fly."
 
-  Now the space is going to increase between your invocations. You can still see it flying around your mind so be careful not to reinvoke it prematurely. There may still be a trace of that thought there. For me, I can still right now see a trace of that thought, without deliberately invoking it.
+  Now the space is going to increase between your invocations. You can still see it flying around your mind, so be careful not to reinvoke it prematurely. There may still be a trace of that thought there. For me, I can still right now see a trace of that thought, without deliberately invoking it.
 
-  What was it? Birds poop? Oh, "Birds fly." I got you guys. Okay so very good.
+  What was it? "Birds poop?" Oh, "Birds fly." I got you guys. Okay, so very good.
 
   Go ahead...
 ])
@@ -249,13 +249,13 @@ Yes, please.
 #speaker("Dawai", [
   Yeah. That's a great inquiry. You see these are things, it means nothing. What are the implications? There are no implications. Seeing is enough. Right? And it may look different for everybody. There's nothing to figure out here. You're just watching birds pass by. Oh, that one was flying slower than the other one. Or that one had a poor little mouse in its mouth, or whatever. You know, that one had huge wings, look at that, wow. Same with your thoughts, wow, look at this one, this one's big. This one's really taking some time to go through. And I think there is a standard perhaps that we can say, I'm here in awareness, just like a pristine lake, and you throw a pebble into the lake and it ripples. Well, this is what you're doing. You're vibrating the great mind and you're saying, "Birds fly." It's a vibration, a ripple.
 
-  And then I think for everybody that ripple would be the same, if we had a uh pristinely pure clear mind, all of us. The reason why it doesn't appear the same is because every one of us is doing something with that thought: "Birds fly." Now there are a lot of yogis here, maybe you're not. I believe that some of you are probably able to throw a pebble in the lake and that's the only pebble. You just watch it ripple out. "Birds fly." You can literally tune into the rippling, to it echoing out.
+  And then I think for everybody that ripple would be the same, if we had a pristinely pure clear mind, all of us. The reason why it doesn't appear the same is because every one of us is doing something with that thought: "Birds fly." Now there are a lot of yogis here, maybe you're not. I believe that some of you are probably able to throw a pebble in the lake and that's the only pebble. You just watch it ripple out. "Birds fly." You can literally tune into the rippling, to it echoing out.
 
   The issue is when we're compounding, we say: "Birds fly. I wonder why they fly? I wonder how many birds are gonna fly? I wonder if they're gonna poop on my car, and then I'm gonna have to clean it? I don't have enough paper towels to clean it. Oh, I wonder what I'm gonna do with the birds later when they come back? Are the birds gonna be in a flock later?"
 
   And this is the kind of perpetuated thought cycle that gets us trapped. And then we're blind, we don't have visibility. But instead of about the birds, it's about your fears, it's about your parents, it's about your job, about your school. And you sit there thinking about birds.  So this gets you out of that electromagnetic confine, as I would call it. And then you can still think about birds from there. You know, we can still have all the thoughts about birds we want, no problem, from here.
 
-  So give it a try everybody. What's it like to watch birds fly by? Whether it's your emotions, whether it's thoughts, what's it like if I just let this bird fly by rather than analyzing it and being stuck on it? This happens when somebody insults you or somebody does you wrong or something like that, or breaks your heart. You'll be thinking about birds for days.
+  So give it a try, everybody. What's it like to watch birds fly by? Whether it's your emotions, whether it's thoughts, what's it like if I just let this bird fly by rather than analyzing it and being stuck on it? This happens when somebody insults you or somebody does you wrong or something like that, or breaks your heart. You'll be thinking about birds for days.
 ])
 
 #speaker("Sangha 6", [
@@ -265,7 +265,7 @@ Yes, please.
 #speaker("Dawai", [
   Well, thank you too, my friend. Thank you so much for being here and spending time with us, it's always a privilege. Yes, the space between thoughts, exactly. So wonderful that you noticed that and you're getting lots of love there in the comments. And yeah, to release the stories, right?
 
-  I mean, imagine if we branded ourselves with these things and we do, but as practitioners, I mean, it would be ridiculous for me. I was in and out of jail so much as a teenager and I was raging out and I did so much crazy stuff and gotten fights and gunfights and stuff. You know, if I let that define me, if I let that continuously repeat in my mind, you know how I needed to have a better childhood and all these things, it just keeps you in a slumber of unhappiness, right? And then you feel trapped by these stories and identity constructs. Yeah, I feel like I'm in that boat right now, actually. I'm letting myself become myself rather than the stories, rather than the past. And that looks different. You know, and we don't know what it really looks like at first, but to choose peace, to choose compassion and wisdom constantly, and allow yourself to be revealed in that. And not being scared to be brand new.
+  I mean, imagine if we branded ourselves with these things and we do, but as practitioners, I mean, it would be ridiculous for me. I was in and out of jail so much as a teenager and I was raging out and I did so much crazy stuff and got in fights and gunfights and stuff. You know, if I let that define me, if I let that continuously repeat in my mind, you know, how I needed to have a better childhood and all these things, it just keeps you in a slumber of unhappiness, right? And then you feel trapped by these stories and identity constructs. Yeah, I feel like I'm in that boat right now, actually. I'm letting myself become myself rather than the stories, rather than the past. And that looks different. You know, and we don't know what it really looks like at first, but to choose peace, to choose compassion and wisdom constantly, and allow yourself to be revealed in that. And not being scared to be brand new.
 
   In this gathering, you all are exceptional, so forgive yourself, forgive others, clear your browser history, and let yourself be brand new, okay? And yeah you may end up cycling back into the old stuff---then do it again. Let yourself be brand new again. Just because you engaged in some sense desire doesn't brand you a certain person. Just because you made a mistake, seemingly a mistake, wrong choices or something like that, that doesn't brand you a particular person, doesn't identify you. So we will get into... yes, I think actually... yes, please.
 ])
@@ -273,15 +273,15 @@ Yes, please.
 #speaker("Sangha 7", [
   Hello. Firstly, thank you, I mean, what an amazing practice. It's just to isolate the thought and hold it and observe. It's just an incredible practice, it's wonderful. Because I've done a lot of practice in the past, but in a way that was always presented as being like a Samatha or Vipassana in kind of training in one or the other, or ultimately trying to kind of put them together.
 
-  So forgive me if I'm kind of putting this in, and you've just mentioned dropping back into old habits, well, maybe I'm dropping back into old habits, but this feels very... I can apply this in a Samatha sort of a way of holding a thought and then especially that technique of just observing, you know, is it still there? Is it still there? can still feel a little bit of an echo of it. That feels very Samatha. But am I missing.. oh I think I might have just got it, am I missing the Vipassana aspect, or is the fact that the awareness is Dharmakaya, it is emptiness. Is that the Vipassana aspect---that maybe being aware of being aware?
+  So forgive me if I'm kind of putting this in, and you've just mentioned dropping back into old habits, well, maybe I'm dropping back into old habits, but this feels very... I can apply this in a Samatha sort of a way of holding a thought and then especially that technique of just observing, you know, is it still there? Is it still there? can still feel a little bit of an echo of it. That feels very Samatha. But am I missing... oh, I think I might have just got it, am I missing the Vipassana aspect, or is the fact that the awareness is Dharmakaya, it is emptiness, is that the Vipassana aspect---that maybe being aware of being aware?
 ])
 
 #speaker("Dawai", [
-  Yeah you do got it, I like that you do this. You ask... you have an inquiry and then you start to answer it. This is awesome. Awesome to see that in real time. And we're kind of communicating with the group then. you know, and letting it come to us.
+  Yeah you do got it, I like that you do this. You ask... you have an inquiry and then you start to answer it. This is awesome. Awesome to see that in real time. And we're kind of communicating with the group then, you know, and letting it come to us.
 
-  But this is a great question. Samatha and Vipassana are never separated in this Dzogchen approach. So when you stabilize in awareness itself, that allows you to isolate a thought. The more Samatha you have, essentially, the more you can isolate that thought, the better you will be at it. So if the mind is very non-discursive, I'm sitting here space-like and I just invoke a thought, birds are flying. then it's very easy to stay here because of Samatha.
+  But this is a great question. Samatha and Vipassana are never separated in this Dzogchen approach. So when you stabilize in awareness itself, that allows you to isolate a thought. The more Samatha you have, essentially, the more you can isolate that thought, the better you will be at it. So if the mind is very non-discursive, I'm sitting here space-like and I just invoke a thought, "Birds are flying." Then it's very easy to stay here because of Samatha.
 
-  Seeing the duration of that thought, just even one instance of seeing that thought is Vipassana. So now you have seen how the thought does these three things. It arises, it abides, and it ceases. That's your Samatha and Vipassana, united. And compassion is there too because just holding that thought, holding the space for that thought is the compassion.
+  Seeing the duration of that thought, just even one instance of seeing that thought, is Vipassana. So now you have seen how the thought does these three things. It arises, it abides, and it ceases. That's your Samatha and Vipassana, united. And compassion is there too because just holding that thought, holding the space for that thought, is the compassion.
 ])
 
 #speaker("Sangha 6", [
@@ -289,7 +289,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  Well, anything that when we come into the nurturing of our experience, now we're saying, okay, thought, I'm not going to enable you, like for some kind of destruction. I'm not going to harbor you for some kind of desires. I'm just going to nurture you here in awareness. And that's a kind of...
+  Well, when we come into the nurturing of our experience, now we're saying, "Okay, thought, I'm not going to enable you for some kind of destruction. I'm not going to harbor you for some kind of desires. I'm just going to nurture you here in awareness." And that's a kind of...
 ])
 
 #speaker("Sangha 7 (chat)", [
@@ -305,9 +305,9 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  I know. I know. Yeah, it's very good. It's very sweet. But you know, I think the nuance there that Sangha 6 is providing for us too is that, you know, when you're able to just isolate that thought, you're seeing tons of stuff about the thought. And that's compassion, that's as compassionate as can be. Right? And so I just stuck compassion in there just to finalize the three kayas because we're essentially dealing with three kayas here. You have the space, Dharmakaya, you have the cognition, which is your thought and the knowingness of that thought, which is the act of cognition, Sambhogakaya. And then the display of that, the happening of that is the Nirmanakaya compassion, that thukjé.
+  I know. I know. Yeah, it's very good. It's very sweet. But you know, I think the nuance there that Sangha 6 is providing for us too is that, you know, when you're able to just isolate that thought, you're seeing tons of stuff about the thought. And that's compassion, that's as compassionate as can be. Right? And so I just stuck compassion in there just to finalize the three kayas because we're essentially dealing with three kayas here. You have the space, Dharmakaya, you have the cognition, which is your thought and the knowingness of that thought, which is the act of cognition, Sambhogakaya. And then the display of that, the happening of that is the Nirmanakaya compassion, that thugjé.
 
-  But anyway, just being able to see a thought, how that little echoing, that's like one of the deepest aspects of Vipassana you guys could see. If you're able to see a thought come and go within your awareness, that is high level Vipassana. Okay?
+  But anyway, just being able to see a thought, that little echoing, that's one of the deepest aspects of Vipassana you guys could see. If you're able to see a thought come and go within your awareness, that is high level Vipassana. Okay?
 ])
 
 #speaker("Sangha 6", [
@@ -315,7 +315,7 @@ Yes, please.
 ])
 
 #speaker("Dawai", [
-  There's always more. But important for everybody to know the context that from this Palyul context that I've adopted from Karma Chagme in the 1600s, this is a union of Mahamudra and Dzogchen, but a union of Samatha and Vipassana too.
+  There's always more. But important for everybody to know the context, that from this Palyul context that I've adopted from Karma Chagme in the 1600s, this is not only a union of Mahamudra and Dzogchen, but a union of Samatha and Vipassana, too.
 
   Those people that separate Samatha and Vipassana, that's a whole different method, that's a whole different technique and style. I would never ever separate them because the second you bring awareness into your body, for example, like everybody can do this, just bring awareness or bring your neck into awareness.
 
@@ -333,20 +333,20 @@ Yes, please.
 ])
 
 #speaker("Sangha 8", [
-Seems like with this practice, there's a core assumption that's different from how I used to think. And that assumption being that the thought or feeling will echo out. That's like the premise that we're working with here Whereas before I feel like I was actively trying to stop these things from occurring or popping up, especially sitting down and meditating. Or if I'm at work and I get angry, then I try to do something to stop that. But the shift in premise here to me seems like: it will echo out and just watch it do that. Almost, you know, just sit back and behold, you know, it echoing out by itself. That's my take.
+Seems like with this practice, there's a core assumption that's different from how I used to think. And that assumption being that the thought or feeling will echo out. That's like the premise that we're working with here. Whereas before, I feel like I was actively trying to stop these things from occurring or popping up, especially sitting down and meditating. Or if I'm at work and I get angry, then I try to do something to stop that. But the shift in premise here to me seems like: it will echo out and just watch it do that. Almost, you know, just sit back and behold it echoing out by itself. That's my take.
 
 ])
 
 #speaker("Dawai", [
-  Yeah, except it's not axiomatic here. We're not like setting that premise, we're just showing you that this is what's happening, right? There's no like preset, there's no predisposition required. We can show this to you, all you have to do is be willing.
+  Yeah, except it's not axiomatic here. We're not setting that premise, we're just showing you that this is what's happening, right? There's no preset, there's no predisposition required. We can show this to you, all you have to do is be willing.
 
   We're on fire today, everybody. Always.
 
-  Is that making sense? But you're right, generally speaking, you're right. There's a whole different kind of vantage point now. Yeah from remedies to letting be. From inference and imputation to revelation. It's a completely different trajectory here, and that's why I'm happy so many of you are taking part in it. And in such a short time, we've gathered together too.  Just this year has been very powerful for this group.  I'm very happy that you all, because you all will continue to  bring this approach into the collective, into your worlds, and benefit many beings like that.
+  Is that making sense? But you're right, generally speaking, you're right. There's a whole different kind of vantage point now. Yeah, from remedies to letting be. From inference and imputation to revelation. It's a completely different trajectory here, and that's why I'm happy so many of you are taking part in it. And in such a short time, we've gathered together, too.  Just this year has been very powerful for this group.  I'm very happy for you all, because you all will continue to  bring this approach into the collective, into your worlds, and benefit many beings like that.
 
   This is the only way to be free. You know, we have to reorientate into this kind of approach because the latter has not been working. The former has not been working. My ladder works just fine, dang it! But this is... I got you guys, some of you guys I got on that one pretty good.  Don't worry, I got myself too. Whenever I get you, I get myself. Laughter is contagious, isn't it?
 
-  All right. But this is, you know, so beautiful to see and always, you know, kind of reminding you of how exceptional it is. Please cherish and  continue to be humble about it the way you've been and not water it down with this materialism or you know, trying to sell it and market it and all these things. It's a sacred, profound truth, that's accessed through sincerity and honesty and  innocence. Yeah, so high praise to you all for that, and we'll just keep on, you know, keeping this medicine alive.
+  Alright. But this is so beautiful to see and always, you know, kind of reminding you of how exceptional it is. Please cherish and  continue to be humble about it the way you've been and not water it down with this materialism or, you know, trying to sell it and market it and all these things. It's a sacred, profound truth that's accessed through sincerity and honesty and  innocence. Yeah, so high praise to you all for that, and we'll just keep on keeping this medicine alive.
 
   Well thank you so much. I appreciate you all, I really do. And the love that you have given me has probably very literally kept me alive in more ways than one. So, yeah, I'm just as much appreciative of you. Okay, so we'll end here then with a moment of silence for this dedication.
 ])
