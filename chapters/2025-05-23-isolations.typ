@@ -4,7 +4,7 @@
 
 When you first go into a short session, you're leaving your eyes open, and what is here for you? Well, typically we're conditioned to be in thoughts.
 
-So if I was to give an example I would say: What is happening with this meditation? What am I even doing with these people? But really, you're just having thoughts, right? I wonder what I'm gonna do today? Probably go meet up with my mom. I wonder if I'm nervous about that. I don't know, maybe. So I'm in these thoughts, right? And that's kind of where I'm psychically located.
+So if I was to give an example I would say: "What is happening with this meditation? What am I even doing with these people?" But really, you're just having thoughts, right? "I wonder what I'm gonna do today? Probably go meet up with my mom. I wonder if I'm nervous about that. I don't know, maybe." So I'm in these thoughts, right? And that's kind of where I'm psychically located.
 
 But you can have awareness of thoughts.
 
