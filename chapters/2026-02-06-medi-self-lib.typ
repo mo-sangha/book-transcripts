@@ -44,4 +44,4 @@ And yeah, sometimes it's like waiting at a bus stop. Not much happening. Just le
 
 
 
-#archive_minimal("February 06, 2026", "Meditation and self-liberation...", "https://www.youtube.com/watch?v=lHxYEVj4KNo")
+#archive_minimal("February 6, 2026", "Meditation and self-liberation...", "https://www.youtube.com/watch?v=lHxYEVj4KNo")

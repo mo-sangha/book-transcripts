@@ -35,4 +35,4 @@ So not only can somebody like me who just wanted to get away from their trauma, 
 So that's where we get into this reference point, the subjectivity. It's not for everybody. That is your safety mechanism. That is your eggshell. That is your comfort zone. When that starts to go away and your stories and your identities go away, you're going to lose everything that you thought you were---which is a bunch of negativity usually. We don't think so good about ourselves. I just didn't want to hurt anymore, but I ended up finding lineage, luminosity, friends. Freedom.
 
 
-#archive_minimal("February 09, 2026", "Dharma talk: Spheres...", "https://www.youtube.com/watch?v=aYFr-_meg4Q")
+#archive_minimal("February 9, 2026", "Spheres of Conception", "https://www.youtube.com/watch?v=aYFr-_meg4Q")

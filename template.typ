@@ -13,14 +13,14 @@
 
 // Minimalist Archive Link - Subtle horizontal rule with integrated URL and recording metadata
 #let archive_minimal(date, title, url) = {
-  v(2em, weak: true)
+  v(1.5em, weak: true)
   line(length: 25%, stroke: 0.5pt + gray)
   v(0.5em)
   text(size: 8pt, fill: gray.darken(30%))[
-    #date #sym.bullet 
-    #link(url)[#text(fill: black.lighten(30%), weight: "medium")[#underline(stroke: 0.5pt + black.lighten(30%), offset: 2pt)[#title]]] 
-    #sym.bullet 
-    #link(url)[Video Archive]
+    // #date #sym.bullet 
+    // #link(url)[#text(fill: black.lighten(30%), weight: "medium")[#underline(stroke: 0.5pt + black.lighten(30%), offset: 2pt)[#title]]] 
+    // #sym.bullet 
+    Recorded #link(url)[#underline(stroke: 0.5pt + black.lighten(30%), offset: 2pt)[#date]].
   ]
 }
 
