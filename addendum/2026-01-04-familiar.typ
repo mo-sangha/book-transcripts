@@ -229,7 +229,11 @@ Rolpa the sound is really bad on my end, there's alot of static, and I want to h
   Alright so, let's see here. And I'm happy that you're getting back into that with your...in a comfortable way, Sangha 5. 
 ])
 
-(Dawai reading the chat) "As the restoration happens"... Oh reorientation, "what does this change, if anything, about Bodhicitta?"
+(Dawai reading the chat) As the restoration happens... 
+
+Dawai: Oh reorientation
+
+Dawai reading the chat) ...what does this change, if anything, about Bodhicitta?
 
 
 #speaker("Dawai", [

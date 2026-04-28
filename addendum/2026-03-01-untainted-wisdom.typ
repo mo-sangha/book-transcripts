@@ -38,7 +38,7 @@ This is your birthless right to access this part of your mind. To come home. It 
 
 So any questions so far, comments, anything about this stuff? Making sense, yeah? Good.
 
-Yeah, that's a great question there. #btw[Dawai reads the chat]. "How can we let be in the course of action?" I believe is what I saw pop up there. Let's make sure. "How can one let be while still acting?"
+Yeah, that's a great question there. #btw[Dawai reads the chat]. How can we let be in the course of action?" I believe is what I saw pop up there. Let's make sure. "How can one let be while still acting?
 
 Yes so if you're in the whirlpool, for example, if you're in the ocean and there's a whirlpool, and you're stuck in it, you're going to be circulating around in the whirlpool. But if you go underwater and you dive and you go outside of the whirlpool, now you can see the whirlpool, but you're no longer in it. That's how awareness works.
 

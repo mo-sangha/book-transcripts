@@ -119,7 +119,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 #speaker("Dawai", [
   Yeah, so I would look more into the Vedic stuff. They have deep teachings on karma, and they have these, I think, four different karmas. Anybody, you can feel free to help me out, I don't remember them off the top of my head, though. But one of them, from what I remember, is a kind of independent collective karma. Yeah, you'd have to look into different types of karma and the breakdowns of those.
 
-  #btw[Dawai reads the chat]. "Throwing karma?"
+  #btw[Dawai reads the chat]. Throwing karma?
 
   Yeah, sorry I can't be of more help. I personally don't focus on that at all, because it's more about what is the karma in our own minds, right? I mean, there's collective karma, too, when we talk about our own karma. There's collective karma included in that. And you know, here we're getting dualistic, because we're saying, "I have my own karma. If I'm not around, is there still a bottle?"
 
@@ -176,7 +176,7 @@ So more and more you will begin to find this union by letting be, by relaxing yo
 ])
 
 (Dawai reads a chat message from Sangha):  
-"For what it's worth, maybe it would be interesting to note that the object in Tibetan is the sheja: a thing that could be known. So there's no such thing as an object without an observer. Nagarjuna is fun to read on those kinds of points."
+For what it's worth, maybe it would be interesting to note that the object in Tibetan is the sheja: a thing that could be known. So there's no such thing as an object without an observer. Nagarjuna is fun to read on those kinds of points.
 
 Dawai: Yeah thank you, great contribution, That's what I needed, a little backup. 
 
@@ -187,7 +187,7 @@ Dawai: Yeah thank you, great contribution, That's what I needed, a little backup
 #speaker("Dawai", [
   Yeah in regards to the thigle, I would say when you start to see the little dancing lights in the sky and things like that, in our practice, apply the same methodology, the same praxis that we would apply in the 10 minutes. So really learn to leave things alone with your conceptual mind and begin to discover a point of the mind beyond the spectrum, the limitations, right? There's a kind of cognitive spectrum, just like a visual spectrum and auditory spectrum and all these things. So we also have a cognitive spectrum, and we don't want to limit everything to that. All right, so the greatest achievement, so to speak, is learning to do nothing. And that means you're still chopping wood and carrying water, so there's a healthy paradox in all this.
 
-  #btw[Dawai reads a chat message]. "I treat them the same way I treat thought movement in trekcho."
+  #btw[Dawai reads a chat message]. I treat them the same way I treat thought movement in trekcho.
 
   Yeah exactly, very good. And so you also want to treat your body in the same way as you treat thought movement: place it on into awareness and leave it there. And then you will really start to open up the lines of communication. Even if we start out sick or something like that, we could have a condition or something that's in our life, it will still just open up a line of communication with your organs, with your blood flow, with your oxygen, your body in general. Down to a particular level, cellular level.
 ])
@@ -199,7 +199,7 @@ Dawai: Yeah thank you, great contribution, That's what I needed, a little backup
 #speaker("Dawai", [
   Very good, exactly. Once we've been introduced to clear light awareness or to bindus within light rays, we want to now allow that habit of apprehension to soften up. Yeah, very good. And that's when the pure visions begin to unfold within that, and you may see whatever you would see in a dream, appear like like Buddha dream. You may start to see all kinds of deities or signs, scriptures, things like that. It depends on the person, definitely.  And then vision itself softens up your subscription to which, according to modern science, you make up, you know, I think around 90% of our reality is based off the vision. And of course, we don't even need the eyes to have that visual consciousness. Right?
 
-  #btw[Dawai reads a chat message]. Yeah, "the Dakini Script", liberation upon seeing. Exactly.
+  #btw[Dawai reads a chat message]. Yeah, the Dakini Script, liberation upon seeing. Exactly.
 
   I don't usually share about things that appear for me because I don't like to implant ideas or even get in the way of what's appearing. But that was one of the blessings that I began to notice within the light rays, the Dakini Script. So since we're so subscribed into the vision, tögal is considered, you know, gives you a huge advantage. Because the very thing that's hypnotizing you, now has got a broken leg, got a broken wheel, so to speak. It has a crack in it. And it's not just the vision. You have put a crack into your hearing, your smelling, your tasting through clear light awareness. Even more crazy, solidity itself softens up. So me feeling. Right? Tactile sensations. So this is very, very amazing when you begin to release into the trueness of your own mind.
 ])
@@ -254,13 +254,13 @@ Dawai: Yeah thank you, great contribution, That's what I needed, a little backup
 #speaker("Dawai", [
   Exactly. Well, the lucid mind itself has a doing, too. Like we can get involved. I can look at this microphone right now, and that's very coarse, but the lucid mind is also like, "I'm going to hold this microphone up for you. I'm going to make it, I'm going to render it as you interact with it." So there's all kinds of really cool stuff happening. That's why it's a slow-release acid trip, everybody. Stabilizing in awareness is the safest bet.
 
-  #btw[Dawai reads a chat message]. "Like you say, one big one that keeps appearing."
+  #btw[Dawai reads a chat message]. Like you say, one big one that keeps appearing.
 
   It can happen. It can actually expand to encompass your entire body and expand to include visual appearances. For the Tibetans, they would typically see yidams, like White Tara, Medicine Buddha, and things like that, but you may see Mickey Mouse or something. I don't know, we don't know what each individual is going to... It's like when you're looking at clouds and you see these images in the clouds. It's got that lightness to it. Lightness, taking on two different connotations there.
 ])
 
 #speaker("Sangha 11 (chat)", [
-  "I know it is suggested not to read Yeshé Lama or the restricted books that talk about the tögal without getting some teachings first. Do you recommend having specific instructions or empowerments as preliminary?"
+  I know it is suggested not to read Yeshé Lama or the restricted books that talk about the tögal without getting some teachings first. Do you recommend having specific instructions or empowerments as preliminary?
 ])
 
 #speaker("Dawai", [
@@ -268,7 +268,7 @@ Dawai: Yeah thank you, great contribution, That's what I needed, a little backup
 ])
 
 #speaker("Sangha 11 (chat)", [
-  "But probably still implied."
+  But probably still implied.
 ])
 
 #speaker("Dawai", [
