@@ -193,7 +193,7 @@
 // // #include "addendum/2025-11-16-tantras-of-atiyoga.typ"
 // // #pagebreak(weak: true)
 
-// #include "addendum/2025-11-22-cmt-KPT.typ"
+// #include "addendum/2025-11-22-KPT.typ"
 // #pagebreak(weak: true)
 
 // #include "addendum/2025-11-24-three-kayas.typ"
