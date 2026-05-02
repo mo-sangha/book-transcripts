@@ -30,8 +30,6 @@
 // ==========================================
 // --- COPYRIGHT and PUBLICATION INFO ---
 // ==========================================
-#set page(numbering: none)
-#v(1fr)
 #context {
   set par(first-line-indent: 0pt)
   let copyright_text = [
@@ -45,13 +43,20 @@
     Licensed under #link("https://creativecommons.org/licenses/by-nc-sa/4.0/")[CC BY-NC-SA 4.0].\
     No AI was used in the making of this text. 
   ]
-  copyright_text
+
+  if target() == "paged" {
+    set page(numbering: none) // Copyright page does not get a page number.
+    set par(spacing: 1.1em) // Some white space between sections.
+    place(bottom + left, copyright_text)
+    pagebreak()
+  } else if target() == "html" {
+    copyright_text
+  }
 }
 
 // ==========================================
 // --- FRONT MATTER ---
 // ==========================================
-#pagebreak()
 #set page(numbering: "i")
 #counter(page).update(1)
 
