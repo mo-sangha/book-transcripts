@@ -38,15 +38,22 @@ jobs:
         with:
           args: --from html --to epub --output transcripts.epub transcripts.html
 
+      # Rename the files for publication so users have more helpful filenames.
+      - name: Rename Files
+        run: |
+          mv transcripts.pdf AtiyogaDharmaTalks.pdf
+          mv transcripts.epub AtiyogaDharmaTalks.epub
+          mv transcripts.html AtiyogaDharmaTalks.html
+
       # Upload the artifact for use by the "publish" job.
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: transcripts.preview
           path: |
-            transcripts.pdf
-            transcripts.epub
-            transcripts.html
+            AtiyogaDharmaTalks.pdf
+            AtiyogaDharmaTalks.epub
+            AtiyogaDharmaTalks.html
 
   publish:
     needs: build
