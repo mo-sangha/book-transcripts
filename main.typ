@@ -61,6 +61,30 @@
 #counter(page).update(1)
 
 // ==========================================
+// --- Special Thanks ---
+// ==========================================
+
+#context {
+  set par(spacing: 1.2em, first-line-indent: 0em)
+  set list(tight: false, spacing: 1.2em)
+
+  no_outline[= Special Thanks]
+  [
+    This collection of Dharma talks was made possible through the efforts of many in the Meditation Online sangha.
+
+    Special thanks are extended to:
+
+    - Yeshe, for his many years of work preserving and sharing the teachings through our YouTube collection.
+    - Makye, for initiating this book, and for all her work on sharing the Dharma through transcriptions.
+    - Dorje Lekpa, for selecting the chapters and formatting.
+    - Masam Chonyi, for her corrections to the transcripts.
+    - Rangjung, for his editorial oversight and corrections.
+    - Osal Long-gye, for his corrections to the transcripts.
+  ]
+  pagebreak()
+}
+
+// ==========================================
 // --- TABLE OF CONTENTS --- 
 // ==========================================
 #outline(title: "Table of Contents", indent: 2em)

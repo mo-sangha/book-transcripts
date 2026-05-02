@@ -53,6 +53,10 @@
   [(#content)]
 }
 
+// Shorthand for headings that don't appear in the numbering, like the foreword.
+// Example usage: `#no_outline[= Heading]`
+#let no_outline(it) = {set heading(numbering: none, outlined: false); it}
+
 #let template(doc) = context {
   set document(
     title: book_title,
@@ -169,6 +173,9 @@
   show "ngondro": [ngöndro]
   show "Ngondro": [Ngöndro]
   show "Yeshe": [Yeshé]
+  show "Makye": [Makyé]
+  show "Chonyi": [Chönyi]
+  show "Osal Long-gye": [Ösal Long-gyé]
 
   // The page configuration below is only valid for paged targets.
   //
