@@ -37,7 +37,7 @@
     updated #datetime.today().display("[year]-[month]-[day]").\
     This text is self-secret and self-protected.
 
-    Copyright © #datetime.today().display("[year]"), Lama Dawai Gocha.\
+    Copyright © #datetime.today().display("[year]"), Dawai Gocha.\
     #link("https://www.meditationonline.org")[#underline[www.meditationonline.org]]
 
     Licensed under #link("https://creativecommons.org/licenses/by-nc-sa/4.0/")[CC BY-NC-SA 4.0].\
