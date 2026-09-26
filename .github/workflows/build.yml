@@ -41,9 +41,9 @@ jobs:
       # Rename the files for publication so users have more helpful filenames.
       - name: Rename Files
         run: |
-          mv transcripts.pdf AtiyogaDharmaTalks.pdf
-          mv transcripts.epub AtiyogaDharmaTalks.epub
-          mv transcripts.html AtiyogaDharmaTalks.html
+          mv transcripts.pdf DharmaTalks.pdf
+          mv transcripts.epub DharmaTalks.epub
+          mv transcripts.html DharmaTalks.html
 
       # Upload the artifact for use by the "publish" job.
       - name: Upload Artifact
@@ -51,9 +51,9 @@ jobs:
         with:
           name: transcripts.preview
           path: |
-            AtiyogaDharmaTalks.pdf
-            AtiyogaDharmaTalks.epub
-            AtiyogaDharmaTalks.html
+            DharmaTalks.pdf
+            DharmaTalks.epub
+            DharmaTalks.html
 
   publish:
     needs: build

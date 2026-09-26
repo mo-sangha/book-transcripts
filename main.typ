@@ -14,9 +14,9 @@
         #set par(spacing: 0em)
         #set par(justify: false)
         #place(top + center, [
-          #text(70pt, weight: "bold", fill: white, "Atiyoga")\
-          #v(9pt)\
-          #text(35pt, weight: "bold", fill: white, "Dharma Talks")
+          #text(70pt, weight: "bold", fill: white, "Dharma")\
+          #v(0pt)\
+          #text(70pt, weight: "bold", fill: white, "Talks")\
         ])
         #place(bottom + center, text(30pt, fill: white, book_author))
       ]
